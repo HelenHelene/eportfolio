@@ -2,42 +2,10 @@ title: Helen SIU # your name (or website title) here
 logo: "/images/HelenPicResize.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
 
-  <br>Head of Finance and IT Operation
-  <br>
-  <br><a href="https://www.linkedin.com/in/helen-s-39b488102/">View My LinkedIn Profile</a> 
+ Head of Finance and IT Operation <br>
+
+<a href="https://www.linkedin.com/in/helen-s-39b488102/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
 
-
-# Default theme colors as below:
-coolblack: #090a0b
-spacegrey: #353535
-snowwhite: #ffffff
-
-theme_color: snowwhite
-#theme_color: "#882250"
-
-# You can choose a brand color
-# Default brand colors as below:
-# orangered: #ff5100
-# greatgold: #f2cb05
-# greenblue: #389092
-#
-brand_color: orangered
-#
-# Custom color as below:
-# brand_color: "#1a8e42"
-
-# Night/Dark mode
-# Default mode is "auto", "auto" is for auto nightshift
-# (19:00 - 07:00), "manual" is for manual toggle, and
-# "on/off" is for default on/off.
-#
-# Whatever the user's choice is, it will supersede the
-# default setting of the site and be kept during the
-# visit (session). Only the dark mode setting is"manual",
-# it will be always kept on every visit (i.e. no matter
-# the browser is closed or not)
-#
-night_mode: "auto"
