@@ -6,10 +6,10 @@
 
 ### The links provided below will guide you to the assignment materials. 
 
-## [Python-PhoneBook Applicaion-Proposal](/pdf/Module01_Python_Phonebook_Presu.pdf)
-## [Python-PhoneBook Application-README](/pdf/Module01_Python_Phonebook_README.pdf)
-## [Python-PhoneBook Application-Code](/pdf/Module01_Python_Phonebook_Jupyter.pdf)
-## [Python-PhoneBook Application-Testing Strategy](/pdf/Module01_Python_Phonebook_TestingStrategy.pdf)
+## [Python-The Phone Book Applicaion-Proposal](/pdf/Module01_Python_Phonebook_Presu.pdf)
+## [Python-The Phone Book Application-README](/pdf/Module01_Python_Phonebook_README.pdf)
+## [Python-The Phone Book Application-Code](/pdf/Module01_Python_Phonebook_Jupyter.pdf)
+## [Python-The Phone Book Application-Testing Strategy](/pdf/Module01_Python_Phonebook_TestingStrategy.pdf)
 
 ## [MySQL-README](/pdf/Module01_MySQL_README.pdf)
 
