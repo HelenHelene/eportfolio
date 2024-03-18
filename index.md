@@ -1,6 +1,6 @@
 ## E-Portfolio of   
 
-# Helen SIU       
+# Helen SIU <br>  
 
 ## Professional Qualification  
 #### HKICPA Certified Public Accountant (Since Jan 2009)
@@ -13,7 +13,7 @@
 
 ---
 
-### About Me
+### [About Me](http://example.com/)
 
 ### [Professional](https://github.com/crypto61/eportfolio/blob/master/Professional.md)
 
