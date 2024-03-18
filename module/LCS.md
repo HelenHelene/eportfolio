@@ -1,17 +1,18 @@
 # Module 1 Launching into Computer Science
 
-### The module will explore and investigate the fundamental theories and practices of computing and then gradually explore the trends and current developments in the field of computer science.
+### The module aims to explore and investigate the fundamental theories and practices of computing, gradually delving into the latest trends and developments in the field of computer science.
 
-.
+### As part of this module, there are coding assignments that aim to demonstrate our understanding of basic programming concepts using Python and MySQL. Additionally, there is an essay assignment that requires an examination of our awareness regarding current affairs, challenges, technological developments, trends, and issues related to recent advancements in computer science.
 
-## [Units 1-3](units1-3.pdf) 
+### The links provided below will guide you to the assignment materials. 
 
-## [Units 4-6](units4-6.pdf)
+## [Python](/pdf/Module01_Python_Phonebook_Presu.pdf)
+## [Python](/pdf/Module01_Python_Phonebook_README.pdf)
+## [Python](/pdf/Module01_Python_Phonebook_Jupyter.pdf)
+## [Python](/pdf/Module01_Python_Phonebook_TestingStrategy.pdf)
 
-## [Units 7-9](units7-9.pdf)
+## [MySQL](/pdf/Module01_MySQL_README.pdf)
 
-## [Essay](module_essay.pdf)
+## [Essay](/pdf/Module01_AI_InsurClaims.pdf)
 
-## [Units 10-12](units10-12.pdf)
 
-## [Module Project](module_project.pdf)
