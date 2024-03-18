@@ -19,8 +19,8 @@
 ### University of Essex Learning Experience
 
 - [x]   [Induction Module](/module/induction.md)
-*   [Module 1 Launching in Computer Science](/module/LCS.md)
-*   [Module 2 bject Oriented Programming](/sample_page.md)
+- [x]   [Module 1 Launching in Computer Science](/module/LCS.md)
+- [ ]   [Module 2 bject Oriented Programming](/sample_page.md)
 *   [Module 3 Network Security](http://example.com/)
 *   [Module 4 Information Security Management](http://example.com/)
 *   [Module 5 Secure Software Development](http://example.com/)
