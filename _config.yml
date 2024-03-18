@@ -1,10 +1,11 @@
 title: Helen SIU # your name (or website title) here
 logo: "/images/HelenPicResize.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
-  <br><br>
-  Second description 
-  <br><br>
+  About Me 
+  <br>I currently hold the position of Head of Finance and IT Operations at the Hong Kong subsidiary of a multinational company. 
+  <br>I possess a Master's degree in Finance and hold credentials as a CPA and FCCA. 
+  <br> Additionally, I am pursuing an MSc in Computer Science to further enhance my knowledge and skills as an IT professional.
+  
   <a href="https://www.linkedin.com/in/helen-s-39b488102/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
