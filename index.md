@@ -2,9 +2,16 @@
 
 ![](https://user-images.githubusercontent.com/36738165/119046119-505f9980-b98a-11eb-9e40-7e4173db03f3.png)
 
-# Steve Johnson, CISSP, CVP       
+# Helen SIU       
 
-## MSc. Cybersecurity Cohort May 2021
+# Professional Qualification  
+## HKICPA Certified Public Accountant (Since Jan 2009)
+## ACCA Fellow member (Since Oct 2006)
+
+# Education
+## MSc Computer Science (In Progress)
+## Master of Management Science - Accounting (2008)
+
 
 ---
 
