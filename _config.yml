@@ -24,7 +24,7 @@ theme_color: snowwhite
 # greatgold: #f2cb05
 # greenblue: #389092
 #
-# brand_color: orangered
+brand_color: orangered
 #
 # Custom color as below:
 # brand_color: "#1a8e42"
@@ -40,4 +40,4 @@ theme_color: snowwhite
 # it will be always kept on every visit (i.e. no matter
 # the browser is closed or not)
 #
-# night_mode: "auto"
+night_mode: "auto"
