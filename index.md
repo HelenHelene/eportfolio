@@ -15,16 +15,12 @@
 
 ### [About Me](http://example.com/)
 
-### [Professional](https://github.com/crypto61/eportfolio/blob/master/Professional.md)
-
-### [Personal](https://github.com/crypto61/eportfolio/blob/master/Personal.md) 
-
 
 ### University of Essex Learning Experience
 
 *   [Induction Module](/module/induction.md)
 *   [Module 1 **Launching in Computer Science**](/module/LCS.md)
-*   [Module 2 **Object Oriented Programming**](https://github.com/crypto61/eportfolio/blob/master/LCYS.md)
+*   [Module 2 **Object Oriented Programming**](/sample_page.md)
 *   [Module 3 Network Security](http://example.com/)
 *   [Module 4 Information Security Management](http://example.com/)
 *   [Module 5 Secure Software Development](http://example.com/)
