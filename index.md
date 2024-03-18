@@ -1,7 +1,5 @@
 ## E-Portfolio of   
 
-<img src="images/HelenPicResize.jpg?raw=true"/>
-
 # Helen SIU       
 
 ## Professional Qualification  
