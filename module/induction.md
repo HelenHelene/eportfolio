@@ -5,7 +5,6 @@
 
 ### This module requires an assignment that discusses the importance of pursuing a postgraduate degree in Computer Science. The links provided below will direct you to the assignment materials.
 
-## [Induction Assignment](/pdf/Induction_PGCS.pdf)
-
+## [Induction Assignment](https://helenhelene.github.io/heleneportfolio/Induction_PGCS.pdf)
 
 
