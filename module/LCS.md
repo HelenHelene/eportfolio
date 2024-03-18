@@ -13,6 +13,6 @@
 
 ## [MySQL-README](/pdf/Module01_MySQL_README.pdf)
 
-## [Essay-AI in Claims Processing-Revolutionizing the Insurance Industry](/pdf/Module01_AI_InsurClaims.pdf)
+## [Essay-AI in Claims Processing-Revolutionizing the Insurance Industry](https://helenhelene.gitbub.io/heleneportfolio/Module01_AI_InsurClaims.pdf)
 
 
