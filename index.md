@@ -23,11 +23,14 @@
 ### University of Essex Learning Experience
 
 *   [Induction Module](https://github.com/crypto61/eportfolio/blob/master/Induction.md)
-*   [Module 1 **Launching into Cyber Security**](https://github.com/crypto61/eportfolio/blob/master/LCYS.md)
-*   [Module 2 Title](http://example.com/)
-*   [Module 3 Title](http://example.com/)
-*   [Module 4 Title](http://example.com/)
-*   [Module 5 Title](http://example.com/)
+*   [Module 1 **Launching into Computer Science**](https://github.com/crypto61/eportfolio/blob/master/LCYS.md)
+*   [Module 2 **Object Oriented Programming**](http://example.com/)
+*   [Module 3 **Network Security**](http://example.com/)
+*   [Module 4 **Information Security Management**](http://example.com/)
+*   [Module 5 **Secure Software Development**](http://example.com/)
+*   [Module 6 **Software Engineering Project Management**](http://example.com/)
+*   [Module 7 **Research Methods and Professional Practice**](http://example.com/)
+*   [MSc Computing Project and Dissertation](http://example.com/)
 
 ---
 
