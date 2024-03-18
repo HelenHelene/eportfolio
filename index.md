@@ -22,7 +22,7 @@
 
 ### University of Essex Learning Experience
 
-*   [**Induction Module**](https://github.com/crypto61/eportfolio/blob/master/Induction.md)
+*   [Induction Module](https://github.com/crypto61/eportfolio/blob/master/Induction.md)
 *   [Module 1 **Launching into Computer Science**](https://github.com/crypto61/eportfolio/blob/master/LCYS.md)
 *   [Module 2 **Object Oriented Programming**](http://example.com/)
 *   [Module 3 Network Security](http://example.com/)
