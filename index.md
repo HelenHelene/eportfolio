@@ -1,6 +1,6 @@
 ## E-Portfolio of   
 
-<img src="images/HelenPic.jpg?raw=true"/>
+<img src="images/HelenPicResize.jpg?raw=true"/>
 
 # Helen SIU       
 
