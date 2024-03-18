@@ -1,5 +1,9 @@
 # Professional Bio
 
+  <br>I currently hold the position of Head of Finance and IT Operations at the Hong Kong subsidiary of a multinational company. 
+  <br>I possess a Master's degree in Finance and hold credentials as a CPA and FCCA. 
+  <br>Additionally, I am pursuing an MSc in Computer Science to further enhance my knowledge and skills as an IT professional.
+  
 ### Current Firm/Role
 
 Associate Vice President / Connected Vehicle Program Manager and National Practice Leader, Cybersecurity
