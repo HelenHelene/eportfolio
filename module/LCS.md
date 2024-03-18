@@ -6,13 +6,13 @@ As part of this module, there are coding assignments that aim to demonstrate our
 
 The links provided below will guide you to the assignment materials. 
 
-#### [Python-Phone Book Applicaion-Proposal](https://helenhelene.github.io/heleneportfolio/Module01_Python_Proposal.pdf)
-#### [Python-Phone Book Application-README](https://helenhelene.github.io/heleneportfolio/Module01_Python_README.pdf)
-#### [Python-Phone Book Application-Code](https://helenhelene.github.io/heleneportfolio/Module01_Python_Code.pdf)
-#### [Python-Phone Book Application-Testing Strategy](https://helenhelene.github.io/heleneportfolio/Module01_Python_TestingStrategy.pdf)
+#### [Python-Phone Book Applicaion-Proposal](https://helenhelene.github.io/eportfolio/Module01_Python_Proposal.pdf)
+#### [Python-Phone Book Application-README](https://helenhelene.github.io/eportfolio/Module01_Python_README.pdf)
+#### [Python-Phone Book Application-Code](https://helenhelene.github.io/eportfolio/Module01_Python_Code.pdf)
+#### [Python-Phone Book Application-Testing Strategy](https://helenhelene.github.io/eportfolio/Module01_Python_TestingStrategy.pdf)
 
-#### [MySQL-README](https://helenhelene.github.io/heleneportfolio/Module01_MySQL_README.pdf)
+#### [MySQL-README](https://helenhelene.github.io/eportfolio/Module01_MySQL_README.pdf)
 
-#### [Essay-AI in Claims Processing-Revolutionizing the Insurance Industry](https://helenhelene.github.io/heleneportfolio/Module01_AI_InsurClaims.pdf)
+#### [Essay-AI in Claims Processing-Revolutionizing the Insurance Industry](https://helenhelene.github.io/eportfolio/Module01_AI_InsurClaims.pdf)
 
 
