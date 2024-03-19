@@ -3,8 +3,8 @@
 # Helen SIU <br>  
 
 ## Professional Qualification  
-#### [HKICPA Certified Public Accountant (Since Jan 2009)](https://helenhelene.github.io/eportfolio/pdf/Cert_HKICPA.pdf)
-#### [ACCA Fellow member (Since Oct 2006)](https://helenhelene.github.io/eportfolio/pdf/Cert_ACCA.pdf)
+#### [HKICPA Certified Public Accountant](https://helenhelene.github.io/eportfolio/pdf/Cert_HKICPA.pdf)
+#### [ACCA Fellow member](https://helenhelene.github.io/eportfolio/pdf/Cert_ACCA.pdf)
 
 ## Education
 #### MSc Computer Science (In Progress)
