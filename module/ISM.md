@@ -25,7 +25,8 @@ if (isAwesome){
 
 ### 3. Support the selection of appropriate statistical tools and techniques
 
-<img src="images/MScComputerScience.JPEG?raw=true"/>
+<img src="images/MScComputerScience.jpg?raw=true"/>
+<img src="/images/HelenPicResize.jpg?raw=true">
 
 ### 4. Provide a basis for further data collection through surveys or experiments
 
