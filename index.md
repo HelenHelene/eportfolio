@@ -3,6 +3,7 @@
 # Helen SIU <br>  
 
 ## Professional Qualification  
+#### [PECB ISO/IEC 27001 Foundation](https://helenhelene.github.io/eportfolio/pdf/Cert_ISO27001Foundation.pdf)
 #### [HKICPA Certified Public Accountant](https://helenhelene.github.io/eportfolio/pdf/Cert_HKICPA.pdf)
 #### [ACCA Fellow member](https://helenhelene.github.io/eportfolio/pdf/Cert_ACCA.pdf)
 
