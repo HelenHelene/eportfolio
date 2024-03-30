@@ -27,6 +27,8 @@ if (isAwesome){
 
 ![ModuleOutline](/images/ModuleOutline.jpg)
 
+<img src="/images/ModuleOutline.jpg" alt="ModuleOutline" style="height: 230px; width:544px;"/>
+
 ### 4. Provide a basis for further data collection through surveys or experiments
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
