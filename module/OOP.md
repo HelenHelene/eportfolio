@@ -1,32 +1,18 @@
-## This can be your internal website page / project page
+# Module 1 Launching into Computer Science
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The module aims to explore and investigate the fundamental theories and practices of computing, gradually delving into the latest trends and developments in the field of computer science.
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+As part of this module, there are coding assignments that aim to demonstrate our understanding of basic programming concepts using Python and MySQL. Additionally, there is an essay assignment that requires an examination of our awareness regarding current affairs, challenges, technological developments, trends, and issues related to recent advancements in computer science.
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+The links provided below will guide you to the assignment materials. 
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+#### [Python-Phone Book Applicaion-Proposal](https://helenhelene.github.io/eportfolio/pdf/Module01_Python_Proposal.pdf)
+#### [Python-Phone Book Application-README](https://helenhelene.github.io/eportfolio/pdf/Module01_Python_README.pdf)
+#### [Python-Phone Book Application-Code](https://helenhelene.github.io/eportfolio/pdf/Module01_Python_Code.pdf)
+#### [Python-Phone Book Application-Testing Strategy](https://helenhelene.github.io/eportfolio/pdf/Module01_Python_TestingStrategy.pdf)
 
-### 2. Assess assumptions on which statistical inference will be based
+#### [MySQL-README](https://helenhelene.github.io/eportfolio/pdf/Module01_MySQL_README.pdf)
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+#### [Essay-AI in Claims Processing-Revolutionizing the Insurance Industry](https://helenhelene.github.io/eportfolio/pdf/Module01_AI_InsurClaims.pdf)
 
-### 3. Support the selection of appropriate statistical tools and techniques
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
-### 4. Provide a basis for further data collection through surveys or experiments
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
