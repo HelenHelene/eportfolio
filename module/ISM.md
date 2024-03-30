@@ -27,7 +27,7 @@ if (isAwesome){
 
 <img src="https://helenhelene.github.io/eportfolio/images/ModuleOutline.jpg" alt="ModuleOutline" style="height: 230px; width:544px;"/>
 
-![ModuleOutline](eportfolio/images/ModuleOutline.jpg)
+![ModuleOutline](images/ModuleOutline.jpg)
 
 <img src="eportfolio/images/ModuleOutline.jpg?raw=true">
 
