@@ -27,9 +27,9 @@ if (isAwesome){
 
 <img src="https://helenhelene.github.io/eportfolio/images/ModuleOutline.jpg" alt="ModuleOutline" style="height: 230px; width:544px;"/>
 
-![ModuleOutline](/eportfolio/images/ModuleOutline.jpg)
+![ModuleOutline](eportfolio/images/ModuleOutline.jpg)
 
-<img src="/eportfolio/images/ModuleOutline.jpg?raw=true">
+<img src="eportfolio/images/ModuleOutline.jpg?raw=true">
 
 ### 4. Provide a basis for further data collection through surveys or experiments
 
