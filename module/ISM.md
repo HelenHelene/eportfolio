@@ -25,8 +25,6 @@ if (isAwesome){
 
 ### 3. Support the selection of appropriate statistical tools and techniques
 
-<img src="images/ModuleOutline?raw=true"/>
-
 ![ModuleOutline](/images/ModuleOutline.jpg)
 
 ### 4. Provide a basis for further data collection through surveys or experiments
