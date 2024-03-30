@@ -1,4 +1,4 @@
-# Module 1 Launching into Computer Science
+# Module 2 Object Oriented Programming
 
 The module aims to explore and investigate the fundamental theories and practices of computing, gradually delving into the latest trends and developments in the field of computer science.
 
