@@ -1,18 +1,27 @@
 # Module 2 Object Oriented Programming
 
-The module aims to explore and investigate the fundamental theories and practices of computing, gradually delving into the latest trends and developments in the field of computer science.
+This module focuses on utilizing the Python programming language for designing and developing object-oriented programs. It emphasizes the use of the Unified Modeling Language (UML) to support the object-oriented analysis and design process, with a particular focus on the four key features of Object-Oriented Programs (OOP): abstraction, encapsulation, inheritance, and polymorphism.
 
-As part of this module, there are coding assignments that aim to demonstrate our understanding of basic programming concepts using Python and MySQL. Additionally, there is an essay assignment that requires an examination of our awareness regarding current affairs, challenges, technological developments, trends, and issues related to recent advancements in computer science.
+Two of the assignments in this module involves designing and implementing software to support the operation of a driverless car. The objectives of these assignments include preparing UML models for the object-oriented design process, applying data structures for efficient data storage, and implementing data search algorithms for optimal data processing.
 
-The links provided below will guide you to the assignment materials. 
+Additionally, there are formative and e-portfolio activities that require a brief description of the project outcomes or critical incidents (WHAT), analysis and interpretation of the information (SO WHAT), and reflection on how the information and learning can be applied (NOW WHAT).
 
-#### [Python-Phone Book Applicaion-Proposal](https://helenhelene.github.io/eportfolio/pdf/Module01_Python_Proposal.pdf)
-#### [Python-Phone Book Application-README](https://helenhelene.github.io/eportfolio/pdf/Module01_Python_README.pdf)
-#### [Python-Phone Book Application-Code](https://helenhelene.github.io/eportfolio/pdf/Module01_Python_Code.pdf)
-#### [Python-Phone Book Application-Testing Strategy](https://helenhelene.github.io/eportfolio/pdf/Module01_Python_TestingStrategy.pdf)
+The units provided below serve as a collection of evidence for the work completed in this module and serve as an account of the learning journey.
 
-#### [MySQL-README](https://helenhelene.github.io/eportfolio/pdf/Module01_MySQL_README.pdf)
+#### [Unit 1](https://helenhelene.github.io/eportfolio/pdf/sample_presentation.pdf)
+#### Unit 2
+#### Unit 3
+#### Unit 4
+#### Unit 5
+#### Unit 6
+#### Unit 7
+#### System Design
+#### Unit 8
+#### Unit 9
+#### Unit 10
+#### Unit 11
+#### System Implementation
+#### Unit 12
 
-#### [Essay-AI in Claims Processing-Revolutionizing the Insurance Industry](https://helenhelene.github.io/eportfolio/pdf/Module01_AI_InsurClaims.pdf)
 
 
