@@ -29,6 +29,8 @@ if (isAwesome){
 
 <img src="https://helenhelene.github.io/eportfolio/images/ModuleOutline.jpg" alt="ModuleOutline" style="height: 230px; width:544px;"/>
 
+<img src="/images/ModuleOutline.jpg?raw=true">
+
 ### 4. Provide a basis for further data collection through surveys or experiments
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
