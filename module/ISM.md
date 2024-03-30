@@ -25,9 +25,9 @@ if (isAwesome){
 
 ### 3. Support the selection of appropriate statistical tools and techniques
 
-![ModuleOutline](/images/ModuleOutline.jpg)
-
 <img src="https://helenhelene.github.io/eportfolio/images/ModuleOutline.jpg" alt="ModuleOutline" style="height: 230px; width:544px;"/>
+
+![ModuleOutline](/images/ModuleOutline.jpg)
 
 <img src="/images/ModuleOutline.jpg?raw=true">
 
