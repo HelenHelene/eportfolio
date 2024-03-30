@@ -1,4 +1,4 @@
-hi# Module 7 Research Methods and Professional Practice
+# Module 7 Research Methods and Professional Practice
 
 ## This can be your internal website page / project page
 
