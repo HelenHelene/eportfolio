@@ -46,14 +46,19 @@ The units provided below serve as a collection of evidence for the work complete
 
 #### Python-Driverless Car-System Design
 
-#### Unit 8
- - Collaborative Discussion 2 - 
+#### Unit 8: Data Structures and Data Search in Practice
+ - Collaborative Discussion 2 - OO Design for IoT-Initial Post
+ - Review the Recursion and Polymorphism Codio modules and save the results in your e-portfolio.
 
-#### Unit 9
- - Collaborative Discussion 2 - 
+#### Unit 9: Packaging and Testing
+ - Collaborative Discussion 2 - OO Design for IoT-Respond to peers
+ - How relevant is the cyclomatic complexity in object oriented systems and other questions.
+ - To what extent is cyclomatic complexity relevant when developing object-oriented code?
+ - What is the cyclomatic complexity of the piece of code in this activity.
+ - Extend the Python String program in this activity to test accuracy of operations using the assert statement.
 
 #### Unit 10
- - Collaborative Discussion 2 - 
+ - Collaborative Discussion 2 - OO Design for IoT-Summary post
 
 #### Unit 11
 #### Python-Driverless Car-System Implementation
