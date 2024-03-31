@@ -30,9 +30,16 @@ The units provided below serve as a collection of evidence for the work complete
 
 #### Unit 7
 #### Python - System Design
+
 #### Unit 8
+ - Collaborative Discussion 2 - 
+
 #### Unit 9
+ - Collaborative Discussion 2 - 
+
 #### Unit 10
+ - Collaborative Discussion 2 - 
+
 #### Unit 11
 #### Python - System Implementation
 #### Unit 12
