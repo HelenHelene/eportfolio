@@ -29,6 +29,9 @@ The units provided below serve as a collection of evidence for the work complete
  - Making reference to ‘The Unified Modeling Language Reference Manual Second Edition’, use the State Machine Diagram in Figure 3-7 to design a similar model for a washing machine.
 
 #### Unit 5: More on Classes
+ - Review the Codio module Inheritance and save the results in e-portfolio. 
+ - Write a Python program with polymorphism that is usable within the summative assessment for the driverless car.
+
 #### Unit 6: Abstract Methods and Interfaceswriting your final reflection in e-Portfolio.
  - Writing final reflection in e-Portfolio.
  - Review the Codio module Encapsulations and save the results in e-portfolio.
