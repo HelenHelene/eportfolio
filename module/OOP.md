@@ -9,23 +9,30 @@ Additionally, there are formative and e-portfolio activities that require a brie
 The units provided below serve as a collection of evidence for the work completed in this module and serve as an account of the learning journey.
 
 #### [Unit 1: An Introduction to Python Programming and the OO Programming Paradigm](https://helenhelene.github.io/eportfolio/pdf/sample_presentation.pdf)
- - Collaborative Discussion 1
+ - Collaborative Discussion 1 - Initial post
  - Review the article by Di Silvestro & Nadir (2021). Discuss one aspect of this article which you find unexpected.
  - Develop a Python program and apply protected and unprotected variables within it.
 
 #### Unit 2: Object Oriented Analysis - Initial Steps towards Programming in Python
+ - Collaborative Discussion 1 - Respond to peers
+ - (Optional)Write a Python program to achieve basic employee-related functionality with protected and unprotected variables. 
+
 #### Unit 3-4: UML
+ - Collaborative Discussion 1 - Summary post 
+ - Discuss which UML models are most applicable at different stages of the Software Development Life Cycle.
+ - Making reference to ‘The Unified Modeling Language Reference Manual Second Edition’, use the State Machine Diagram in Figure 3-7 to design a similar model for a washing machine.
+
 #### Unit 5: More on Classes
 #### Unit 6: Abstract Methods and Interfaceswriting your final reflection in e-Portfolio.
  - Writing final reflection in e-Portfolio.
 
 #### Unit 7
-#### Python: System Design
+#### Python - System Design
 #### Unit 8
 #### Unit 9
 #### Unit 10
 #### Unit 11
-#### Python: System Implementation
+#### Python - System Implementation
 #### Unit 12
 
 
