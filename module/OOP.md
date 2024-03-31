@@ -7,8 +7,8 @@ Two of the assignments in this module involves designing and implementing softwa
 Additionally, there are formative and e-portfolio activities that require a brief description of the project outcomes or critical incidents (WHAT), analysis and interpretation of the information (SO WHAT), and reflection on how the information and learning can be applied (NOW WHAT).
  - Learning Outcomes
  - Artefacts
- - Reflections
  - Collaborative Discussion and meeting notes
+ - Reflections
  - Professional Skills Matrix and Action Plan
 
 The units provided below serve as a collection of evidence for the work completed in this module and serve as an account of the learning journey.
