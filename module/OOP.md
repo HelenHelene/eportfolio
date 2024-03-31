@@ -9,23 +9,23 @@ Additionally, there are formative and e-portfolio activities that require a brie
 The units provided below serve as a collection of evidence for the work completed in this module and serve as an account of the learning journey.
 
 #### [Unit 1: An Introduction to Python Programming and the OO Programming Paradigm](https://helenhelene.github.io/eportfolio/pdf/sample_presentation.pdf)
-Collaborative Discussion 1
-Review the article by Di Silvestro & Nadir (2021). Discuss one aspect of this article which you find unexpected.
-Develop a Python program and apply protected and unprotected variables within it.
+ - Collaborative Discussion 1
+ - Review the article by Di Silvestro & Nadir (2021). Discuss one aspect of this article which you find unexpected.
+ - Develop a Python program and apply protected and unprotected variables within it.
 
 #### Unit 2: Object Oriented Analysis - Initial Steps towards Programming in Python
 #### Unit 3-4: UML
 #### Unit 5: More on Classes
 #### Unit 6: Abstract Methods and Interfaceswriting your final reflection in e-Portfolio.
-Writing final reflection in e-Portfolio.
+ - Writing final reflection in e-Portfolio.
 
 #### Unit 7
-#### System Design
+#### Python: System Design
 #### Unit 8
 #### Unit 9
 #### Unit 10
 #### Unit 11
-#### System Implementation
+#### Python: System Implementation
 #### Unit 12
 
 
