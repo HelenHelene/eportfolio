@@ -23,18 +23,21 @@ The units provided below serve as a collection of evidence for the work complete
  - Review the Codio module Class, Functions and Methods and save the results in e-portfolio.
  - (Optional)Write a Python program to achieve basic employee-related functionality with protected and unprotected variables. 
 
-#### Unit 3-4: UML
+#### Unit 3: UML
  - Collaborative Discussion 1 - Factors which Influence Reusability-Summary post 
  - Discuss which UML models are most applicable at different stages of the Software Development Life Cycle.
  - Making reference to ‘The Unified Modeling Language Reference Manual Second Edition’, use the State Machine Diagram in Figure 3-7 to design a similar model for a washing machine.
+
+#### Unit 4: Applying a UML Model to a Program Implementation: UML in Practice
+ - Continue to build e-Portfolio including writing the final reflection.
 
 #### Unit 5: More on Classes
  - Review the Codio module Inheritance and save the results in e-portfolio. 
  - Write a Python program with polymorphism that is usable within the summative assessment for the driverless car.
 
 #### Unit 6: Abstract Methods and Interfaces
- - Writing final reflection in e-Portfolio.
  - Review the Codio module Encapsulations and save the results in e-portfolio.
+ - Continue to build e-Portfolio including writing the final reflection.
 
 #### Unit 7: Debugging / Error Handling, Data Structures and Data Search
  - Discuss the ways in which data structures support object-oriented development with examples of three different data structures.
@@ -44,11 +47,11 @@ The units provided below serve as a collection of evidence for the work complete
      values()
  - Read the article by Kampffmeyer & Zschaler (2007). Develop a program which allows a user to enter the properties which they require of a design pattern, and have the program make a recommendation. The program should use a constructor to initialise attributes and assign values to variables based on input entered by the user.
 
-#### Python-Driverless Car-System Design
+#### Python - Driverless Car-System Design
 
 #### Unit 8: Data Structures and Data Search in Practice
  - Collaborative Discussion 2 - OO Design for IoT-Initial Post
- - Review the Recursion and Polymorphism Codio modules and save the results in your e-portfolio.
+ - Review the Recursion and Polymorphism Codio modules and save the results in e-portfolio.
 
 #### Unit 9: Packaging and Testing
  - Collaborative Discussion 2 - OO Design for IoT-Respond to peers
@@ -59,10 +62,14 @@ The units provided below serve as a collection of evidence for the work complete
 
 #### Unit 10: Testing Code in Practice
  - Collaborative Discussion 2 - OO Design for IoT-Summary post
+ - Continue to build e-Portfolio including writing the final reflection.
 
-#### Unit 11
-#### Python-Driverless Car-System Implementation
-#### Unit 12
+#### Unit 11: Pointers, References & Memory, and Design Patterns
+ - Continue e-Portfolio updates.
 
+#### Python - Driverless Car-System Implementation
+
+#### Unit 12: Working with Design Patterns to Structure Code
+ - The final assessment is e-portfolio that collects all the evidence of work in this module 
 
 
