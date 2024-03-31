@@ -32,11 +32,17 @@ The units provided below serve as a collection of evidence for the work complete
  - Review the Codio module Inheritance and save the results in e-portfolio. 
  - Write a Python program with polymorphism that is usable within the summative assessment for the driverless car.
 
-#### Unit 6: Abstract Methods and Interfaceswriting your final reflection in e-Portfolio.
+#### Unit 6: Abstract Methods and Interfaces
  - Writing final reflection in e-Portfolio.
  - Review the Codio module Encapsulations and save the results in e-portfolio.
 
-#### Unit 7
+#### Unit 7: Debugging / Error Handling, Data Structures and Data Search
+ - Discuss the ways in which data structures support object-oriented development with examples of three different data structures.
+ - Create a nested dictionary of data on cars within a Car class. Extend the program to work with the dictionary by calling the following methods:
+     items()
+     keys()
+     values()
+ - Read the article by Kampffmeyer & Zschaler (2007). Develop a program which allows a user to enter the properties which they require of a design pattern, and have the program make a recommendation. The program should use a constructor to initialise attributes and assign values to variables based on input entered by the user.
 
 #### Python-Driverless Car-System Design
 
