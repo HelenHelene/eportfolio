@@ -14,17 +14,17 @@ Additionally, there are formative and e-portfolio activities that require a brie
 The units provided below serve as a collection of evidence for the work completed in this module and serve as an account of the learning journey.
 
 #### [Unit 1: An Introduction to Python Programming and the OO Programming Paradigm](https://helenhelene.github.io/eportfolio/pdf/sample_presentation.pdf)
- - Collaborative Discussion 1 - Initial post
+ - Collaborative Discussion 1 - Factors which Influence Reusability-Initial post
  - Review the article by Di Silvestro & Nadir (2021). Discuss one aspect of this article which you find unexpected.
  - Develop a Python program and apply protected and unprotected variables within it.
 
 #### Unit 2: Object Oriented Analysis - Initial Steps towards Programming in Python
- - Collaborative Discussion 1 - Respond to peers
+ - Collaborative Discussion 1 - Factors which Influence Reusability-Respond to peers
  - Review the Codio module Class, Functions and Methods and save the results in e-portfolio.
  - (Optional)Write a Python program to achieve basic employee-related functionality with protected and unprotected variables. 
 
 #### Unit 3-4: UML
- - Collaborative Discussion 1 - Summary post 
+ - Collaborative Discussion 1 - Factors which Influence Reusability-Summary post 
  - Discuss which UML models are most applicable at different stages of the Software Development Life Cycle.
  - Making reference to ‘The Unified Modeling Language Reference Manual Second Edition’, use the State Machine Diagram in Figure 3-7 to design a similar model for a washing machine.
 
@@ -57,7 +57,7 @@ The units provided below serve as a collection of evidence for the work complete
  - What is the cyclomatic complexity of the piece of code in this activity.
  - Extend the Python String program in this activity to test accuracy of operations using the assert statement.
 
-#### Unit 10
+#### Unit 10: Testing Code in Practice
  - Collaborative Discussion 2 - OO Design for IoT-Summary post
 
 #### Unit 11
