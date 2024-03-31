@@ -10,7 +10,7 @@ The units provided below serve as a collection of evidence for the work complete
 
 #### [Unit 1: An Introduction to Python Programming and the OO Programming Paradigm](https://helenhelene.github.io/eportfolio/pdf/sample_presentation.pdf)
 #### Unit 2: Object Oriented Analysis - Initial Steps towards Programming in Python
-#### Unit 3
+#### Unit 3: UML
 #### Unit 4
 #### Unit 5
 #### Unit 6
