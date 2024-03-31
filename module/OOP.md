@@ -15,6 +15,7 @@ The units provided below serve as a collection of evidence for the work complete
 
 #### Unit 2: Object Oriented Analysis - Initial Steps towards Programming in Python
  - Collaborative Discussion 1 - Respond to peers
+ - Review the Codio module Class, Functions and Methods and save the results in e-portfolio.
  - (Optional)Write a Python program to achieve basic employee-related functionality with protected and unprotected variables. 
 
 #### Unit 3-4: UML
@@ -25,6 +26,7 @@ The units provided below serve as a collection of evidence for the work complete
 #### Unit 5: More on Classes
 #### Unit 6: Abstract Methods and Interfaceswriting your final reflection in e-Portfolio.
  - Writing final reflection in e-Portfolio.
+ - Review the Codio module Encapsulations and save the results in e-portfolio.
 
 #### Unit 7
 #### Python - System Design
