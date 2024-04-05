@@ -25,7 +25,7 @@ The units provided below serve as a collection of evidence for the work complete
 
 #### Unit 3: UML
  - Collaborative Discussion 1 - Factors which Influence Reusability-Summary post 
- - Discuss which UML models are most applicable at different stages of the Software Development Life Cycle.
+ - [Discuss which UML models are most applicable at different stages of the Software Development Life Cycle.](https://www.uml-diagrams.org/uml-25-diagrams.html)
  - Making reference to ‘The Unified Modeling Language Reference Manual Second Edition’, use the State Machine Diagram in Figure 3-7 to design a similar model for a washing machine.
 
 #### Unit 4: Applying a UML Model to a Program Implementation: UML in Practice
