@@ -6,13 +6,18 @@ As part of this module, there are coding assignments that aim to demonstrate our
 
 The links provided below will guide you to the assignment materials. 
 
+#### Assignment 1: Part 1 (Pass with Distinction)
 #### [Python - Phone Book Applicaion-Proposal](https://helenhelene.github.io/eportfolio/pdf/Module01_Python_Proposal.pdf)
+
+#### Assignment 1: Part 2 (Pass with Distinction)
 #### [Python - Phone Book Application-README](https://helenhelene.github.io/eportfolio/pdf/Module01_Python_README.pdf)
 #### [Python - Phone Book Application-Code](https://helenhelene.github.io/eportfolio/pdf/Module01_Python_Code.pdf)
 #### [Python - Phone Book Application-Testing Strategy](https://helenhelene.github.io/eportfolio/pdf/Module01_Python_TestingStrategy.pdf)
 
+#### Assignment 1: Part 3 (Pass with Distinction)
 #### [MySQL - README](https://helenhelene.github.io/eportfolio/pdf/Module01_MySQL_README.pdf)
 
+#### End of Module Assignment (Pass with Distinction)
 #### [Essay - AI in Claims Processing-Revolutionizing the Insurance Industry](https://helenhelene.github.io/eportfolio/pdf/Module01_AI_InsurClaims.pdf)
 
 
