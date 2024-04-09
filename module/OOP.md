@@ -14,14 +14,8 @@ Additionally, there are formative and e-portfolio activities that require a brie
 The units provided below serve as a collection of evidence for the work completed in this module and serve as an account of the learning journey.
 
 #### [Unit 1: An Introduction to Python Programming and the OO Programming Paradigm](/module/OOP_Unit01.md)
- - Collaborative Discussion 1 - Factors which Influence Reusability-Initial post
- - Review the article by Di Silvestro & Nadir (2021). Discuss one aspect of this article which you find unexpected.
- - Develop a Python program and apply protected and unprotected variables within it.
 
-#### Unit 2: Object Oriented Analysis - Initial Steps towards Programming in Python
- - Collaborative Discussion 1 - Factors which Influence Reusability-Respond to peers
- - Review the Codio module Class, Functions and Methods and save the results in e-portfolio.
- - (Optional)Write a Python program to achieve basic employee-related functionality with protected and unprotected variables. 
+#### [Unit 2: Object Oriented Analysis - Initial Steps towards Programming in Python](/module/OOP_Unit02.md)
 
 #### Unit 3: UML
  - Collaborative Discussion 1 - Factors which Influence Reusability-Summary post 
