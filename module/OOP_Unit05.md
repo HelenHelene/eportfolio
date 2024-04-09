@@ -1,9 +1,8 @@
-# Unit 1: An Introduction to Python Programming and the OO Programming Paradigm
+# Unit 5: More on Classes
 
 ### Formative and e-portfolio activities in this unit:
- - Collaborative Discussion 1 - Factors which Influence Reusability-Initial post
- - Review the article by Di Silvestro & Nadir (2021). Discuss one aspect of this article which you find unexpected.
- - Develop a Python program and apply protected and unprotected variables within it.
+ - Review the Codio module Inheritance and save the results in e-portfolio. 
+ - Write a Python program with polymorphism that is usable within the summative assessment for the driverless car.
 </br>
 
 ### Learning Outcomes
