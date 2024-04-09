@@ -14,14 +14,14 @@ The units provided below serve as a collection of evidence for the work complete
 
 #### [Unit 1: An Introduction to Python Programming and the OO Programming Paradigm](OOP_Unit01.md)
 
-#### [Unit 2: Object Oriented Analysis - Initial Steps towards Programming in Python](/OOP_Unit02.md)
+#### [Unit 2: Object Oriented Analysis - Initial Steps towards Programming in Python](OOP_Unit02.md)
 
-#### [Unit 3: UML](/module/OOP_Unit03.md)
+#### [Unit 3: UML](OOP_Unit03.md)
 
 #### Unit 4: Applying a UML Model to a Program Implementation: UML in Practice
  - Continue to build e-Portfolio including writing the final reflection.
 
-#### [Unit 5: More on Classes](https://helenhelene.github.io/eportfolio/module/OOP_Unit05.md)
+#### [Unit 5: More on Classes](OOP_Unit05.md)
 
 #### [Unit 6: Abstract Methods and Interfaces](https://helenhelene.github.io/eportfolio/module/OOP_Unit06.html)
 
