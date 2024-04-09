@@ -3,7 +3,7 @@
 ### Formative and e-portfolio activities in this unit:
  - Collaborative Discussion 2 - OO Design for IoT-Summary post
  - Continue to build e-Portfolio including writing the final reflection.
-</br>
+---
 
 ### Learning Outcomes
 ### Artefacts
