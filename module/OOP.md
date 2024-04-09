@@ -4,8 +4,8 @@ This module focuses on utilizing the Python programming language for designing a
 
 Two of the assignments in this module involves designing and implementing software to support the operation of a driverless car. The objectives of these assignments include preparing UML models for the object-oriented design process, applying data structures for efficient data storage, and implementing data search algorithms for optimal data processing.
 
-#### Python - Driverless Car-System Design
-#### Python - Driverless Car-System Implementation
+#### [Python - Driverless Car-System Design](https://helenhelene.github.io/eportfolio/pdf/sample_presentation.pdf)
+#### [Python - Driverless Car-System Implementation](https://helenhelene.github.io/eportfolio/pdf/sample_presentation.pdf)
 </br>
 
 Additionally, there are formative and e-portfolio activities that require a brief description of the project outcomes or critical incidents (WHAT), analysis and interpretation of the information (SO WHAT), and reflection on how the information and learning can be applied (NOW WHAT).
