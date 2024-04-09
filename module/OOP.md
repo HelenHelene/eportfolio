@@ -6,7 +6,7 @@ Two of the assignments in this module involves designing and implementing softwa
 
 #### [Python - Driverless Car-System Design](https://helenhelene.github.io/eportfolio/pdf/sample_presentation.pdf)
 #### [Python - Driverless Car-System Implementation](https://helenhelene.github.io/eportfolio/pdf/sample_presentation.pdf)
-</br>
+<br>
 
 Additionally, there are formative and e-portfolio activities that require a brief description of the project outcomes or critical incidents (WHAT), analysis and interpretation of the information (SO WHAT), and reflection on how the information and learning can be applied (NOW WHAT).
 
