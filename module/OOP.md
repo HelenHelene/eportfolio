@@ -14,7 +14,7 @@ The units provided below serve as a collection of evidence for the work complete
 
 #### [Unit 1: An Introduction to Python Programming and the OO Programming Paradigm](/module/OOPUnit01.md)
 
-#### [Unit 2: Object Oriented Analysis - Initial Steps towards Programming in Python](/module/LCS.md)
+#### [Unit 2: Object Oriented Analysis - Initial Steps towards Programming in Python](/eportfolio/module/LCS.html)
 
 #### [Unit 3: UML](/module/OOP_Unit03.md)
 
