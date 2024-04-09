@@ -4,6 +4,10 @@ This module focuses on utilizing the Python programming language for designing a
 
 Two of the assignments in this module involves designing and implementing software to support the operation of a driverless car. The objectives of these assignments include preparing UML models for the object-oriented design process, applying data structures for efficient data storage, and implementing data search algorithms for optimal data processing.
 
+#### Python - Driverless Car-System Design
+#### Python - Driverless Car-System Implementation
+</br>
+
 Additionally, there are formative and e-portfolio activities that require a brief description of the project outcomes or critical incidents (WHAT), analysis and interpretation of the information (SO WHAT), and reflection on how the information and learning can be applied (NOW WHAT).
 
 The units provided below serve as a collection of evidence for the work completed in this module and serve as an account of the learning journey.
@@ -12,10 +16,7 @@ The units provided below serve as a collection of evidence for the work complete
 
 #### [Unit 2: Object Oriented Analysis - Initial Steps towards Programming in Python](/module/OOP_Unit02.md)
 
-#### Unit 3: UML
- - Collaborative Discussion 1 - Factors which Influence Reusability-Summary post 
- - [Discuss which UML models are most applicable at different stages of the Software Development Life Cycle.](https://www.uml-diagrams.org/uml-25-diagrams.html)
- - Making reference to ‘The Unified Modeling Language Reference Manual Second Edition’, use the State Machine Diagram in Figure 3-7 to design a similar model for a washing machine.
+#### [Unit 3: UML](/module/OOP_Unit03.md)
 
 #### Unit 4: Applying a UML Model to a Program Implementation: UML in Practice
  - Continue to build e-Portfolio including writing the final reflection.
@@ -36,8 +37,6 @@ The units provided below serve as a collection of evidence for the work complete
      values()
  - Read the article by Kampffmeyer & Zschaler (2007). Develop a program which allows a user to enter the properties which they require of a design pattern, and have the program make a recommendation. The program should use a constructor to initialise attributes and assign values to variables based on input entered by the user.
 
-#### Python - Driverless Car-System Design
-
 #### Unit 8: Data Structures and Data Search in Practice
  - Collaborative Discussion 2 - OO Design for IoT-Initial Post
  - Review the Recursion and Polymorphism Codio modules and save the results in e-portfolio.
@@ -55,8 +54,6 @@ The units provided below serve as a collection of evidence for the work complete
 
 #### Unit 11: Pointers, References & Memory, and Design Patterns
  - Continue e-Portfolio updates.
-
-#### Python - Driverless Car-System Implementation
 
 #### Unit 12: Working with Design Patterns to Structure Code
  - The final assessment is e-portfolio that collects all the evidence of work in this module 
