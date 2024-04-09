@@ -13,7 +13,7 @@ Additionally, there are formative and e-portfolio activities that require a brie
 
 The units provided below serve as a collection of evidence for the work completed in this module and serve as an account of the learning journey.
 
-#### [Unit 1: An Introduction to Python Programming and the OO Programming Paradigm](https://helenhelene.github.io/eportfolio/pdf/sample_presentation.pdf)
+#### [Unit 1: An Introduction to Python Programming and the OO Programming Paradigm](/module/OOP_Unit01.md)
  - Collaborative Discussion 1 - Factors which Influence Reusability-Initial post
  - Review the article by Di Silvestro & Nadir (2021). Discuss one aspect of this article which you find unexpected.
  - Develop a Python program and apply protected and unprotected variables within it.
