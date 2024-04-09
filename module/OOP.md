@@ -12,7 +12,7 @@ Additionally, there are formative and e-portfolio activities that require a brie
 
 The units provided below serve as a collection of evidence for the work completed in this module and serve as an account of the learning journey.
 
-#### [Unit 1: An Introduction to Python Programming and the OO Programming Paradigm](/module/OOP_Unit01.md)
+#### [Unit 1: An Introduction to Python Programming and the OO Programming Paradigm](/module/LCS.md)
 
 #### [Unit 2: Object Oriented Analysis - Initial Steps towards Programming in Python](/module/OOP_Unit02.md)
 
