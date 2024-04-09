@@ -16,7 +16,7 @@ The units provided below serve as a collection of evidence for the work complete
 
 #### [Unit 2: Object Oriented Analysis - Initial Steps towards Programming in Python](/OOP_Unit02.md)
 
-#### [Unit 3: UML]（/module/OOP_Unit03.md)
+#### [Unit 3: UML](/module/OOP_Unit03.md)
 
 #### Unit 4: Applying a UML Model to a Program Implementation: UML in Practice
  - Continue to build e-Portfolio including writing the final reflection.
