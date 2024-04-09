@@ -12,26 +12,26 @@ Additionally, there are formative and e-portfolio activities that require a brie
 
 The units provided below serve as a collection of evidence for the work completed in this module and serve as an account of the learning journey.
 
-#### [Unit 1: An Introduction to Python Programming and the OO Programming Paradigm](/module/OOP_Unit01.md)
+#### [Unit 1: An Introduction to Python Programming and the OO Programming Paradigm](https://helenhelene.github.io/eportfolio/module/OOP_Unit01.md)
 
-#### [Unit 2: Object Oriented Analysis - Initial Steps towards Programming in Python](/module/OOP_Unit02.md)
+#### [Unit 2: Object Oriented Analysis - Initial Steps towards Programming in Python](https://helenhelene.github.io/eportfolio/module/OOP_Unit02.md)
 
-#### [Unit 3: UML](/module/OOP_Unit03.md)
+#### [Unit 3: UML](https://helenhelene.github.io/eportfolio/module/OOP_Unit03.md)
 
 #### Unit 4: Applying a UML Model to a Program Implementation: UML in Practice
  - Continue to build e-Portfolio including writing the final reflection.
 
-#### [Unit 5: More on Classes](/module/OOP_Unit05.md)
+#### [Unit 5: More on Classes](https://helenhelene.github.io/eportfolio/module/OOP_Unit05.md)
 
-#### [Unit 6: Abstract Methods and Interfaces](/module/OOP_Unit06.md)
+#### [Unit 6: Abstract Methods and Interfaces](https://helenhelene.github.io/eportfolio/module/OOP_Unit06.md)
 
-#### [Unit 7: Debugging / Error Handling, Data Structures and Data Search](/module/OOP_Unit07.md)
+#### [Unit 7: Debugging / Error Handling, Data Structures and Data Search](https://helenhelene.github.io/eportfolio/module/OOP_Unit07.md)
 
-#### [Unit 8: Data Structures and Data Search in Practice](/module/OOP_Unit08.md)
+#### [Unit 8: Data Structures and Data Search in Practice](https://helenhelene.github.io/eportfolio/module/OOP_Unit08.md)
 
-#### [Unit 9: Packaging and Testing](/module/OOP_Unit09.md)
+#### [Unit 9: Packaging and Testing](https://helenhelene.github.io/eportfolio/module/OOP_Unit09.md)
 
-#### [Unit 10: Testing Code in Practice](/module/OOP_Unit10.md)
+#### [Unit 10: Testing Code in Practice](https://helenhelene.github.io/eportfolio/module/OOP_Unit10.md)
 
 #### Unit 11: Pointers, References & Memory, and Design Patterns
  - Continue e-Portfolio updates.
