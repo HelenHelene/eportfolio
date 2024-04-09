@@ -13,7 +13,7 @@
 
 ---
 
-### [About Me](http://example.com/)
+### [About Me](professional.md)
 
 
 ### University of Essex Learning Experience
