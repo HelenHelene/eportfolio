@@ -13,7 +13,7 @@
 
 ---
 
-### [About Me](professional.md)
+### [About Me](Professional.md)
 
 
 ### University of Essex Learning Experience
