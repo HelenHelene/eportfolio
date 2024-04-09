@@ -12,11 +12,11 @@ Additionally, there are formative and e-portfolio activities that require a brie
 
 The units provided below serve as a collection of evidence for the work completed in this module and serve as an account of the learning journey.
 
-#### [Unit 1: An Introduction to Python Programming and the OO Programming Paradigm](OOPUnit01.md)
+#### [Unit 1: An Introduction to Python Programming and the OO Programming Paradigm](/OOP_Unit01.md)
 
-#### [Unit 2: Object Oriented Analysis - Initial Steps towards Programming in Python](/eportfolio/module/LCS.html)
+#### [Unit 2: Object Oriented Analysis - Initial Steps towards Programming in Python](/OOP_Unit02.md)
 
-#### [Unit 3: UML](/module/OOP_Unit03.md)
+#### [Unit 3: UML](/OOP_Unit03.md)
 
 #### Unit 4: Applying a UML Model to a Program Implementation: UML in Practice
  - Continue to build e-Portfolio including writing the final reflection.
