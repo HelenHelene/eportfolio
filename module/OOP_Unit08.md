@@ -1,9 +1,8 @@
-# Unit 1: An Introduction to Python Programming and the OO Programming Paradigm
+# Unit 8: Data Structures and Data Search in Practice
 
 ### Formative and e-portfolio activities in this unit:
- - Collaborative Discussion 1 - Factors which Influence Reusability-Initial post
- - Review the article by Di Silvestro & Nadir (2021). Discuss one aspect of this article which you find unexpected.
- - Develop a Python program and apply protected and unprotected variables within it.
+ - Collaborative Discussion 2 - OO Design for IoT-Initial Post
+ - Review the Recursion and Polymorphism Codio modules and save the results in e-portfolio.
 </br>
 
 ### Learning Outcomes
