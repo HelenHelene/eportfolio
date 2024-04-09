@@ -6,7 +6,7 @@
  - To what extent is cyclomatic complexity relevant when developing object-oriented code.
  - What is the cyclomatic complexity of the piece of code in this activity.
  - Extend the Python String program in this activity to test accuracy of operations using the assert statement.
-</br>
+---
 
 ### Learning Outcomes
 ### Artefacts
