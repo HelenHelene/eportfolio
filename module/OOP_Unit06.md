@@ -3,7 +3,7 @@
 ### Formative and e-portfolio activities in this unit:
  - Review the Codio module Encapsulations and save the results in e-portfolio.
  - Continue to build e-Portfolio including writing the final reflection.
-</br>
+---
 
 ### Learning Outcomes
 ### Artefacts
