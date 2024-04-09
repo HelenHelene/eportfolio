@@ -9,3 +9,5 @@ Beyond the professional sphere, I am passionate about cats. These adorable creat
 My proactive nature, independence, and excellent interpersonal skills have been instrumental in my career success.  I am fluent in Cantonese and proficient in English and Mandarin, enabling me to effectively communicate and collaborate with diverse teams.
 
 Thank you for taking the time to learn more about me. If you have any further questions or would like to explore potential opportunities, please feel free to reach out.
+
+<img src="images/Cat.jpeg?raw=true"/>
