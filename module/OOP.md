@@ -21,36 +21,17 @@ The units provided below serve as a collection of evidence for the work complete
 #### Unit 4: Applying a UML Model to a Program Implementation: UML in Practice
  - Continue to build e-Portfolio including writing the final reflection.
 
-#### Unit 5: More on Classes
- - Review the Codio module Inheritance and save the results in e-portfolio. 
- - Write a Python program with polymorphism that is usable within the summative assessment for the driverless car.
+#### [Unit 5: More on Classes](/module/OOP_Unit05.md)
 
-#### Unit 6: Abstract Methods and Interfaces
- - Review the Codio module Encapsulations and save the results in e-portfolio.
- - Continue to build e-Portfolio including writing the final reflection.
+#### [Unit 6: Abstract Methods and Interfaces](/module/OOP_Unit06.md)
 
-#### Unit 7: Debugging / Error Handling, Data Structures and Data Search
- - Discuss the ways in which data structures support object-oriented development with examples of three different data structures.
- - Create a nested dictionary of data on cars within a Car class. Extend the program to work with the dictionary by calling the following methods:
-     items()
-     keys()
-     values()
- - Read the article by Kampffmeyer & Zschaler (2007). Develop a program which allows a user to enter the properties which they require of a design pattern, and have the program make a recommendation. The program should use a constructor to initialise attributes and assign values to variables based on input entered by the user.
+#### [Unit 7: Debugging / Error Handling, Data Structures and Data Search](/module/OOP_Unit07.md)
 
-#### Unit 8: Data Structures and Data Search in Practice
- - Collaborative Discussion 2 - OO Design for IoT-Initial Post
- - Review the Recursion and Polymorphism Codio modules and save the results in e-portfolio.
+#### [Unit 8: Data Structures and Data Search in Practice](/module/OOP_Unit08.md)
 
-#### Unit 9: Packaging and Testing
- - Collaborative Discussion 2 - OO Design for IoT-Respond to peers
- - How relevant is the cyclomatic complexity in object oriented systems and other questions.
- - To what extent is cyclomatic complexity relevant when developing object-oriented code.
- - What is the cyclomatic complexity of the piece of code in this activity.
- - Extend the Python String program in this activity to test accuracy of operations using the assert statement.
+#### [Unit 9: Packaging and Testing](/module/OOP_Unit09.md)
 
-#### Unit 10: Testing Code in Practice
- - Collaborative Discussion 2 - OO Design for IoT-Summary post
- - Continue to build e-Portfolio including writing the final reflection.
+#### [Unit 10: Testing Code in Practice](/module/OOP_Unit10.md)
 
 #### Unit 11: Pointers, References & Memory, and Design Patterns
  - Continue e-Portfolio updates.
