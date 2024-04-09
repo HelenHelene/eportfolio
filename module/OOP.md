@@ -23,15 +23,15 @@ The units provided below serve as a collection of evidence for the work complete
 
 #### [Unit 5: More on Classes](OOP_Unit05.md)
 
-#### [Unit 6: Abstract Methods and Interfaces](https://helenhelene.github.io/eportfolio/module/OOP_Unit06.html)
+#### [Unit 6: Abstract Methods and Interfaces](OOP_Unit06.md)
 
-#### [Unit 7: Debugging / Error Handling, Data Structures and Data Search](https://helenhelene.github.io/eportfolio/module/OOP_Unit07.md)
+#### [Unit 7: Debugging / Error Handling, Data Structures and Data Search](OOP_Unit07.md)
 
-#### [Unit 8: Data Structures and Data Search in Practice](https://helenhelene.github.io/eportfolio/module/OOP_Unit08.md)
+#### [Unit 8: Data Structures and Data Search in Practice](OOP_Unit08.md)
 
-#### [Unit 9: Packaging and Testing](https://helenhelene.github.io/eportfolio/module/OOP_Unit09.md)
+#### [Unit 9: Packaging and Testing](OOP_Unit09.md)
 
-#### [Unit 10: Testing Code in Practice](https://helenhelene.github.io/eportfolio/module/OOP_Unit10.md)
+#### [Unit 10: Testing Code in Practice](OOP_Unit10.md)
 
 #### Unit 11: Pointers, References & Memory, and Design Patterns
  - Continue e-Portfolio updates.
