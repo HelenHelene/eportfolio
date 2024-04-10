@@ -6,7 +6,6 @@ Formative and e-portfolio activities in this unit:
 
 ---
 
-### Learning Outcomes
 This week, we explore the concept of classes in Python further, in the sense of using abstract classes and interfaces to assign values to variables and execute methods. From a more theoretical context, we explore the metrics which are considered when evaluating the effectiveness of object oriented code.
 
 In this unit we shall:
@@ -21,7 +20,17 @@ On completion of this unit you will be able to:
 
 Practical work this week will support further understanding of how to extend the development of a Python program by using abstract classes and interfaces. This will be core to supporting the development required for the coding contribution of the summative assessment.
 
+### Learning Outcomes
+I will learn:
+
 ### Artefacts
+These are the projects carried out to meet those learning outcomes, which are described in the link below.
+
 ### Collaborative Discussion and meeting notes
+Notes from various meetings, as well as feedback from team members and tutors.
+
 ### Reflections
+What exactly have I learnt and how?
+
 ### Professional Skills Matrix and Action Plan
+What skills have I gained or enhanced as a result of this module and how can I use it? What else do I need to learn?
