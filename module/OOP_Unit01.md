@@ -7,7 +7,6 @@ Formative and e-portfolio activities in this unit:
 
 ---
 
-### Learning Outcomes
 In this introduction to Python programming, we will gain an understanding of the evolution of programming languages towards object orientation, and beyond it in response to the challenges of programming in an object oriented way.
  
 In this unit we shall:
@@ -22,7 +21,17 @@ On completion of this unit you will be able to:
 
 This unit will give exposure to the fundamental building blocks of a Python program, upon which advanced features of the programming language will be built in later weeks.
 
+### Learning Outcomes
+I will learn:
+
 ### Artefacts
+These are the projects carried out to meet those learning outcomes, which are described in the link below.
+
 ### Collaborative Discussion and meeting notes
+Notes from various meetings, as well as feedback from team members and tutors.
+
 ### Reflections
+What exactly have I learnt and how?
+
 ### Professional Skills Matrix and Action Plan
+What skills have I gained or enhanced as a result of this module and how can I use it? What else do I need to learn?
