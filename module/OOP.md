@@ -42,16 +42,17 @@ The units presented below serve as a compilation of evidence, showcasing the wor
 
 #### Learning Outcomes
  - providing a brief description of the project outcomes or critical incident (WHAT), 
- - Appraise and evaluate critically the concepts and principles of information systems.
- - Design or modify and document an object-oriented information system using appropriate tools.
- - Develop an object-oriented information system design, implementing this knowledge in applicable programming languages, such as Python and SQL.
- - Develop, implement and evaluate critically information system solutions to facilitate business decisions.
+ - Appraise and critically evaluate object-oriented programming compared to other programming paradigms.
+ - Design and implement programs that demonstrate appropriate use of object-oriented design principles.
+ - Select and use appropriate data structures for a given problem.
+ - Propose object-oriented solutions using an appropriate modelling language, such as UML.
 
 #### Artefacts
- - analyse and interpret the information (SO WHAT) and then 
+ - analyse and interpret the information (SO WHAT)
+ - describe/show how those artefacts relate to the module learning outcomes.
  - Your work in the module.
-
-#### Professional Skills Matrix and Action Plan
+   
+#### Professional Skills Matrix and Action Plan (PDP)
  - decide how you can use the information and learning from it (NOW WHAT). 
  - The impact on your professional/personal development.
 
