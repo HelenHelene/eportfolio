@@ -20,7 +20,7 @@ As part of my e-portfolio, I have completed the following projects and participa
 
 [Review the article by Di Silvestro & Nadir (2021). Discuss one aspect of this article which you find unexpected.]
 
-[Protected and unprotected variables.](/code/Module02_Unit01_ProtectedUnprotectedVariables.md)
+[Protected and unprotected variables.](OOP_Unit01_ProtectedandUnprotectedvar.md)
 
 [Protected and unprotected variables.](https://helenhelene.github.io/eportfolio/code/Module02_Unit01_ProtectedUnprotectedVariables.md)
 
