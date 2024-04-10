@@ -8,6 +8,8 @@ Formative and e-portfolio activities in this unit:
 ---
 
 ### Learning Outcomes
+This week, we will make some initial steps towards developing Python programs, after analysing the program domain using a use case diagram and a state machine diagram.
+
 In this unit we shall:
  - Explore the ways in which actors interact with software in terms of the functional requirements of a piece of software.
  - Identify the interactions and behaviours invoked within software once active using a state machine diagram.
