@@ -15,8 +15,11 @@ Upon completing this unit, I am able to:
 
 ### Artefacts and Collaborative Discussion 
 As part of my e-portfolio, I have completed the following projects and participated in collaborative discussions, which are documented in the provided link:
+
 [Collaborative Discussion 1 - Factors which Influence Reusability-Initial post](https://helenhelene.github.io/eportfolio/pdf/Module02_Discussion1_Initial.pdf)
+
 [Review the article by Di Silvestro & Nadir (2021). Discuss one aspect of this article which you find unexpected.]
+
 [Develop a Python program and apply protected and unprotected variables within it.]
 
 ### Reflections
