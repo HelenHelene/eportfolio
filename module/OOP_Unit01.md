@@ -20,7 +20,7 @@ As part of my e-portfolio, I have completed the following projects and participa
 
 [Review the article by Di Silvestro & Nadir (2021). Discuss one aspect of this article which you find unexpected.]
 
-[Develop a Python program and apply protected and unprotected variables within it.]
+[Develop a Python program and apply protected and unprotected variables within it.](/code/Module02_Unit01_Protected and Unprotected variables.md)
 
 ### Reflections
 This unit provided me with essential knowledge about the fundamental building blocks of Python programming. These concepts serve as a solid foundation for understanding and utilizing more advanced features of the language in subsequent units.
