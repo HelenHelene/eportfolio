@@ -22,8 +22,6 @@ As part of my e-portfolio, I have completed the following projects and participa
 
 [Protected and unprotected variables.](OOP_Unit01_ProtectedandUnprotectedvar.md)
 
-[Protected and unprotected variables.](https://helenhelene.github.io/eportfolio/code/Module02_Unit01_ProtectedUnprotectedVariables.md)
-
 ### Reflections
 This unit provided me with essential knowledge about the fundamental building blocks of Python programming. These concepts serve as a solid foundation for understanding and utilizing more advanced features of the language in subsequent units.
 
