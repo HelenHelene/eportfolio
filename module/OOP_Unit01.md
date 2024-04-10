@@ -17,6 +17,7 @@ On completion of this unit you will be able to:
  - Describe the major features of an object oriented program, in the sense of having abstract classes, applying inheritance, using encapsulation, and including polymorphism.
  - Define a Python class.
  - Define a variety of data types to variables in a Python program and adapt the access modifier applied to each.
+
 This unit will give exposure to the fundamental building blocks of a Python program, upon which advanced features of the programming language will be built in later weeks.
 
 ### Artefacts
