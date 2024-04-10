@@ -7,7 +7,6 @@ Formative and e-portfolio activities in this unit:
 
 ---
 
-### Learning Outcomes
 This week, we will make some initial steps towards developing Python programs, after analysing the program domain using a use case diagram and a state machine diagram.
 
 In this unit we shall:
@@ -20,10 +19,17 @@ On completion of this unit you will be able to:
 
 Practical work this week will support further understanding of how to extend the development of a Python program by appreciating the retention of data as variables, and the assignment of variables across difference instances of a class. This will be core to supporting the development required for the coding contribution of the summative assessment. Exploration of the use of the Unified Modelling Language will also be critical to supporting preparation of the design document for the Week 6 summative assessment.
 
+### Learning Outcomes
+I will learn:
+
 ### Artefacts
+These are the projects carried out to meet those learning outcomes, which are described in the link below.
+
 ### Collaborative Discussion and meeting notes
+Notes from various meetings, as well as feedback from team members and tutors.
+
 ### Reflections
+What exactly have I learnt and how?
+
 ### Professional Skills Matrix and Action Plan
-
-
-
+What skills have I gained or enhanced as a result of this module and how can I use it? What else do I need to learn?
