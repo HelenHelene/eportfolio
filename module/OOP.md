@@ -8,9 +8,9 @@ Two of the assignments in this module involves designing and implementing softwa
 #### [Python - Driverless Car-System Implementation](https://helenhelene.github.io/eportfolio/pdf/sample_presentation.pdf)
 <br>
 
-Additionally, there are formative and e-portfolio activities that require a brief description of the project outcomes or critical incidents (WHAT), analysis and interpretation of the information (SO WHAT), and reflection on how the information and learning can be applied (NOW WHAT).
+Furthermore, there are formative and e-portfolio activities that necessitate the collection of all the evidence pertaining to my work in this module. 
 
-The units provided below serve as a collection of evidence for the work completed in this module and serve as an account of the learning journey.
+The units presented below serve as a compilation of evidence, showcasing the work accomplished in this module and documenting the learning journey.
 
 #### [Unit 1: An Introduction to Python Programming and the OO Programming Paradigm](OOP_Unit01.md)
 
