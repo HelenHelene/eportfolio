@@ -8,6 +8,8 @@ Formative and e-portfolio activities in this unit:
 ---
 
 ### Learning Outcomes
+In this introduction to Python programming, we will gain an understanding of the evolution of programming languages towards object orientation, and beyond it in response to the challenges of programming in an object oriented way.
+ 
 In this unit we shall:
  - Examine what it means for a program to be object oriented.
  - Explore the syntax used to define a Python class.
