@@ -18,8 +18,7 @@ The units provided below serve as a collection of evidence for the work complete
 
 #### [Unit 3: UML](OOP_Unit03.md)
 
-#### Unit 4: Applying a UML Model to a Program Implementation: UML in Practice
- - Continue to build e-Portfolio including writing the final reflection.
+#### [Unit 4: Applying a UML Model to a Program Implementation: UML in Practice](OOP_Unit04.md)
 
 #### [Unit 5: More on Classes](OOP_Unit05.md)
 
@@ -33,10 +32,34 @@ The units provided below serve as a collection of evidence for the work complete
 
 #### [Unit 10: Testing Code in Practice](OOP_Unit10.md)
 
-#### Unit 11: Pointers, References & Memory, and Design Patterns
- - Continue e-Portfolio updates.
+#### [Unit 11: Pointers, References & Memory, and Design Patterns](OOP_Unit11.md)
 
-#### Unit 12: Working with Design Patterns to Structure Code
- - The final assessment is e-portfolio that collects all the evidence of work in this module 
+#### [Unit 12: Working with Design Patterns to Structure Code](OOP_Unit12.md)
 
+----
 
+### Final Reflection (1,000 words).
+
+#### Learning Outcomes
+ - providing a brief description of the project outcomes or critical incident (WHAT), 
+ - Appraise and evaluate critically the concepts and principles of information systems.
+ - Design or modify and document an object-oriented information system using appropriate tools.
+ - Develop an object-oriented information system design, implementing this knowledge in applicable programming languages, such as Python and SQL.
+ - Develop, implement and evaluate critically information system solutions to facilitate business decisions.
+
+#### Artefacts
+ - analyse and interpret the information (SO WHAT) and then 
+ - Your work in the module.
+
+#### Professional Skills Matrix and Action Plan
+ - decide how you can use the information and learning from it (NOW WHAT). 
+ - The impact on your professional/personal development.
+
+#### Final Reflection
+What exactly have I learnt and how?
+- Have you clearly described the topic of your project and the various aspects of project which are key to your reflection?
+ - Emotional Response and Analysis. Critically analyse yourself and your own behaviour during this project. How did working on the project make you feel? How did these emotions affect you and your work? Have you reviewed the views of others, your prior experience, and correctly referenced literature, in relation to your current behaviour and the work you’ve done?
+ - Learning and Changed Actions. Show that you have thought deeply about what exactly produced your learning (or a new way of thinking) while taking this project.
+ - Do you have evidence of skills and knowledge developed through this project? Provide a clear description of your evidence of learning during this project and how you can apply (or have applied) them in a real-world experience.
+ - You will need to evidence and evaluate your individual contribution to a group project, completing tasks to the required standard. You will also need to demonstrate clear participation in the team activities as it informs your reflection. Legible screenshots from your e-portfolio are acceptable and will not affect your word count.
+ - Is there an accurate use of citations and references throughout this piece of work? Have you demonstrated the required integrity in your submission?
