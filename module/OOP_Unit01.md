@@ -20,7 +20,8 @@ As part of my e-portfolio, I have completed the following projects and participa
 
 [Review the article by Di Silvestro & Nadir (2021). Discuss one aspect of this article which you find unexpected.]
 
-[Develop a Python program and apply protected and unprotected variables within it.](code/Module02_Unit01_ProtectedUnprotectedVariables.md)
+[Develop a Python program and apply protected and unprotected variables within it.](/code/Module02_Unit01_ProtectedUnprotectedVariables.md)
+
 [Develop a Python program and apply protected and unprotected variables within it.](https://helenhelene.github.io/eportfolio/code/Module02_Unit01_ProtectedUnprotectedVariables.md)
 
 ### Reflections
