@@ -1,37 +1,28 @@
 # Unit 1: An Introduction to Python Programming and the OO Programming Paradigm
 
-Formative and e-portfolio activities in this unit:
- - Collaborative Discussion 1 - Factors which Influence Reusability-Initial post
+In this introductory unit on Python programming, I gained a comprehensive understanding of the evolution of programming languages towards object orientation, as well as the challenges and benefits associated with programming in an object-oriented way.
+
+Throughout this unit, I accomplished the following objectives:
+ - Explored the concept and characteristics of object-oriented programming.
+ - Examined the syntax used to define classes in Python.
+ - Investigated the implementation of different data types in Python.
+  
+### Learning Outcomes
+Upon completing this unit, I am able to:
+ - Describe the major features of an object-oriented program, including abstract classes, inheritance, encapsulation, and polymorphism.
+ - Define a Python class.
+ - Define various data types and adapt the access modifiers applied to them within a Python program.
+
+### Artefacts and Collaborative Discussion 
+As part of my e-portfolio, I have completed the following projects and participated in collaborative discussions, which are documented in the provided link:
+ - [Collaborative Discussion 1 - Factors which Influence Reusability-Initial post]
  - Review the article by Di Silvestro & Nadir (2021). Discuss one aspect of this article which you find unexpected.
  - Develop a Python program and apply protected and unprotected variables within it.
 
----
-
-In this introduction to Python programming, we will gain an understanding of the evolution of programming languages towards object orientation, and beyond it in response to the challenges of programming in an object oriented way.
- 
-In this unit we shall:
- - Examine what it means for a program to be object oriented.
- - Explore the syntax used to define a Python class.
- - Investigate how to define different data types in Python.
-   
-On completion of this unit you will be able to:
- - Describe the major features of an object oriented program, in the sense of having abstract classes, applying inheritance, using encapsulation, and including polymorphism.
- - Define a Python class.
- - Define a variety of data types to variables in a Python program and adapt the access modifier applied to each.
-
-This unit will give exposure to the fundamental building blocks of a Python program, upon which advanced features of the programming language will be built in later weeks.
-
-### Learning Outcomes
-I will learn:
-
-### Artefacts
-These are the projects carried out to meet those learning outcomes, which are described in the link below.
-
-### Collaborative Discussion and meeting notes
-Notes from various meetings, as well as feedback from team members and tutors.
-
 ### Reflections
-What exactly have I learnt and how?
+This unit provided me with essential knowledge about the fundamental building blocks of Python programming. These concepts serve as a solid foundation for understanding and utilizing more advanced features of the language in subsequent units.
 
 ### Professional Skills Matrix and Action Plan
-What skills have I gained or enhanced as a result of this module and how can I use it? What else do I need to learn?
+As a result of this module, I have gained a deep understanding of the importance of object-oriented programming and its core concepts, such as abstraction, encapsulation, inheritance, and composition. I have also become familiar with key terminology related to object-oriented programming and factors that influence reusability.
+
+In order to further enhance my skills, I will continue to apply these concepts in practical programming scenarios and explore advanced topics within Python and object-oriented programming.
