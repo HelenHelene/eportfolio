@@ -5,7 +5,6 @@ Formative and e-portfolio activities in this unit:
 
 ---
 
-### Learning Outcomes
 This week we shall experiment further with the creation of other UML models, including the activity diagram.
 
 In this unit we shall:
@@ -18,8 +17,17 @@ On completion of this unit you will be able to:
 
 The content this week supports students in taking UML models and developing the corresponding code. This will be critical in support of the summative assessment, when students create code for the Week 11 submission from the design documents submitted in Week 7.
 
-### Artefacts
-### Collaborative Discussion and meeting notes
-### Reflections
-### Professional Skills Matrix and Action Plan
+### Learning Outcomes
+I will learn:
 
+### Artefacts
+These are the projects carried out to meet those learning outcomes, which are described in the link below.
+
+### Collaborative Discussion and meeting notes
+Notes from various meetings, as well as feedback from team members and tutors.
+
+### Reflections
+What exactly have I learnt and how?
+
+### Professional Skills Matrix and Action Plan
+What skills have I gained or enhanced as a result of this module and how can I use it? What else do I need to learn?
