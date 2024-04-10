@@ -7,7 +7,6 @@ Formative and e-portfolio activities in this unit:
 
 ---
 
-### Learning Outcomes
 This week, we will gain exposure to the Unified Modelling Language (UML). This is a standardised toolset to represent software systems on paper prior to their conversion into code.
 
 In this unit we shall:
@@ -22,7 +21,17 @@ On completion of this unit you will be able to:
 
 The UML content this week is important in support of the design document that will be submitted in Week 6. The UML models will be used to design the software system on paper prior to its implementation in Python.
 
+### Learning Outcomes
+I will learn:
+
 ### Artefacts
+These are the projects carried out to meet those learning outcomes, which are described in the link below.
+
 ### Collaborative Discussion and meeting notes
+Notes from various meetings, as well as feedback from team members and tutors.
+
 ### Reflections
+What exactly have I learnt and how?
+
 ### Professional Skills Matrix and Action Plan
+What skills have I gained or enhanced as a result of this module and how can I use it? What else do I need to learn?
