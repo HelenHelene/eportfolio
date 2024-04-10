@@ -1,35 +1,29 @@
 # Unit 2: Object Oriented Analysis - Initial Steps towards Programming in Python
 
-Formative and e-portfolio activities in this unit:
- - Collaborative Discussion 1 - Factors which Influence Reusability-Respond to peers
- - Review the Codio module Class, Functions and Methods and save the results in e-portfolio.
- - (Optional)Write a Python program to achieve basic employee-related functionality with protected and unprotected variables.
+I have made some initial steps towards developing Python programs in this unit after analyzing the program domain using a use case diagram and a state machine diagram.
 
----
-
-This week, we will make some initial steps towards developing Python programs, after analysing the program domain using a use case diagram and a state machine diagram.
-
-In this unit we shall:
- - Explore the ways in which actors interact with software in terms of the functional requirements of a piece of software.
- - Identify the interactions and behaviours invoked within software once active using a state machine diagram.
-
-On completion of this unit you will be able to:
- - Design a use case diagram for a software development scenario.
- - Create a state machine diagram to examine the behaviours and interactions within a system.
-
-Practical work this week will support further understanding of how to extend the development of a Python program by appreciating the retention of data as variables, and the assignment of variables across difference instances of a class. This will be core to supporting the development required for the coding contribution of the summative assessment. Exploration of the use of the Unified Modelling Language will also be critical to supporting preparation of the design document for the Week 6 summative assessment.
+In this unit, I have tried:
+ - Exploring the ways in which actors interact with software in terms of the functional requirements of a piece of software.
+ - Identifying the interactions and behaviors invoked within software once active using a state machine diagram.
 
 ### Learning Outcomes
-I will learn:
+Upon completion of this unit, I am able to:
+ - Design a use case diagram for a software development scenario.
+ - Create a state machine diagram to examine the behaviors and interactions within a system.
+   
+### Artefacts and Collaborative Discussion
+I have completed the following projects to meet these learning outcomes, which are recorded in the link below:
 
-### Artefacts
-These are the projects carried out to meet those learning outcomes, which are described in the link below.
+Collaborative Discussion 1 - Factors which Influence Reusability-Respond to peers
+[Respond 1](https://helenhelene.github.io/eportfolio/pdf/Module02_Discussion1_Respond1.pdf)
+[Pespond 2](https://helenhelene.github.io/eportfolio/pdf/Module02_Discussion1_Respond2.pdf)
 
-### Collaborative Discussion and meeting notes
-Notes from various meetings, as well as feedback from team members and tutors.
+[Review the Codio module Class, Functions and Methods and save the results in e-portfolio.]
 
+[(Optional)Write a Python program to achieve basic employee-related functionality with protected and unprotected variables.]
+   
 ### Reflections
-What exactly have I learnt and how?
+Through further discussions with peers in the collaborative discussion, I have gained a deeper understanding of reusability, which has also enhanced my practical critical thinking skills.
 
 ### Professional Skills Matrix and Action Plan
-What skills have I gained or enhanced as a result of this module and how can I use it? What else do I need to learn?
+The practical work in Codio has supported my understanding of how to extend the development of a Python program by appreciating the retention of data as variables and the assignment of variables across different instances of a class. This knowledge will be crucial in supporting the development required for the coding contribution to the summative assessment. Additionally, the exploration of the Unified Modeling Language (UML) will play a critical role in preparing the design document for the summative assessment.
