@@ -9,6 +9,7 @@ Below is the State Machine Diagram designated in this activity, which demonstrat
 
 
 Here is my State Machine Diagram describing the different states and transitions of a simple washing machine.
+<img src="https://helenhelene.github.io/eportfolio/images/WashingMach.jpg"/>
 
 ### References
 Rumbaugh, J., Jacobson, I. & Booch, G. (2004) The Unified Modeling Language Reference Manual. 2nd ed. Boston: Addison-Wesley.  
