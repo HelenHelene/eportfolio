@@ -22,7 +22,7 @@ As part of my e-portfolio, I have completed the following projects and participa
 
 [Protected and unprotected variables.](OOP_Unit01_ProtectedandUnprotectedvar.md)
 
-[Tutorial Labs - Classes and Objects](OOP_Unit01_Class_and_Object_Lab.md)
+[Tutorial Labs - Classes and Objects]
 
 ### Reflections
 This unit provided me with essential knowledge about the fundamental building blocks of Python programming. These concepts serve as a solid foundation for understanding and utilizing more advanced features of the language in subsequent units.
