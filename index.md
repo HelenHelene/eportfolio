@@ -17,7 +17,6 @@
 
 
 ### University of Essex Learning Experience
-
 * [Induction Module](/module/induction.md)
 * [Module 1 Launching in Computer Science](/module/LCS.md)
 * [Module 2 Object Oriented Programming](/module/OOP.md)
