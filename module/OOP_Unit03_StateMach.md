@@ -5,7 +5,7 @@ However, the edition available in the eBook access link and Module Reading List 
 Fortunately, we were able to find the requested book from another source, so we can continue with this activity.
 
 Below is the State Machine Diagram designated in this activity, which demonstrates the history of a ticket to performance, presented in "The Unified Modeling Language Reference Manual" by Rumbaugh, Jacobson, and Booch (2004).
-<img src="images/OOP_Unit03_Reference3.7.jpg?raw=true"/>
+<img src="images/OOP_Unit03_Reference.jpg?raw=true"/>
 
 
 ### References
