@@ -1,10 +1,10 @@
 # Unit 4: Applying a UML Model to a Program Implementation: UML in Practice
 
-In this unit, I delved further into the practical application of UML models in program implementation by exploring additional UML models, including the activity diagram.
+In this unit, I delved further into the practical application of UML models in program implementation by exploring additional UML models, including the activity and class diagram.
 
 ### Learning Outcomes
 By the end of this unit, I have achieved the following learning outcomes:
- - Prepared a class diagram that accurately corresponds to a system to be implemented.
+ - Prepared a different diagram that accurately corresponds to a system to be implemented.
  - Implemented software by utilizing a UML model.
 
 ### Artefacts
