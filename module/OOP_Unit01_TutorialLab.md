@@ -3,7 +3,7 @@
 ```python
 # Tutorial Lab 1:Creating a Class
 class Person:
-    """Represents a generic Person."""
+    #Represents a generic Person.
     def __init__(self, first, last, weight, height):
       self.first_name = first
       self.last_name = last
@@ -21,17 +21,17 @@ p.first_name = 'George'
 print(p.first_name + ' ' + p.last_name + ' weighs ' + str(p.weight_in_lbs) + 'lbs.')
 
 # Tutorial Lab Challenge
-# Create five Person objects"""
+# Create five Person objects
 p1 = Person("Tom", "Thumb", 150, 78)
 p2 = Person("Fred", "Frainer", 155, 80)
 p3 = Person("George", "Ganahl", 165, 85)
 p4 = Person("Tanya", "Taylor", 170, 90)
 p5 = Person("Mary", "Marent", 175, 95)
 
-# Create a list and store the Person objects in it"""
+# Create a list and store the Person objects in it
 person_list = [p1, p2, p3, p4, p5]
 
-# Iterate over the list and print the first names"""
+# Iterate over the list and print the first names
 for person in person_list:
     print(person.first_name)
 ```
