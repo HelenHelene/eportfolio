@@ -22,7 +22,7 @@
 * [Module 1 Launching in Computer Science](/module/LCS.md)
 * [Module 2 Object Oriented Programming](/module/OOP.md)
 * [Module 3 Network Security](/module/NS.md)
-* [Module 4 Information Security Management](/module/ISM.md)
+* [Module 4 Information Security Management](/ISM/ISM_main.md)
 * [Module 5 Secure Software Development](/module/SSD.md)
 * [Module 6 Software Engineering Project Management](/module/SEPM.md)
 * [Module 7 Research Methods and Professional Practice](/module/RMPP.md)
