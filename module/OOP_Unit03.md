@@ -1,37 +1,34 @@
 # Unit 3: UML
 
-Formative and e-portfolio activities in this unit:
- - Collaborative Discussion 1 - Factors which Influence Reusability-Summary post 
- - [Discuss which UML models are most applicable at different stages of the Software Development Life Cycle.](https://www.uml-diagrams.org/uml-25-diagrams.html)
- - Making reference to ‘The Unified Modeling Language Reference Manual Second Edition’, use the State Machine Diagram in Figure 3-7 to design a similar model for a washing machine.
+This unit focuses on the Unified Modeling Language (UML), which is a standardized toolset for representing software systems before they are translated into code.
+
+In this unit, I have accomplished the following tasks:
+ - Familiarized myself with the common syntax used in UML.
+ - Explored the major UML models utilized in the object-oriented analysis, design, and development process.
+ - Designed UML models to represent specific aspects of software systems.
+
+### Learning Outcomes
+Upon completing this unit, I have achieved the following learning outcomes:
+ - Recognize the syntax employed in designing UML models.
+ - Differentiate between the UML models applicable at various stages of the Software Development Life Cycle (SDLC).
+ - Develop UML models using open-source tools.
+
+### Artefacts and Collaborative Discussion
+As part of my e-portfolio, I have completed the following projects and actively engaged in collaborative discussions, which are documented in the provided link:
+
+[Collaborative Discussion 1 - Factors which Influence Reusability-Summary post]
+
+[Discuss which UML models are most applicable at different stages of the Software Development Life Cycle.](https://www.uml-diagrams.org/uml-25-diagrams.html)
+
+[Making reference to ‘The Unified Modeling Language Reference Manual Second Edition’, use the State Machine Diagram in Figure 3-7 to design a similar model for a washing machine.]
+
+### Reflections
+The collaborative discussion summary post provided valuable insights from diverse perspectives on reusability, expanding my knowledge beyond what is covered in the book. Through exploring UML models, I gained a better understanding of their relationship with the SDLC. Additionally, while completing the exercise of creating a State Machine Diagram, I explored different diagram drawing tools such as MS Visio, Lucid, and draw.io.
+
+### Professional Skills Matrix and Action Plan
+Throughout this unit, I gained knowledge of UML modeling and its application in SDLC. By actively practicing and utilizing open-source tools like draw.io, I honed my skills in creating comprehensive UML models. To further enhance my proficiency, I explored different UML modeling tools and platforms, adapting to their functionalities. Moving forward, I will continue to apply these skills in designing software systems prior to their implementation.
+
 
 ---
 
-This week, we will gain exposure to the Unified Modelling Language (UML). This is a standardised toolset to represent software systems on paper prior to their conversion into code.
-
-In this unit we shall:
- - Be exposed to the common syntax used by the Unified Modelling Language.
- - Explore the major UML models which are used throughout the object oriented analysis, design and development process.
- - Design UML models to represent aspects of specific software systems.
-
-On completion of this unit you will be able to:
- - Recognise the syntax used to design UML models.
- - Distinguish between the UML models which are applicable at various stages of the Software Development Life Cycle (SDLC).
- - Develop UML models using open source tools.
-
-The UML content this week is important in support of the design document that will be submitted in Week 6. The UML models will be used to design the software system on paper prior to its implementation in Python.
-
-### Learning Outcomes
-I will learn:
-
-### Artefacts
-These are the projects carried out to meet those learning outcomes, which are described in the link below.
-
-### Collaborative Discussion and meeting notes
-Notes from various meetings, as well as feedback from team members and tutors.
-
-### Reflections
-What exactly have I learnt and how?
-
-### Professional Skills Matrix and Action Plan
-What skills have I gained or enhanced as a result of this module and how can I use it? What else do I need to learn?
+[Return to Module 2 Main Page](OOP.md)
