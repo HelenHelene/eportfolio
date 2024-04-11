@@ -4,12 +4,8 @@ This e-portfolio activity requires us to make reference to 'The Unified Modeling
 However, the edition available in the eBook access link and Module Reading List in UoE modules is 'Unified Modeling Language User Guide First Edition (1998)', and the mentioned Figure 3-7 State Machine Diagram cannot be found in that book. 
 Fortunately, we were able to find the requested book from another source, so we can continue with this activity.
 
-
-
-### Reflections
-The collaborative discussion summary post provided valuable insights from diverse perspectives on reusability, expanding my knowledge beyond what is covered in the book. Through exploring UML models, I gained a better understanding of their relationship with the SDLC. Additionally, while completing the exercise of creating a State Machine Diagram, I explored different diagram drawing tools such as MS Visio, Lucid, and draw.io.
-
 Below is the State Machine Diagram designated in this activity, which demonstrates the history of a ticket to performance, presented in "The Unified Modeling Language Reference Manual" by Rumbaugh, Jacobson, and Booch (2004).
+<img src="images/OOP_Unit03_Reference3.7.jpg?raw=true"/>
 
 
 ### References
