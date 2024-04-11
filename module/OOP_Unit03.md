@@ -20,7 +20,7 @@ As part of my e-portfolio, I have completed the following projects and actively 
 
 [Discuss which UML models are most applicable at different stages of the Software Development Life Cycle.](https://www.uml-diagrams.org/uml-25-diagrams.html)
 
-[Making reference to ‘The Unified Modeling Language Reference Manual Second Edition’, use the State Machine Diagram in Figure 3-7 to design a similar model for a washing machine.]
+[State Machine Diagram for a washing machine.](OOP_Unit03_StateMach.md)
 
 ### Reflections
 The collaborative discussion summary post provided valuable insights from diverse perspectives on reusability, expanding my knowledge beyond what is covered in the book. Through exploring UML models, I gained a better understanding of their relationship with the SDLC. Additionally, while completing the exercise of creating a State Machine Diagram, I explored different diagram drawing tools such as MS Visio, Lucid, and draw.io.
