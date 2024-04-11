@@ -27,3 +27,7 @@ Through further discussions with peers in the collaborative discussion, I have g
 
 ### Professional Skills Matrix and Action Plan
 The practical work in Codio has supported my understanding of how to extend the development of a Python program by appreciating the retention of data as variables and the assignment of variables across different instances of a class. This knowledge will be crucial in supporting the development required for the coding contribution to the summative assessment. Additionally, the exploration of the Unified Modeling Language (UML) will play a critical role in preparing the design document for the summative assessment.
+
+---
+
+[Return to Module 2 Main Page](OOP.md)
