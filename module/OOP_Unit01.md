@@ -3,7 +3,7 @@
 In this introductory unit on Python programming, I gained a comprehensive understanding of the evolution of programming languages towards object orientation, as well as the challenges and benefits associated with programming in an object-oriented way.
 
 Throughout this unit, I accomplished the following objectives:
- - Explored the concept and characteristics of object-oriented programming.
+ - Explored the concept and characteristics of object-oriented programming (OOP).
  - Examined the syntax used to define classes in Python.
  - Investigated the implementation of different data types in Python.
   
@@ -28,6 +28,10 @@ As part of my e-portfolio, I have completed the following projects and participa
 This unit provided me with essential knowledge about the fundamental building blocks of Python programming. These concepts serve as a solid foundation for understanding and utilizing more advanced features of the language in subsequent units.
 
 ### Professional Skills Matrix and Action Plan
-As a result of this module, I have gained a deep understanding of the importance of object-oriented programming and its core concepts, such as abstraction, encapsulation, inheritance, and composition. I have also become familiar with key terminology related to object-oriented programming and factors that influence reusability.
+As a result of this module, I have gained a deep understanding of the importance of OOP and its core concepts, such as abstraction, encapsulation, inheritance, and composition. I have also become familiar with key terminology related to OOP and factors that influence reusability.
 
-In order to further enhance my skills, I will continue to apply these concepts in practical programming scenarios and explore advanced topics within Python and object-oriented programming.
+In order to further enhance my skills, I will continue to apply these concepts in practical programming scenarios and explore advanced topics within Python and OOP.
+
+---
+
+[Return to Module 2 Main Page](OOP.md)
