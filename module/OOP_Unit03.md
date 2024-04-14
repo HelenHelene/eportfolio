@@ -18,7 +18,7 @@ As part of my e-portfolio, I have completed the following projects and actively 
 
 [Collaborative Discussion 1 - Factors which Influence Reusability-Summary post]
 
-[Discuss which UML models are most applicable at different stages of the SDLC.](https://www.uml-diagrams.org/uml-25-diagrams.html)
+[Discuss which UML models are most applicable at different stages of the SDLC.](OOP_Unit03_Discuss.md)
 
 [State Machine Diagram for a washing machine.](OOP_Unit03_StateMach.md)
 
