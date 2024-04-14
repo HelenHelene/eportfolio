@@ -1,6 +1,6 @@
-### State Machine Diagram for a washing machine
+### Review the article by Di Silvestro & Nadir (2021). 
 
-This e-portfolio activity requires us to make reference to 'The Unified Modeling Language Reference Manual Second Edition (2004)' and use the State Machine Diagram in Figure 3-7 to design a similar model for a washing machine. 
+This e-portfolio activity requires us to Review the article by Di Silvestro & Nadir (2021). Discuss one aspect of this article which you find unexpected. 
 
 However, the edition available in the eBook access link and Module Reading List in UoE modules is 'Unified Modeling Language User Guide First Edition (1998)', and the mentioned Figure 3-7 State Machine Diagram cannot be found in that book. 
 
