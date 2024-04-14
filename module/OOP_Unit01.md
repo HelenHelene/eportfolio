@@ -18,7 +18,7 @@ As part of my e-portfolio, I have completed the following projects and participa
 
 [Collaborative Discussion 1 - Factors which Influence Reusability-Initial post](https://helenhelene.github.io/eportfolio/pdf/Module02_Discussion1_Initial.pdf)
 
-[Review the article by Di Silvestro & Nadir (2021). Discuss one aspect of this article which you find unexpected.]
+[Review the article by Di Silvestro & Nadir (2021).](OOP_Unit01_Discuss.md)
 
 [Protected and unprotected variables.](OOP_Unit01_ProtectedandUnprotectedvar.md)
 
