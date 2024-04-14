@@ -27,6 +27,8 @@ As part of my e-portfolio, I have completed the following projects and participa
 ### Reflections
 This unit provided me with essential knowledge about the fundamental building blocks of Python programming. These concepts serve as a solid foundation for understanding and utilizing more advanced features of the language in subsequent units.
 
+After reviewing and discussing the article by Di Silvestro & Nadir (2021), I gained a better understanding of the reasons behind the ongoing process of building our e-portfolios. This experience also transformed my perspective on e-portfolios.
+
 ### Professional Skills Matrix and Action Plan
 As a result of this module, I have gained a deep understanding of the importance of OOP and its core concepts, such as abstraction, encapsulation, inheritance, and composition. I have also become familiar with key terminology related to OOP and factors that influence reusability.
 
