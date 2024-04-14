@@ -14,7 +14,6 @@ Fortunately, we were able to find the requested book from another source, so we 
 ---
 
 #### References
-Rumbaugh, J., Jacobson, I. & Booch, G. (2004) The Unified Modeling Language Reference Manual. 2nd ed. Boston: Addison-Wesley.  
-<img src="https://helenhelene.github.io/eportfolio/images/OOP_Unit03_Reference.jpg"/>
+Di Silvestro, F. & Nadir, H. (2021) The Power of ePortfolio Development to Foster Reflective and Deeper Learning in an Online Graduate Adult Education Program. Adult Learning 32(4):154-164.
 
 ---
