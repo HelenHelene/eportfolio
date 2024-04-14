@@ -10,7 +10,7 @@ Perhaps the intention behind discussing this article in Unit One was to help us 
 
 As I continue in this course, I anticipate that the insights gained from this article will guide me in creating an effective e-portfolio. I now understand that it is not merely a way to showcase achievements, but also a means of reflecting on my experiences and gaining a deeper understanding of the concepts encountered in my learning journey.
 
-<br><br>
+<br>
 
 ---
 
