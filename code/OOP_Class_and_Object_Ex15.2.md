@@ -1,7 +1,8 @@
 
 
 ```python
-# Exercise 15.2 
+# Exercise 15.2
+
 import math
 import turtle
 
