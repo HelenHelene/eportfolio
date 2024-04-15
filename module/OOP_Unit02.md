@@ -17,9 +17,9 @@ I have completed the following projects to meet these learning outcomes, which a
 Collaborative Discussion 1 - Factors which Influence Reusability-Respond to peers: [Respond 1](https://helenhelene.github.io/eportfolio/pdf/Module02_Discussion1_Respond1.pdf) & 
 [Pespond 2](https://helenhelene.github.io/eportfolio/pdf/Module02_Discussion1_Respond2.pdf)
 
-[Classes Functions and Methods - Tutorial Labs]
+[Class Functions and Methods - Tutorial Labs]
 
-[Classes Functions and Methods - Exercises](OOP_Unit02_CodioEx.md)
+[Class Functions and Methods - Exercises](OOP_Unit02_CodioEx.md)
 
 [(Optional)Write a Python program to achieve basic employee-related functionality with protected and unprotected variables.]
    
