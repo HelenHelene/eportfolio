@@ -1,7 +1,7 @@
 
 
 ```python
-# Tutorial Lab 1:Creating a Class
+# Tutorial Lab 1: Creating a Class
 class Person:
     #Represents a generic Person.
     def __init__(self, first, last, weight, height):
