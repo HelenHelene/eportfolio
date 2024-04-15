@@ -46,18 +46,11 @@ print(is_after(t1, t2))
 
 ```
 
+```python
+# Output
     11:59:30
     11:59:45
     12:00:00
     False
-
-
-
-```python
-
-```
-
-
-```python
 
 ```
