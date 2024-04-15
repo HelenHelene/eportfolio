@@ -34,16 +34,15 @@ print("Updated unprotected variable name:", staff_member.name)
 print(staff_member)
 ```
 
+```python
+# Output
     Protected variable _id: 123
     Unprotected variable name: Amy
     Updated protected variable _id: 456
     Updated unprotected variable name: Barry
     ID: 456
     Name: Barry
-
-
-
-
+```
 
 
 ---
