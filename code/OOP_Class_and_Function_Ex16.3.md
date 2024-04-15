@@ -43,10 +43,9 @@ print_time(current_time)
 
 ```
 
-    09:48:10
-
-
-
 ```python
+
+Output
+    09:48:10
 
 ```
