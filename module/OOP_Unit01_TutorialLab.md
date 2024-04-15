@@ -36,6 +36,8 @@ for person in person_list:
     print(person.first_name)
 ```
 
+```python
+# Output
     <class '__main__.Person'>
     Tom Thumb weighs 150lbs.
     George Thumb weighs 150lbs.
@@ -45,6 +47,7 @@ for person in person_list:
     Tanya
     Mary
 
+```
 
 
 ---
