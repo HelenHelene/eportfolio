@@ -16,14 +16,16 @@ Upon completing this unit, I am able to:
 ### Artefacts and Collaborative Discussion 
 As part of my e-portfolio, I have completed the following projects and participated in collaborative discussions, which are documented in the provided link:
 
+Portfolio Component
 [Collaborative Discussion 1 - Factors which Influence Reusability-Initial post](https://helenhelene.github.io/eportfolio/pdf/Module02_Discussion1_Initial.pdf)
 
+e-Portfolio Activities
 [Review the article by Di Silvestro & Nadir (2021).](OOP_Unit01_Discuss.md)
 
 [Protected and unprotected variables.](OOP_Unit01_ProtectedandUnprotectedvar.md)
 
 Codio Activity - Classes and Objects
-[Exercise 15.1]
+[Exercise 15.1](
 [Exercise 15.2]
 [Tutorial Labs](OOP_Unit01_TutorialLab.md)
 
