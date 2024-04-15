@@ -24,7 +24,7 @@ As part of my e-portfolio, I have completed the following projects and participa
 
 [Classes and Objects - Tutorial Labs](OOP_Unit01_TutorialLab.md)
 
-[Classes and Objects - Exercises]
+[Classes and Objects - Exercises](OOP_Unit01_CodioEx.md)
 
 ### Reflections
 This unit provided me with essential knowledge about the fundamental building blocks of Python programming. These concepts serve as a solid foundation for understanding and utilizing more advanced features of the language in subsequent units.
