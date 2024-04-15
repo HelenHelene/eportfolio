@@ -14,11 +14,12 @@ Upon completion of this unit, I am able to:
 ### Artefacts and Collaborative Discussion
 I have completed the following projects to meet these learning outcomes, which are recorded in the link below:
 
-Collaborative Discussion 1 - Factors which Influence Reusability-Respond to peers
-[Respond 1](https://helenhelene.github.io/eportfolio/pdf/Module02_Discussion1_Respond1.pdf)
+Collaborative Discussion 1 - Factors which Influence Reusability-Respond to peers: [Respond 1](https://helenhelene.github.io/eportfolio/pdf/Module02_Discussion1_Respond1.pdf) & 
 [Pespond 2](https://helenhelene.github.io/eportfolio/pdf/Module02_Discussion1_Respond2.pdf)
 
-[Review the Codio module Class, Functions and Methods and save the results in e-portfolio.]
+[Classes Functions and Methods - Tutorial Labs]
+
+[Classes Functions and Methods - Exercises](OOP_Unit02_CodioEx.md)
 
 [(Optional)Write a Python program to achieve basic employee-related functionality with protected and unprotected variables.]
    
