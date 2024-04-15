@@ -2,7 +2,6 @@
 
 ```python
 # Exercise 15.1 
-
 import math
 
 # Define the Point class
@@ -74,8 +73,17 @@ print(rect_circle_overlap(circle, rectangle))
 
 ```
 
-```python
 
+```python
+# Exercise 15.1 Output
+    True
+    True
+    True
+
+```
+
+
+```python
 # Exercise 15.2 
 import math
 import turtle
@@ -143,13 +151,7 @@ turtle.done()
 
 ```
 
-```python
-# Exercise 15.1 Output
-    True
-    True
-    True
 
-```
 
 ---
 
