@@ -74,17 +74,9 @@ print(rect_circle_overlap(circle, rectangle))
 
 ```
 
-    True
-    True
-    True
-
-
-
 ```python
-
-```
-
-
-```python
-
+# Output
+    True
+    True
+    True
 ```
