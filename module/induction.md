@@ -7,3 +7,6 @@ This module requires an assignment that discusses the importance of pursuing a p
 
 #### [Induction Assignment (Pass)](https://helenhelene.github.io/eportfolio/pdf/Induction_PGCS.pdf)
 
+---
+
+[Return to Main Page](index.md)
