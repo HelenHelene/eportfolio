@@ -46,7 +46,6 @@ for person in person_list:
     Mary
 
 
-
 ```python
 
 ```
