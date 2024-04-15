@@ -50,10 +50,8 @@ print_time(done)
 
 ```
 
-    11:20:00
-
-
-
 ```python
+# Output:
+    11:20:00
 
 ```
