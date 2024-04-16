@@ -1,7 +1,7 @@
 
 
 ```python
-# Exercise 17.3 
+# Session 17.3 
 
 class Time:
     def __init__(self, hour, minute, second):
@@ -41,10 +41,9 @@ end.print_time()
 
 ```
 
-    10:07:17
-
-
-
 ```python
+
+# Output
+    10:07:17
 
 ```
