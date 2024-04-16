@@ -141,7 +141,10 @@ myPhoneBookApp()
 
 ```
 
-    
+```python
+
+#Output
+
     Welcome to the Main Menu
     1. Display all contacts
     2. Insert a new contact
@@ -157,6 +160,6 @@ myPhoneBookApp()
 
 
 
-```python
+
 
 ```
