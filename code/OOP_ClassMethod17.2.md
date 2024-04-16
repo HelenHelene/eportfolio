@@ -1,7 +1,7 @@
 
 
 ```python
-# Exercise 17.2 
+# Session 17.2 
 
 """Class and Function
 
