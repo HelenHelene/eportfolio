@@ -22,10 +22,9 @@ The use case view is utilized during the stage of gathering and analyzing requir
 Use case diagrams are used to visually represent these interactions and the different use cases that the system supports. These diagrams illustrate the relationships between actors and use cases, as well as the flow of interactions between them. By using use case diagrams, we can identify the various functionalities or services that the system needs to provide and determine the actors who will interact with it.
 
 #### Activity view - Activity diagram
-The activity view focus on the flow of control or object flow among the computationa activites involved in performing a calculation or a worlkflow.  
+The activity view focuses on the flow of control or object flow among the steps of a computation or workflow. It represents computational activities involved in performing calculations or workflows. 
 
-Activity diagrams can be advanced version of flow chart that modeling the flow from one activities to another activity.
-Activity diagrams help model business processes, workflows, and the sequence of actions in a system. They are particularly helpful in understanding complex business logic.
+Activity diagrams can be seen as an advanced version of a flow chart, as they model the flow from one activity to another. The actions coordinated by activity models can be initiated when other actions finish executing, when objects and data become available, or when certain external events occur. Activity diagrams are particularly useful for visualizing workflows, business processes, or the logic of complex algorithms.
 
 #### State machine view - State machine diagram/State Transition Diagram.
 The state machine view is used to depict the potential life cycles of an object belonging to a class. It consists of states connected by transitions, where each state represents a specific period in the object's life, characterized by certain conditions being met.
@@ -33,12 +32,19 @@ The state machine view is used to depict the potential life cycles of an object 
 State machine diagram are behavioral diagrams that illustrate the various states an object or system can assume and how it transitions between those states based on events or conditions. These diagrams are particularly useful when modeling systems in which behavior is dependent on the current state, such as user interfaces or control systems.
 
 #### Interaction view - Sequence diagram
-The interaction view describes sequenes of message exchange amoung the parts of a system.
+The interaction view describes sequences of message exchanges among the parts of a system. One use of sequence diagrams is to show the behavioral sequence of a use case. They illustrate the sequence of interactions between objects over time. 
 
-one use of sequence diagrams is to show the behaviour sequence of a use case.  They show the the sequence of interactions between objects over time. Sequence diagrams are useful for designing and documenting interactions between different components or objects in the system, especially in scenarios where the timing and order of messages are important.
+Sequence diagrams are useful for designing and documenting interactions between different components or objects in the system, especially in scenarios where the timing and order of messages are important. They concentrate on modeling the interactions between objects or components within a system, showcasing the sequence of messages exchanged between objects and highlighting their order and timing. Sequence diagrams provide a detailed view of the interactions and collaborations between objects, including the exchange of messages, method invocations, and responses.
 
-#### deployment view - depolyment diagram
-#### model management view - package diagram   
+#### Deployment view - Depolyment diagram
+A deployment view shows the deployment of runtime artifacts on nodes. Nodes represent runtime resources such as computers or memory, while artifacts are physical implementation units such as files. This view allows the consequences of distribution and resource allocation to be assessed. 
+
+Deployment diagrams are used to model the physical aspects of an object-oriented system. They depict the static deployment view of a system, showing the topology of the hardware and how runtime artifacts are deployed on the nodes.
+
+#### Model management view - Package diagram   
+Model management consists of packages and dependency relationships among them, which allow a large system to be divided into smaller units. The model management view models the organization of the model itself and comprises a set of packages that hold model elements such as classes, state machines, and use cases. 
+
+Package diagram demonstrates the arrangement and organization of model elements in a medium to large-scale project. Package diagrams can represent both the structure and dependencies between subsystems or modules, providing different views of a system, such as a multi-layered application model in a multi-tiered application architecture.
 
 <br>
 
