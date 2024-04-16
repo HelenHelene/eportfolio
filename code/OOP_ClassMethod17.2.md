@@ -44,16 +44,9 @@ start2.print_time()
 
 ```
 
+```python
+# Output
     09:50:00
     10:20:10
-
-
-
-```python
-
-```
-
-
-```python
 
 ```
