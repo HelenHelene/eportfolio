@@ -156,5 +156,8 @@ myPhoneBookApp()
     
     Exiting the application.
  
-
 ```
+
+---
+
+[Return to Module 1 Main Page](LCS.md)
