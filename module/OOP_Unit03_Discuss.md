@@ -7,25 +7,35 @@ When discussing UML models, we primarily focus on diagrams. According to IBM Doc
 Rumbaugh, Jacobson, and Booch (2004) provide a brief overview of UML and the diagrams used in different perspectives. Here, I will list the commonly used UML models and when they are most applicable:
 
 #### Static view - Class diagram
-The Static view model does  this model 
-The static view is displaed in class diagrams
+The static view is the foundation of UML.  It provides a logical perspective on the concepts in the application during the design and implementation phases of SDLC. It assists users in comprehending the system's structure, its components, and their relationships. The primary components of the static view are classes and their attributes which are represented in class diagrams. 
 
-are widely used during the design and implementation phases of the SDLC. They show the relationship between classes and their attributes in system's structure. Class diagrams help design the software architecture and establish the foundation for object-oriented programming. They show the overall structure of the system and facilitate communication between developers.
+Class diagrams play a crucial role in designing the software architecture and establishing the groundwork for object-oriented programming (OOP). They present an overview of the system's structure and facilitate effective communication among developers.
 
-#### Design view - Component diagram
-Component diagrams are applicable during the design and implementation phases of the SDLC. They illustrate the structure and organization of the software components or modules that make up the system. Component diagrams show the relationships between components, including dependencies, interfaces, and collaborations. They help understand the software architecture and promote modularity and reusability.
+#### Design view - Composite structure diagram
+The design view focuses on representing the design structure of an application. It facilitates the mapping of classes to implementation components and helps in expanding high-level classes into a supportive structure.  
+
+Composite structure diagram provides insights into the internal structure of a classifier and the behavior of a collaboration. While it serves a similar purpose as a class diagram, the composite structure diagram allows for a more detailed description of the internal structure of multiple classes and demonstrates their interactions.
    
-#### use case view - use case diagram
-Use case diagrams are used in the early stages of the SDLC, such as when gathering and analyzing requirements. They show the system's functionalities from a user's perspective, depicting how users interact with the system. Use case diagrams help identify major system functions and define the project's scope.
+#### Use case view - Use case diagram
+The use case view is utilized during the stage of gathering and analyzing requirements to develop a clear understanding of the system's requirements and the roles played by different actors within the system. It involves describing the interactions between actors and the system as a sequence of messages.
 
-#### activity view - activity diagram
-Activity diagrams are useful during requirements analysis and system design. They present the flow of actions and activities within a system. Activity diagrams help model business processes, workflows, and the sequence of actions in a system. They are particularly helpful in understanding complex business logic.
+Use case diagrams are used to visually represent these interactions and the different use cases that the system supports. These diagrams illustrate the relationships between actors and use cases, as well as the flow of interactions between them. By using use case diagrams, we can identify the various functionalities or services that the system needs to provide and determine the actors who will interact with it.
 
-#### state machine view - state machine diagram 
-State machine diagrams are valuable in the design and development stages of the SDLC, especially for systems with complex states and behavior. They show the different states an object or system can be in and how it transitions between those states based on events or conditions. State machine diagrams are helpful when modeling systems with behavior that depends on their current state, such as user interfaces or control systems.
+#### Activity view - Activity diagram
+The activity view focus on the flow of control or object flow among the computationa activites involved in performing a calculation or a worlkflow.  
 
-#### interaction view - sequence diagram
-Sequence diagrams are primarily used during the design and implementation phases of the SDLC. They show the the sequence of interactions between objects over time. Sequence diagrams are useful for designing and documenting interactions between different components or objects in the system, especially in scenarios where the timing and order of messages are important.
+Activity diagrams can be advanced version of flow chart that modeling the flow from one activities to another activity.
+Activity diagrams help model business processes, workflows, and the sequence of actions in a system. They are particularly helpful in understanding complex business logic.
+
+#### State machine view - State machine diagram/State Transition Diagram.
+The state machine view is used to depict the potential life cycles of an object belonging to a class. It consists of states connected by transitions, where each state represents a specific period in the object's life, characterized by certain conditions being met.
+
+State machine diagram are behavioral diagrams that illustrate the various states an object or system can assume and how it transitions between those states based on events or conditions. These diagrams are particularly useful when modeling systems in which behavior is dependent on the current state, such as user interfaces or control systems.
+
+#### Interaction view - Sequence diagram
+The interaction view describes sequenes of message exchange amoung the parts of a system.
+
+one use of sequence diagrams is to show the behaviour sequence of a use case.  They show the the sequence of interactions between objects over time. Sequence diagrams are useful for designing and documenting interactions between different components or objects in the system, especially in scenarios where the timing and order of messages are important.
 
 #### deployment view - depolyment diagram
 #### model management view - package diagram   
