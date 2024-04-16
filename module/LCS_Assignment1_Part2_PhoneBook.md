@@ -140,7 +140,9 @@ def myPhoneBookApp():
 myPhoneBookApp()
 
 ```
+```python
 
+#Output
     
     Welcome to the Main Menu
     1. Display all contacts
@@ -153,10 +155,6 @@ myPhoneBookApp()
     Enter your option (1, 2, 3, 4, 5, or 6): 6
     
     Exiting the application.
-    
-
-
-
-```python
+ 
 
 ```
