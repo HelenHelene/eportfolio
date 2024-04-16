@@ -12,7 +12,7 @@ The links provided below will guide you to the assignment materials.
 
 #### Assignment 1: Part 2 (Pass with Distinction)
 #### [Python - Phone Book Application-README](https://helenhelene.github.io/eportfolio/pdf/Module01_Python_README.pdf)
-#### [Python - Phone Book Application-Code](https://helenhelene.github.io/eportfolio/pdf/Module01_Python_Code.pdf)
+#### [Python - Phone Book Application-Code](https://helenhelene.github.io/eportfolio/code/LCS_Assignment1_Part1_PhoneBook.md)
 #### [Python - Phone Book Application-Testing Strategy](https://helenhelene.github.io/eportfolio/pdf/Module01_Python_TestingStrategy.pdf)
 <br>
 
