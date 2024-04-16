@@ -1,15 +1,16 @@
 ### Discuss which UML models are most applicable at different stages of the SDLC. 
 
-This activity requires us to discuss the appropriate use of Unified Modeling Language (UML) models in different stages of the Software Development Life Cycle (SDLC). The choice of UML models depends on the specific stage of the SDLC and the information that needs to be conveyed.
+This activity requires us to discuss the appropriate use of Unified Modeling Language (UML) models in different stages of the Software Development Life Cycle (SDLC). 
 
 When discussing UML models, we primarily focus on diagrams. According to IBM Documentation (2023), UML models provide an abstract view of the system, while diagrams offer concrete representations of the system.
 
 Rumbaugh, Jacobson, and Booch (2004) provide a brief overview of UML and the diagrams used in different perspectives. Here, I will list the commonly used UML models and when they are most applicable:
 
 #### Static view - Class diagram
-The static view is the foundation of UML.  It provides a logical perspective on the concepts in the application during the design and implementation phases of SDLC. It assists users in comprehending the system's structure, its components, and their relationships. The primary components of the static view are classes and their attributes which are represented in class diagrams. 
+The static view provides a logical perspective on the concepts in the application during the design and implementation phases of the SDLC. It assists users in comprehending the system's structure, its components, and their relationships. The primary components of the static view are classes and their attributes, which are represented in class diagrams.
 
-Class diagrams play a crucial role in designing the software architecture and establishing the groundwork for object-oriented programming (OOP). They present an overview of the system's structure and facilitate effective communication among developers.
+Class diagrams present an overview of the system's structure and facilitate effective communication among developers. This is essential at the foundational stage of the SDLC.
+
 
 #### Design view - Composite structure diagram
 The design view focuses on representing the design structure of an application. It facilitates the mapping of classes to implementation components and helps in expanding high-level classes into a supportive structure.  
@@ -17,14 +18,14 @@ The design view focuses on representing the design structure of an application. 
 Composite structure diagram provides insights into the internal structure of a classifier and the behavior of a collaboration. While it serves a similar purpose as a class diagram, the composite structure diagram allows for a more detailed description of the internal structure of multiple classes and demonstrates their interactions.
    
 #### Use case view - Use case diagram
-The use case view is utilized during the stage of gathering and analyzing requirements to develop a clear understanding of the system's requirements and the roles played by different actors within the system. It involves describing the interactions between actors and the system as a sequence of messages.
+The use case view is used to gathering and analyzing requirements to develop a clear understanding of the system's requirements and the roles played by different actors within the system. It involves describing the interactions between actors and the system as a sequence of messages.
 
 Use case diagrams are used to visually represent these interactions and the different use cases that the system supports. These diagrams illustrate the relationships between actors and use cases, as well as the flow of interactions between them. By using use case diagrams, we can identify the various functionalities or services that the system needs to provide and determine the actors who will interact with it.
 
 #### Activity view - Activity diagram
-The activity view focuses on the flow of control or object flow among the steps of a computation or workflow. It represents computational activities involved in performing calculations or workflows. 
+The activity view focuses on the flow of control among the steps of a computation or workflow. It represents computational activities involved in performing calculations or workflows. 
 
-Activity diagrams can be seen as an advanced version of a flow chart, as they model the flow from one activity to another. The actions coordinated by activity models can be initiated when other actions finish executing, when objects and data become available, or when certain external events occur. Activity diagrams are particularly useful for visualizing workflows, business processes, or the logic of complex algorithms.
+Activity diagrams is known as an advanced version of a flow chart. The actions coordinated by activity models can be initiated when other actions finish executing, when objects and data become available, or when certain external events occur. Activity diagrams are particularly useful for visualizing workflows, business processes, or the logic of complex algorithms.
 
 #### State machine view - State machine diagram/State Transition Diagram.
 The state machine view is used to depict the potential life cycles of an object belonging to a class. It consists of states connected by transitions, where each state represents a specific period in the object's life, characterized by certain conditions being met.
