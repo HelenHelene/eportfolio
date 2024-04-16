@@ -1,7 +1,7 @@
 
 
 ```python
-# exercise 16.1 
+# Session 16.1 
 
 """Represents the time of day.
     attributes: hour, minute, second"""
