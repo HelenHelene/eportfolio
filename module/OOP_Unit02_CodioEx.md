@@ -1,167 +1,144 @@
 
 
 ```python
-# Exercise 16.1 
-
-"""Represents the time of day.
-    attributes: hour, minute, second"""
+# Exercise 16.1
 
 class Time:
     def __init__(self, hour, minute, second):
         self.hour = hour
         self.minute = minute
         self.second = second
-        
-"""Write a function called print_time that takes a Time object and
-    prints it in the form hour:minute:second."""   
 
-def print_time(time):
-    print('%.2d:%.2d:%.2d' % (time.hour, time.minute, time.second))
+    def print_time(self):
+        print('%.2d:%.2d:%.2d' % (self.hour, self.minute, self.second))
+       
+    def __mul__(self, number):
+        return self.mul_time(number)
 
-# Create Time object
-t1 = Time(11, 59, 30)
+    def mul_time(self, number):
+        total_seconds = self.time_to_seconds() * number
+        return Time.int_to_time(total_seconds)
 
-# Print Time object
-print_time(t1)
+    def time_to_seconds(self):
+        return self.hour * 3600 + self.minute * 60 + self.second
+
+    @staticmethod
+    def int_to_time(seconds):
+        minutes, seconds = divmod(seconds, 60)
+        hours, minutes = divmod(minutes, 60)
+        return Time(hours, minutes, seconds)
+
+def calculate_average_pace(finishing_time, distance):
+    seconds_per_mile = finishing_time.time_to_seconds() / distance
+    minutes_per_mile = seconds_per_mile // 60
+    seconds = seconds_per_mile % 60
+    return Time(0, minutes_per_mile, seconds)
 
 
-"""Write a boolean function called is_after that takes two Time objects, t1 and t2, 
-and returns True if t1 follows t2 chronologically and False otherwise.  Dont's use an if statement"""
+# Example given
+race_time = Time(3, 34, 5)
+marathon_distance = 26.2  # Distance in miles
 
-def is_after(t1, t2):
-    #Converted to second
-    return (t1.hour * 3600 + t1.minute * 60 + t1.second) > (t2.hour * 3600 + t2.minute * 60 + t2.second)
+average_pace = calculate_average_pace(race_time, marathon_distance)
+print("Average Pace for a marathon: {:.2f} minutes/mile".format(average_pace.minute + average_pace.second / 60))
 
-# Create Time objects
-t1 = Time(11, 59, 45)
-t2 = Time(12, 0, 0)
-
-# Print Time objects
-print_time(t1)
-print_time(t2)
-
-# Check if t1 is after t2
-print(is_after(t1, t2))
-  
 ```
 
 ```python
 # Exercise 16.1 Output
-    11:59:30
 
-    11:59:45
-    12:00:00
-    False
+    Average Pace for a marathon: 8.17 minutes/mile
+
+
 
 ```
 
 
 ```python
-# Exercise 16.2 
+# Exercise 16.2
 
-"""Represents the time of day.
-    attributes: hour, minute, second"""
+"""Use the datetime module to write a program that gets the current date and prints the day of the week."""
 
-class Time:
-    def __init__(self, hour, minute, second):
-        self.hour = hour
-        self.minute = minute
-        self.second = second
-        
-"""Write a function called print_time that takes a Time object and
-    prints it in the form hour:minute:second."""   
+import datetime
 
-def print_time(time):
-    print('%.2d:%.2d:%.2d' % (time.hour, time.minute, time.second))
+# Get the current date
+current_date = datetime.date.today()
 
-"""Pure function:
-    Creates a new Time object, initializes its attributes, and returns a reference to the new object.
-    Carry the extra seconds into the minutes column or the extra minutes into the hour column when it is more than sixty"""
+# Print the day of the week
+day_of_week = current_date.strftime("%A")
+print("Today is", day_of_week)
 
-def add_time(t1, t2):
-    sum = Time(0, 0, 0)
-    sum.hour = t1.hour + t2.hour
-    sum.minute = t1.minute + t2.minute
-    sum.second = t1.second + t2.second
 
-    if sum.second >= 60:
-        sum.second -= 60
-        sum.minute += 1
+"""Write a program that takes a birthday as input and 
+prints the user's age and the number of days, hours, minutes and seconds until their next birthday."""
 
-    if sum.minute >= 60:
-        sum.minute -= 60
-        sum.hour += 1
+# Get the user's birthday
+birthday_str = input("Enter your birthday (YYYY-MM-DD): ")
+birthday = datetime.datetime.strptime(birthday_str, "%Y-%m-%d").date()
 
-    if sum.hour >= 24:
-        sum.hour -= 24
+# Calculate the age
+age = current_date.year - birthday.year
 
-    return sum
+# Check if the birthday has passed this year
+if current_date.month < birthday.month or (current_date.month == birthday.month and current_date.day < birthday.day):
+    age -= 1
 
-# Create Time objects
-start = Time(9, 45, 0)
-duration = Time(1, 35, 0)
+# Calculate the next birthday
+next_birthday = datetime.date(current_date.year, birthday.month, birthday.day)
+if current_date > next_birthday:
+    next_birthday = datetime.date(current_date.year + 1, birthday.month, birthday.day)
 
-done = add_time(start, duration)
-print_time(done)
+# Calculate the time until the next birthday
+time_until_next_birthday = next_birthday - current_date
+
+# Print the age and time until the next birthday
+print("Age:", age)
+print("Time until next birthday:", time_until_next_birthday)
+
+"""For two people born on different days, there is a day when one is twice as old as the other. 
+That's their Double Day. Write a program that takes two birthdays and computes their Double Day."""
+
+# Get the first person's birthday
+birthday1_str = input("Enter the first person's birthday (YYYY-MM-DD): ")
+birthday1 = datetime.datetime.strptime(birthday1_str, "%Y-%m-%d").date()
+
+# Get the second person's birthday
+birthday2_str = input("Enter the second person's birthday (YYYY-MM-DD): ")
+birthday2 = datetime.datetime.strptime(birthday2_str, "%Y-%m-%d").date()
+
+# Initialize the start date
+start_date = max(birthday1, birthday2)
+
+# Find the Double Day
+while True:
+    age1 = start_date.year - birthday1.year
+    age2 = start_date.year - birthday2.year
+    if age1 == 2 * age2 or age2 == 2 * age1:
+        double_day = start_date
+        break
+    start_date += datetime.timedelta(days=1)
+
+# Print the Double Day
+print("The Double Day is:", double_day)
 
 ```
 
 ```python
 # Exercise 16.2 Output
-    11:20:00
+
+    Today is Wednesday
+
+    Enter your birthday (YYYY-MM-DD): 1980-01-01
+    Age: 44
+    Time until next birthday: 259 days, 0:00:00
+
+    Enter the first person's birthday (YYYY-MM-DD): 1985-06-30
+    Enter the second person's birthday (YYYY-MM-DD): 1970-01-01
+    The Double Day is: 2000-01-01
+
+
 
 ```
-
-
-```python
-# Exercise 16.3 
-
-"""Represents the time of day.
-    attributes: hour, minute, second"""
-
-class Time:
-    def __init__(self, hour, minute, second):
-        self.hour = hour
-        self.minute = minute
-        self.second = second
-        
-"""Write a function called print_time that takes a Time object and
-    prints it in the form hour:minute:second."""   
-
-def print_time(time):
-    print('%.2d:%.2d:%.2d' % (time.hour, time.minute, time.second))
-
-"""Replace the if statement in rough draft with while statements"""
-
-def increment(time, seconds):
-    time.second += seconds
-
-    while time.second >= 60:
-        time.second -= 60
-        time.minute += 1
-
-    while time.minute >= 60:
-        time.minute -= 60
-        time.hour += 1
-
-
-# Create a Time object
-current_time = Time(9, 45, 0)
-
-# Increment the time by 190 seconds (3 minute and 10 second)
-increment(current_time, 190)
-
-# Print the updated time
-print_time(current_time)
-
-```
-
-```python
-# Exercise 16.3 Output
-    09:48:10
-
-```
-
 
 ---
 
