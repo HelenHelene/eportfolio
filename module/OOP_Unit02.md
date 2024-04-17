@@ -17,7 +17,7 @@ I have completed the following projects to meet these learning outcomes, which a
 Collaborative Discussion 1 - Factors which Influence Reusability-Respond to peers: [Respond 1](https://helenhelene.github.io/eportfolio/pdf/Module02_Discussion1_Respond1.pdf) & 
 [Pespond 2](https://helenhelene.github.io/eportfolio/pdf/Module02_Discussion1_Respond2.pdf)
 
-[Class Functions and Methods - Tutorial Labs]
+[Class Functions and Methods - Tutorial Labs](OOP_Unit02_TutorialLab.md)
 
 [Class Functions and Methods - Exercises](OOP_Unit02_CodioEx.md)
 
