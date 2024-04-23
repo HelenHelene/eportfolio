@@ -1,5 +1,7 @@
 ### Assignment 1: A Design Proposal of Software to Support Operation of a Driverless Car
 
+<br>
+
 This design proposal presents the development of software that supports the operation of a driverless car.
 
 Before starting the design process, terms such as autonomous vehicles, driverless cars, robotic cars, self-driving cars, lane decision/lane-keep assist (LKA), emergency brake/automatic emergency braking (AEB), and obstacle/object detection are used to conduct background research. This research aims to identify key concepts and common features that contribute to the operation of driverless cars, with a special focus on the capabilities relevant to safety.
@@ -21,11 +23,19 @@ The proposed driverless car will be self-drive on a designated path with maximum
 #### UML models
 To represent the design and operation of the driverless car system, the following UML models are utilized:
 
-<img src="https://helenhelene.github.io/eportfolio/images/WashingMach.jpg"/>
+<img src="OOP_Assignment1_UseCase.jpg?raw=true"> 
+<br>
+<img src="OOP_Assignment1_Class.jpg?raw=true">
+<br>
+<img src="OOP_Assignment1_Activity.jpg?raw=true">
+<br>
+<img src="OOP_Assignment1_Sequence.jpg?raw=true">
+<br>
+<img src="OOP_Assignment1_StateMach.jpg?raw=true">
+<br>
 
 #### Conclusion
 This design proposal outlines the capabilities and structure of the software that supports the operation of a driverless car. The UML models facilitate the design and implementation process. By incorporating key features and functionalities, the software aims to ensure safe and efficient autonomous driving.
-
 
 <br><br>
 
@@ -51,6 +61,8 @@ United States Environmental Protection Agency. (2023) Self-driving Vehicles.  Av
 Visual Paradigm. Overview of the 14 UML Diagram Types. Available from: https://www.visual-paradigm.com/guide/uml-unified-modeling-language/overview-of-the-14-uml-diagram-types/ [Accessed 15 April 2024]
 
 Zhou, Z. Q. & Sun, L. (2019) Metamorphic testing of driverless cars. Commun. ACM 62(3): 61–67. DOI: https://doi.org/10.1145/3241979.
+
+<br><br>
 
 ---
 
