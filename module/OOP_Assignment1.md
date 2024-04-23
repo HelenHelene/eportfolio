@@ -2,26 +2,27 @@
 
 <br>
 
-This design proposal presents the development of software that supports the operation of a driverless car.
+#### Introduction
+This report presents a design proposal for the development of software that supports the operation of a driverless car.
 
 #### Background Research
-Before starting the design process, terms such as autonomous vehicles, driverless cars, robotic cars, self-driving cars, lane decision/lane-keep assist (LKA), emergency brake/automatic emergency braking (AEB), and obstacle/object detection are used to conduct background research. This research aims to identify key concepts and common features that contribute to the operation of driverless cars, with a special focus on the capabilities relevant to safety.
+Prior to commencing the design process, extensive background research was conducted on terms such as autonomous vehicles, driverless cars, robotic cars, self-driving cars, lane decision/lane-keep assist (LKA), emergency brake/automatic emergency braking (AEB), and obstacle/object detection. The purpose of this research was to identify key concepts and common features that contribute to the operation of driverless cars, with a particular emphasis on safety-related capabilities.
 
-According to Reddy (2019), a driverless car, also known as self-driving car, robot car, or autonomous car, is described as a vehicle that possesses the ability to perceive its surroundings and operate with minimal or no intervention from a human driver.
-
-To enable the car to make decisions, advanced sensor systems such as LiDAR and radar are necessary to perceive the vehicle's surroundings. Processing sensor data allows informed decisions regarding navigation, speed, and safety measures. Last but not least, machine learning algorithms empower the driverless car to adapt to diverse driving scenarios.
+#### Definition of a Driverless Car
+According to Reddy (2019), a driverless car, also known as a self-driving car, robot car, or autonomous car, is a vehicle that possesses the ability to perceive its surroundings and operate with minimal or no intervention from a human driver.
 
 #### Selected Operations
-This proposal focuses on a driverless car designed at Level 3 – Conditional Driving Automation to Level 4 – High Driving Automation, which can handle most normal driving conditions and monitor its surroundings (SAE International 2021).
+This proposal focuses on designing a driverless car at Level 3 - Conditional Driving Automation to Level 4 - High Driving Automation, capable of handling most normal driving conditions and monitoring its surroundings (SAE International 2021). 
+Three key operations have been chosen as the foundation for safety:
 
-Three operations have been chosen as the foundation for safety:
-1.	**Lane Detection** is an essential technique for a driverless car to ensure that it stays within its designated lane (Fathy et al., 2020) by utilizing computer vision algorithms to analyze lane position and orientation.
-2.	**Obstacle Detection** is a function that determines when an object is a dangerous obstacle based on precise distance and position information between the vehicle and the obstacle provided by sensor technologies (Sosa & Velazquez, 2007). 
-3.	**Emergency Brake** feature adds an additional layer of safety to obstacle detection by automatically applying the brakes in critical situations to prevent accidents.
+1.	**Lane Detection:** This operation utilizes computer vision algorithms to analyze lane position and orientation, ensuring that the driverless car stays within its designated lane (Fathy et al., 2020).
+2.	**Obstacle Detection:** This operation determines when an object poses a dangerous obstacle based on precise distance and position information between the vehicle and the obstacle, provided by sensor technologies (Sosa & Velazquez, 2007). 
+3.	**Emergency Brake:** This feature adds an additional layer of safety to obstacle detection by automatically applying the brakes in critical situations to prevent accidents.
 
-The proposed driverless car will be self-drive on a designated path with maximum speed of 50 km or below. Users can start the engine, stop the car by applying the brakes, and turn off the engine to exit the operation. Once the engine is started, the car will be moving forward while continuously detecting the lane and obstacles present. In case of a lane deviation, it will automatically turn towards the center.  When an obstacle is detected during motion, it will first reduce speed and then apply the brakes once the minimum distance to the obstacle is reached.  If no lane deviation or obstacle is detected and the maximum speed is reached, the driverless car will maintain its speed until an obstacle is detected or the user applies the brakes to stop the car. All action history will be collected at the backend, and the user can access the history through a frontend interface.
+#### Proposed Functionality
+The proposed driverless car will autonomously drive along a designated path at a maximum speed of 50 km/h or below. Users can start the engine, stop the car by applying the brakes, and turn off the engine to exit the operation. Once the engine is started, the car will move forward while continuously detecting the lane and obstacles. In the event of a lane deviation, it will automatically correct its course towards the center. When an obstacle is detected during motion, the car will first reduce its speed and then apply the brakes once it reaches the minimum safe distance to the obstacle. If no lane deviation or obstacle is detected and the maximum speed is reached, the driverless car will maintain its speed until an obstacle is detected or the user applies the brakes to stop the car. All action history will be collected at the backend, and users can access the history through a frontend interface.
 
-#### UML models
+#### UML Models
 To represent the design and operation of the driverless car system, the following UML models are utilized:
 
 <img src="OOP_Assignment1_UseCase.jpg?raw=true"> 
@@ -35,8 +36,8 @@ To represent the design and operation of the driverless car system, the followin
 <img src="OOP_Assignment1_StateMach.jpg?raw=true">
 <br>
 
-#### Conclusion
-This design proposal outlines the capabilities and structure of the software that supports the operation of a driverless car. The UML models facilitate the design and implementation process. By incorporating key features and functionalities, the software aims to ensure safe and efficient autonomous driving.
+#### Conclusion: 
+This design proposal outlines the capabilities and structure of the software that supports the operation of a driverless car. The incorporation of UML models facilitates the design and implementation process. By incorporating key features and functionalities, the software aims to ensure safe and efficient autonomous driving.
 
 <br><br>
 
