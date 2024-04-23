@@ -4,6 +4,7 @@
 
 This design proposal presents the development of software that supports the operation of a driverless car.
 
+#### Background Research
 Before starting the design process, terms such as autonomous vehicles, driverless cars, robotic cars, self-driving cars, lane decision/lane-keep assist (LKA), emergency brake/automatic emergency braking (AEB), and obstacle/object detection are used to conduct background research. This research aims to identify key concepts and common features that contribute to the operation of driverless cars, with a special focus on the capabilities relevant to safety.
 
 According to Reddy (2019), a driverless car, also known as self-driving car, robot car, or autonomous car, is described as a vehicle that possesses the ability to perceive its surroundings and operate with minimal or no intervention from a human driver.
@@ -60,7 +61,7 @@ United States Environmental Protection Agency. (2023) Self-driving Vehicles.  Av
 
 Visual Paradigm. Overview of the 14 UML Diagram Types. Available from: https://www.visual-paradigm.com/guide/uml-unified-modeling-language/overview-of-the-14-uml-diagram-types/ [Accessed 15 April 2024]
 
-Zhou, Z. Q. & Sun, L. (2019) Metamorphic testing of driverless cars. Commun. ACM 62(3): 61–67. DOI: https://doi.org/10.1145/3241979.
+Zhou, Z. Q. & Sun, L. (2019) Metamorphic testing of driverless cars. Commun. ACM 62(3): 61–67. DOI: https://doi.org/10.1145/3241979
 
 <br><br>
 
