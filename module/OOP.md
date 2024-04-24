@@ -6,7 +6,7 @@ Two of the assignments in this module involves designing and implementing softwa
 
 #### [Assignment 1: A Design Proposal of Software to Support Operation of a Driverless Car](OOP_Assignment1.md)
 #### [Python - Driverless Car-System Implementation](https://helenhelene.github.io/eportfolio/pdf/sample_presentation.pdf)
-<br>
+
 
 Furthermore, there are formative and e-portfolio activities that necessitate the collection of all the evidence pertaining to my work in this module. 
 
