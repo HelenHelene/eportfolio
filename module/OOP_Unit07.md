@@ -27,7 +27,7 @@ As part of my e-portfolio, I completed the following artifacts which are documen
 I have acquired a deeper understanding of debugging techniques, error handling, and the significance of employing appropriate data structures and search algorithms. The practical implementation of these concepts has enhanced my ability to develop high-quality code and efficiently manage and process data.
 
 ### Professional Skills Matrix and Action Plan
-Moving forward, I will utilize the skills I have gained in this unit to improve the quality and reliability of my code. Additionally, I will continue to explore and expand my knowledge of advanced data structures and search algorithms to further enhance my programming capabilities.
+For the next step, I will utilize the skills I have gained in this unit to improve the quality and reliability of my code. Additionally, I will continue to explore and expand my knowledge of advanced data structures and search algorithms to further enhance my programming capabilities.
 
 ---
 
