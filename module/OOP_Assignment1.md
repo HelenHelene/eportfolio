@@ -42,7 +42,7 @@ To represent the design and operation of the driverless car system, the followin
 <br><br>
 
 
-#### Conclusion: 
+#### Conclusion
 This design proposal outlines the capabilities and structure of the software that supports the operation of a driverless car.  take into account potential future growth, changes and expansion, the software is designed throught the use of object-oriented program(OOP). The incorporation of UML models facilitates the design and implementation process. By incorporating key features and functionalities, the software aims to ensure safe and efficient autonomous driving.
 
 <br><br>
