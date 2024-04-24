@@ -9,7 +9,7 @@ Throughout this unit, I accomplished the following objectives:
  - Evaluated the effectiveness of different search techniques to retrieve data from stored collections.
 
 ### Learning Outcomes
- - Upon completing this unit, I am able to:
+Upon completing this unit, I am able to:
  - Utilize Python tools to assess and improve the quality of code.
  - Implement appropriate data structures to effectively store and manage data.
  - Apply suitable search algorithms to efficiently navigate and retrieve information from stored data.
