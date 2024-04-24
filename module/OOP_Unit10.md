@@ -23,6 +23,8 @@ Looking ahead to the Assessment 2, the content covered in this unit will play a 
 ### Professional Skills Matrix and Action Plan
 In terms of my professional skills matrix and action plan, I will apply the knowledge gained in this unit to thoroughly test the code I have developed for the summative assessment. By leveraging unit tests and pylint, I aim to ensure the correctness and stylistic integrity of my code. Additionally, I will focus on documenting the code effectively, providing clear explanations for stakeholders.
 
+Morover, I will continue to refine my skills in code testing, adherence to stylistic conventions, and documentation practices. This ongoing development will enable me to consistently deliver high-quality software solutions that meet the needs of stakeholders.
+
 ---
 
 [Return to Module 2 Main Page](OOP.md)
