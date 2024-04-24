@@ -24,7 +24,7 @@ Aside from continuing to build my e-portfolio, I also completed the following pr
 I have acquired a solid understanding of abstract classes and interfaces in Python. I now comprehend the benefits of utilizing interfaces in code design and have gained practical experience in implementing them. Additionally, I have learned about the metrics used to assess the effectiveness of OOP.
 
 ### Professional Skills Matrix and Action Plan
-Moving forward, I will apply the knowledge and skills I gained in this unit to extend the development of a Python program for the coding contribution required in the upcoming assessment. I will continue to strengthen my proficiency in using abstract classes and interfaces to create efficient and modular code.
+I will apply the knowledge and skills I gained in this unit to extend the development of a Python program for the coding contribution required in the upcoming assessment. I will continue to strengthen my proficiency in using abstract classes and interfaces to create efficient and modular code.
 
 ---
 
