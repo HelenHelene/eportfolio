@@ -1,35 +1,31 @@
 # Unit 12: Working with Design Patterns to Structure Code
 
-Formative and e-portfolio activities in this unit:
- - The final assessment is e-portfolio that collects all the evidence of work in this module
+In this unit, we focused on the application of design patterns to effectively structure code. We explored the factory design pattern and its implementation in software development. Additionally, we acknowledged that multiple design patterns can be used in conjunction within a single codebase. We recognized that certain design patterns are more compatible and commonly used together.
+
+Key topics covered in this unit included:
+ - Examining the factory design pattern and understanding how it can be applied to generate objects in Python programs.
+ - Recognizing that multiple design patterns can be applied simultaneously to support a cohesive code development.
+ - Describing the design patterns that are more likely to be used together within a single code package, considering their compatibility and practicality.
+
+### Learning Outcomes
+By the completion of this unit, I have achieved the following learning outcomes:
+ - Developed a Python program that applies the factory design pattern to effectively generate objects, demonstrating a practical understanding of its implementation.
+ - Discussed the concept of using multiple design patterns in conjunction to support a unified code development, highlighting the flexibility and adaptability they provide.
+ - Described the design patterns that naturally complement each other and are commonly used together within a single code package, establishing connections between different patterns.
+   
+### Artefacts
+Throughout the unit, I continued to work on my e-portfolio, collecting evidence of my work and showcasing my understanding of the module's concepts and topics.
+
+### Reflections
+I have gained a deeper understanding of the practical application of design patterns to structure code. By implementing the factory design pattern in a Python program, I have witnessed firsthand how it enhances object generation and contributes to code organization and flexibility.
+
+Furthermore, I have recognized the power of using multiple design patterns together to create a robust and cohesive codebase. This awareness allows me to consider the relationships between different patterns and leverage their combined benefits to address complex software development challenges.
+
+### Professional Skills Matrix and Action Plan
+I have gained and enhanced skills in designing and implementing code structures using design patterns. This knowledge will be valuable in my future software development endeavors, enabling me to architect scalable and maintainable solutions.
+
+Moving forward, I will continue to explore and expand my knowledge of different design patterns, understanding their unique characteristics and appropriate use cases. Additionally, I will seek opportunities to apply multiple design patterns together, considering their compatibility and synergy to create more efficient and comprehensive code packages.
 
 ---
 
-In this week we will examine the application of design patterns to structure code.
-
-In this unit we shall:
- - Examine the factory design pattern and consider how it may be implemented in software.
- - Consider the fact that multiple design patterns may be applied alongside one another in a single code development.
- - Recognise that some design patterns are more likely to be used with others in a single code development.
-
-On completion of this unit you will be able to:
- - Write a Python program which applies a factory design pattern to generate objects.
- - Discuss the fact that multiple design patterns are able to be applied together to support a single code development.
- - Describe the design patterns which are more likely to be applied with one another in a single code package.
-
-The content this week will support students in understanding how code may be structured from an architectural perspective using design patterns. This will inform on the relationships between different modules of the system, allowing their shaping depending on interactive behaviour. Student attention will be brought to the fact that more than one design pattern may be applied within a single code development, with attention also being given to the fact that some design patterns fit together more easily and realistically than others.
-
-### Learning Outcomes
-I will learn:
-
-### Artefacts
-These are the projects carried out to meet those learning outcomes, which are described in the link below.
-
-### Collaborative Discussion and meeting notes
-Notes from various meetings, as well as feedback from team members and tutors.
-
-### Reflections
-What exactly have I learnt and how?
-
-### Professional Skills Matrix and Action Plan
-What skills have I gained or enhanced as a result of this module and how can I use it? What else do I need to learn?
+[Return to Module 2 Main Page](OOP.md)
