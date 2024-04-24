@@ -26,15 +26,20 @@ The proposed driverless car will autonomously drive along a designated path at a
 To represent the design and operation of the driverless car system, the following UML models are utilized:
 
 <img src="OOP_Assignment1_UseCase.jpg?raw=true"> 
-<br>
+<br><br>
+
 <img src="OOP_Assignment1_Class.jpg?raw=true">
-<br>
+<br><br>
+
 <img src="OOP_Assignment1_Activity.jpg?raw=true">
-<br>
+<br><br>
+
 <img src="OOP_Assignment1_Sequence.jpg?raw=true">
-<br>
+<br><br>
+
 <img src="OOP_Assignment1_StateMach.jpg?raw=true">
-<br>
+<br><br>
+
 
 #### Conclusion: 
 This design proposal outlines the capabilities and structure of the software that supports the operation of a driverless car.  take into account potential future growth, changes and expansion, the software is designed throught the use of object-oriented program(OOP). The incorporation of UML models facilitates the design and implementation process. By incorporating key features and functionalities, the software aims to ensure safe and efficient autonomous driving.
