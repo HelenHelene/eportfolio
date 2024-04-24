@@ -26,8 +26,7 @@ I have completed the following activties to meet these learning outcomes, which 
 The collaborative discussion summary post provided valuable insights from diverse perspectives on reusability, expanding my knowledge beyond what is covered in the book. Through exploring UML models, I gained a better understanding of their relationship with the SDLC. Additionally, while completing the exercise of creating a State Machine Diagram, I explored different diagram drawing tools such as MS Visio, Lucid, and draw.io.
 
 ### Professional Skills Matrix and Action Plan
-Throughout this unit, I gained knowledge of UML modeling and its application in SDLC. By actively practicing and utilizing open-source tools like draw.io, I honed my skills in creating comprehensive UML models. To further enhance my proficiency, I explored different UML modeling tools and platforms, adapting to their functionalities. 
-Moving forward, I will continue to apply these skills in designing software systems prior to their implementation.
+Throughout this unit, I gained knowledge of UML modeling and its application in SDLC. By actively practicing and utilizing open-source tools like draw.io, I honed my skills in creating comprehensive UML models. To further enhance my proficiency, I explored different UML modeling tools and platforms, adapting to their functionalities. Moving forward, I will continue to apply these skills in designing software systems prior to their implementation.
 
 
 ---
