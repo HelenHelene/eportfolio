@@ -16,6 +16,7 @@ Throughout this unit, I accomplished the following objectives:
 
 ### Artefacts
 As part of my e-portfolio, I completed the following artifacts which are documented in the provided link:
+
 [Discuss the ways in which data structures support object-oriented development with examples of three different data structures]
 
 [Create a nested dictionary of data on cars within a Car class. Extend the program to work with the dictionary by calling the following methods: items(), keys(), values()]
