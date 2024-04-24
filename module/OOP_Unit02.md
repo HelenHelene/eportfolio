@@ -15,7 +15,7 @@ Upon completion of this unit, I am able to:
 I have completed the following projects to meet these learning outcomes, which are recorded in the link below:
 
 Collaborative Discussion 1 - Factors which Influence Reusability-Respond to peers: [Respond 1](https://helenhelene.github.io/eportfolio/pdf/Module02_Discussion1_Respond1.pdf) & 
-[Pespond 2](https://helenhelene.github.io/eportfolio/pdf/Module02_Discussion1_Respond2.pdf)
+[Respond 2](https://helenhelene.github.io/eportfolio/pdf/Module02_Discussion1_Respond2.pdf)
 
 [Class Functions and Methods - Tutorial Labs](OOP_Unit02_TutorialLab.md)
 
