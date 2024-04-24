@@ -13,6 +13,7 @@ According to Reddy (2019), a driverless car, also known as a self-driving car, r
 
 #### Selected Operations
 This proposal focuses on designing a driverless car at Level 3 - Conditional Driving Automation to Level 4 - High Driving Automation, capable of handling most normal driving conditions and monitoring its surroundings (SAE International 2021). 
+
 Three key operations have been chosen as the foundation for safety:
 
 1.	**Lane Detection:** This operation utilizes computer vision algorithms to analyze lane position and orientation, ensuring that the driverless car stays within its designated lane (Fathy et al., 2020).
