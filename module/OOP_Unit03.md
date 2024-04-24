@@ -16,7 +16,7 @@ Upon completing this unit, I have achieved the following learning outcomes:
 ### Artefacts and Collaborative Discussion
 As part of my e-portfolio, I have completed the following projects and actively engaged in collaborative discussions, which are documented in the provided link:
 
-[Collaborative Discussion 1 - Factors which Influence Reusability-Summary post]
+[Collaborative Discussion 1 - Factors which Influence Reusability-Summary post](https://helenhelene.github.io/eportfolio/pdf/Module02_Discussion1_Summary.pdf) 
 
 [Discuss which UML models are most applicable at different stages of the SDLC.](OOP_Unit03_Discuss.md)
 
