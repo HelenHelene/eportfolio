@@ -12,7 +12,7 @@ Upon completion of this unit, I am able to:
  - Create a state machine diagram to examine the behaviors and interactions within a system.
    
 ### Artefacts and Collaborative Discussion
-I have completed the following projects to meet these learning outcomes, which are recorded in the link below:
+As part of my e-portfolio, I have completed the following projects and actively engaged in collaborative discussions, which are documented in the provided link:
 
 Collaborative Discussion 1 - Factors which Influence Reusability-Respond to peers: [Respond 1](https://helenhelene.github.io/eportfolio/pdf/Module02_Discussion1_Respond1.pdf) & 
 [Respond 2](https://helenhelene.github.io/eportfolio/pdf/Module02_Discussion1_Respond2.pdf)
