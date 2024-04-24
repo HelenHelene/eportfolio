@@ -3,7 +3,7 @@
 <br>
 
 #### Introduction
-This report presents a design proposal for the development of software that supports the operation of a driverless car.
+This report presents a design proposal for the development of software that supports the operation of a driverless car and demonstrated using Unified Modeling Language (UML).
 
 #### Background Research
 Prior to commencing the design process, extensive background research was conducted on terms such as autonomous vehicles, driverless cars, robotic cars, self-driving cars, lane decision/lane-keep assist (LKA), emergency brake/automatic emergency braking (AEB), and obstacle/object detection. The purpose of this research was to identify key concepts and common features that contribute to the operation of driverless cars, with a particular emphasis on safety-related capabilities.
@@ -37,7 +37,7 @@ To represent the design and operation of the driverless car system, the followin
 <br>
 
 #### Conclusion: 
-This design proposal outlines the capabilities and structure of the software that supports the operation of a driverless car. The incorporation of UML models facilitates the design and implementation process. By incorporating key features and functionalities, the software aims to ensure safe and efficient autonomous driving.
+This design proposal outlines the capabilities and structure of the software that supports the operation of a driverless car.  take into account potential future growth, changes and expansion, the software is designed throught the use of object-oriented program(OOP). The incorporation of UML models facilitates the design and implementation process. By incorporating key features and functionalities, the software aims to ensure safe and efficient autonomous driving.
 
 <br><br>
 
