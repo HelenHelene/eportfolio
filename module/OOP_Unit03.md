@@ -14,7 +14,7 @@ Upon completing this unit, I have achieved the following learning outcomes:
  - Develop UML models using open-source tools.
 
 ### Artefacts and Collaborative Discussion
-As part of my e-portfolio, I have completed the following projects and actively engaged in collaborative discussions, which are documented in the provided link:
+I have completed the following activties to meet these learning outcomes, which are recorded in the link below:
 
 [Collaborative Discussion 1 - Factors which Influence Reusability-Summary post](https://helenhelene.github.io/eportfolio/pdf/Module02_Discussion1_Summary.pdf) 
 
