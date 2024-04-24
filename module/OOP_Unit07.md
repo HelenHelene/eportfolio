@@ -1,41 +1,32 @@
 # Unit 7: Debugging / Error Handling, Data Structures and Data Search
 
-Formative and e-portfolio activities in this unit:
- - Discuss the ways in which data structures support object-oriented development with examples of three different data structures.
- - Create a nested dictionary of data on cars within a Car class. Extend the program to work with the dictionary by calling the following methods:
-     items()
-     keys()
-     values()
- - Read the article by Kampffmeyer & Zschaler (2007). Develop a program which allows a user to enter the properties which they require of a design pattern, and have the program make a recommendation. The program should use a constructor to initialise attributes and assign values to variables based on input entered by the user.
+In this unit, we explored the essential aspects of debugging code and handling errors. We acknowledged the various ways in which errors can be introduced into code and examined the tools available in Python to facilitate error detection. Following this, we delved into the concept of data structures, which are instrumental in organizing and processing data, along with different search techniques for efficient data retrieval. The content covered in this unit aimed to equip us with the skills necessary to develop high-quality code and effectively manage and process diverse types of data, all of which are crucial for the Assignment 2 System Implementation.
+
+Throughout this unit, I accomplished the following objectives:
+ - Developed an understanding of the importance of debugging code and became familiar with common types of errors that can occur in a program.
+ - Explored the role of linters in supporting the development of high-quality code.
+ - Gained knowledge about various data structures available in Python and their application in storing and organizing data.
+ - Evaluated the effectiveness of different search techniques to retrieve data from stored collections.
+
+### Learning Outcomes
+ - Upon completing this unit, I am able to:
+ - Utilize Python tools to assess and improve the quality of code.
+ - Implement appropriate data structures to effectively store and manage data.
+ - Apply suitable search algorithms to efficiently navigate and retrieve information from stored data.
+
+### Artefacts
+[Discuss the ways in which data structures support object-oriented development with examples of three different data structures]
+
+[Create a nested dictionary of data on cars within a Car class. Extend the program to work with the dictionary by calling the following methods: items(), keys(), values()]
+     
+[Read the article by Kampffmeyer & Zschaler (2007). Develop a program which allows a user to enter the properties which they require of a design pattern, and have the program make a recommendation. The program should use a constructor to initialise attributes and assign values to variables based on input entered by the user.]
+
+### Reflections
+I have acquired a deeper understanding of debugging techniques, error handling, and the significance of employing appropriate data structures and search algorithms. The practical implementation of these concepts has enhanced my ability to develop high-quality code and efficiently manage and process data.
+
+### Professional Skills Matrix and Action Plan
+Moving forward, I will utilize the skills I have gained in this unit to improve the quality and reliability of my code. Additionally, I will continue to explore and expand my knowledge of advanced data structures and search algorithms to further enhance my programming capabilities.
 
 ---
 
-This week we will consider how to debug code and handle errors. This recognises the variety of ways in which errors may be incorporated into code, in addition to the tools available in Python to support error detection. Content this week will then progress into the concept of data structures which are used to organise data and search techniques to process the stored values.
-
-In this unit we shall:
- - Gain an understanding of the need to debug code and the typical types of errors which can be found in a program.
- - Examine the ability of linters to support the development of high quality code.
- - Become familiar with a range of data structures which may be used to store data.
- - Explore the effectiveness of different search techniques to examine the stored data.
-
-On completion of this unit you will be able to:
- - Apply Python tools to examine the quality of code.
- - Implement data structures to store data.
- - Implement a search algorithm to explore stored data.
-
-The content this week will support students in developing high quality code, in addition to organising and processing data in the most effective manner in relation to the type of data being considered. This will be important in relation to the summative code development submitted in Week 11.
-
-### Learning Outcomes
-I will learn:
-
-### Artefacts
-These are the projects carried out to meet those learning outcomes, which are described in the link below.
-
-### Collaborative Discussion and meeting notes
-Notes from various meetings, as well as feedback from team members and tutors.
-
-### Reflections
-What exactly have I learnt and how?
-
-### Professional Skills Matrix and Action Plan
-What skills have I gained or enhanced as a result of this module and how can I use it? What else do I need to learn?
+[Return to Module 2 Main Page](OOP.md)
