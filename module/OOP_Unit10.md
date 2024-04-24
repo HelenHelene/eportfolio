@@ -1,36 +1,28 @@
 # Unit 10: Testing Code in Practice
 
-Formative and e-portfolio activities in this unit:
- - Collaborative Discussion 2 - OO Design for IoT-Summary post
- - Continue to build e-Portfolio including writing the final reflection.
+During Unit 10, we focused on the crucial aspects of packaging Python code in a user-friendly manner for stakeholders. We recognized the significance of thoroughly testing the code to ensure it meets the client's requirements before its release. Additionally, we explored various approaches to test both the logic and syntax of the code created.
+
+### Learning Outcomes
+Throughout this unit, we accomplished the following learning outcomes:
+ - Applied unit tests to verify the functionality of Python code, ensuring its correct operation.
+ - Utilized the pylint testing tool to automatically assess the adherence to stylistic conventions in writing Python code.
+ - Explored different approaches to inline commenting and documenting code for clarity and comprehension.
+
+### Artefacts and Collaborative Discussion
+Aside from continuing to build my e-portfolio, I also participated in collaborative discussions, as documented in the provided link:
+
+[Collaborative Discussion 2 - OO Design for IoT-Summary post]
+
+### Reflections
+I have gained valuable insights into the process of packaging Python code and the importance of comprehensive testing. Through the application of unit tests, I have learned how to ensure the correct functionality of Python code. Utilizing pylint has enabled me to assess the stylistic correctness of my code, maintaining consistency and readability.
+
+Moreover, I have explored different approaches to commenting and documenting code, enhancing its readability and facilitating future maintenance and collaboration.
+
+### Professional Skills Matrix and Action Plan
+Looking ahead to the Assessment 2, the content covered in this unit will play a vital role. The ability to test code for functional correctness, as well as adhere to accurate stylistic conventions, will be crucial in delivering a high-quality software solution.
+
+In terms of my professional skills matrix and action plan, I will apply the knowledge gained in this unit to thoroughly test the code I have developed for the summative assessment. By leveraging unit tests and pylint, I aim to ensure the correctness and stylistic integrity of my code. Additionally, I will focus on documenting the code effectively, providing clear explanations for stakeholders.
 
 ---
 
-This week, we will examine the approaches to packaging Python code so that it is presented in a user-friendly manner for stakeholders. Prior to releasing code to stakeholders, we must ensure that it meets the client’s needs and that it has been fully tested. We will therefore also examine several approaches to test both the logic and syntax of the code created.
-
-In this unit we shall:
- - Apply unit tests to test the functionality of Python code.
- - Use the pylint testing tool to automatically check acceptability of the style used to write the Python code.
- - Experiment with approaches to commenting inline and documenting code.
-
-On completion of this unit you will be able to:
- - Write unit tests to ensure correct functionality of Python code.
- - Run pylint against a Python script to demonstrate stylistic correctness.
- - Document code for release to stakeholders.
-
-After developing Python code, this week’s content supports students in testing their code for functional correctness, in addition to accurate stylistic convention. This will be important for the code submitted as part of the summative assessment in Week 11.
-
-### Learning Outcomes
-I will learn:
-
-### Artefacts
-These are the projects carried out to meet those learning outcomes, which are described in the link below.
-
-### Collaborative Discussion and meeting notes
-Notes from various meetings, as well as feedback from team members and tutors.
-
-### Reflections
-What exactly have I learnt and how?
-
-### Professional Skills Matrix and Action Plan
-What skills have I gained or enhanced as a result of this module and how can I use it? What else do I need to learn?
+[Return to Module 2 Main Page](OOP.md)
