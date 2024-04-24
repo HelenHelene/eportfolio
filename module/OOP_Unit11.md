@@ -1,35 +1,31 @@
 # Unit 11: Pointers, References & Memory, and Design Patterns
 
-Formative and e-portfolio activities in this unit:
- - Continue e-Portfolio updates.
+Throughout Unit 11, we explored the efficiencies of programming in Python and its distinctive feature of not utilizing pointers for memory management, in contrast to languages like C. We delved into the concept of design patterns and their role in organizing code in an object-oriented manner. Additionally, we examined the concept of sustainable code development and how object-oriented programming in Python facilitates this approach.
+
+Key topics covered in this unit included:
+ - Appreciating the absence of pointers in Python and understanding the advantages it offers in terms of memory management compared to languages like C.
+ - Recognizing the environmental impact of code design and development, considering ways to minimize the carbon footprint associated with code.
+ - Exploring various design patterns, including creational, structural, and behavioral patterns, to effectively organize code and enhance its modularity and maintainability.
+
+### Learning Outcomes
+By the completion of this unit, I have achieved the following learning outcomes:
+ - Described the overhead incurred in programming languages that use pointers, highlighting the benefits of Python's approach.
+ - Discussed the reasons why Python is considered a more sustainable programming language compared to others, taking into account its design principles.
+ - Experimented with the design of code using a range of design patterns, gaining hands-on experience in organizing code modules in an architectural manner.
+
+### Artefacts
+Continued updating my e-portfolio to document my progress and reflect on my learning journey.
+
+### Reflections
+I have gained a deeper understanding of the efficiencies and advantages of Python's approach to memory management without the need for explicit pointers. This knowledge will enable me to write more efficient and optimized code, appreciating the underlying mechanisms that contribute to Python's performance.
+
+Furthermore, I have recognized the importance of sustainable code development and the impact of design choices on the environment. This awareness will guide me in making conscious decisions to minimize the carbon footprint associated with my code and contribute to sustainable software development practices.
+
+Exploring various design patterns has broadened my perspective on code organization and modularity. By applying different design patterns, I can enhance the maintainability and reusability of my code, leading to more robust and scalable software solutions.
+
+### Professional Skills Matrix and Action Plan
+I have enhanced my abilities in memory management, sustainable code development, and the application of design patterns. These skills will be invaluable in my future software development projects, allowing me to write efficient, sustainable, and maintainable code.
 
 ---
 
-This week will we continue to appreciate the features in Python around the efficiencies of programming and the lack of a need to use pointers to manage the organisation of memory. This is compared against the overhead of explicit memory management in other programming languages such as C. We will explore the use of design patterns to organise code in an object oriented, making comparisons between the creational, structural and behavioural variants. Finally, we will examine the concept of sustainable code development, and the way in which this is facilitated using an object oriented programming language such as Python.
-
-In this unit we shall:
- - Gain an appreciation of the fact that Python does not use pointers, while other programming languages, such as C, do.
- - Understand that the way in which code is design can contribute a carbon footprint and consider the design and development of code to minimise this footprint.
- - Recognise that code may be organised in a variety of manners dependent on the way in which components will interact with one another.
-
-On completion of this unit you will be able to:
- - Describe the overhead incurred in some programming languages other than Java as a result of their use of pointers.
- - Discuss the reasons why Python is a more sustainable programming language than others.
- - Experiment with the design of code using a variety of design patterns.
-
-The content this week will support students in understanding how to organise code modules into an architectural form through the application of design patterns. The module also concludes the module by considering a by-product of writing efficient object oriented code, through its ability to support achievement of sustainable, and maintainable, design.
-
-### Learning Outcomes
-I will learn:
-
-### Artefacts
-These are the projects carried out to meet those learning outcomes, which are described in the link below.
-
-### Collaborative Discussion and meeting notes
-Notes from various meetings, as well as feedback from team members and tutors.
-
-### Reflections
-What exactly have I learnt and how?
-
-### Professional Skills Matrix and Action Plan
-What skills have I gained or enhanced as a result of this module and how can I use it? What else do I need to learn?
+[Return to Module 2 Main Page](OOP.md)
