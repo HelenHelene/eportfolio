@@ -8,6 +8,8 @@ During this unit, I accomplished the following learning outcomes:
  - Implemented a linear data search technique, gaining a practical understanding of its application and functionality.
    
 ### Artefacts and Collaborative Discussion 
+I have completed the following projects to meet these learning outcomes, which are recorded in the link below:
+
 [Collaborative Discussion 2 - OO Design for IoT-Initial post]
 
 [Recursion - Tutorial Labs]
