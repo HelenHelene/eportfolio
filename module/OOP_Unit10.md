@@ -18,9 +18,9 @@ I have gained valuable insights into the process of packaging Python code and th
 
 Moreover, I have explored different approaches to commenting and documenting code, enhancing its readability and facilitating future maintenance and collaboration.
 
-### Professional Skills Matrix and Action Plan
 Looking ahead to the Assessment 2, the content covered in this unit will play a vital role. The ability to test code for functional correctness, as well as adhere to accurate stylistic conventions, will be crucial in delivering a high-quality software solution.
 
+### Professional Skills Matrix and Action Plan
 In terms of my professional skills matrix and action plan, I will apply the knowledge gained in this unit to thoroughly test the code I have developed for the summative assessment. By leveraging unit tests and pylint, I aim to ensure the correctness and stylistic integrity of my code. Additionally, I will focus on documenting the code effectively, providing clear explanations for stakeholders.
 
 ---
