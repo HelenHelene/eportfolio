@@ -1,34 +1,31 @@
 # Unit 8: Data Structures and Data Search in Practice
 
-Formative and e-portfolio activities in this unit:
- - Collaborative Discussion 2 - OO Design for IoT-Initial Post
- - Review the Recursion and Polymorphism Codio modules and save the results in e-portfolio.
+Throughout this unit, we explored the practical implementation of data structures and data search algorithms. The focus was on experimenting with various operations applicable to data structures and gaining hands-on experience with data search techniques. This practical work aimed to support us in implementing the essential features required for our summative code assessment, which involve data structures and data search algorithms.
+
+### Learning Outcomes
+During this unit, I accomplished the following learning outcomes:
+ - Described the scenarios in which specific set operations, such as union, intersection, difference, and symmetric difference, are applicable within the context of the driverless car scenario.
+ - Implemented a linear data search technique, gaining a practical understanding of its application and functionality.
+   
+### Artefacts and Collaborative Discussion 
+[Collaborative Discussion 2 - OO Design for IoT-Initial post]
+
+[Recursion - Tutorial Labs]
+
+[Recursion - Exercises]
+
+[Polymorphism - Tutorial Labs]
+
+[Polymorphism - Exercises]
+
+### Reflections
+I have learned how to apply different operations to sets and understand their relevance in the driverless car scenario. Additionally, I have gained hands-on experience in implementing a linear data search technique.
+
+In terms of professional skills, I have improved my ability to work with data structures and employ data search algorithms effectively. These skills are crucial in developing efficient and optimized code. However, there is still more to learn and explore in the realm of data structures and advanced search algorithms.
+
+### Professional Skills Matrix and Action Plan
+Moving forward, I will apply the skills I have acquired in this unit to enhance the functionality of my summative code assessment. Additionally, I will continue to expand my knowledge and proficiency in working with different data structures and exploring more advanced data search techniques.
 
 ---
 
-This week, we will experiment with operations which may be applied to data structures, in addition to examining the ways in which data search algorithms are implemented.
-
-In this unit we shall:
- - Examine the operations which may be applied to sets, including union, intersection, difference, and symmetric difference.
- - Gain an appreciation of the linear data search technique.
-
-On completion of this unit you will be able to:
- - Describe the scenarios in which each of the set operations will be applicable in relation to the driverless car scenario.
- - Implement a linear data search technique.
-
-The practical work this week will support students in implementing the key features required of their summative code assessment, which include data structures and data search algorithms.
-
-### Learning Outcomes
-I will learn:
-
-### Artefacts
-These are the projects carried out to meet those learning outcomes, which are described in the link below.
-
-### Collaborative Discussion and meeting notes
-Notes from various meetings, as well as feedback from team members and tutors.
-
-### Reflections
-What exactly have I learnt and how?
-
-### Professional Skills Matrix and Action Plan
-What skills have I gained or enhanced as a result of this module and how can I use it? What else do I need to learn?
+[Return to Module 2 Main Page](OOP.md)
