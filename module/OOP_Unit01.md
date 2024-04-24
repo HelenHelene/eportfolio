@@ -1,17 +1,17 @@
 # Unit 1: An Introduction to Python Programming and the OO Programming Paradigm
 
-In this introductory unit on Python programming, I gained a comprehensive understanding of the evolution of programming languages towards object orientation, as well as the challenges and benefits associated with programming in an object-oriented way.
+In this introductory unit on Python programming, we have gained a comprehensive understanding of the evolution of programming languages towards object orientation. We have also explored the challenges and benefits associated with programming in an object-oriented way.
 
-Throughout this unit, I accomplished the following objectives:
- - Explored the concept and characteristics of object-oriented programming (OOP).
- - Examined the syntax used to define classes in Python.
- - Investigated the implementation of different data types in Python.
+Throughout this unit, I achieved the following objectives:
+ - Examined the concept of object-oriented programming (OOP) and its significance in modern software development, understanding what it means for a program to be object-oriented.
+ - Explored the syntax used to define a Python class, learning how to create and structure classes to encapsulate data and behavior effectively.
+ - Investigated the process of defining different data types in Python, gaining proficiency in working with various data types and adapting the access modifiers applied to them.
   
 ### Learning Outcomes
-Upon completing this unit, I am able to:
- - Describe the major features of an object-oriented program, including abstract classes, inheritance, encapsulation, and polymorphism.
- - Define a Python class.
- - Define various data types and adapt the access modifiers applied to them within a Python program.
+After completing this unit, I have achieved the following learning outcomes:
+ - The major features of an object-oriented program, including abstract classes, inheritance, encapsulation, and polymorphism can be described.
+ - A Python class can be defined.
+ - Various data types can be defined and the access modifiers applied to them within a Python program can be adapted.
 
 ### Artefacts and Collaborative Discussion 
 As part of my e-portfolio, I have completed the following projects and participated in collaborative discussions, which are documented in the provided link:
