@@ -29,10 +29,8 @@ Collaborative Discussion 2 - OO Design for IoT-Respond to peers: [Respond 1] & [
 ### Reflections
 I have gained a solid understanding of the importance of code testing, proper documentation, and efficient packaging in software development. These skills are crucial in delivering high-quality and reliable software solutions to stakeholders.
 
-In terms of professional skills, I have enhanced my ability to effectively package code, document it following conventions, and employ testing techniques to ensure code quality. These skills will be invaluable in my future software development endeavors. However, there is always room for further learning and improvement, particularly in exploring advanced testing methodologies and staying updated with best practices in packaging and documentation.
-
 ### Professional Skills Matrix and Action Plan
-Moving forward, I will apply the skills acquired in this unit to meticulously test and package my code for the summative assessment. Additionally, I will continue to expand my knowledge and proficiency in testing frameworks and advanced packaging strategies to further enhance the quality and efficiency of my software solutions.
+In terms of professional skills, I have enhanced my ability to effectively package code, document it following conventions, and employ testing techniques to ensure code quality. These skills will be invaluable in my future software development endeavors. However, there is always room for further learning and improvement, particularly in exploring advanced testing methodologies and staying updated with best practices in packaging and documentation.
 
 ---
 
