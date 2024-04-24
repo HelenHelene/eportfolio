@@ -21,9 +21,9 @@ I have completed the following projects to meet these learning outcomes, which a
 [Polymorphism - Exercises]
 
 ### Reflections
-I have learned how to apply different operations to sets and understand their relevance in the driverless car scenario. Additionally, I have gained hands-on experience in implementing a linear data search technique.
+Throughout this unit, I have acquired valuable knowledge on applying various operations to sets and comprehended their significance in the context of the driverless car scenario. Furthermore, I have gained practical experience by implementing a linear data search technique.
 
-In terms of professional skills, I have improved my ability to work with data structures and employ data search algorithms effectively. These skills are crucial in developing efficient and optimized code. However, there is still more to learn and explore in the realm of data structures and advanced search algorithms.
+In addition to that, my proficiency in working with data structures has significantly improved, and I have honed my skills in employing data search algorithms with effectiveness. These capabilities are essential in the development of code that is efficient and optimized.
 
 ### Professional Skills Matrix and Action Plan
 Moving forward, I will apply the skills I have acquired in this unit to enhance the functionality of my summative code assessment. Additionally, I will continue to expand my knowledge and proficiency in working with different data structures and exploring more advanced data search techniques.
