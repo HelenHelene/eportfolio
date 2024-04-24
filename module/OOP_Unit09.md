@@ -1,39 +1,39 @@
 # Unit 9: Packaging and Testing
 
-Formative and e-portfolio activities in this unit:
- - Collaborative Discussion 2 - OO Design for IoT-Respond to peers
- - How relevant is the cyclomatic complexity in object oriented systems and other questions.
- - To what extent is cyclomatic complexity relevant when developing object-oriented code.
- - What is the cyclomatic complexity of the piece of code in this activity.
- - Extend the Python String program in this activity to test accuracy of operations using the assert statement.
+Throughout this unit, we delved into the process of testing a Python program and packaging it for distribution to stakeholders. The focus was on understanding the importance of code testing and the significance of appropriately packaging a Python program for efficient distribution.
+
+Key topics covered in this unit included:
+ - Appreciating the concept of packaging a Python program, ensuring it is organized and structured for ease of distribution.
+ - Understanding the PEP257 convention and its role in effectively documenting a Python program, enhancing its readability and maintainability.
+ - Describing the range of approaches used to test code, ensuring its quality and functionality.
+
+### Learning Outcomes
+By the completion of this unit, I have achieved the following learning outcomes:
+ - Acquired the ability to appropriately package a Python code development, ensuring it is well-organized and ready for distribution.
+ - Developed proficiency in adequately and effectively documenting code, adhering to the PEP257 convention.
+ - Utilized various tools available in Python to test the quality of code, ensuring its functionality and reliability.
+   
+### Artefacts and Collaborative Discussion
+I have completed the following activities and engaged in collaborative discussions, which are documented in the provided link:
+
+Collaborative Discussion 2 - OO Design for IoT-Respond to peers: [Respond 1] & [Respond 2]
+ 
+[Activity 1 - How relevant is the cyclomatic complexity in object oriented systems? Which alternative metrics do you consider to be more reflective of the complexity of a piece of code, in comparison to the number of independent paths through a program? Support your response using reference to the related academic literature.]
+ 
+[Activity 2 - To what extent is cyclomatic complexity relevant when developing object-oriented code?]
+ 
+[Activity 3 - What is the cyclomatic complexity of the following piece of code?]
+
+[Activity 4 - Extend the following program to test accuracy of operations using the assert statement.]
+
+### Reflections
+I have gained a solid understanding of the importance of code testing, proper documentation, and efficient packaging in software development. These skills are crucial in delivering high-quality and reliable software solutions to stakeholders.
+
+In terms of professional skills, I have enhanced my ability to effectively package code, document it following conventions, and employ testing techniques to ensure code quality. These skills will be invaluable in my future software development endeavors. However, there is always room for further learning and improvement, particularly in exploring advanced testing methodologies and staying updated with best practices in packaging and documentation.
+
+### Professional Skills Matrix and Action Plan
+Moving forward, I will apply the skills acquired in this unit to meticulously test and package my code for the summative assessment. Additionally, I will continue to expand my knowledge and proficiency in testing frameworks and advanced packaging strategies to further enhance the quality and efficiency of my software solutions.
 
 ---
 
-During this week we will examine how to test a Python program, in addition to packaging it for distribution to stakeholders.
-
-In this unit we shall:
- - Appreciate the concept of packaging a Python program.
- - How the PEP257 convention to document a Python program.
- - Describe the range of approaches used to test code.
-
-On completion of this unit you will be able to:
- - Appropriately package a Python code development.
- - Adequately and effectively document your code.
- - Use the tools available in Python to test the quality of code.
-
-The content this week will further help students with finalising the code developed for the summative assessment, with application of one of the last pieces of attention needed to check the quality.
-
-### Learning Outcomes
-I will learn:
-
-### Artefacts
-These are the projects carried out to meet those learning outcomes, which are described in the link below.
-
-### Collaborative Discussion and meeting notes
-Notes from various meetings, as well as feedback from team members and tutors.
-
-### Reflections
-What exactly have I learnt and how?
-
-### Professional Skills Matrix and Action Plan
-What skills have I gained or enhanced as a result of this module and how can I use it? What else do I need to learn?
+[Return to Module 2 Main Page](OOP.md)
