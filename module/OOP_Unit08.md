@@ -10,7 +10,7 @@ During this unit, I accomplished the following learning outcomes:
 ### Artefacts and Collaborative Discussion 
 I have completed the following projects to meet these learning outcomes, which are recorded in the link below:
 
-[Collaborative Discussion 2 - OO Design for IoT-Initial post]
+[Collaborative Discussion 2 - OO Design for IoT-Initial post](https://helenhelene.github.io/eportfolio/pdf/Module02_Discussion2_Initial.pdf)
 
 [Recursion - Tutorial Labs]
 
