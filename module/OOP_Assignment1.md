@@ -3,10 +3,10 @@
 <br>
 
 #### Introduction
-This report presents a design proposal for the development of software that supports the operation of a driverless car and demonstrated using Unified Modeling Language (UML).
+This report presents a design proposal for developing software that facilitates the operation of a driverless car, with a focus on essential functionalities such as lane detection, obstacle detection, and emergency braking. The objective of this proposal is to enhance the safety and reliability of driverless cars by incorporating these crucial operations and features. The design proposal employs Unified Modeling Language (UML) to illustrate the system design.
 
 #### Background Research
-Prior to commencing the design process, extensive background research was conducted on terms such as autonomous vehicles, driverless cars, robotic cars, self-driving cars, lane decision/lane-keep assist (LKA), emergency brake/automatic emergency braking (AEB), and obstacle/object detection. The purpose of this research was to identify key concepts and common features that contribute to the operation of driverless cars, with a particular emphasis on safety-related capabilities.
+Prior to commencing the design process, extensive background research was conducted on terms such as autonomous vehicles, driverless cars, robotic cars, self-driving cars, lane detection/lane-keep assist (LKA), emergency brake/automatic emergency braking (AEB), and obstacle/object detection. The purpose of this research was to identify key concepts and common features that contribute to the operation of driverless cars, with a particular emphasis on safety-related capabilities.
 
 #### Definition of a Driverless Car
 According to Reddy (2019), a driverless car, also known as a self-driving car, robot car, or autonomous car, is a vehicle that possesses the ability to perceive its surroundings and operate with minimal or no intervention from a human driver.
@@ -41,9 +41,11 @@ To represent the design and operation of the driverless car system, the followin
 <img src="OOP_Assignment1_StateMach.jpg?raw=true">
 <br><br>
 
-
 #### Conclusion
-This design proposal outlines the capabilities and structure of the software that supports the operation of a driverless car.  take into account potential future growth, changes and expansion, the software is designed throught the use of object-oriented program(OOP). The incorporation of UML models facilitates the design and implementation process. By incorporating key features and functionalities, the software aims to ensure safe and efficient autonomous driving.
+This design proposal outlines the capabilities and structure of the software that supports the three selected operations of a driverless car. With consideration for potential future growth, changes, and expansion, the software is designed using object-oriented programming (OOP) principles. The incorporation of UML models facilitates the design and implementation process. By incorporating key features and functionalities, the software aims to ensure safe and efficient autonomous driving.
+
+#### Remark on this proposal  
+It  should  be  noted  that  there  is a  discrepancy  in  the  word  count  requirement  for  the proposal, as specified in different sessions. While the Assessment Requirement specifies a  500-word  limit,  the  Grading  Criteria  requests  an  equivalent  of  1000  words.  As  the Grading Criteria lacks clear instructions, this proposal will primarily adhere to the 500-word requirement mentioned in the Assessment Requirement, without considering this remark and reference.  
 
 <br><br>
 
