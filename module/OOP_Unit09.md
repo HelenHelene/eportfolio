@@ -16,7 +16,8 @@ By the completion of this unit, I have achieved the following learning outcomes:
 ### Artefacts and Collaborative Discussion
 I have completed the following activities and engaged in collaborative discussions, which are documented in the provided link:
 
-Collaborative Discussion 2 - OO Design for IoT-Respond to peers: [Respond 1] & [Respond 2]
+Collaborative Discussion 2 - OO Design for IoT-Respond to peers: [Respond 1](https://helenhelene.github.io/eportfolio/pdf/Module02_Discussion2_Respond1.pdf) & 
+[Respond 2](https://helenhelene.github.io/eportfolio/pdf/Module02_Discussion2_Respond2.pdf)
  
 [Activity 1 - How relevant is the cyclomatic complexity in object oriented systems? Which alternative metrics do you consider to be more reflective of the complexity of a piece of code, in comparison to the number of independent paths through a program? Support your response using reference to the related academic literature.]
  
