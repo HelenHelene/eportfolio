@@ -14,7 +14,7 @@ Two of the assignments in this module involves designing and implementing softwa
 
 Furthermore, there are formative activities and e-portfolio tasks that require gathering all the evidence related to my work in this module, including an Individual Reflective Piece that reflects on my personal development throughout the module.
 
-#### Assignment 3: e-Portfolio Submission - Final Reflection _(In Progress)_
+#### Assignment 3: e-Portfolio Submission _(In Progress)_
 
 
 The units presented below serve as a compilation of evidence, showcasing the work accomplished in this module and documenting the learning journey.
@@ -45,7 +45,7 @@ The units presented below serve as a compilation of evidence, showcasing the wor
 
 ----
 
-### Final Reflection (1,000 words).
+### [Final Reflection] (1,000 words).
 
 #### Learning Outcomes
  - providing a brief description of the project outcomes or critical incident (WHAT), 
