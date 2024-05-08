@@ -6,21 +6,21 @@ As part of this module, there are coding assignments that aim to demonstrate our
 
 The links provided below will guide you to the assignment materials. 
 
-#### Assignment 1: Part 1 (Pass with Distinction)
-#### [Python - Phone Book Applicaion-Proposal](https://helenhelene.github.io/eportfolio/pdf/Module01_Python_Proposal.pdf)
+#### Assignment 1-Part 1: Data Structures and Algorithm Design (Pass with Distinction)
+#### [Phone Book Applicaion - Proposal](https://helenhelene.github.io/eportfolio/pdf/Module01_Python_Proposal.pdf)
 <br>
 
-#### Assignment 1: Part 2 (Pass with Distinction)
-#### [Python - Phone Book Application-README](https://helenhelene.github.io/eportfolio/pdf/Module01_Python_README.pdf)
-#### [Python - Phone Book Application-Code](LCS_Assignment1_Part2_PhoneBook.md)
-#### [Python - Phone Book Application-Testing Strategy](https://helenhelene.github.io/eportfolio/pdf/Module01_Python_TestingStrategy.pdf)
+#### Assignment 1-Part 2: Algorithm and Programming Development (Pass with Distinction)
+#### [Phone Book Application - README](https://helenhelene.github.io/eportfolio/pdf/Module01_Python_README.pdf)
+#### [Phone Book Application - Python Scripts](LCS_Assignment1_Part2_PhoneBook.md)
+#### [Phone Book Application - Testing Strategy](https://helenhelene.github.io/eportfolio/pdf/Module01_Python_TestingStrategy.pdf)
 <br>
 
-#### Assignment 1: Part 3 (Pass with Distinction)
+#### Assignment 1-Part 3: MySQL Programming (Pass with Distinction)
 #### [MySQL - README](https://helenhelene.github.io/eportfolio/pdf/Module01_MySQL_README.pdf)
 <br>
 
 #### End of Module Assignment (Pass with Distinction)
-#### [Essay - AI in Claims Processing-Revolutionizing the Insurance Industry](https://helenhelene.github.io/eportfolio/pdf/Module01_AI_InsurClaims.pdf)
+#### [AI in Claims Processing-Revolutionizing the Insurance Industry](https://helenhelene.github.io/eportfolio/pdf/Module01_AI_InsurClaims.pdf)
 
 
