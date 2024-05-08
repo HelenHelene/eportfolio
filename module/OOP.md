@@ -12,9 +12,10 @@ Two of the assignments in this module involves designing and implementing softwa
 
 [Driverless Car System - Python Scripts](OOP_Assignment1.md)
 
-#### Assignment 3: e-Portfolio Submission _(In Progress)_
+Furthermore, there are formative activities and e-portfolio tasks that require gathering all the evidence related to my work in this module, including an Individual Reflective Piece that reflects on my personal development throughout the module.
 
-Furthermore, there are formative and e-portfolio activities that necessitate the collection of all the evidence pertaining to my work in this module. 
+#### Assignment 3: e-Portfolio Submission - Final Reflection _(In Progress)_
+
 
 The units presented below serve as a compilation of evidence, showcasing the work accomplished in this module and documenting the learning journey.
 
