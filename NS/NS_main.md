@@ -29,7 +29,7 @@ The units presented below serve as a compilation of evidence, showcasing the wor
 
 ----
 
-### Individual Reflective Piece (800 words).
+### [Individual Reflective Piece] (800 words).
 
 #### Learning Outcomes
 This assignment focuses on your reflections on the skill and knowledge gained from the module. In particular, the legal, social, ethical and professional issues faced by information security and risk professionals.
