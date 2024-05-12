@@ -11,7 +11,7 @@ Throughout this unit, we accomplished the following learning outcomes:
 ### Artefacts and Collaborative Discussion
 Aside from continuing to build my e-portfolio, I also participated in collaborative discussions, as documented in the provided link:
 
-[Collaborative Discussion 2 - OO Design for IoT-Summary post]
+[Collaborative Discussion 2 - OO Design for IoT-Summary post](https://helenhelene.github.io/eportfolio/pdf/Module02_Discussion2_Summary.pdf)
 
 ### Reflections
 I have gained valuable insights into the process of packaging Python code and the importance of comprehensive testing. Through the application of unit tests, I have learned how to ensure the correct functionality of Python code. Utilizing pylint has enabled me to assess the stylistic correctness of my code, maintaining consistency and readability.
