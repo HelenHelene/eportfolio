@@ -11,3 +11,4 @@ My proactive nature, independence, and excellent interpersonal skills have been 
 Thank you for taking the time to learn more about me. If you have any further questions or would like to explore potential opportunities, please feel free to reach out.
 
 <img src="images/Cat.jpeg?raw=true"/>
+![Cat and leather](images/Cat.jpeg?raw=true "Image of a Red leather bag and black cat")
