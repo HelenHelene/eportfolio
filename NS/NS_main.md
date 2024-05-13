@@ -16,7 +16,7 @@ The units presented below serve as a compilation of evidence, showcasing the wor
 
 #### [Unit 1: History of Network Security, Vulnerabilities and Approaches](NS_Unit01.md)
 
-#### [Unit 2: Advanced Persistent Threats: Applying the Cyber Kill Chain Model to a Case Study]
+#### [Unit 2: Advanced Persistent Threats: Applying the Cyber Kill Chain Model to a Case Study](NS_Unit02.md)
 
 #### [Unit 3: Vulnerability Assessments]
 
