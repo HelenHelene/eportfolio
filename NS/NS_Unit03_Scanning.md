@@ -1,4 +1,4 @@
-# Vulnerability Analysis – Scanning Activity
+# Scanning Activity
 
 ### Instructions
 Using the website(s) [Gin & Juice Shop Ecommerce](https://ginandjuice.shop/) assigned in Unit 1, carry out the following exercises and answer the questions listed below. 
