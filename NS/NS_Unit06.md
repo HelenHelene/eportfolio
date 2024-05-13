@@ -16,7 +16,7 @@ As part of my e-portfolio, I actively participated in collaborative discussions 
 
 [Collaborative Discussion 2 - The Pros and cons of logging – The impact of log4j-Summary post](Module03_Discussion1_Summary.pdf)
 
-[Individual Reflective Piece]
+[Individual Reflective Piece](NS_Assignment3.md)
 
 ### Reflections
 Reflecting on this unit, I realize the immense importance of envisioning the future of the internet and embracing innovative solutions that address its current limitations. 
