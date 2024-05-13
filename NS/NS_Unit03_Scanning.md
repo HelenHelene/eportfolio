@@ -3,7 +3,7 @@
 ### Instructions
 Using the website(s) [Gin & Juice Shop Ecommerce](https://ginandjuice.shop/) assigned in Unit 1, carry out the following exercises and answer the questions listed below. 
 Perform a basic scan using standard tools such as traceroute, dig and nslookup. 
-Please see these instructions on using [traceroute](https://www.a2hosting.com/kb/getting-started-guide/internet-and-networking/troubleshooting-network-connectivity-with-ping-and-traceroute/), etc.  
+Please see these [instructions on using traceroute, etc](https://www.a2hosting.com/kb/getting-started-guide/internet-and-networking/troubleshooting-network-connectivity-with-ping-and-traceroute/).  
 Do not use ping as it will cause confusion because of shared addresses.
 
 Use these basic tools and make a list that details the following information:
