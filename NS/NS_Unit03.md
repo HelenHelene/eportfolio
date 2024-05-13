@@ -16,7 +16,7 @@ As part of my e-portfolio, I actively participated in collaborative discussions 
 
 [Collaborative Discussion 1 - Digitalisation–What are the Security Implications of the Digital Economy?-Summary post](Module03_Discussion1_Summary.pdf)
 
-[Vulnerability Analysis – Scanning Activity](NS_Unit03_Scanning.md)
+[Scanning Activity](NS_Unit03_Scanning.md)
 
 ### Reflections
 Reflecting on this unit, I recognize the critical importance of vulnerability assessments in ensuring the security and resilience of systems and networks. 
