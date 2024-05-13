@@ -6,7 +6,7 @@
 This assignment accounts for 30% of your final grade for this module. The word count is 600 words and is due at the end of Unit 3.
 
 #### Assignment Topic
-You have been tasked by an organisation to evaluate their website (provided in Unit 1) and produce an analysis document. It should consist of:
+You have been tasked by an organisation to evaluate their website [Gin & Juice Shop Ecommerce](https://ginandjuice.shop/) and produce an analysis document. It should consist of:
  - Details of possible security vulnerabilities.
  - A list of standards appropriate to their business and any non-compliance against those standards.
  - A list of potential tools to be used and justification for your choices.
