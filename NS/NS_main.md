@@ -11,6 +11,7 @@ There are three assignments in this module. The first assignment involves conduc
 [Gin & Juice Shop Ecommerce - Results and Executive Summary](NS_Assignment2.md)
 
 #### Assignment 3: Individual Reflective Piece _(In Progress)_
+[Individual Reflective Piece](NS_Assignment3.md)
 
 The units presented below serve as a compilation of evidence, showcasing the work accomplished in this module and documenting the learning journey.
 
