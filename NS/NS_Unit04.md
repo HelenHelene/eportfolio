@@ -14,7 +14,7 @@ I actively participated in collaborative discussions and completed the assigned 
 
 [Collaborative Discussion 2 - The Pros and cons of logging – The impact of log4j-Initial post](Module03_Discussion1_Initial.pdf)
 
-[Scanning and Collaborative Wiki Activity](NS_Unit02_LiteratureReview.md)
+[Scanning and Collaborative Wiki Activity](NS_Unit04_WikiActivity.md)
 
 ### Reflections
 Reflecting on this unit, I recognize the critical importance of breach analysis and mitigation in maintaining a robust security posture. 
