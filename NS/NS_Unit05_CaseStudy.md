@@ -1,6 +1,6 @@
 # Case Study: Reviewing an Assessment Reporting Template
 
-You are tasked with reviewing the [assessment template from PurpleSec].
+You are tasked with reviewing the [assessment template from PurpleSec](NS_Unit05_SampleReport.pdf).
 
 ### Instructions
 Answer the following questions:
