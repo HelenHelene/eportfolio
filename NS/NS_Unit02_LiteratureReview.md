@@ -18,7 +18,7 @@ Based on the information identified about your assigned websites, carry out a li
 #### Network Scans
 If the requirement is to test for network vulnerabilities, then tools such as traceroute, Nmap, and Nessus (amongst many others) should be used.
 - **PING** : using Ping will tell you little about an individual website using shared hosting. Instead, it will report on the underlying host which may be shared by several (perhaps dozens) of websites.
-- **NMAP** : a tool like Nmap may also give erroneous reports due to the fact that, by default, it will examine the resource indicated by the IP address rather than the URL. As such, Nmap will try and report on ALL the services/ resources running on the host rather than the site or application in question.
+- **NMAP** : a tool like Nmap may also give erroneous reports due to the fact that, by default, it will examine the resource indicated by the IP address rather than the URL. As such, Nmap will try and report on ALL the services/ resources running on the host rather than the site or application in question. i.e., give misleading information when used to probe a shared IP web site.
 
 #### Host Scans
 When the requirement is to scan/audit the underlying host itself, for example, if working for a hosting company or dealing with on-premise resources, a different set of tools is required.
