@@ -14,7 +14,7 @@ As part of my e-portfolio, I actively participated in collaborative discussions 
 
 Collaborative Discussion 1 - Digitalisation–What are the Security Implications of the Digital Economy?-Respond to peers: [Respond1](Module03_Discussion1_Respond1.pdf) & [Respond2](Module03_Discussion1_Respond2.pdf)
 
-[Vulnerability Analysis – Literature Review Activity]
+[Vulnerability Analysis – Literature Review Activity](NS_Unit02_LiteratureReview.md)
 
 ### Reflections
 Reflecting on this unit, I realize the critical nature of advanced persistent threats and the ongoing need for robust security measures. 
