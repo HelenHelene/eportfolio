@@ -18,7 +18,7 @@ The units presented below serve as a compilation of evidence, showcasing the wor
 
 #### [Unit 2: Advanced Persistent Threats: Applying the Cyber Kill Chain Model to a Case Study](NS_Unit02.md)
 
-#### [Unit 3: Vulnerability Assessments]
+#### [Unit 3: Vulnerability Assessments](NS_Unit03.md)
 
 #### [Unit 4: Breach Analysis and Mitigation]
 
