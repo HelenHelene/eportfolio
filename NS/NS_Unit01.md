@@ -14,7 +14,7 @@ By the end of this unit, I accomplished the following learning outcomes:
 ### Artefacts and Collaborative Discussion 
 As part of my e-portfolio, I have completed the following activities and participated in collaborative discussions, which are documented in the provided link:
 
-[Collaborative Discussion 1 - Digitalisation–What are the Security Implications of the Digital Economy?-Initial post](https://helenhelene.github.io/eportfolio/pdf/Module02_Discussion1_Initial.pdf)
+[Collaborative Discussion 1 - Digitalisation–What are the Security Implications of the Digital Economy?-Initial post](Module03_Discussion1_Initial.pdf)
 
 [Website Choice Activity - My selection: Gin & Juice Shop Ecommerce](https://ginandjuice.shop/)
 
