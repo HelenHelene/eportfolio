@@ -12,7 +12,7 @@ Throughout this unit, we achieved the following learning outcomes:
 ### Artefacts and Collaborative Discussion 
 As part of my e-portfolio, I actively participated in collaborative discussions and completed the assigned activities. 
 
-Collaborative Discussion 1 - Digitalisation–What are the Security Implications of the Digital Economy?-Respond to peers: [Respond 1](Module03_Discussion1_Respond1.pdf) & [Respond 2](Module03_Discussion1_Respond2.pdf)
+Collaborative Discussion 1 - Digitalisation–What are the Security Implications of the Digital Economy?-Respond to peers: [Respond1](Module03_Discussion1_Respond1.pdf) & [Respond2](Module03_Discussion1_Respond2.pdf)
 
 [Vulnerability Analysis – Literature Review Activity]
 
