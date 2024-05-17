@@ -57,6 +57,8 @@ There are a number of tools that over time have become part of the 'Internet Pro
  - **OPENVAS** : OpenVAS (the open vulnerability assessment system) is an open-source tool, based on the same core as Nessus. It is a server-based system, available as a downloadable image that runs within a virtual machine – as such it is a form of virtual appliance. It is designed to be controlled by the host machine – which means the VMM needs to be configured to receive network traffic both from the internet and the host machine itself. The main difference between tools like Nmap and Nessus derivatives is the presence of a data feed that contains information about known vulnerabilities and how to detect them.
  - **KALI LINUX** : The final toolset on the list is Kali Linux – short for Kernel Auditing Linux it is a Linux distribution that comes pre-packaged with a large number of testing tools including Wireshark, NMap and many others. It is available as a 'live' distribution (I.e. requires no installation) on DVD or USB and also runs within a VM.
 
+[Risk Mapping for Assignment 1](NS_Unit02_RiskMapping.pdf)
+
 ### Reflections
 Reflect on this activity by answering the following questions:
  - Did you have any issues or challenges with the literature search/audit on software sites and the national vulnerabilities database?
@@ -65,6 +67,38 @@ Reflect on this activity by answering the following questions:
 
 ### Reference
 Unit 3 Lecturecast - Vulnerability Assessments
+
+Acunetix. (2024) Negative Impacts of Automated Vulnerability Scanners and How to Prevent them.  Available from: https://www.acunetix.com/support/docs/faqs/negative-impacts-of-automated-vulnerability-scanners-and-how-to-prevent-them/#:~:text=Excessive%20server%20logging,unexpected%20and%20sometimes%20random%20data [Accessed 17 May 2024]
+
+CWE. (2024) CWE List Version 4.14.  Available from: https://cwe.mitre.org/data/index.html [Accessed 16 May 2024].
+
+GDPR. (2024) General Data Protection Regulation.  Available from: https://gdpr.eu/tag/gdpr/ [Accessed 14 May 2024].
+
+Greenbone. (2024) Greenbone OpenVAS.  Available from: https://www.openvas.org/ [Accessed 16 May 2024].
+
+Khan, S. et al. (January 28, 2019) Cyber Security Issues and Challenges in E-Commerce.  Proceedings of 10th International Conference on Digital Strategies for Organizational Success. Available from: https://ssrn.com/abstract=3323741
+
+Krzyminski, A. (June 29, 2021) 94% of the Largest E-Commerce Sites Are Not Accessibility Compliant. Baymard Institute.  Available from: https://baymard.com/blog/accessibility-benchmark-launch [Accessed 14 May 2024].
+
+Margau, A. (January 29, 2024) E-Commerce Web Accessibility: 2024 Essentials & 20 Tips for Businesses.  Clym. Available from: https://clym.io/accessibility-news/e-commerce-web-accessibility-2024-essentials-and-20-tips-for-businesses [Accessed 14 May 2024].
+
+Mudge, M. (2023) 2023 E-Commerce Content Accessibility Report.  Scribely.  Available from: https://www.scribely.com/post/2023-e-commerce-content-accessibility-report [Accessed 14 May 2024].
+
+NsLookup. (2023) How does online nslookup work?.  Available from: https://www.nslookup.io/ [ Accessed 15 May 2024]
+
+OWASP. (2024)  Vulnerability Scanning Tools. Available from: https://owasp.org/www-community/Vulnerability_Scanning_Tools [Accessed 17 May 2024]
+
+OWASP Top10. (2021) OWASP Top 10 - 2021. Available from: https://owasp.org/Top10/ [Accessed 14 May 2024]
+
+PCI Security Standards Council. (2024) PCI Security Standards Overview. Available from: https://www.pcisecuritystandards.org/standards/ [Accessed 15 May 2024]
+
+PortSwigger. (2024) Vulnerabilities detected by Burp Scanner. Available from: https://portswigger.net/burp/documentation/scanner/vulnerabilities-list [Accessed 17 May 2024]
+
+Priyawati, D. et al. (2022) Website Vulnerability Testing and Analysis of Internet Management Information System Using OWASP.  International Journal of Computer and Information System 3(3): 143-147.  DOI: https://doi.org/10.29040/ijcis.v3i3.90
+
+Sohaib, O. & Kang, K. (2016) ‘Assessing Web Content Accessibility of E-Commerce Websites for People with Disabilities’, 25th International Conference on Information Systems Development. Katowice-Poland, August 2016. Poland: ResearchGate.  Available from: https://www.researchgate.net/publication/314210010 [Accessed 14 May 2024].
+
+WCAG. (2023) How to Meet WCAG-Quick Reference.  Available from: https://www.w3.org/WAI/WCAG22/quickref/?versions=2.2&currentsidebar=%23col_overview [Accessed 14 May 2024].
 
 ---
 
