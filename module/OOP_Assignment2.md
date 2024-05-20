@@ -1,4 +1,4 @@
-### [Assignment 2: System Implementation – README](https://helenhelene.github.io/eportfolio/pdf/Module02_DesignProposal.pdf)
+### [Assignment 2: System Implementation – README](https://helenhelene.github.io/eportfolio/pdf/Module02_README.pdf)
 
 <br>
 
@@ -49,7 +49,10 @@ The test.py script imports all modules and uses Python’s assert statements to 
  7.	**View history:** Retrieves and displays the history of all actions taken by the car.
 
 Below is the expected output of the test: 
- 
+
+<img src="OOP_Assignment2_TestResult.jpg?raw=true">
+<br><br>
+
 
 #### Conclusion
 This project demonstrates a comprehensive implementation of software that supports the operation of a driverless car using OOP principles in Python. The detailed testing and validation processes ensure that each component performs as intended, contributing to the overall reliability and safety of the system. By modularizing the system into distinct components, the project ensures maintainability, scalability, and clarity.
