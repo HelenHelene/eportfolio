@@ -19,6 +19,11 @@ class ObstacleDetect:
     def update_data(self, distance):
         """Update the obstacle detection data."""
         self.distance = distance
-        self.obstacle_detect = distance <= self.min_distance  # Detect obstacle if the distance is <= to the minimum distance.
+	# Detect obstacle if the distance is <= to the minimum distance.
+        self.obstacle_detect = distance <= self.min_distance  
 		
 ```
+
+---
+
+[Return to Module List](OOP_Assignment2_Scripts.md)
