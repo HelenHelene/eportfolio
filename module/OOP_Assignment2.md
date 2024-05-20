@@ -31,7 +31,7 @@ To better organize the code, classes and functions are defined in separate modul
 ### OOP Features Used
  - **Inheritance:** The DriverlessCar class inherits from the Vehicle class, allowing it to use and extend the functionalities of the base class.
  - **Abstraction:** The system abstracts complex behaviors into simplified interfaces and method calls.
- - **Polymorphism:** Methods like move, turn, and brake in the DriverlessCar class exhibit polymorphic behavior, responding differently based on the.
+ - **Polymorphism:** Methods like move, turn, and brake in the DriverlessCar class exhibit polymorphic behavior, responding differently based on the context.
 
 ### Execution Instructions
 This software is designed to support the operation of a driverless car. It can be executed with additional support from other functions, such as sensors and platforms. The Test Module (test.py) can be executed to test the driverless car system and ensure that all components work correctly and interact as expected:
