@@ -12,6 +12,7 @@ This project implements driverless car software using Object-Oriented Programmin
 
 ### Module and Class Overview
 To better organize the code, classes and functions are defined in separate modules and imported into the main program as needed. 
+
 | **Module** | **Class** | **Description** |
 | :--------- | :-------- | :-------------- |
 | vehicle.py	| Vehicle	| Base class for a generic vehicle with basic functionalities like starting and stopping the engine. |
