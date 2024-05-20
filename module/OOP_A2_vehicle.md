@@ -22,3 +22,7 @@ class Vehicle:
         return f"Vehicle speed: {self.speed} km/h"
 		
 ```
+
+---
+
+[Return to Module List](OOP_Assignment2_Scripts.md)
