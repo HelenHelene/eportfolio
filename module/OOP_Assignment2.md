@@ -62,11 +62,4 @@ This project demonstrates a comprehensive implementation of software that suppor
 
 ---
 
-#### References
-
-
-<br><br>
-
----
-
 [Return to Module 2](OOP.md)
