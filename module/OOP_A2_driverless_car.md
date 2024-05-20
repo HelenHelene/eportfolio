@@ -75,3 +75,7 @@ class DriverlessCar(Vehicle):
         return f"DriverlessCar speed: {self.speed} km/h, max speed: {self.max_speed} km/h"
 
 ```
+
+---
+
+[Return to Module List](OOP_Assignment2_Scripts.md)
