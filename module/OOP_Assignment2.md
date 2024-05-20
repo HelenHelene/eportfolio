@@ -14,14 +14,14 @@ This project implements driverless car software using Object-Oriented Programmin
 To better organize the code, classes and functions are defined in separate modules and imported into the main program as needed. 
 | **Module** | **Class** | **Description** |
 | :--------- | :-------- | :-------------- |
-| **vehicle.py**	| **Vehicle**	| Base class for a generic vehicle with basic functionalities like starting and stopping the engine. |
-| **driverless_car.py**	| **DriverlessCar**	| Inherits from Vehicle and includes methods for moving, turning, and braking. Integrates lane detection, obstacle detection, and emergency braking. |
-| **lane_detection.py**	| **LaneDetect**	| Handles lane deviation detection and correction. |
-| **obstacle_detection.py**	| **ObstacleDetect**	| Manages obstacle detection and initiates slowing down or emergency braking. |
-| **emergency_brake.py**	| **EmergencyBrake**	| Activates the emergency brake when needed. |
-| **backend.py**	| **Backend**	| Collects and stores the action history. |
-| **frontend.py**	| **Frontend** | Provides a text-based interface for interacting with the car and viewing the history. |
-| **test.py** | - | Contains automated tests to validate the functionality of the driverless car system. |
+| vehicle.py	| Vehicle	| Base class for a generic vehicle with basic functionalities like starting and stopping the engine. |
+| driverless_car.py	| DriverlessCar	| Inherits from Vehicle and includes methods for moving, turning, and braking. Integrates lane detection, obstacle detection, and emergency braking. |
+| lane_detection.py	| LaneDetect	| Handles lane deviation detection and correction. |
+| obstacle_detection.py	| ObstacleDetect	| Manages obstacle detection and initiates slowing down or emergency braking. |
+| emergency_brake.py	| EmergencyBrake	| Activates the emergency brake when needed. |
+| backend.py	| Backend	| Collects and stores the action history. |
+| frontend.py	| Frontend | Provides a text-based interface for interacting with the car and viewing the history. |
+| test.py | - | Contains automated tests to validate the functionality of the driverless car system. |
 
 ### Data Structures Used
  - **List:** Used in the Backend class to store the history of actions. Lists allow efficient appending, suitable for maintaining a history log.
