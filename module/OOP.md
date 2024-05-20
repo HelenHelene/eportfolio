@@ -10,7 +10,7 @@ Two of the assignments in this module involves designing and implementing softwa
 #### Assignment 2: System Implementation _(In Progress)_
 [Driverless Car System - README](OOP_Assignment2.md)
 
-[Driverless Car System - Python Scripts](https://helenhelene.github.io/eportfolio/OOP_DriverlessCar/index.md)
+[Driverless Car System - Python Scripts](OOP_Assignment2_Scripts.md)
 
 Furthermore, there are formative activities and e-portfolio tasks that require gathering all the evidence related to my work in this module, including an Individual Reflective Piece that reflects on my personal development throughout the module.
 
