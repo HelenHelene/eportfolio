@@ -8,7 +8,7 @@ Two of the assignments in this module involves designing and implementing softwa
 [A Design Proposal of Software to Support Operation of a Driverless Car](OOP_Assignment1.md)
 
 #### Assignment 2: System Implementation _(In Progress)_
-[Driverless Car System - README](OOP_Assignment1.md)
+[Driverless Car System - README](OOP_Assignment2.md)
 
 [Driverless Car System - Python Scripts](OOP_Assignment1.md)
 
