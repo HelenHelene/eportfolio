@@ -21,7 +21,7 @@ To better organize the code, classes and functions are defined in separate modul
 | **emergency_brake.py**	| **EmergencyBrake**	| Activates the emergency brake when needed. |
 | **backend.py**	| **Backend**	| Collects and stores the action history. |
 | **frontend.py**	| **Frontend** | Provides a text-based interface for interacting with the car and viewing the history. |
-| **test.py** |  | Contains automated tests to validate the functionality of the driverless car system. |
+| **test.py** | - | Contains automated tests to validate the functionality of the driverless car system. |
 
 ### Data Structures Used
  - **List:** Used in the Backend class to store the history of actions. Lists allow efficient appending, suitable for maintaining a history log.
