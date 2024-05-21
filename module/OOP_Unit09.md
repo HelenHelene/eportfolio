@@ -19,13 +19,7 @@ I have completed the following activities and engaged in collaborative discussio
 Collaborative Discussion 2 - OO Design for IoT-Respond to peers: [Respond 1](https://helenhelene.github.io/eportfolio/pdf/Module02_Discussion2_Respond1.pdf) & 
 [Respond 2](https://helenhelene.github.io/eportfolio/pdf/Module02_Discussion2_Respond2.pdf)
  
-[Activity 1 - How relevant is the cyclomatic complexity in object oriented systems? Which alternative metrics do you consider to be more reflective of the complexity of a piece of code, in comparison to the number of independent paths through a program? Support your response using reference to the related academic literature.]
- 
-[Activity 2 - To what extent is cyclomatic complexity relevant when developing object-oriented code?]
- 
-[Activity 3 - What is the cyclomatic complexity of the following piece of code?]
-
-[Activity 4 - Extend the following program to test accuracy of operations using the assert statement.]
+[Extend the program to test accuracy of operations using the assert statement.](OOP_Unit09_Activity.md)
 
 ### Reflections
 I have gained a solid understanding of the importance of code testing, proper documentation, and efficient packaging in software development. These skills are crucial in delivering high-quality and reliable software solutions to stakeholders.
