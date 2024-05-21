@@ -17,11 +17,10 @@ Upon completing this unit, I am able to:
 ### Artefacts
 As part of my e-portfolio, I completed the following artifacts which are documented in the provided link:
 
-[Discuss the ways in which data structures support object-oriented development with examples of three different data structures]
+[Discuss the ways in which data structures support object-oriented development with examples of three different data structures](OOP_Unit07_Activity1.md)
 
-[Create a nested dictionary of data on cars within a Car class. Extend the program to work with the dictionary by calling the following methods: items(), keys(), values()]
+[Create a nested dictionary of data on cars within a Car class. Extend the program to work with the dictionary by calling the following methods: items(), keys(), values()](OOP_Unit07_Activity2.md)
      
-[Read the article by Kampffmeyer & Zschaler (2007). Develop a program which allows a user to enter the properties which they require of a design pattern, and have the program make a recommendation. The program should use a constructor to initialise attributes and assign values to variables based on input entered by the user.]
 
 ### Reflections
 I have acquired a deeper understanding of debugging techniques, error handling, and the significance of employing appropriate data structures and search algorithms. The practical implementation of these concepts has enhanced my ability to develop high-quality code and efficiently manage and process data.
