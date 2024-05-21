@@ -5,7 +5,7 @@
 #### Description
 This project implements software to support the operation of a driverless car using OOP principles in Python. It supports three key operations, allowing user interaction through a frontend interface, while the backend simulates data generation and collection. Other required functions, like sensors, cameras, and control panels, are assumed to be imported from other subsystems. The corresponding UML diagrams, modified in response to feedback, are presented in the Appendix for reference.
 
-### Key Features
+### Key Operations
  - **Lane Detection:** Continuously monitors and corrects the car’s position within the lane.
  - **Obstacle Detection:** Detects obstacles in the path and takes appropriate actions.
  - **Emergency Brake:** Activates emergency braking when a critical obstacle is detected.
@@ -54,10 +54,27 @@ Below is the expected output of the test:
 <img src="OOP_Assignment2_TestResult.jpg?raw=true">
 <br><br>
 
-
 #### Conclusion
-This project demonstrates a comprehensive implementation of software that supports the operation of a driverless car using OOP principles in Python. The detailed testing and validation processes ensure that each component performs as intended, contributing to the overall reliability and safety of the system. By modularizing the system into distinct components, the project ensures maintainability, scalability, and clarity.
+This project demonstrates a implementation of software that supports the operation of a driverless car using OOP principles in Python. The detailed testing and validation processes ensure that each component performs as intended, contributing to the overall reliability and safety of the system. By modularizing the system into distinct components, the project ensures reusability, maintainability, and scalability.
 
+<br><br>
+
+---
+
+#### Appendix
+<img src="OOP_Assignment2_UseCase.jpg?raw=true">
+<br><br>
+
+<img src="OOP_Assignment2_Class.jpg?raw=true">
+<br><br>
+
+<img src="OOP_Assignment2_Activity.jpg?raw=true">
+<br><br>
+
+<img src="OOP_Assignment2_StateMach.jpg?raw=true">
+<br><br>
+
+<img src="OOP_Assignment2_Sequence.jpg?raw=true">
 <br><br>
 
 ---
