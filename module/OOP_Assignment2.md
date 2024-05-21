@@ -3,7 +3,7 @@
 <br>
 
 #### Description
-This project implements driverless car software using Object-Oriented Programming (OOP) principles in Python, supported by the Unified Modeling Language (UML) diagram presented in Design Proposal. The system supports three key operations: Lane Detection, Obstacle Detection, and Emergency Braking. Users interact through a frontend interface, while the backend simulates data generation and collection representing the car's environment.
+This project implements software to support the operation of a driverless car using OOP principles in Python. It supports three key operations, allowing user interaction through a frontend interface, while the backend simulates data generation and collection. Other required functions, like sensors, cameras, and control panels, are assumed to be imported from other subsystems. The corresponding UML diagrams, modified in response to feedback, are presented in the Appendix for reference.
 
 ### Key Features
  - **Lane Detection:** Continuously monitors and corrects the car’s position within the lane.
@@ -34,7 +34,7 @@ To better organize the code, classes and functions are defined in separate modul
  - **Polymorphism:** Methods like move, turn, and brake in the DriverlessCar class exhibit polymorphic behavior, responding differently based on the context.
 
 ### Execution Instructions
-This software is designed to support the operation of a driverless car. It can be executed with additional support from other functions, such as sensors and platforms. The Test Module (test.py) can be executed to test the driverless car system and ensure that all components work correctly and interact as expected:
+This software is designed to support the operation of a driverless car. It can be executed with additional support from other functions, such as sensors, cameras, and control panels.  The Test Module (test.py) can be executed to test the driverless car system and ensure that all components work correctly and interact as expected:
  1.	Ensure Python 3.x is installed on your IDE or development environment.
  2.	Ensure all modules are in the same directory.
  3.	Execute the test.py script to perform a series of automated tests validating the system's functionality.
