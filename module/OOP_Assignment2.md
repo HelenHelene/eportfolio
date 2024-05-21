@@ -5,12 +5,12 @@
 #### Description
 This project implements software to support the operation of a driverless car using OOP principles in Python. It supports three key operations, allowing user interaction through a frontend interface, while the backend simulates data generation and collection. Other required functions, like sensors, cameras, and control panels, are assumed to be imported from other subsystems. The corresponding UML diagrams, modified in response to feedback, are presented in the Appendix for reference.
 
-### Key Operations
+#### Key Operations
  - **Lane Detection:** Continuously monitors and corrects the car’s position within the lane.
  - **Obstacle Detection:** Detects obstacles in the path and takes appropriate actions.
  - **Emergency Brake:** Activates emergency braking when a critical obstacle is detected.
 
-### Module and Class Overview
+#### Module and Class Overview
 To better organize the code, classes and functions are defined in separate modules and imported into the main program as needed. 
 
 | **Module** | **Class** | **Description** |
@@ -24,22 +24,22 @@ To better organize the code, classes and functions are defined in separate modul
 | **frontend.py**	| **Frontend** | Provides a text-based interface for interacting with the car and viewing the history. |
 | **test.py** |  | Contains automated tests to validate the functionality of the driverless car system. |
 
-### Data Structures Used
+#### Data Structures Used
  - **List:** Used in the Backend class to store the history of actions. Lists allow efficient appending, suitable for maintaining a history log.
  - **Tuple:** Used to store timestamped entries in the history log in the Backend class. Tuples are immutable and ensure the history entries are not modified after recording
 
-### OOP Features Used
+#### OOP Features Used
  - **Inheritance:** The DriverlessCar class inherits from the Vehicle class, allowing it to use and extend the functionalities of the base class.
  - **Abstraction:** The system abstracts complex behaviors into simplified interfaces and method calls.
  - **Polymorphism:** Methods like move, turn, and brake in the DriverlessCar class exhibit polymorphic behavior, responding differently based on the context.
 
-### Execution Instructions
+#### Execution Instructions
 This software is designed to support the operation of a driverless car. It can be executed with additional support from other functions, such as sensors, cameras, and control panels.  The Test Module (test.py) can be executed to test the driverless car system and ensure that all components work correctly and interact as expected:
  1.	Ensure Python 3.x is installed on your IDE or development environment.
  2.	Ensure all modules are in the same directory.
  3.	Execute the test.py script to perform a series of automated tests validating the system's functionality.
 
-### Automated Test Result
+#### Automated Test Result
 The test.py script imports all modules and uses Python’s assert statements to achieve automated testing. The tests simulate various actions of the driverless car to ensure all components interact correctly.
  1.	**Start the car's engine:** Verifies the engine starts and the speed is initialized to zero.
  2.	**Move the car forward:** Ensures the car reaches and maintains the maximum speed.
