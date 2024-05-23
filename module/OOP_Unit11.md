@@ -2,11 +2,6 @@
 
 Throughout Unit 11, we explored the efficiencies of programming in Python and its distinctive feature of not utilizing pointers for memory management, in contrast to languages like C. We delved into the concept of design patterns and their role in organizing code in an object-oriented manner. Additionally, we examined the concept of sustainable code development and how object-oriented programming in Python facilitates this approach.
 
-Key topics covered in this unit included:
- - Appreciating the absence of pointers in Python and understanding the advantages it offers in terms of memory management compared to languages like C.
- - Recognizing the environmental impact of code design and development, considering ways to minimize the carbon footprint associated with code.
- - Exploring various design patterns, including creational, structural, and behavioral patterns, to effectively organize code and enhance its modularity and maintainability.
-
 ### Learning Outcomes
 By the completion of this unit, I have achieved the following learning outcomes:
  - Described the overhead incurred in programming languages that use pointers, highlighting the benefits of Python's approach.
