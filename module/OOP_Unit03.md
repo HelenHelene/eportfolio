@@ -2,11 +2,6 @@
 
 This unit focuses on the Unified Modeling Language (UML), which is a standardized toolset for representing software systems before they are translated into code.
 
-In this unit, I have accomplished the following tasks:
- - Familiarized myself with the common syntax used in UML.
- - Explored the major UML models utilized in the object-oriented analysis, design, and development process.
- - Designed UML models to represent specific aspects of software systems.
-
 ### Learning Outcomes
 Upon completing this unit, I have achieved the following learning outcomes:
  - Recognize the syntax employed in designing UML models.
