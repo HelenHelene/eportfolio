@@ -2,11 +2,6 @@
 
 Throughout this unit, we delved into the process of testing a Python program and packaging it for distribution to stakeholders. The focus was on understanding the importance of code testing and the significance of appropriately packaging a Python program for efficient distribution.
 
-Key topics covered in this unit included:
- - Appreciating the concept of packaging a Python program, ensuring it is organized and structured for ease of distribution.
- - Understanding the PEP257 convention and its role in effectively documenting a Python program, enhancing its readability and maintainability.
- - Describing the range of approaches used to test code, ensuring its quality and functionality.
-
 ### Learning Outcomes
 By the completion of this unit, I have achieved the following learning outcomes:
  - Acquired the ability to appropriately package a Python code development, ensuring it is well-organized and ready for distribution.
