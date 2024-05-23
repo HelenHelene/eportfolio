@@ -2,12 +2,6 @@
 
 In this unit, we explored the essential aspects of debugging code and handling errors. We acknowledged the various ways in which errors can be introduced into code and examined the tools available in Python to facilitate error detection. Following this, we delved into the concept of data structures, which are instrumental in organizing and processing data, along with different search techniques for efficient data retrieval. The content covered in this unit aimed to equip us with the skills necessary to develop high-quality code and effectively manage and process diverse types of data, all of which are crucial for the Assignment 2 System Implementation.
 
-Throughout this unit, I accomplished the following objectives:
- - Developed an understanding of the importance of debugging code and became familiar with common types of errors that can occur in a program.
- - Explored the role of linters in supporting the development of high-quality code.
- - Gained knowledge about various data structures available in Python and their application in storing and organizing data.
- - Evaluated the effectiveness of different search techniques to retrieve data from stored collections.
-
 ### Learning Outcomes
 Upon completing this unit, I am able to:
  - Utilize Python tools to assess and improve the quality of code.
