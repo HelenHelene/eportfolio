@@ -16,7 +16,7 @@ By the end of this unit, I accomplished the following learning outcomes:
 ### Artefacts
 As part of my e-portfolio, I completed the following artifacts which are documented in the provided link:
 
-[Inheritance - Tutorial Labs]
+[Inheritance - Tutorial Labs](OOP_Unit05_TutorialLab.md)
 
 [Inheritance - Exercises](OOP_Unit05_CodioEx.md)
 
