@@ -2,11 +2,6 @@
 
 In this unit, we focused on the application of design patterns to effectively structure code. We explored the factory design pattern and its implementation in software development. Additionally, we acknowledged that multiple design patterns can be used in conjunction within a single codebase. We recognized that certain design patterns are more compatible and commonly used together.
 
-Key topics covered in this unit included:
- - Examining the factory design pattern and understanding how it can be applied to generate objects in Python programs.
- - Recognizing that multiple design patterns can be applied simultaneously to support a cohesive code development.
- - Describing the design patterns that are more likely to be used together within a single code package, considering their compatibility and practicality.
-
 ### Learning Outcomes
 By the completion of this unit, I have achieved the following learning outcomes:
  - Developed a Python program that applies the factory design pattern to effectively generate objects, demonstrating a practical understanding of its implementation.
