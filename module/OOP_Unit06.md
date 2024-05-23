@@ -2,11 +2,6 @@
 
 During this unit, we delved deeper into the concept of classes in Python, specifically focusing on the usage of abstract classes and interfaces to assign variable values and execute methods. Additionally, we explored the theoretical context of evaluating the effectiveness of object-oriented code.
 
-Throughout this unit, I achieved the following tasks:
- - Explored the benefits of utilizing interfaces in Python.
- - Developed a Python program that incorporates interfaces.
- - Recognized the metrics used to evaluate the effectiveness of object-oriented programs (OOP).
-
 ### Learning Outcomes
 The learning outcomes of this unit include the ability to:
  - Describe how interfaces support the design of Python code.
@@ -18,7 +13,7 @@ Aside from continuing to build my e-portfolio, I also completed the following pr
 
 [Encapsulations - Tutorial Labs]
 
-[Encapsulations - Exercises]
+[Encapsulations - Exercises](OOP_Unit06_CodioEx.md)
 
 ### Reflections
 I have acquired a solid understanding of abstract classes and interfaces in Python. I now comprehend the benefits of utilizing interfaces in code design and have gained practical experience in implementing them. Additionally, I have learned about the metrics used to assess the effectiveness of OOP.
