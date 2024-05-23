@@ -2,11 +2,6 @@
 
 In this introductory unit on Python programming, we have gained a comprehensive understanding of the evolution of programming languages towards object orientation. We have also explored the challenges and benefits associated with programming in an object-oriented way.
 
-Throughout this unit, I achieved the following objectives:
- - Examined the concept of object-oriented programming (OOP) and its significance in modern software development, understanding what it means for a program to be object-oriented.
- - Explored the syntax used to define a Python class, learning how to create and structure classes to encapsulate data and behavior effectively.
- - Investigated the process of defining different data types in Python, gaining proficiency in working with various data types and adapting the access modifiers applied to them.
-  
 ### Learning Outcomes
 After completing this unit, I have achieved the following learning outcomes:
  - The major features of an object-oriented program, including abstract classes, inheritance, encapsulation, and polymorphism can be described.
