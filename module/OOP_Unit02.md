@@ -2,10 +2,6 @@
 
 During this unit, we ventured into the realm of developing Python programs by taking the initial steps and analyzing the program domain using use case and state machine diagrams.
 
-Throughout the unit, we explored the following aspects:
- - Understanding how actors interact with software in terms of functional requirements, recognizing the key interactions and behaviors involved.
- - Utilizing state machine diagrams to delve into the behaviors and interactions within software once it becomes active.
-
 ### Learning Outcomes
 By the end of this unit, I have achieved the following learning outcomes:
  - Designing a use case diagram for a software development scenario, which aids in understanding the requirements and interactions of the software.
