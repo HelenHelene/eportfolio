@@ -15,7 +15,7 @@ To better organize the code, classes and functions are defined in separate modul
 
 | **Appendix** | **Module** | **Class** | **Description** |
 | :----------- | :--------- | :-------- | :-------------- |
-| **1** | vehicle.py	| Vehicle	| Base class for generic vehicle with basic functionalities like starting and stopping the engine. |
+| **1** | vehicle.py	| Vehicle	| Base class for generic vehicle with basic functionalities like starting and stopping engine. |
 | **2** | driverless_car.py	| DriverlessCar	| Inherits from Vehicle and includes methods for moving, turning, and braking. Integrates lane detection, obstacle detection, and emergency braking. |
 | **3** | lane_detection.py	| LaneDetect	| Handles lane deviation detection and correction. |
 | **4** | obstacle_detection.py	| ObstacleDetect	| Manages obstacle detection and initiates slowing down or emergency braking. |
@@ -25,7 +25,7 @@ To better organize the code, classes and functions are defined in separate modul
 | **8** | test.py |  | Contains automated tests to validate the functionality of the driverless car system. |
 
 #### Data Structures Used
- - **List:** Used in the Backend class to store the history of actions. Lists allow efficient appending, suitable for maintaining a history log.
+ - **List:** Used in the Backend class to store the history of actions. Lists allow efficient appending, suitable for maintaining history log.
 
 #### OOP Features Used
  - **Inheritance:** The DriverlessCar class inherits from the Vehicle class, allowing it to use and extend the functionalities of the base class.
@@ -50,12 +50,12 @@ The test.py imports all modules and uses Python’s assert statements to achieve
  6.	**Stop car:** Verifies the car stops and the engine is turned off.
  7.	**View history:** Retrieves and displays the history of all actions taken by the car.
 
-Below is the expected output of the test: 
+All modules exited normally and below is the expected output of the test: 
 
 <img src="OOP_Assignment2_TestResult.jpg?raw=true">
 
 #### Conclusion
-This project demonstrates implementation of software that supports the operation of a driverless car using OOP principles. The detailed testing and validation processes ensure that each component performs as intended, contributing to the overall reliability and safety of the system. By modularizing the system into distinct components, the project ensures reusability, maintainability, and scalability.
+This project demonstrates implementation of software that supports the operation of driverless car using OOP principles. The detailed testing and validation processes ensure that each component performs as intended, contributing to the overall reliability and safety of the system. By modularizing the system into distinct components, the project ensures reusability, maintainability, and scalability.
 <br><br>
 
 ---
