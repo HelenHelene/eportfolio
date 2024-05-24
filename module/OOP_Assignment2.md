@@ -38,7 +38,6 @@ This software is designed to support the operation of a driverless car. It can b
  2.	Ensure all modules are in the same directory.
  3.	Execute the test.py script to perform a series of automated tests validating the system's functionality.
 <img src="OOP_Assignment2_Execute.jpg?raw=true">
-<br?<br>
 
 #### Automated Test Result
 The test.py imports all modules and uses Python’s assert statements to achieve automated testing. The tests simulate various actions of the driverless car to ensure all components interact correctly.
