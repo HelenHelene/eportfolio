@@ -37,7 +37,7 @@ for person in person_list:
 ```
 
 ```python
-# Output
+# Tutorial Lab Output
     <class '__main__.Person'>
 
     Tom Thumb weighs 150lbs.
