@@ -11,7 +11,7 @@ The learning outcomes of this unit include the ability to:
 ### Artefacts
 Aside from continuing to build my e-portfolio, I also completed the following projects, which are documented in the provided link:
 
-[Encapsulations - Tutorial Labs]
+[Encapsulations - Tutorial Labs](OOP_Unit06_TutorialLab.md)
 
 [Encapsulations - Exercises](OOP_Unit06_CodioEx.md)
 
