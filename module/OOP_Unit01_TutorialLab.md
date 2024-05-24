@@ -13,15 +13,18 @@ class Person:
 
 print(Person)
 
+
 # Tutorial Lab 2: Instantiate a Class
 
 p = Person('Tom', 'Thumb', 150, 78)
 print(p.first_name + ' ' + p.last_name + ' weighs ' + str(p.weight_in_lbs) + 'lbs.')
 
+
 # Tutorial Lab 3: Modify Instance Data Members
 
 p.first_name = 'George'
 print(p.first_name + ' ' + p.last_name + ' weighs ' + str(p.weight_in_lbs) + 'lbs.')
+
 
 # Tutorial Lab Challenge
 
