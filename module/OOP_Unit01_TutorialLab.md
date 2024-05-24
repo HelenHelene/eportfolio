@@ -2,6 +2,7 @@
 
 ```python
 # Tutorial Lab 1: Creating a Class
+
 class Person:
     #Represents a generic Person.
     def __init__(self, first, last, weight, height):
@@ -13,14 +14,17 @@ class Person:
 print(Person)
 
 # Tutorial Lab 2: Instantiate a Class
+
 p = Person('Tom', 'Thumb', 150, 78)
 print(p.first_name + ' ' + p.last_name + ' weighs ' + str(p.weight_in_lbs) + 'lbs.')
 
 # Tutorial Lab 3: Modify Instance Data Members
+
 p.first_name = 'George'
 print(p.first_name + ' ' + p.last_name + ' weighs ' + str(p.weight_in_lbs) + 'lbs.')
 
 # Tutorial Lab Challenge
+
 # Create five Person objects
 p1 = Person("Tom", "Thumb", 150, 78)
 p2 = Person("Fred", "Frainer", 155, 80)
@@ -37,7 +41,8 @@ for person in person_list:
 ```
 
 ```python
-# Tutorial Lab Output
+# Tutorial Lab 1-3 & Challenge Output
+
     <class '__main__.Person'>
 
     Tom Thumb weighs 150lbs.
