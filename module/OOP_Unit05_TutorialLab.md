@@ -1,8 +1,6 @@
 
-
 ```python
-# Tutorial Lab Challenge: Inheritance
-
+# Inheritance Tutorial Lab Challenge
 """
 Create a new class called Teacher that inherits from Adult. Provide additional attributes around teacher type
 (such as kindergarten, secondary, or higher education) and BMI risk factor (kindergarten = 1, secondary = 2, and higher ed = 3).
@@ -146,7 +144,7 @@ print(t1.bmi_risk_factor)  # Output: 3
 ```
 
 ```python
-# Output
+# Inheritance Tutorial Lab Challenge Output
  
 Tom
 BMI number is: 27.43236212278876
