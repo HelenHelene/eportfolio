@@ -1,10 +1,11 @@
 <img src="OOP_Unit05_Inheritance_Ex18.1.jpg?raw=true"> 
-<br><br>
 
+---
 
 ```python
-# Exercise 18.2 Write a Deck method called deal_hands that takes two parameters, the number of hands and the number of cards per hand.
-# It should create the appropriate number of Hand objects, deal the appropriate number of cards per hand, and return a list of Hands.
+# Exercise 18.2
+"""Write a Deck method called deal_hands that takes two parameters, the number of hands and the number of cards per hand.
+It should create the appropriate number of Hand objects, deal the appropriate number of cards per hand, and return a list of Hands."""
 
 import random
 
