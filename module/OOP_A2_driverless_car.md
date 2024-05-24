@@ -13,7 +13,7 @@ class DriverlessCar(Vehicle):
     inheriting from Vehicle.
     """
     def __init__(self, max_speed=50):
-        """Initial maximum speed of driverless car."""
+        """Call a method from a parent class, initial maximum speed of driverless car."""
         super().__init__()  # Inital the parent Vehicle class.
         self.max_speed = max_speed
         self.maintain_speed = False  # Maintain speed flag to indicate if the car should maintain speed.
