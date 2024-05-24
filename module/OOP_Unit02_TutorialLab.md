@@ -1,7 +1,7 @@
 
-
 ```python
 # Tutorial Lab 1: Instance Methods
+
 class Person:
     """Represents a generic Person."""
     def __init__(self, first, last, weight, height):
@@ -20,6 +20,7 @@ print("\n")
 
 
 # Tutorial Lab 2: Demonstrating Instance Methods
+
 p = Person('Tom', 'Thumb', 150, 62)
 p2 = Person('Fred', 'Flint', 225, 57)
 
@@ -29,6 +30,7 @@ print("\n")
 
 
 # Tutorial Lab 3: Static Members
+
 class Person:
     count = 0
     
@@ -54,6 +56,7 @@ print("\n")
 
 
 # Tutorial Lab 4: Static Methods
+
 class Person:
     count = 0
     
@@ -78,6 +81,7 @@ print(Person.print_count())
 
 ```python
 # Tutorial Lab 1-4 Output
+
     27.43236212278876
     
     
@@ -92,8 +96,9 @@ print(Person.print_count())
     
     0
 
-
 ```
+
+--- 
 
 ```python
 # Tutorial Lab Challenge
@@ -150,6 +155,7 @@ print("\n")
 
 ```python
 # Tutorial Lab Challenge Output
+
     Name: Tom Thumb
     Weight: 150 lbs
     Height: 62 inches
