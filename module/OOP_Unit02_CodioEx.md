@@ -1,5 +1,4 @@
 
-
 ```python
 # Exercise 16.1
 
@@ -49,14 +48,12 @@ print("Average Pace for a marathon: {:.2f} minutes/mile".format(average_pace.min
 
     Average Pace for a marathon: 8.17 minutes/mile
 
-
-
 ```
 
+---
 
 ```python
 # Exercise 16.2
-
 """Use the datetime module to write a program that gets the current date and prints the day of the week."""
 
 import datetime
