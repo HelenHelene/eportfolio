@@ -82,6 +82,7 @@ print(rect_circle_overlap(circle, rectangle))
 
 ```
 
+---
 
 ```python
 # Exercise 15.2 
