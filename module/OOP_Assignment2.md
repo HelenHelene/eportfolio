@@ -3,7 +3,7 @@
 <br>
 
 #### Description
-This project implements software to support the operation of a driverless car using OOP principles in Python. It supports three key operations, allowing user interaction through a frontend interface, while the backend simulates data generation and collection. Other required functions like sensors, cameras, and control panels, are assumed to be imported from other subsystems. The corresponding UML diagrams modified in response to feedback, are presented in the **Appendix 9-13** for reference.
+This project implements software to support the operation of a driverless car using OOP principles in Python. It supports three key operations, allowing user interaction through a frontend interface, while the backend simulates data generation and collection. Other required functions like sensors, cameras, and control panels, are assumed to be imported from other subsystems. The corresponding UML diagrams modified in response to feedback, are presented in the **Appendix** for reference.
 
 #### Key Operations
  - **Lane Detection:** Continuously monitors and corrects the car’s position within the lane.
@@ -37,31 +37,31 @@ This software is designed to support the operation of a driverless car. It can b
  1.	Ensure Python 3.x is installed on your IDE.
  2.	Ensure all modules are in the same directory.
  3.	Execute the test.py script to perform a series of automated tests validating the system's functionality.
-
+<img src="OOP_Assignment2_Execute.jpg?raw=true">
+<br?<br>
 
 #### Automated Test Result
-The test.py script imports all modules and uses Python’s assert statements to achieve automated testing. The tests simulate various actions of the driverless car to ensure all components interact correctly.
- 1.	**Start the car's engine:** Verifies the engine starts and the speed is initialized to zero.
- 2.	**Move the car forward:** Ensures the car reaches and maintains the maximum speed.
+The test.py imports all modules and uses Python’s assert statements to achieve automated testing. The tests simulate various actions of the driverless car to ensure all components interact correctly.
+ 1.	**Start car:** Verifies the engine starts and the speed is initialized to zero.
+ 2.	**Move car forward:** Ensures the car reaches and maintains the maximum speed.
  3.	**Simulate lane deviation and correction:** Tests the detection and correction of lane deviations.
  4.	**Simulate obstacle detection and slowing down:** Verifies the car slows down when detecting obstacles at a safe distance.
  5.	**Simulate further obstacle detection and emergency brake:** Ensures the car applies the emergency brake if the obstacle is too close.
- 6.	**Stop the car:** Verifies the car stops and the engine is turned off.
+ 6.	**Stop car:** Verifies the car stops and the engine is turned off.
  7.	**View history:** Retrieves and displays the history of all actions taken by the car.
 
 Below is the expected output of the test: 
 
 <img src="OOP_Assignment2_TestResult.jpg?raw=true">
-<br><br>
 
 #### Conclusion
-This project demonstrates a implementation of software that supports the operation of a driverless car using OOP principles in Python. The detailed testing and validation processes ensure that each component performs as intended, contributing to the overall reliability and safety of the system. By modularizing the system into distinct components, the project ensures reusability, maintainability, and scalability.
-
+This project demonstrates implementation of software that supports the operation of a driverless car using OOP principles. The detailed testing and validation processes ensure that each component performs as intended, contributing to the overall reliability and safety of the system. By modularizing the system into distinct components, the project ensures reusability, maintainability, and scalability.
 <br><br>
 
 ---
 
-#### Appendix
+#### Appendix	
+
 <img src="OOP_Assignment2_UseCase.jpg?raw=true">
 <br><br>
 
