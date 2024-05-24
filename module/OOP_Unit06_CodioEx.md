@@ -1,5 +1,5 @@
 ```python
-# Encapsulation Exercise 1
+# Encapsulation Ex. 1
 
 class Country:
     def __init__(self, name, capital, population, continent):
@@ -21,7 +21,16 @@ print(my_country._continent)  # Europe
 ```
 
 ```python
-# Encapsulation Exercise 2
+# Encapsulation Ex. 1 Output
+
+France
+Paris
+67081000
+Europe
+```
+
+```python
+# Encapsulation Ex. 2
 
 class Artist:
     def __init__(self, name, medium, style, famous_artwork):
@@ -64,16 +73,7 @@ print(my_artist._Artist__famous_artwork)  # Calvin and Hobbes
 ```
 
 ```python
-# Encapsulation Exercise 1 Output
-
-France
-Paris
-67081000
-Europe
-```
-
-```python
-# Encapsulation Exercise 2 Output
+# Encapsulation Ex. 2 Output
 
 Error Message: 'Artist' object has no attribute 'name'
 Error Message: 'Artist' object has no attribute 'medium'
