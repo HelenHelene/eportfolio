@@ -77,7 +77,7 @@ print(Person.print_count())
 ```
 
 ```python
-# Tutorial Lab Output
+# Tutorial Lab 1-4 Output
     27.43236212278876
     
     
