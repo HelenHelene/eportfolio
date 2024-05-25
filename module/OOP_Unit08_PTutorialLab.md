@@ -45,7 +45,7 @@ contacts.display()
 
 Polymorphism Tutorial Lab 1 Output
 
-<img src="OOP_Unit08_PLab1.jpg" alt="Recursive Tree" width="500"/>
+<img src="OOP_Unit08_PLab1.jpg" alt="IDE screen" width="500"/>
 
 ---
 
@@ -117,7 +117,7 @@ print(len(contacts.contact_list))
 
 Polymorphism Tutorial Lab 2 Output
 
-<img src="OOP_Unit08_PLab2.jpg" alt="Recursive Tree" width="500"/>
+<img src="OOP_Unit08_PLab2.jpg" alt="IDE screen" width="500"/>
 
 ---
 
@@ -193,8 +193,8 @@ contacts.display()
 
 Polymorphism Tutorial Lab 3 Output
 
-<img src="OOP_Unit08_PLab3a.jpg" alt="Recursive Tree" width="500"/>
-<img src="OOP_Unit08_PLab3b.jpg" alt="Recursive Tree" width="500"/>
+<img src="OOP_Unit08_PLab3a.jpg" alt="IDE screen" width="500"/>
+<img src="OOP_Unit08_PLab3b.jpg" alt="IDE screen" width="500"/>
 
 ---
 
