@@ -198,4 +198,39 @@ Polymorphism Tutorial Lab 3 Output
 
 ---
 
+```python
+
+# Polymorphism Lab Challenge
+
+class Chef:
+    def __init__(self, name, cuisine, stars):
+        self.name = name
+        self.cuisine = cuisine
+        self.michelin_stars = stars
+    
+    def __gt__(self, other_chef):
+        return self.michelin_stars > other_chef.michelin_stars
+    
+    def compare(self, other_chef):
+        if self > other_chef:
+            return f"{self.name} has more Michelin stars than {other_chef.name}"
+        else:
+            return f"{other_chef.name} has more Michelin stars than {self.name}"
+marco = Chef('Marco Pierre White', 'French, British', 3)
+rene = Chef('Rene Redzepi', 'Nordic', 2)
+
+print(marco.compare(rene))
+print(rene.compare(marco))
+```
+
+```python
+
+# Polymorphism Lab Challenge Output
+
+Marco Pierre White has more Michelin stars than Rene Redzepi
+Marco Pierre White has more Michelin stars than Rene Redzepi
+```
+
+---
+
 [Return to Module 2 Unit 8](OOP_Unit08.md)
