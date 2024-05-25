@@ -9,7 +9,9 @@ By the completion of this unit, I have achieved the following learning outcomes:
  - Experimented with the design of code using a range of design patterns, gaining hands-on experience in organizing code modules in an architectural manner.
 
 ### Artefacts
-Continued updating my e-portfolio to document my progress and reflect on my learning journey.
+Aside from continuing to build my e-portfolio, I also completed the following activities, as documented in the provided link:
+
+[Codio Advanced Topics in Object Oriented Programming]
 
 ### Reflections
 I have gained a deeper understanding of the efficiencies and advantages of Python's approach to memory management without the need for explicit pointers. This knowledge will enable me to write more efficient and optimized code, appreciating the underlying mechanisms that contribute to Python's performance.
