@@ -25,18 +25,9 @@ def recursive_tree(branch_length, angle, t):
 recursive_tree(60, 20, t)
 turtle.mainloop()
 ```
+Tutorial Lab 1 - Recursive Tree Output
 
-```python
-# Tutorial Lab 1 - Recursive Tree Output
-
-Citra Curie
-Rowan Faraday
-16
-18
-student
-plumber
-
-```
+<img src="OOP_Unit08_RecursiveTree.jpg" alt="Recursive Tree" width="500"/>
 
 ---
 
