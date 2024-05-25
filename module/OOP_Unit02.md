@@ -16,6 +16,8 @@ Collaborative Discussion 1 - Factors which Influence Reusability-Respond to peer
 [Class Functions and Methods - Tutorial Labs](OOP_Unit02_TutorialLab.md)
 
 [Class Functions and Methods - Exercises](OOP_Unit02_CodioEx.md)
+
+[Optional extension activities - Employee Management Program](OOP_Unit02_Employee.md)
   
 ### Reflections
 Through engaging in collaborative discussions with my peers, I have had the opportunity to delve deeper into the concept of reusability. These discussions have not only expanded my understanding of reusability but have also strengthened my practical critical thinking skills.
