@@ -23,4 +23,5 @@ The links provided below will guide you to the assignment materials.
 #### End of Module Assignment _(Pass with Distinction)_
 #### [AI in Claims Processing-Revolutionizing the Insurance Industry](https://helenhelene.github.io/eportfolio/pdf/Module01_AI_InsurClaims.pdf)
 
+---
 
