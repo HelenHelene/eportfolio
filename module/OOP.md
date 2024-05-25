@@ -43,5 +43,6 @@ The units presented below serve as a compilation of evidence, showcasing the wor
 
 #### [Unit 12: Working with Design Patterns to Structure Code](OOP_Unit12.md)
 
-----
+You may also refer to [Summary of Artefacts](OOP_ArtefactsSummary.md) for Each Unit
 
+---
