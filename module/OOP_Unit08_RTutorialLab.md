@@ -74,7 +74,45 @@ turtle.mainloop()
 
 Tutorial Lab 2 - The Hilbert Curve Output
 
-<img src="OOP_Unit08_RecursiveTree.jpg" alt="Recursive Tree" width="500"/>
+<img src="OOP_Unit08_HilbertCurve.jpg" alt="Hilbert Curve" width="500"/>
+
+---
+
+```python
+# Tutorial Lab 3 - Sierpinski Triangle
+
+import turtle
+
+t = turtle.Turtle()
+t.speed(10)
+
+def sierpinski(length, n):
+    if n == 1:
+        draw_triangle(length)
+    else:
+      sierpinski(length, n-1)
+      t.rt(120)
+      t.fd(length * 2**(n-2))
+      sierpinski(length, n-1)
+      t.lt(120)               
+      t.fd(length * 2**(n-2)) 
+      sierpinski(length, n-1)
+      t.fd(length * 2**(n-2))  
+         
+def draw_triangle(length):
+    t.setheading(180)      
+    for i in range(3):     
+        t.rt(120)          
+        t.fd(length)
+
+sierpinski(20, 4)
+
+turtle.mainloop()
+```
+
+Tutorial Lab 3 - Sierpinski Triangle Output
+
+<img src="OOP_Unit08_SierpinskiTriangle.jpg" alt="Sierpinski Triangle" width="500"/>
 
 ---
 
