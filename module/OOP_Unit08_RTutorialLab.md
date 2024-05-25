@@ -116,4 +116,31 @@ Tutorial Lab 3 - Sierpinski Triangle Output
 
 ---
 
+```python
+# Tutorial Lab Challenge
+""Write a recursive function called recursive_power that takes two integers as parameters.
+The first parameter is the base and the second parameter is the exponent. Return the base parameter to the power of the exponent.""""
+
+def recursive_power(base, exponent):
+    # Base case: any number to the power of 0 is 1
+    if exponent == 0:
+        return 1
+    # Recursive case: multiply base by the result of base raised to the power of (exponent - 1)
+    else:
+        return base * recursive_power(base, exponent - 1)
+
+# Example usage:
+print(recursive_power(5, 3))
+print(recursive_power(4, 5))
+```
+
+```python
+# Tutorial Lab Challenge Output
+
+125
+1024
+```
+
+---
+
 [Return to Module 2 Unit 8](OOP_Unit08.md)
