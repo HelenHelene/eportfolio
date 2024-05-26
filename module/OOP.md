@@ -4,7 +4,7 @@ This module focuses on utilizing the Python programming language for designing a
 
 Two of the assignments in this module involves designing and implementing software to support the operation of a driverless car. The objectives of these assignments include preparing UML models for the object-oriented design process, applying data structures for efficient data storage, and implementing data search algorithms for optimal data processing.
 
-#### Assignment 1: System Design _( :heavy_check_mark: Pass with Distinction)_
+#### Assignment 1: System Design _(🎓Pass with Distinction)_
 [A Design Proposal of Software to Support Operation of a Driverless Car](OOP_Assignment1.md)
 
 #### Assignment 2: System Implementation _(In Progress)_
