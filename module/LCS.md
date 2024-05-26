@@ -6,21 +6,21 @@ As part of this module, there are coding assignments that aim to demonstrate our
 
 The links provided below will guide you to the assignment materials. 
 
-#### Assignment 1-Part 1: Data Structures and Algorithm Design _(Pass with Distinction)_
+#### Assignment 1-Part 1: Data Structures and Algorithm Design _( :heavy_check_mark: Pass with Distinction)_
 #### [Phone Book Applicaion - Proposal](https://helenhelene.github.io/eportfolio/pdf/Module01_Python_Proposal.pdf)
 <br>
 
-#### Assignment 1-Part 2: Algorithm and Programming Development _(Pass with Distinction)_
+#### Assignment 1-Part 2: Algorithm and Programming Development _( :heavy_check_mark: Pass with Distinction)_
 #### [Phone Book Application - README](https://helenhelene.github.io/eportfolio/pdf/Module01_Python_README.pdf)
 #### [Phone Book Application - Python Scripts](LCS_Assignment1_Part2_PhoneBook.md)
 #### [Phone Book Application - Testing Strategy](https://helenhelene.github.io/eportfolio/pdf/Module01_Python_TestingStrategy.pdf)
 <br>
 
-#### Assignment 1-Part 3: MySQL Programming _(Pass with Distinction)_
+#### Assignment 1-Part 3: MySQL Programming _( :heavy_check_mark: Pass with Distinction)_
 #### [MySQL - README](https://helenhelene.github.io/eportfolio/pdf/Module01_MySQL_README.pdf)
 <br>
 
-#### End of Module Assignment _(Pass with Distinction)_
+#### End of Module Assignment _( :heavy_check_mark: Pass with Distinction)_
 #### [AI in Claims Processing-Revolutionizing the Insurance Industry](https://helenhelene.github.io/eportfolio/pdf/Module01_AI_InsurClaims.pdf)
 
 ---
