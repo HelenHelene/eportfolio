@@ -12,7 +12,7 @@ Throughout this unit, we achieved the following learning outcomes:
 ### Artefacts and Collaborative Discussion 
 I actively participated in collaborative discussions and completed the assigned activities, which are documented in the provided link:
 
-[Collaborative Discussion 2 - The Pros and cons of logging – The impact of log4j-Initial post](Module03_Discussion1_Initial.pdf)
+[Collaborative Discussion 2 - The Pros and cons of logging – The impact of log4j-Initial post](Module03_Discussion2_Initial.pdf)
 
 [Scanning and Collaborative Wiki Activity](NS_Unit04_WikiActivity.md)
 
