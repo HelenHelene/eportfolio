@@ -16,7 +16,7 @@ Aside from continuing to build my e-portfolio, I also completed the following ac
 ### Reflections
 I have gained a deeper understanding of the efficiencies and advantages of Python's approach to memory management without the need for explicit pointers. This knowledge will enable me to write more efficient and optimized code, appreciating the underlying mechanisms that contribute to Python's performance.
 
-Furthermore, I have recognized the importance of sustainable code development and the impact of design choices on the environment. This awareness will guide me in making conscious decisions to minimize the carbon footprint associated with my code and contribute to sustainable software development practices.
+The mini game design in Codio's advanced topics has also enhanced my knowledge of Python, which will be a useful skill for further development.
 
 Exploring various design patterns has broadened my perspective on code organization and modularity. By applying different design patterns, I can enhance the maintainability and reusability of my code, leading to more robust and scalable software solutions.
 
