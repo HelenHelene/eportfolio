@@ -59,6 +59,17 @@ This project demonstrates implementation of software that supports the operation
 
 ---
 
+#### Reference
+Fathy, M. et al. (2020) Design and implement of self-driving car.  Procedia Computer Science 175(2020): 165-172. DOI: https://doi.org/10.1016/j.procs.2020.07.026
+
+Kanchana, B. et al. (2021) Computer Vision for Autonomous Driving.  2021 3rd International Conference on Advancements in Computing 2021: 175 – 180. DOI: https://doi.org/10.1109/ICAC54203.2021.9671099
+
+Reddy, P. P. (2019) Driverless Car: Software Modelling and Design using Python and Tensorflow.  Available from: https://easychair.org/publications/preprint/k7wj [Accessed 14 April 2024].
+
+Sosa, R. & Velazquez, G. (2007) Obstacles detection and collision avoidance system developed with virtual models. 2007 IEEE International Conference on Vehicular Electronics and Safety 2007: 1-8.  DOI: https://doi.org/10.1109/ICVES.2007.4456397
+
+---
+
 #### Appendix	
 
 <img src="OOP_Assignment2_UseCase.jpg?raw=true">
