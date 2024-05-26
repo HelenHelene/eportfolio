@@ -1,25 +1,18 @@
-# Summary of Artefacts for Each Unit
+# List of Artefacts for Each Unit
 
-## Unit 1: An Introduction to Python Programming and the OO Programming Paradigm
-### Artefacts:
-- Collaborative Discussion 1: Factors which influence reusability.
-- Reviewed the article by Di Silvestro & Nadir (2021)
-- Protected and unprotected variables.
-- Classes and Objects - Tutorial Labs
-- Classes and Objects - Exercises
+| Unit(s)	| Component	|	Artefacts | 
+| :------ | :-------- | :-------- |
+| 1 - 3	| Collaborative discussion 1 | Factors which Influence Reusability: [Initial post](https://helenhelene.github.io/eportfolio/pdf/Module02_Discussion1_Initial.pdf), [Peer Response 1 ](https://helenhelene.github.io/eportfolio/pdf/Module02_Discussion1_Respond1.pdf), [Peer Response 2](https://helenhelene.github.io/eportfolio/pdf/Module02_Discussion1_Respond2.pdf), [Summary post](https://helenhelene.github.io/eportfolio/pdf/Module02_Discussion1_Summary.pdf) |
+| 1 | Codio and e-Portfolio activities | - Codio-Classes and Objects: [Tutorial Labs](OOP_Unit01_TutorialLab.md) & [Exercises](OOP_Unit01_CodioEx.md) <br> - [Review the article by Di Silvestro & Nadir (2021).](OOP_Unit01_Discuss.md) <br> - [Protected and unprotected variables.](OOP_Unit01_ProtectedandUnprotectedvar.md) |
+| 2 | Codio and Optional Extension activities | - Codio-Class Functions and Methods: [Tutorial Labs](OOP_Unit02_TutorialLab.md) & [Exercises](OOP_Unit02_CodioEx.md) <br> - [Employee Management Program](OOP_Unit02_Employee.md) |
+| 3 | e-Portfolio activities | - [Discuss which UML models are most applicable at different stages of the SDLC.](OOP_Unit03_Discuss.md) <br> - [State Machine Diagram for a washing machine.](OOP_Unit03_StateMach.md) |
+| 5 | Codio and e-Portfolio activities | 
+| 6 | Codio activities
+| 7 | Portfolio activities
+| 8 - 10 | Collaborative discussion 2
+| 8 | Codio activities
+| 9 | e-Portfolio activities	End of unit 9
 
-## Unit 2: Object Oriented Analysis - Initial Steps towards Programming in Python
-### Artefacts:
-- Collaborative Discussion 1**: Engaged in peer discussions on factors influencing reusability.
-- Class Functions and Methods - Tutorial Labs**: Learning functions and methods in Python.
-- Class Functions and Methods - Exercises**: Practical exercises to reinforce understanding of class functions and methods.
-- Optional Extension Activities**: Developed an Employee Management Program to apply learned concepts.
-
-## Unit 3: UML
-### Artefacts:
-- Collaborative Discussion Summary Post**
-- Discussed UML models and their application at various stages of the Software Development Life Cycle (SDLC).
-- State Machine Diagram for a Washing Machine**: Created a state machine diagram to understand system behaviors.
 
 ## Unit 4: Applying a UML Model to a Program Implementation: UML in Practice
 - Continued Building My e-Portfolio**: Documented progress and achievements.
