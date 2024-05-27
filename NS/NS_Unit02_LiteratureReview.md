@@ -108,7 +108,7 @@ To manage and audit applications on the system:
 
 #### How Challenges Were Overcome
 - **Focused Search Criteria**: Narrowing down search criteria to focus on web application security and prioritizing well-known vulnerabilities.
-- **Utilizing Reliable Sources**: Relying on reputable sources like OWASP, CWE, and NVD to ensure the accuracy and reliability of the information.
+- **Utilizing Reliable Sources**: Relying on reputable sources like OWASP and CWE to ensure the accuracy and reliability of the information.
 - **Continuous Learning**: Leveraging online resources and communities to better understand complex terminologies and concepts.
 
 #### Impact on Final Report
