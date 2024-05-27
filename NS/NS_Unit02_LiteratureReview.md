@@ -3,6 +3,8 @@
 ### Instructions
 Based on the information identified about your assigned websites, carry out a literature search/ audit on [Gin & Juice Shop Ecommerce](https://ginandjuice.shop/) and the national vulnerabilities database to create a baseline audit on potential vulnerabilities with websites.
 
+This article combines a baseline audit on potential vulnerabilities and an asset analysis for the [Gin & Juice Shop Ecommerce](https://ginandjuice.shop/). It outlines the approach, methodologies, and tools for auditing and assessing security vulnerabilities, ensuring compliance with relevant standards, and improving overall site security
+
 ### Learning Outcomes
  - Identify and analyse security threats and vulnerabilities in network systems and determine appropriate methodologies, tools and techniques to manage and/or solve them.
  - Design and critically appraise computer programs and systems to produce solutions that help manage and audit risk and security issues.
