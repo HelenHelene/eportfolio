@@ -1,74 +1,133 @@
 # Vulnerability Analysis – Literature Review Activity
 
-### Instructions
-Based on the information identified about your assigned websites, carry out a literature search/ audit on [Gin & Juice Shop Ecommerce](https://ginandjuice.shop/) and the national vulnerabilities database to create a baseline audit on potential vulnerabilities with websites.
+### Introduction
+This activity conducts the literature review as preparation for the assignment "Vulnerability Audit and Assessment - Baseline Analysis and Plan" on [Gin & Juice Shop Ecommerce](https://ginandjuice.shop/).
 
-This article combines a baseline audit on potential vulnerabilities and an asset analysis for the [Gin & Juice Shop Ecommerce](https://ginandjuice.shop/). It outlines the approach, methodologies, and tools for auditing and assessing security vulnerabilities, ensuring compliance with relevant standards, and improving overall site security
-
-### Learning Outcomes
- - Identify and analyse security threats and vulnerabilities in network systems and determine appropriate methodologies, tools and techniques to manage and/or solve them.
- - Design and critically appraise computer programs and systems to produce solutions that help manage and audit risk and security issues.
- - Gather and synthesise information from multiple sources (including internet security alerts and warning sites) to aid in the systematic analysis of security breaches and issues.
+### Identified Vulnerabilities
+Based on a literature search, the following potential vulnerabilities were identified for the Gin & Juice Shop website:<br>
+*Sources: OWASP Top 10, CWE List.*<br>
+1. **Broken Access Control (CWE-200, CWE-284)**:
+   - Unauthorized access and information disclosure.
+2. **Cryptographic Failures (CWE-259, CWE-327, CWE-331)**:
+   - Exposure of sensitive information.
+3. **Injection (CWE-73, CWE-79, CWE-89)**:
+   - Execution of malicious commands or scripts.
+4. **Insecure Design (CWE-209, CWE-256, CWE-501, CWE-522)**:
+   - Poor security control design leading to vulnerabilities.
+5. **Security Misconfiguration (CWE-16, CWE-611)**:
+   - Improper security settings causing information exposure.
+6. **Vulnerable and Outdated Components (CWE-1104)**:
+   - Exploitation of known vulnerabilities in third-party components.
+7. **Identification and Authentication Failures (CWE-287, CWE-297, CWE-384)**:
+   - Unauthorized access.
+8. **Software and Data Integrity Failures (CWE-494, CWE-502, CWE-829)**:
+   - Attacks on software updates, data integrity, and insecure deserialization.
+9. **Security Logging and Monitoring Failures (CWE-117, CWE-223, CWE-532, CWE-778)**:
+   - Delayed incident detection.
+10. **Cross-Site Request Forgery (CSRF) and Server-Side Request Forgery (SSRF) (CWE-352, CWE-918)**:
+    - Unauthorized actions on authenticated users and unauthorized access to other systems.
+11. **Denial of Service (DoS) and Distributed Denial of Service (DDoS) attacks (CWE-400, CWE-770)**:
+    - Overwhelming server resources.
 
 ### Asset ID and Analysis Audit
- - Human assets
- - Web assets
- - Physical assets
+#### Human Assets
+- Website administrators
+- Security personnel
+- Developers
+- Customer support staff
+
+#### Web Assets
+- Website front-end (HTML, CSS, JavaScript)
+- Backend systems (APIs, database)
+- User data and credentials
+- Content management system (CMS)
+
+#### Physical Assets
+- Servers hosting the website
+- Network infrastructure (routers, switches)
+- Backup storage devices
 
 ### Identify Required Scans and Tools
-
 #### Network Scans
-If the requirement is to test for network vulnerabilities, then tools such as traceroute, Nmap, and Nessus (amongst many others) should be used.
-- **PING** : using Ping will tell you little about an individual website using shared hosting. Instead, it will report on the underlying host which may be shared by several (perhaps dozens) of websites.
-- **NMAP** : a tool like Nmap may also give erroneous reports due to the fact that, by default, it will examine the resource indicated by the IP address rather than the URL. As such, Nmap will try and report on ALL the services/ resources running on the host rather than the site or application in question. i.e., give misleading information when used to probe a shared IP web site.
+To test for network vulnerabilities, the following tools should be used:
+- **Traceroute**: To map the route packets take from the source to the destination.
+- **Nmap**: To discover services and open ports on the network.
+- **Nessus**: For comprehensive vulnerability scanning.
+  
+**Considerations**:
+- **PING**: Useful for determining the availability of a host, but limited in shared hosting environments.
+- **NMAP**: May provide misleading information for shared hosting IP addresses as it scans all services running on the host.
 
-#### Host Scans
-When the requirement is to scan/audit the underlying host itself, for example, if working for a hosting company or dealing with on-premise resources, a different set of tools is required.
- - **IDS** : The most common tool deployed when scanning or auditing a host platform is a host-based intrusion detection system (HIDS). Most HIDS operate by creating a hash of key system files or objects (such as the etc/shadow or etc/passwd on Unix systems, or the registry hives such as HKEY_USERS files on Windows). If these files change unexpectedly (for example, without corresponding log entries or equivalent), the HIDS can trigger an alert. Commonly utilised applications for this function include Snort, which can act as both a HIDS and NIDS (network intrusion detection system), and Tripwire. NIDS often use externally managed databases of signatures to detect and track network intrusion attempts (Rubens, 2015). Many commercial anti-virus suites offer similar functionality.
- - **Hardware Audits** : Hardware audits are often carried out by network-based tools. One of the most common is Microsoft Configuration Manager (which used to be called Microsoft SCCM – system centre configuration manager). This can often help if low-level viruses attempt to change BIOS or firmware code, or if third parties have hijacked your server(s) to use as part of their botnet farms.
- - **Log Analysis** : The final aspect of host scanning is log analysis and auditing.
+#### Host Scan
+For auditing the underlying host:
+- **HIDS (Host-based Intrusion Detection System)**: Tools like Snort and Tripwire to monitor key system files for unauthorized changes.
+- **Microsoft Configuration Manager (SCCM)**: For hardware audits and detecting unauthorized changes to BIOS or firmware.
+- **Log Analysis**: Regular review of system and application logs.
 
 #### Wireless Scans
-Wireless scans are often viewed as part of an overall network audit, but they are becoming increasingly important as mobile devices proliferate in the enterprise.
- - **Kismet** : The traditional, most flexible of the wireless scanning and auditing tools is Kismet (Kismet, 2022) which can probe wireless interfaces, 'sniff' network traffic and even act as a WIDS (wireless intrusion detection system). It is also available as part of the Kali Linux distribution (see later).
- - **Aircrack-ng** : A more focused tool is aircrack-ng (and its associated suite) which is designed to capture and extract keys and passphrases from encrypted wireless traffic. A paper by Carranza et al (2018) provides a tutorial for using Kismet, aircrack-ng and associated tools.
+Important for environments with mobile devices:
+- **Kismet**: For wireless network scanning, sniffing, and acting as a wireless intrusion detection system.
+- **Aircrack-ng**: For capturing and extracting keys and passphrases from encrypted wireless traffic.
 
-### Application Scanning/Management Tools
-The final target for scanning and auditing are the applications that are deployed and run on the system(s) under consideration. 
- - **MS CM (SCCM)** : Microsoft configuration manager (discussed previously) provides a number of services that can be used to audit and manage applications, including deployment, the enforcement of group policies, and the management of automated updates.
- - **AppArmor** : On Unix-like systems (particularly Linux), there is a tool called AppArmor which "provides MAC functionality to Linux and is used to supplement the traditional DAC (file permissions) functionality that the OS provides." (Shamim, 2016). Essentially, it provides profiles that can be used to monitor (log) or prevent applications from accessing resources and being utilised by unauthorised users. So AppArmor can be used for both auditing and management of applications.
+#### Application Scanning/Management Tools
+To manage and audit applications on the system:
+- **Microsoft Configuration Manager (SCCM)**: For deploying and managing applications and group policies.
+- **AppArmor**: On Unix-like systems to monitor and restrict application access.
 
 ### Core Software Network Components and Tools
-There are a number of tools that over time have become part of the 'Internet Protocol' suite – these include
- - **PING** : PING is one of the oldest utilities that uses the IP stack. Its main purpose is to determine if a specific host is available, and to also calculate the round trip time (RTT) required to send a basic message from a source to a target address and receive a reply.
- - **TRACEROUTE / TRACERT** : Traceroute is a utility that is used to display a route between two hosts, as well as calculating the transit delay caused by the routers traversed during the journey.
- - **NSLOOKUP** : NSlookup (name server lookup) is a utility used to query the DNS (domain name server) system. 
- - **DIG** : DIG (rumoured to be Domain Internet Groper) is a more modern version of nslookup, with more features.
- - **WHOIS** : WHOIS is a Unix utility that is commonly used to query the Internet registrar databases.
- - **NETSTAT** : Netstat (network statistics) is a multiplatform utility used to show the active connections from a system to external hosts.
- - **Internet / Web-based services** : There are a number of third-party, web-based utilities that provide a basic system check for home-based systems – one of the oldest (but still very useful) is found at www.grc.com (then click on ShieldsUp on that page to access the scanning systems).  This will test which ports are open on your system and also how good the security of your internet gateway/router is (for example, how much information does it expose?).
- - **Web Spider** : A final tool type often used by attackers (as well as search engines) is a web spider – this tool will work its way through every page available on your website and index (or download) the HTML to reconstruct it offline.
+- **PING**: To check host availability and round trip time.
+- **Traceroute/Tracert**: To display the route between two hosts and calculate transit delays.
+- **NSlookup**: To query DNS records.
+- **DIG**: An advanced DNS query tool.
+- **WHOIS**: To query Internet registrar databases.
+- **Netstat**: To display active connections.
+- **Internet/Web-based Services**: Use tools like ShieldsUp from GRC to test open ports and security of internet gateways/routers.
+- **Web Spider**: To crawl through website pages and index or download HTML.
 
 ### Packet Diagnostic and Analysis Tools
- - **TCPDUMP** : TCPDump is a Unix-style, command line tool found on most modern Unix like systems (e.g. BSD, Linux, etc). That means it is usually shipped as standard on most modern xBSD and Linux systems.
- - **WIRESHARK** : Wireshark performs a similar function to TCPDump except it is a GUI based tool, and is available for multiple platforms including Linux, MacOS and Windows. 
+- **TCPDump**: A Unix command-line tool for network packet analysis.
+- **Wireshark**: A GUI-based tool for packet analysis, available on multiple platforms.
 
 ### Vulnerability and Port Scanners
- - **NMAP** : Nmap is another command line based scanning tool. It is usually used for service and OS discovery as part of a vulnerability scan. 
- - **NESSUS** : Nessus is a commercial vulnerability scanner, again available for multiple platforms.
- - **OPENVAS** : OpenVAS (the open vulnerability assessment system) is an open-source tool, based on the same core as Nessus. It is a server-based system, available as a downloadable image that runs within a virtual machine – as such it is a form of virtual appliance. It is designed to be controlled by the host machine – which means the VMM needs to be configured to receive network traffic both from the internet and the host machine itself. The main difference between tools like Nmap and Nessus derivatives is the presence of a data feed that contains information about known vulnerabilities and how to detect them.
- - **KALI LINUX** : The final toolset on the list is Kali Linux – short for Kernel Auditing Linux it is a Linux distribution that comes pre-packaged with a large number of testing tools including Wireshark, NMap and many others. It is available as a 'live' distribution (I.e. requires no installation) on DVD or USB and also runs within a VM.
+- **Nmap**: For service and OS discovery as part of vulnerability scanning.
+- **Nessus**: A commercial vulnerability scanner for multiple platforms.
+- **OpenVAS**: An open-source vulnerability assessment system.
+- **Kali Linux**: A Linux distribution with pre-packaged testing tools including Wireshark and Nmap.
 
-[Risk Mapping for Assignment 1](NS_Unit02_RiskMapping.pdf)
+### Integration with GRC Website Information
+The Gibson Research Corporation (GRC) website offers several tools and resources that can aid in the security audit and vulnerability assessment of the Gin & Juice Shop website. Notable tools include:
+- **ShieldsUP!**: To test for open ports and assess the security of internet gateways.
+- **DNS Spoofability Test**: To check for DNS-related vulnerabilities.
+- **Perfect Passwords**: To generate strong passwords for securing accounts.
+- **Leaktest**: To check for potential data leaks.
+- **Securable**: To assess the security capabilities of the system.
 
-### Reflections
-Reflect on this activity by answering the following questions:
- - Did you have any issues or challenges with the literature search/audit on software sites and the national vulnerabilities database?
- - How did you overcome them?
- - How will they affect your final report?
+### Reflection on the Activity
+#### Issues or Challenges with Literature Search/Audit
+1. **Volume of Data**:
+   - **Challenge**: The vast amount of data and reports on vulnerabilities made it challenging to filter relevant information specific to the Gin & Juice Shop website.
+   - **Solution**: I focused on the vulnerabilities highlighted by OWASP Top 10 and CWE lists, which are commonly referenced for web applications.
+2. **Relevance of Information**:
+   - **Challenge**: Ensuring the information was up-to-date and relevant to the specific technologies used by the Gin & Juice Shop website.
+   - **Solution**: Cross-referencing multiple sources, including the latest OWASP and CWE updates, helped validate the relevance of the information.
+3. **Technical Jargon**:
+   - **Challenge**: Understanding and interpreting technical terminologies and vulnerability details.
+   - **Solution**: Utilizing glossaries from OWASP and CWE, and seeking clarification from additional reputable sources.
+
+#### How Challenges Were Overcome
+- **Focused Search Criteria**: Narrowing down search criteria to focus on web application security and prioritizing well-known vulnerabilities.
+- **Utilizing Reliable Sources**: Relying on reputable sources like OWASP, CWE, and NVD to ensure the accuracy and reliability of the information.
+- **Continuous Learning**: Leveraging online resources and communities to better understand complex terminologies and concepts.
+
+#### Impact on Final Report
+- **Comprehensive Risk Assessment**: The challenges and the solutions implemented ensured a thorough and comprehensive risk assessment.
+- **Accurate Recommendations**: The detailed understanding of vulnerabilities will lead to more accurate and actionable recommendations in the final report.
+- **Enhanced Security Posture**: Addressing identified vulnerabilities will significantly enhance the security posture of the Gin & Juice Shop website.
+
+---
 
 ### Reference
-Unit 3 Lecturecast - Vulnerability Assessments
+**Unit 3 Lecturecast - Vulnerability Assessments**
 
 Acunetix. (2024) Negative Impacts of Automated Vulnerability Scanners and How to Prevent them.  Available from: https://www.acunetix.com/support/docs/faqs/negative-impacts-of-automated-vulnerability-scanners-and-how-to-prevent-them/#:~:text=Excessive%20server%20logging,unexpected%20and%20sometimes%20random%20data [Accessed 17 May 2024]
 
