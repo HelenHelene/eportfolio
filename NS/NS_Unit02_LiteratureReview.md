@@ -94,14 +94,6 @@ To manage and audit applications on the system:
 - **OpenVAS**: An open-source vulnerability assessment system.
 - **Kali Linux**: A Linux distribution with pre-packaged testing tools including Wireshark and Nmap.
 
-### Integration with GRC Website Information
-The Gibson Research Corporation (GRC) website offers several tools and resources that can aid in the security audit and vulnerability assessment of the Gin & Juice Shop website. Notable tools include:
-- **ShieldsUP!**: To test for open ports and assess the security of internet gateways.
-- **DNS Spoofability Test**: To check for DNS-related vulnerabilities.
-- **Perfect Passwords**: To generate strong passwords for securing accounts.
-- **Leaktest**: To check for potential data leaks.
-- **Securable**: To assess the security capabilities of the system.
-
 ### Reflection on the Activity
 #### Issues or Challenges with Literature Search/Audit
 1. **Volume of Data**:
