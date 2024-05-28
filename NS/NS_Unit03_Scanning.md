@@ -52,7 +52,14 @@ This activity conducts the basic scan using standard tools such as Traceroute / 
 
 
 ### Reflections
-I use Windows, and Nslookup in Windows does not directly support whois functionality. I tried to download and install third-party tools like the whois command-line utility from [Sysinternals by Microsoft](https://learn.microsoft.com/en-us/sysinternals/downloads/whois), but it also did not work. Therefore, I use online whois services like [ICANN Whois](https://lookup.icann.org/en/lookup) to get the same information. For the final report, I will also try alternative ways if I cannot get the requested information in the Windows working environment.
+1. Did you have any issues or challenges with the scans?
+   - I use Windows, and Nslookup in Windows does not directly support whois functionality. I tried to download and install third-party tools like the whois command-line utility from [Sysinternals by Microsoft](https://learn.microsoft.com/en-us/sysinternals/downloads/whois), but it also did not work.
+  
+2. How did you overcome them?
+   - Therefore, I use online whois services like [ICANN Whois](https://lookup.icann.org/en/lookup) to get the same information.
+
+3. How will they affect your final report?
+   - For the final report, I will also try alternative ways if I cannot get the requested information in the Windows working environment.
 
 ---
 
