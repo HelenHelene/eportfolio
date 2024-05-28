@@ -4,11 +4,16 @@
 This activity conducts the basic scan using standard tools such as Traceroute / Tracert and Nslookup as preparation for the Assignment 2 "Vulnerability Audit and Assessment - Results and Executive Summary" on [Gin & Juice Shop Ecommerce](https://ginandjuice.shop/).
 
 ### Scanning Output
-**Tracert (Windowns) ** <br>
+**Tracert (Windowns)** <br>
 <img src="NS_Unit03_Traceroute.jpg" alt="Traceroute output" width="600"/>
 
 **Nslookup** <br>
 <img src="NS_Unit03_Nslookup.jpg" alt="Nslookup output" width="600"/>
+
+**Whois** from [ICANN Whois](https://lookup.icann.org/en/lookup) <br>
+<img src="NS_Unit03_IPNslookup.jpg" alt="Nslookup output" width="600"/>
+
+**IP geolocation** from [IP geolocation service](https://ipgeolocation.io) <br>
 
 ### Analysis
 1. How many hops from your machine to your assigned website?
@@ -26,25 +31,25 @@ This activity conducts the basic scan using standard tools such as Traceroute / 
       ns-1496.awsdns-59.org
       
 4. Who is the registered contact?
-   - From the Nslookup output for MX records, the registered contact is : awsdns-hostmaster.amazon.com
- 
+   - Use [ICANN Whois](https://lookup.icann.org/en/lookup) to search the contact information of below IP addresses:
+   | **IP** | **Name** | **Mailing address** |
+   | :----- | :---------- | :---------------------------------- |
+   | 34.249.203.140 | Amazon Data Services Ireland Limited | Unit 4033, Citywest Avenue Citywest Business Park, Dublin, D24, Ireland |
+   | 34.246.169.176 | Amazon Data Services Ireland Limited | Unit 4033, Citywest Avenue Citywest Business Park, Dublin, D24, Ireland |
+
 5. What is the MX record for the website?
+   - From the Nslookup output for MX records, the responsible mail address is: awsdns-hostmaster.amazon.com
  
 6. Where is the website hosted?
- - Use https://ipgeolocation.io to identify the physical location of below IP addresses:
-   34.249.203.140: Hosted in Ireland (Amazon Web Services)
-   34.246.169.176: Hosted in Ireland (Amazon Web Services)
-   
-### Learning Outcomes
- - Identify and analyse security threats and vulnerabilities in network systems and determine appropriate methodologies, tools and techniques to manage and/or solve them.
- - Design and critically appraise computer programs and systems to produce solutions that help manage and audit risk and security issues.
- - Gather and synthesise information from multiple sources (including internet security alerts and warning sites) to aid in the systematic analysis of security breaches and issues.
+ - Use [IP geolocation service](https://ipgeolocation.io) to identify the physical location of below IP addresses:
+   | **IP** | **Country** | **Internet service provider (ISP)** |
+   | :----- | :---------- | :---------------------------------- |
+   | 34.249.203.140 | Ireland | Amazon Data Services Ireland Limited |
+   | 34.246.169.176 | Ireland | Amazon Data Services Ireland Limited |
+
 
 ### Reflections
-Reflect on this activity by answering the following questions:
- - Did you have any issues or challenges with the scans?
- - How did you overcome them?
- - How will they affect your final report?
+I use Windows, and Nslookup in Windows does not directly support whois functionality. I tried to download and install third-party tools like the whois command-line utility from [Sysinternals by Microsoft](https://learn.microsoft.com/en-us/sysinternals/downloads/whois), but it also did not work. Therefore, I use online whois services like [ICANN Whois](https://lookup.icann.org/en/lookup) to get the same information. For the final report, I will also try alternative ways if I cannot get the requested information in the Windows working environment.
 
 ---
 
