@@ -4,16 +4,17 @@
 This activity conducts the basic scan using standard tools such as Traceroute / Tracert and Nslookup as preparation for the Assignment 2 "Vulnerability Audit and Assessment - Results and Executive Summary" on [Gin & Juice Shop Ecommerce](https://ginandjuice.shop/).
 
 ### Scanning Output
-**Tracert (Windowns)** <br>
+#### Tracert (Windows)
 <img src="NS_Unit03_Traceroute.jpg" alt="Traceroute output" width="600"/>
 
-**Nslookup** <br>
+#### Nslookup
 <img src="NS_Unit03_Nslookup.jpg" alt="Nslookup output" width="600"/>
 
-**Whois** from [ICANN Whois](https://lookup.icann.org/en/lookup) <br>
-<img src="NS_Unit03_IPNslookup.jpg" alt="Nslookup output" width="600"/>
+#### Whois from [ICANN Whois](https://lookup.icann.org/en/lookup) 
+<img src="NS_Unit03_Whois1.jpg" alt="Whois output" width="500"/>
 
-**IP geolocation** from [IP geolocation service](https://ipgeolocation.io) <br>
+#### IP geolocation from [IP geolocation service](https://ipgeolocation.io) 
+<img src="NS_Unit03_IP1.jpg" alt="IP geolocationoutput" width="500"/>
 
 ### Analysis
 1. How many hops from your machine to your assigned website?
@@ -21,17 +22,18 @@ This activity conducts the basic scan using standard tools such as Traceroute / 
      
 2. Which step causes the biggest delay in the route? What is the average duration of that delay?
     - From the Tracert output, we can identify the hop 14 has the highest delay.
-    - Average Duration of the Delay:(304 + 304 + 306) / 3 = 304.67 ms
+    - Average Duration of the Delay: (304 + 304 + 306) / 3 = 304.67 ms
       
 3. What are the main nameservers for the website?
     - From the Nslookup output for NS records, below are the main nameservers:
-      ns-1543.awsdns-00.co.uk
-      ns-1000.awsdns-61.net
-      ns-110.awsdns-13.com
-      ns-1496.awsdns-59.org
+       - ns-1543.awsdns-00.co.uk
+       - ns-1000.awsdns-61.net
+       - ns-110.awsdns-13.com
+       - ns-1496.awsdns-59.org
       
 4. Who is the registered contact?
    - Use [ICANN Whois](https://lookup.icann.org/en/lookup) to search the contact information of below IP addresses:
+     
    | **IP** | **Name** | **Mailing address** |
    | :----- | :---------- | :---------------------------------- |
    | 34.249.203.140 | Amazon Data Services Ireland Limited | Unit 4033, Citywest Avenue Citywest Business Park, Dublin, D24, Ireland |
@@ -41,7 +43,8 @@ This activity conducts the basic scan using standard tools such as Traceroute / 
    - From the Nslookup output for MX records, the responsible mail address is: awsdns-hostmaster.amazon.com
  
 6. Where is the website hosted?
- - Use [IP geolocation service](https://ipgeolocation.io) to identify the physical location of below IP addresses:
+   - Use [IP geolocation service](https://ipgeolocation.io) to identify the physical location of below IP addresses:
+   
    | **IP** | **Country** | **Internet service provider (ISP)** |
    | :----- | :---------- | :---------------------------------- |
    | 34.249.203.140 | Ireland | Amazon Data Services Ireland Limited |
