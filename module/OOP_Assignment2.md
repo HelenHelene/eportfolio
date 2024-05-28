@@ -72,7 +72,7 @@ Sosa, R. & Velazquez, G. (2007) Obstacles detection and collision avoidance syst
 
 #### Appendix	
 
-🔗[**Driverless Car System - Python Scripts**](OOP_Assignment2_Scripts.md)
+🔗[Driverless Car System - Python Scripts](OOP_Assignment2_Scripts.md)
 
 <img src="OOP_Assignment2_UseCase.jpg?raw=true">
 <br><br>
