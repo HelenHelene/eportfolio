@@ -1,7 +1,7 @@
 # Vulnerability Analysis – Literature Review Activity
 
 ### Introduction
-This activity conducts the literature review as preparation for the assignment "Vulnerability Audit and Assessment - Baseline Analysis and Plan" on [Gin & Juice Shop Ecommerce](https://ginandjuice.shop/).
+This activity conducts the literature review as preparation for the Assignment 1 "Vulnerability Audit and Assessment - Baseline Analysis and Plan" on [Gin & Juice Shop Ecommerce](https://ginandjuice.shop/).
 
 ### Identified Vulnerabilities
 Based on a literature search, the following potential vulnerabilities were identified for the Gin & Juice Shop website:<br>
