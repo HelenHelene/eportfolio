@@ -23,7 +23,6 @@ The knowledge gained from studying the Cyber Kill Chain model and analyzing real
 ### Professional Skills Matrix and Action Plan
 Moving forward, I will continue to build upon the knowledge and skills acquired in this unit. 
 I plan to further explore additional case studies, participate in practical exercises, and stay updated with the latest advancements in APT detection and prevention techniques. 
-By doing so, I aim to become a proficient and vigilant professional in the field of cybersecurity, well-equipped to combat the ever-evolving landscape of advanced persistent threats.
 
 ---
 
