@@ -21,7 +21,7 @@ Reflecting on this unit, I realize the critical nature of advanced persistent th
 The knowledge gained from studying the Cyber Kill Chain model and analyzing real-world case studies will undoubtedly enhance my understanding of APTs and enable me to contribute effectively to mitigating future threats.
 
 ### Professional Skills Matrix and Action Plan
-Moving forward, I will continue to build upon the knowledge and skills acquired in this unit. 
+I will continue to build upon the knowledge and skills acquired in this unit. 
 I plan to further explore additional case studies, participate in practical exercises, and stay updated with the latest advancements in APT detection and prevention techniques. 
 
 ---
