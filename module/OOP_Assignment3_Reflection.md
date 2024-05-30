@@ -47,6 +47,10 @@ In summary, the OOP module has been a transformative experience. It has equipped
 
 Reflecting on this journey has been enlightening, helping me to consolidate my learnings and prepare for future challenges. The experiences and insights gained will undoubtedly serve as a strong foundation for my ongoing growth and success in the field of computer science.
 
+<br><br>
+
+---
+
 ### References
 Di Silvestro, F. & Nadir, H. (2021) The Power of ePortfolio Development to Foster Reflective and Deeper Learning in an Online Graduate Adult Education Program. Adult Learning 32(4):154-164.
 
