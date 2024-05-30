@@ -25,7 +25,6 @@ The knowledge gained from this unit has equipped me with the skills to assess an
 ### Professional Skills Matrix and Action Plan
 Moving forward, I will continue to build upon the knowledge and practical experience gained in this unit. 
 I plan to explore additional resources and tools, participate in practical exercises, and further enhance my proficiency in vulnerability assessments. 
-By doing so, I aim to become a competent professional capable of effectively identifying and mitigating vulnerabilities in diverse environments.
 
 ---
 
