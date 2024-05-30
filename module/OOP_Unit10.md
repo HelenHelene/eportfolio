@@ -14,7 +14,7 @@ Aside from continuing to build my e-portfolio, I also participated in collaborat
 [Collaborative Discussion 2 - OO Design for IoT-Summary post](https://helenhelene.github.io/eportfolio/pdf/Module02_Discussion2_Summary.pdf)
 
 ### Reflections
-I have gained valuable insights into the process of packaging Python code and the importance of comprehensive testing. Through the application of unit tests, I have learned how to ensure the correct functionality of Python code. Utilizing pylint has enabled me to assess the stylistic correctness of my code, maintaining consistency and readability.
+I have gained valuable insights into the process of packaging Python code and the importance of comprehensive testing. Through the application of unit tests, I have learned how to ensure the correct functionality of Python code.  I haven't tried [Pylint](https://pylint.org/) yet, but I briefly went through it to understand what it is. Hopefully, I can use it to assess the stylistic correctness of my code, maintaining consistency and readability.
 
 Moreover, I have explored different approaches to commenting and documenting code, enhancing its readability and facilitating future maintenance and collaboration.
 
