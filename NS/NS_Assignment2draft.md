@@ -1,4 +1,4 @@
-# Vulnerability Audit and Assessment - Results and Executive Summary for Gin & Juice Shop
+# Vulnerability Audit and Assessment - Results and Executive Summary for Gin & Juice Shop (1,200 words)
 
 ## Introduction
 
