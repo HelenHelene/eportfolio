@@ -22,7 +22,6 @@ Reflecting on this unit, I recognize the critical role of logging and forensics 
 The knowledge and skills gained in this unit have equipped me with the expertise to configure logging effectively, conduct thorough investigations using forensic tools, and analyze log and forensic analysis results to uncover significant findings.
 
 ### Professional Skills Matrix and Action Plan
-Moving forward, I will continue to build upon the knowledge and practical experience gained in this unit. 
 I plan to explore emerging trends and advancements in logging and forensics, staying updated with the latest tools and techniques. 
 By doing so, I aim to enhance my ability to investigate and resolve security incidents effectively, ultimately contributing to the establishment of robust security measures.
 
