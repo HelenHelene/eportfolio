@@ -17,13 +17,14 @@ I actively participated in collaborative discussions and completed the assigned 
 [Scanning and Collaborative Wiki Activity](NS_Unit04_WikiActivity.md)
 
 ### Reflections
-Reflecting on this unit, I recognize the critical importance of breach analysis and mitigation in maintaining a robust security posture. 
-The knowledge gained from studying typical breaches and evaluating mitigations equips me with the skills to proactively address security risks and respond effectively to potential threats.
+Reflecting on this unit, I recognize the critical importance of breach analysis and mitigation in maintaining a robust security posture. The knowledge gained from studying typical breaches and evaluating mitigations equips me with the skills to proactively address security risks and respond effectively to potential threats. I did not have time to install a virtual environment and Kali Linux this time, so I did not attend the Wiki activity but studied the information provided by peers in the Wiki.
 
 ### Professional Skills Matrix and Action Plan
+
 Moving forward, I will continue to build upon the knowledge and skills acquired in this unit. 
-I plan to further explore the capabilities of the Kali Linux distribution and enhance my proficiency in utilizing its security assessment and testing tools. 
-By doing so, I aim to become a competent professional capable of effectively analyzing breaches, implementing appropriate mitigations, and utilizing the necessary tools to secure organizational systems and data.
+I plan to further explore the possibility of installing and Kali Linux to meet potential requirements in upcoming modules, once I am free from the heavy workload of the staggered modules.
+
+Moving forward, I will continue to build upon the knowledge and skills acquired in this unit. I plan to further explore the possibility of installing [Oracle VM VirtualBox](https://www.virtualbox.org/) and [Kali Linux](https://www.kali.org/docs/virtualization/import-premade-virtualbox/) to meet potential requirements in upcoming modules, once I am free from the heavy workload of the staggered modules.
 
 ---
 
