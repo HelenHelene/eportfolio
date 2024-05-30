@@ -23,7 +23,7 @@ Exploring various design patterns has broadened my perspective on code organizat
 ### Professional Skills Matrix and Action Plan
 I have enhanced my abilities in memory management, sustainable code development, and the application of design patterns. These skills will be invaluable in my future software development projects, allowing me to write efficient, sustainable, and maintainable code.
 
-Moving forward, I will continue to expand my knowledge of design patterns, exploring additional patterns and their specific use cases. Additionally, I will remain conscious of the environmental impact of my code and seek opportunities to further optimize and minimize its carbon footprint.
+Moving forward, I will continue to expand my knowledge of design patterns, exploring additional patterns and their specific use cases. 
 
 ---
 
