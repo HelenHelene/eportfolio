@@ -21,7 +21,7 @@ Moreover, I have explored different approaches to commenting and documenting cod
 Looking ahead to the Assessment 2, the content covered in this unit will play a vital role. The ability to test code for functional correctness, as well as adhere to accurate stylistic conventions, will be crucial in delivering a high-quality software solution.
 
 ### Professional Skills Matrix and Action Plan
-In terms of my professional skills matrix and action plan, I will apply the knowledge gained in this unit to thoroughly test the code I have developed for the summative assessment. By leveraging unit tests and pylint, I aim to ensure the correctness and stylistic integrity of my code. Additionally, I will focus on documenting the code effectively, providing clear explanations for stakeholders.
+In terms of my professional action plan, I will apply the knowledge gained in this unit to thoroughly test the code I have developed for the summative assessment. By leveraging unit tests, I aim to ensure the correctness and stylistic integrity of my code. Additionally, I will focus on documenting the code effectively, providing clear explanations for stakeholders.
 
 Morover, I will continue to refine my skills in code testing, adherence to stylistic conventions, and documentation practices. This ongoing development will enable me to consistently deliver high-quality software solutions that meet the needs of stakeholders.
 
