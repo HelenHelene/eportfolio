@@ -20,6 +20,8 @@ Collaborative Discussion 1 - Digitalisation–What are the Security Implications
 Reflecting on this unit, I realize the critical nature of advanced persistent threats and the ongoing need for robust security measures. 
 The knowledge gained from studying the Cyber Kill Chain model and analyzing real-world case studies will undoubtedly enhance my understanding of APTs and enable me to contribute effectively to mitigating future threats.
 
+The Vulnerability Analysis activities enhance my knowledge of possible risks and various tools for different scenarios, which will be reflected in Assignment 1.
+
 ### Professional Skills Matrix and Action Plan
 I will continue to build upon the knowledge and skills acquired in this unit. 
 I plan to further explore additional case studies, participate in practical exercises, and stay updated with the latest advancements in APT detection and prevention techniques. 
