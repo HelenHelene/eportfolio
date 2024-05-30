@@ -27,7 +27,6 @@ It has reinforced my understanding of the critical role that security plays in b
 ### Professional Skills Matrix and Action Plan
 Moving forward, I will continue to build upon this foundation by further enhancing my skills and knowledge in network security. 
 I will explore additional resources, participate in practical exercises, and seek opportunities to apply my learning in real-world scenarios. 
-By doing so, I aim to become a proficient and effective professional in the field of network security.
 
 ---
 
