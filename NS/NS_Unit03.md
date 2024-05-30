@@ -19,12 +19,10 @@ As part of my e-portfolio, I actively participated in collaborative discussions 
 [Scanning Activity](NS_Unit03_Scanning.md)
 
 ### Reflections
-Reflecting on this unit, I recognize the critical importance of vulnerability assessments in ensuring the security and resilience of systems and networks. 
-The knowledge gained from this unit has equipped me with the skills to assess and analyze vulnerabilities effectively, enabling me to contribute to the development of robust security measures.
+Reflecting on this unit, I recognize the critical importance of vulnerability assessments in ensuring the security and resilience of systems and networks. The scanning activity allowed me to have hands-on practice with scanning and acquire the necessary information for risk assessment. I did not have time to install a virtual environment and Kali Linux this time, so I completed the task in a Windows environment with additional tools.
 
 ### Professional Skills Matrix and Action Plan
-Moving forward, I will continue to build upon the knowledge and practical experience gained in this unit. 
-I plan to explore additional resources and tools, participate in practical exercises, and further enhance my proficiency in vulnerability assessments. 
+Moving forward, I will continue to build upon the knowledge and practical experience gained in this unit. Once I am free from the heavy workload of the stagggering modules, I will explore the possibility of installing [Oracle VM VirtualBox](https://www.virtualbox.org/) to meet potential requirements in upcoming modules.
 
 ---
 
