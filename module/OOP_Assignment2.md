@@ -55,6 +55,8 @@ All modules exited normally and below is the expected output of the test:
 
 #### Conclusion
 This project demonstrates implementation of software that supports the operation of driverless car using OOP principles. The detailed testing and validation processes ensure that each component performs as intended, contributing to the overall reliability and safety of the system. By modularizing the system into distinct components, the project ensures reusability, maintainability, and scalability.
+
+
 <br><br>
 
 ---
@@ -67,6 +69,8 @@ Kanchana, B. et al. (2021) Computer Vision for Autonomous Driving.  2021 3rd Int
 Reddy, P. P. (2019) Driverless Car: Software Modelling and Design using Python and Tensorflow.  Available from: https://easychair.org/publications/preprint/k7wj [Accessed 14 April 2024].
 
 Sosa, R. & Velazquez, G. (2007) Obstacles detection and collision avoidance system developed with virtual models. 2007 IEEE International Conference on Vehicular Electronics and Safety 2007: 1-8.  DOI: https://doi.org/10.1109/ICVES.2007.4456397
+
+<br><br>
 
 ---
 
