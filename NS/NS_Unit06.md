@@ -12,9 +12,9 @@ During this unit, we achieved the following learning outcomes:
  - explored the potential benefits of leveraging generative AI for network security purposes, as well as the associated risks and challenges.
 
 ### Artefacts and Collaborative Discussion 
-As part of my e-portfolio, I actively participated in collaborative discussions and completed the final assignment. 
+This week, I completed two assignment, including the Vulnerability Audit and Assessment - Results and Executive Summary, and the Individual Reflective Piece.
 
-[Collaborative Discussion 2 - The Pros and cons of logging – The impact of log4j-Summary post](Module03_Discussion1_Summary.pdf)
+[Gin & Juice Shop Ecommerce - Results and Executive Summary](NS_Assignment2.md)
 
 [Individual Reflective Piece](NS_Assignment3.md)
 
