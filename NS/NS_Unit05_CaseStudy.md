@@ -21,7 +21,7 @@ This tasked is reviewing the [assessment template from PurpleSec](NS_Unit05_Samp
 
 ### Reflections
 1. Did you have any issues or challenges with this activity?
-    - One challenge was ensuring that the recommendations for improving the template aligned with NCSC requirements without having access to the full NCSC guidelines.
+    - One challenge was ensuring that the recommendations for improving the template aligned with NCSC requirements, which required a lot of research into the NCSC guidelines.
 
 2. How did you overcome them?
    - By focusing on general best practices for vulnerability assessments and using common standards for security reporting, I could infer necessary enhancements.
