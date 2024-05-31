@@ -10,11 +10,11 @@ Throughout this unit, we achieved the following learning outcomes:
  - familiarized ourselves with the various security assessment and testing tools available in the Kali Linux distribution. 
 
 ### Artefacts and Collaborative Discussion 
-I actively participated in collaborative discussions and completed the assigned activities, which are documented in the provided link:
+I actively participated in collaborative discussions, but I could not attend the Wiki activity this week.
 
 [Collaborative Discussion 2 - The Pros and cons of logging – The impact of log4j-Initial post](Module03_Discussion2_Initial.pdf)
 
-[Scanning and Collaborative Wiki Activity](NS_Unit04_WikiActivity.md)
+[Scanning and Collaborative Wiki Activity _(In Progress)_](NS_Unit04_WikiActivity.md)
 
 ### Reflections
 Reflecting on this unit, I recognize the critical importance of breach analysis and mitigation in maintaining a robust security posture. The knowledge gained from studying typical breaches and evaluating mitigations equips me with the skills to proactively address security risks and respond effectively to potential threats. I did not have time to install a virtual environment and Kali Linux this time, so I did not attend the Wiki activity but studied the information provided by peers in the Wiki.
