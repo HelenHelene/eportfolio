@@ -13,7 +13,7 @@ Throughout this unit, I accomplished the following learning outcomes:
 ### Artefacts and Collaborative Discussion 
 As part of my e-portfolio, I actively engaged in collaborative discussions and successfully completed the assigned activities. 
 
-Collaborative Discussion 2 - The Pros and cons of logging – The impact of log4j-Respond to peers: [Respond 1](Module03_Discussion1_Respond1.pdf) & [Respond 2](Module03_Discussion1_Respond2.pdf)
+Collaborative Discussion 2 - The Pros and cons of logging – The impact of log4j-Respond to peers: [Respond 1](Module03_Discussion2_Respond1.pdf) & [Respond 2](Module03_Discussion2_Respond2.pdf)
 
 [Case Study: Reviewing an Assessment Reporting Template activity](NS_Unit02_LiteratureReview.md)
 
