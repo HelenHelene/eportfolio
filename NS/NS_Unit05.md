@@ -15,7 +15,7 @@ As part of my e-portfolio, I actively engaged in collaborative discussions and s
 
 Collaborative Discussion 2 - The Pros and cons of logging – The impact of log4j-Respond to peers: [Respond 1](Module03_Discussion2_Respond1.pdf) & [Respond 2](Module03_Discussion2_Respond2.pdf)
 
-[Case Study: Reviewing an Assessment Reporting Template activity](NS_Unit02_LiteratureReview.md)
+[Case Study: Reviewing an Assessment Reporting Template activity](NS_Unit05_CaseStudy.md)
 
 ### Reflections
 Reflecting on this unit, I recognize the critical role of logging and forensics in breach investigations. 
