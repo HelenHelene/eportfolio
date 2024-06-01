@@ -10,7 +10,7 @@ This activity conducts the basic scan using standard tools such as Traceroute / 
 #### Nslookup
 <img src="NS_Unit03_Nslookup.jpg" alt="Nslookup output" width="600"/>
 
-#### Whois from [ICANN Lookup](https://lookup.icann.org/en/lookup) 
+#### ICANN Lookup from [ICANN Lookup](https://lookup.icann.org/en/lookup) 
 <img src="NS_Unit03_Whois1.jpg" alt="Whois output" width="500"/>
 
 #### IP geolocation from [IP geolocation service](https://ipgeolocation.io) 
