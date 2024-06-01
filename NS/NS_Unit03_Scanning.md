@@ -10,7 +10,7 @@ This activity conducts the basic scan using standard tools such as Traceroute / 
 #### Nslookup
 <img src="NS_Unit03_Nslookup.jpg" alt="Nslookup output" width="600"/>
 
-#### Whois from [ICANN Whois](https://lookup.icann.org/en/lookup) 
+#### Whois from [ICANN Lookup](https://lookup.icann.org/en/lookup) 
 <img src="NS_Unit03_Whois1.jpg" alt="Whois output" width="500"/>
 
 #### IP geolocation from [IP geolocation service](https://ipgeolocation.io) 
@@ -32,7 +32,7 @@ This activity conducts the basic scan using standard tools such as Traceroute / 
        - ns-1496.awsdns-59.org
       
 4. Who is the registered contact?
-   - Use [ICANN Whois](https://lookup.icann.org/en/lookup) to search the contact information of below IP addresses:
+   - Use [ICANN Lookup](https://lookup.icann.org/en/lookup) to search the contact information of below IP addresses:
      
    | **IP** | **Name** | **Mailing address** |
    | :----- | :---------- | :---------------------------------- |
@@ -56,7 +56,7 @@ This activity conducts the basic scan using standard tools such as Traceroute / 
    - I use Windows, and Nslookup in Windows does not directly support whois functionality. I tried to download and install third-party tools like the whois command-line utility from [Sysinternals by Microsoft](https://learn.microsoft.com/en-us/sysinternals/downloads/whois), but it also did not work.
   
 2. How did you overcome them?
-   - Therefore, I use online whois services like [ICANN Whois](https://lookup.icann.org/en/lookup) to get the same information.
+   - Therefore, I use online whois services like [ICANN Lookup](https://lookup.icann.org/en/lookup) to get the same information.
 
 3. How will they affect your final report?
    - For the final report, I will also try alternative ways if I cannot get the requested information in the Windows working environment.
