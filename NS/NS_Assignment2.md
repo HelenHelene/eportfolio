@@ -28,7 +28,7 @@ The scan results provide detailed insights into each identified vulnerability, c
 | **Severity**	| **Count** |
 | :----------- | :-------- |
 | High	| 10 |
-| Medium	| 1 |
+| Medium | 1 |
 | Low	| 10 |
 
 The completed [Burp Scanner Report](BurpSuiteReport_Deep_20240601.html) is provided as supplementary.
@@ -36,8 +36,9 @@ The completed [Burp Scanner Report](BurpSuiteReport_Deep_20240601.html) is provi
 #### 3.	Methodology
 The assessment employed both automated scanning and manual testing to verify findings and ensure compliance with GDPR and WCAG standards. Basic network-level information was also collected. The primary limitations included using trial versions of tools and focusing solely on disclosed website functionalities.
 
-| **Methodology**	| **Tool used** |	**Objective** |
-Automated Scanning	Burp Suite Professional	Identify potential security vulnerabilities like SQL injection, XSS, and others.
+| **Methodology** | **Tool used** | **Objective** |
+| :-------------- | :------------ | :------------ |
+| Automated Scanning	Burp Suite Professional	Identify potential security vulnerabilities like SQL injection, XSS, and others.
 Manual Testing	Manual	Verify findings and check compliance with GDPR and WCAG.
 	TPGi.	Colour Contrast Analyzer (CCA) is used to determine the accessibility of the contrast ratio of two colours for WCAG compliance.
 	WAVE	Web Accessibility Evaluation Tools are used to identify accessibility and WCAG errors.
@@ -47,7 +48,8 @@ Basic Scanning	Traceroute	Identify the path taken by packets from the source to 
 
 #### 4.	Network-level Information
 
-| **Information** |	**Detail** |
+| **Information** | **Detail** |
+| :-------------- | :--------- |
 IP Address	 
 Name Server	 
 Registered Contact	Amazon Data Services Ireland Limited
@@ -59,7 +61,8 @@ Biggest Delay in Route	Averaging 304.67ms
 #### 5.	Findings
 The assessment found several vulnerabilities, summarized below:
 
-| **Severity** |	**Issue** |	**Description**	| **Count** |
+| **Severity** | **Issue** | **Description** | **Count** |
+| :----------- | :-------- | :-------------- | :-------- |
 High	SQL Injection	Identified in various parameters, allowing manipulation of SQL queries.	2
 High	XXE	Vulnerable to XXE injection, allowing external entity definitions in XML.	1
 High	HTTP Response Header Injection	Allows injection of newline characters.	1
@@ -78,7 +81,8 @@ The risk assessment evaluates compliance with GDPR and WCAG standards to ensure 
 **_GDPR Compliance_**
 The GDPR compliance evaluation identified the following gaps:
 
-| **Measures** |	**Description** |	**GDPR Standard** |
+| **Measures** | **Description** | **GDPR Standard** |
+| :----------- | :-------------- | :---------------- |
 Lack of Privacy Policy	No privacy policy displayed on the webpage.	Article 12
 Consent Mechanisms	No cookie consent or mechanisms for managing cookie preferences.	Article 7
 User Data Collection Disclosure	No information on data collection, storage, or processing.	Articles 13 – 14
@@ -87,7 +91,8 @@ User Rights	Insufficient mechanisms for users to access, rectify, and delete the
 **_WCAG Compliance_**
 The WCAG evaluation, conducted with TPGi and WAVE, identified the following gaps:
 
-| **Measures** |	**Description** |	**WCAG Guideline** |
+| **Measures** | **Description** | **WCAG Guideline** |
+| :----------- | :-------------- | :---------------- |
 Language of Page	The language of the page is not identified.	3.1.1 (Level A)
 Text Alternatives	Missing alternative text for many images.	1.1.1 (Level A)
 Labels or
