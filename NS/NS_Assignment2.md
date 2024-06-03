@@ -20,7 +20,7 @@ The automated scanning was conducted on 1 June 2024 using Burp Suite Professiona
 
 Figure 1: Burp Scanner Report Summary
 
-<img src="NS_BurpReportSummary.jpg" alt="Burp Report Summary" width="600"/>
+<img src="NS_A2_BurpReportSummary.jpg" alt="Burp Report Summary" width="600"/>
 
 #### 2.	Scan Results
 The scan results provide detailed insights into each identified vulnerability, categorized by severity level. An expanded definition of the known threats and their remediation solutions is also available.
@@ -31,7 +31,7 @@ The scan results provide detailed insights into each identified vulnerability, c
 | Medium | 1 |
 | Low	| 10 |
 
-The completed [Burp Scanner Report](NS_BurpSuiteReport_Deep_20240601.html) is provided as supplementary.
+The completed [Burp Scanner Report](NS_A2_BurpSuiteReport_Deep_20240601.html) is provided as supplementary.
 
 #### 3.	Methodology
 The assessment employed both automated scanning and manual testing to verify findings and ensure compliance with GDPR and WCAG standards. Basic network-level information was also collected. The primary limitations included using trial versions of tools and focusing solely on disclosed website functionalities.
