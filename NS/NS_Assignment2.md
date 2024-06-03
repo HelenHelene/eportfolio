@@ -50,85 +50,86 @@ The assessment employed both automated scanning and manual testing to verify fin
 
 | **Information** | **Detail** |
 | :-------------- | :--------- |
-IP Address	 
-Name Server	 
-Registered Contact	Amazon Data Services Ireland Limited
-MX Record	awsdns-hostmaster.amazon.com
-Hosting Location	Ireland
-Hops from Source to Destination	12 hops
-Biggest Delay in Route	Averaging 304.67ms 
+| IP Address |	<img src="NS_A2_IP.jpg" alt="IP address" width="150"/> |
+| Name Server	| <img src="NS_A2_Server.jpg" alt="Name server" width="200"/> | 
+| Registered Contact |	Amazon Data Services Ireland Limited |
+| MX Record	| awsdns-hostmaster.amazon.com |
+| Hosting Location | Ireland |
+| Hops from Source to Destination |	12 hops |
+| Biggest Delay in Route | Averaging 304.67ms | 
 
 #### 5.	Findings
 The assessment found several vulnerabilities, summarized below:
 
 | **Severity** | **Issue** | **Description** | **Count** |
 | :----------- | :-------- | :-------------- | :-------- |
-High	SQL Injection	Identified in various parameters, allowing manipulation of SQL queries.	2
-High	XXE	Vulnerable to XXE injection, allowing external entity definitions in XML.	1
-High	HTTP Response Header Injection	Allows injection of newline characters.	1
-High	XSS 	Reflected XSS vulnerabilities enabling execution of malicious scripts.	3
-High	Client-side Template Injection	Allows session hijacking, credential theft, and unauthorized actions.	2
-High	External Service Interaction 	Enables server-side HTTP requests to arbitrary domains.	1
-Medium	Password Returned in Later Response	Returns users' passwords in clear form in later responses.	1
-Low	Vulnerable JavaScript Dependencies	Outdated JavaScript libraries with known vulnerabilities.	1
-Low	Open Redirection (DOM-based)	Potential for redirecting users to malicious sites.	2
-Low	Link Manipulation (Reflected DOM-based)	Multiple instances of Reflected DOM-based vulnerabilities.	3
-Low	Strict Transport Security Not Enforced	Allows connections over unencrypted HTTP.		4
+| High | SQL Injection | Identified in various parameters, allowing manipulation of SQL queries. | 2 |
+| High | XXE | Vulnerable to XXE injection, allowing external entity definitions in XML. | 1 |
+| High | HTTP Response Header Injection |	Allows injection of newline characters. |	1 |
+| High | XSS |	Reflected XSS vulnerabilities enabling execution of malicious scripts. | 3 |
+| High | Client-side Template Injection	| Allows session hijacking, credential theft, and unauthorized actions. |	2 |
+| High | External Service Interaction | Enables server-side HTTP requests to arbitrary domains. |	1 |
+| Medium | Password Returned in Later Response |	Returns users' passwords in clear form in later responses. | 1 |
+| Low | Vulnerable JavaScript Dependencies | Outdated JavaScript libraries with known vulnerabilities. | 1 |
+| Low | Open Redirection (DOM-based) | Potential for redirecting users to malicious sites. | 2 |
+| Low | Link Manipulation (Reflected DOM-based) |	Multiple instances of Reflected DOM-based vulnerabilities. | 3 |
+| Low | Strict Transport Security Not Enforced | Allows connections over unencrypted HTTP. | 4 |
 
 #### 6.	Risk Assessment
 The risk assessment evaluates compliance with GDPR and WCAG standards to ensure comprehensive security and accessibility for users. 
 
-**_GDPR Compliance_**
+<ins>**GDPR Compliance**</ins>
+
 The GDPR compliance evaluation identified the following gaps:
 
 | **Measures** | **Description** | **GDPR Standard** |
 | :----------- | :-------------- | :---------------- |
-Lack of Privacy Policy	No privacy policy displayed on the webpage.	Article 12
-Consent Mechanisms	No cookie consent or mechanisms for managing cookie preferences.	Article 7
-User Data Collection Disclosure	No information on data collection, storage, or processing.	Articles 13 – 14
-User Rights	Insufficient mechanisms for users to access, rectify, and delete their data.	Articles 15 – 22 
+| Lack of Privacy Policy |	No privacy policy displayed on the webpage.	| Article 12 |
+| Consent Mechanisms |	No cookie consent or mechanisms for managing cookie preferences. | Article 7 |
+| User Data Collection Disclosure |	No information on data collection, storage, or processing. | Articles 13 – 14 |
+| User Rights	| Insufficient mechanisms for users to access, rectify, and delete their data. | Articles 15 – 22 |
 
-**_WCAG Compliance_**
+<ins>**WCAG Compliance**</ins>
+
 The WCAG evaluation, conducted with TPGi and WAVE, identified the following gaps:
 
 | **Measures** | **Description** | **WCAG Guideline** |
 | :----------- | :-------------- | :---------------- |
-Language of Page	The language of the page is not identified.	3.1.1 (Level A)
-Text Alternatives	Missing alternative text for many images.	1.1.1 (Level A)
-Labels or
-Instructions	Missing text label in form controls.	3.3.2 (Level A)
-Unordered list	An unordered (bulleted) list is present.	1.3.1 (Level A)
-Contrast Errors	Low contrast between text and background colours.		1.4.3 (Level AA)
- 
+| Language of Page | The language of the page is not identified. |	3.1.1 (Level A) |
+| Text Alternatives | Missing alternative text for many images.	| 1.1.1 (Level A) |
+| Labels or Instructions | Missing text label in form controls. | 3.3.2 (Level A) |
+| Unordered list | An unordered (bulleted) list is present. | 1.3.1 (Level A) |
+| Contrast Errors	| Low contrast between text and background colours. | 1.4.3 (Level AA) |
+
 #### 7.	Recommendations
 Recommendations are based on the findings and include immediate actions to fix vulnerabilities by applying patches and adjusting system configurations as necessary.
 
 | **Action to Take** |	**Justification** |
+| :----------------  | :----------------- |
 | **Immediate Remediation of High Severity Vulnerabilities** |
-Use parameterized queries to prevent SQL injection.	Prevents user input from interfering with SQL query structure.
-Disable processing of external entities in the XML parser.	Prevents XXE vulnerabilities, avoiding data exfiltration and denial of service attacks.
-Validate and sanitize user input before including it in response headers.		Prevents header injection attacks.
-Validate and HTML-encode user input for reflected XSS. Avoid dynamically writing untrusted data to the DOM for DOM-based XSS.	Prevents execution of malicious scripts, avoiding data theft, session hijacking, and unauthorized actions.
-Implement input filtering to remove template expression syntax from user input before embedding in client-side templates.		Prevents client-side template injection, avoiding XSS attacks and related risks.
-Implement a whitelist of permitted services and hosts for external interactions.		Prevents unauthorized external service interactions, avoiding server misuse.
- 
+| Use parameterized queries to prevent SQL injection.	| Prevents user input from interfering with SQL query structure. |
+| Disable processing of external entities in the XML parser. | Prevents XXE vulnerabilities, avoiding data exfiltration and denial of service attacks. |
+| Validate and sanitize user input before including it in response headers. |	Prevents header injection attacks. |
+| Validate and HTML-encode user input for reflected XSS. Avoid dynamically writing untrusted data to the DOM for DOM-based XSS.	| Prevents execution of malicious scripts, avoiding data theft, session hijacking, and unauthorized actions. |
+| Implement input filtering to remove template expression syntax from user input before embedding in client-side templates.	| Prevents client-side template injection, avoiding XSS attacks and related risks. |
+| Implement a whitelist of permitted services and hosts for external interactions.	|	Prevents unauthorized external service interactions, avoiding server misuse. |
 | **Immediate Remediation of Medium Severity Vulnerabilities** |
-Do not return passwords in application responses. Implement user impersonation with proper logging if needed.	Prevents credential theft, protecting user accounts and the application.
+| Do not return passwords in application responses. Implement user impersonation with proper logging if needed. |	Prevents credential theft, protecting user accounts and the application. |
 | **Immediate Remediation of Low Severity Vulnerabilities** |
-Regularly update and secure JavaScript libraries to the latest versions.  Remove any unused libraries to reduce the attack surface.	Prevents exposure to attacks through outdated libraries.
-Avoid dynamically setting redirection targets and target URLs with untrusted data. Implement URL whitelisting.	Prevents phishing attacks, unintended actions, and browser defense bypassing.
-Enable HTTP Strict Transport Security (HSTS) by adding the Strict-Transport-Security header with an appropriate max-age value.	Ensures browsers only connect over HTTPS, preventing SSL stripping attacks.
+| Regularly update and secure JavaScript libraries to the latest versions.  Remove any unused libraries to reduce the attack surface.	| Prevents exposure to attacks through outdated libraries. |
+| Avoid dynamically setting redirection targets and target URLs with untrusted data. Implement URL whitelisting. | Prevents phishing attacks, unintended actions, and browser defense bypassing. |
+| Enable HTTP Strict Transport Security (HSTS) by adding the Strict-Transport-Security header with an appropriate max-age value. | Ensures browsers only connect over HTTPS, preventing SSL stripping attacks. |
 | **Improve GDPR Compliance** |
-Create a privacy policy page and add a prominent link to it on the homepage and footer.	Ensures transparency in data processing as required by Article 12.
-Add a cookie consent banner and a settings page where users can manage their cookie preferences.	Ensures explicit consent for data processing activities as required by Article 7.
-Provide clear disclosures about data collection, storage, and processing practices.	Ensures transparency about data practices per Articles 13-14.
-Provide user account settings or a contact form for users to manage their personal data rights.	Ensures users can access, correct, and delete their data as per Articles 15-22.
+| Create a privacy policy page and add a prominent link to it on the homepage and footer.	| Ensures transparency in data processing as required by Article 12. |
+| Add a cookie consent banner and a settings page where users can manage their cookie preferences. | Ensures explicit consent for data processing activities as required by Article 7. |
+| Provide clear disclosures about data collection, storage, and processing practices.	| Ensures transparency about data practices per Articles 13-14. |
+| Provide user account settings or a contact form for users to manage their personal data rights.	| Ensures users can access, correct, and delete their data as per Articles 15-22. |
 | **Improve WCAG Compliance** |
-Specify the language of the page using the lang attribute in the HTML tag.	Ensures primary language identification for accessibility as per Guideline 3.1.1.
-Review all images on the website and ensure they have appropriate alt text.	Ensures text alternatives for non-text content as required by Guideline 1.1.1.
-Review all form controls and ensure they have descriptive labels.	Ensures labels or instructions for form controls as required by Guideline 3.3.2.
-Ensure that lists are correctly marked up and accessible.	Ensures programmatic conveyance of information and relationships as per Guideline 1.3.1.
-Adjust text and background colors to meet minimum contrast standards.	Ensures readability for users with visual impairments  as per Guideline 1.4.3.
+| Specify the language of the page using the lang attribute in the HTML tag.	| Ensures primary language identification for accessibility as per Guideline 3.1.1. |
+| Review all images on the website and ensure they have appropriate alt text.	| Ensures text alternatives for non-text content as required by Guideline 1.1.1. |
+| Review all form controls and ensure they have descriptive labels.	| Ensures labels or instructions for form controls as required by Guideline 3.3.2. |
+| Ensure that lists are correctly marked up and accessible. |	Ensures programmatic conveyance of information and relationships as per Guideline 1.3.1. |
+| Adjust text and background colors to meet minimum contrast standards.	| Ensures readability for users with visual impairments  as per Guideline 1.4.3. |
 
 #### 8.	Conclusions
 The vulnerability assessment of the G&J website found critical security issues that could lead to data breaches and user security problems. The website also shows significant non-compliance with GDPR and WCAG standards.
