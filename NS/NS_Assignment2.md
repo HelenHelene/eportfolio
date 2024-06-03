@@ -31,20 +31,20 @@ The scan results provide detailed insights into each identified vulnerability, c
 | Medium | 1 |
 | Low	| 10 |
 
-The completed [Burp Scanner Report](BurpSuiteReport_Deep_20240601.html) is provided as supplementary.
+The completed [Burp Scanner Report](NS_BurpSuiteReport_Deep_20240601.html) is provided as supplementary.
 
 #### 3.	Methodology
 The assessment employed both automated scanning and manual testing to verify findings and ensure compliance with GDPR and WCAG standards. Basic network-level information was also collected. The primary limitations included using trial versions of tools and focusing solely on disclosed website functionalities.
 
 | **Methodology** | **Tool used** | **Objective** |
 | :-------------- | :------------ | :------------ |
-| Automated Scanning	Burp Suite Professional	Identify potential security vulnerabilities like SQL injection, XSS, and others.
-Manual Testing	Manual	Verify findings and check compliance with GDPR and WCAG.
-	TPGi.	Colour Contrast Analyzer (CCA) is used to determine the accessibility of the contrast ratio of two colours for WCAG compliance.
-	WAVE	Web Accessibility Evaluation Tools are used to identify accessibility and WCAG errors.
-Basic Scanning	Traceroute	Identify the path taken by packets from the source to the destination.
-	Nslookup	Identify DNS records associated with the website.
-	ICANN Lookup	Provide registration details and contact information for a given IP address.
+| Automated Scanning | Burp Suite Professional | Identify potential security vulnerabilities like SQL injection, XSS, and others. |
+| Manual Testing | Manual | Verify findings and check compliance with GDPR and WCAG. |
+| | TPGi. | Colour Contrast Analyzer (CCA) is used to determine the accessibility of the contrast ratio of two colours for WCAG compliance. |
+| | WAVE | Web Accessibility Evaluation Tools are used to identify accessibility and WCAG errors. |
+| Basic Scanning | Traceroute |	Identify the path taken by packets from the source to the destination. |
+| | Nslookup | Identify DNS records associated with the website. |
+| | ICANN Lookup | Provide registration details and contact information for a given IP address.| 
 
 #### 4.	Network-level Information
 
