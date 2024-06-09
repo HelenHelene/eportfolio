@@ -18,7 +18,7 @@ This module also enhanced my awareness of ethical issues in vulnerability disclo
 Feedback from peers and tutors was crucial, enhancing my critical thinking and understanding of contemporary network security challenges. Collaborative discussions, such as those on the digital economy and log4j vulnerabilities, broadened my perspective. Tutor critiques on assignments refined my analytical and communication skills, improving my work quality.
 
 #### Professional Skills Matrix and Action Plan (PDP)
-The knowledge and skills I developed during this module, such as conducting network vulnerability assessments with various tools, drafting assessment reports and executive summaries, and understanding GDPR and WCAG, are invaluable. Specifically, GDPR compliance is directly transferable to real-world scenarios in my current role as Data Protection Officer, where I can implement the strategies and tools learned during this module.  The knowledge of how to issue an assessment report makes it easier to facilitate communication between stakeholders and technical teams.
+All the professional skills I have gained, such as conducting network vulnerability assessments with various tools, drafting assessment reports and executive summaries, and understanding GDPR and WCAG, are invaluable.  Specifically, GDPR compliance is directly transferable to real-world scenarios in my current role as Data Protection Officer, where I can implement the strategies and tools learned during this module.  The knowledge of how to issue an assessment report makes it easier to facilitate communication between stakeholders and technical teams.
 
 **<ins>Professional Skills Matrix</ins>**
 
