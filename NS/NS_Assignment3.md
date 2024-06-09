@@ -22,16 +22,23 @@ All the professional skills I have gained, such as conducting network vulnerabil
 
 **<ins>Professional Skills Matrix</ins>**
 
-| **Skill** |	**Description** |	**Level Before Module** |	**Level After Module** |	**Evidence** |
-| :-------- |	:-------------- |	:---------------------- |	:--------------------- |	:----------- |
-| Time Management	| Managing time to meet deadlines and balance workload. | Intermediate	| Advanced	| Successfully completed assignments on time during staggered module periods. |
-| Critical Thinking and Analysis |	Evaluating information to make well-informed decisions and solve problems |	Intermediate	| Advanced |	Applied critical thinking in project evaluations and literature reviews. |
-| Communication and Literacy Skills	| Discussion and idea presentation	| Basic	| Intermediate	| Participated in collaborative discussions, created a baseline analysis and plan, and issued an executive summary report. |
-| IT and Digital	| Discover various scanning tools and platforms	| Basic	| Intermediate	| Used Burp Suite and other tools to complete the scanning activity. |
-| Research	| Conducting literature reviews and applying findings	| Basic	| Intermediate	| Conducted vulnerability analysis literature review for assignments. |
-| Interpersonal	| Reflecting on experiences to identify strengths, weaknesses, and areas for improvement |	Basic	| Intermediate	| Record all artifacts in the e-portfolio with reflections and learning outcomes. |
-| Problem-Solving |	Developing and implementing effective strategies to resolve issues	| Intermediate	| Advanced	| Looked for alternative solutions when the existing resource could not complete the activity requirement. |
-| Ethical Awareness |	Reflecting on ethical implications of security practices	| Basic	| Intermediate	| Studied GDPR and WCAG, which enhanced my awareness of data protection and the importance of accessibility for websites. |
+| Level of competence (Rewo, 2024) | |
+| :------------------------ | :------------------------ |
+| 🔘🔘🔘🔘	_No Competence_	| 	⚫⚫⚫🔘 _High Competence_ |
+| ⚫🔘🔘🔘 _Low Competence_	 |	⚫⚫⚫⚫ _Expert_ |
+|	⚫⚫🔘🔘 _Some Competence_	|	✖️ _Not relevant_ |
+
+
+| **Skills** |	**Detail** |	**Competence** |	**Evidence** |
+| :--------- |	:--------- |	:-----------  |	:------------ |
+| Time Management	| Managing time to meet deadlines and balance workload. | ⚫⚫⚫🔘	| Successfully completed assignments on time during staggered module periods. |
+| Critical Thinking and Analysis |	Evaluating information to make well-informed decisions and solve problems | ⚫⚫🔘🔘 |	Applied critical thinking in project evaluations and literature reviews. |
+| Communication and Literacy Skills	| Discussion and idea presentation	|	⚫⚫⚫🔘	| Participated in collaborative discussions, created a baseline analysis and plan, and issued an executive summary report. |
+| IT and Digital	| Discover various scanning tools and platforms	| ⚫🔘🔘🔘	| Used Burp Suite and other tools to complete the scanning activity. |
+| Research	| Conducting literature reviews and applying findings	| ⚫⚫🔘🔘	| Conducted vulnerability analysis literature review for assignments. |
+| Interpersonal	| Reflecting on experiences to identify strengths, weaknesses, and areas for improvement | ⚫⚫🔘🔘	| Record all artifacts in the e-portfolio with reflections and learning outcomes. |
+| Problem-Solving |	Developing and implementing effective strategies to resolve issues	|	⚫⚫⚫🔘	| Looked for alternative solutions when the existing resource could not complete the activity requirement. |
+| Ethical Awareness |	Reflecting on ethical implications of security practices	| 	⚫⚫⚫🔘	| Studied GDPR and WCAG, which enhanced my awareness of data protection and the importance of accessibility for websites. |
 
 **<ins>Action Plan</ins>**
 
@@ -50,6 +57,8 @@ In conclusion, this module has had a profound impact on my professional and pers
 
 #### Reference
 Di Silvestro, F. & Nadir, H. (2021) The Power of ePortfolio Development to Foster Reflective and Deeper Learning in an Online Graduate Adult Education Program. Adult Learning 32(4):154-164. 
+
+Rewo. (2024) What is a skills matrix. Available from: https://www.rewo.io/skills-matrix-for-manufacturing/ [Accessed 8 June 2024]. 
 
 University of Essex Online. (2024) University of Essex Online Writing Guide Series – A short guide to Reflective Writing.  Essex: University of Essex Online.
 
