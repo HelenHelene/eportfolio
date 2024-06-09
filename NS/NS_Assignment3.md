@@ -4,10 +4,10 @@
 <br>
 
 #### Introduction
-Reflecting on my journey through the Network Security module in the MSc Computer Science program, I find it both valuable and challenging. This module has not only enriched my understanding of many professional terms and ethics in the field but has also significantly impacted my professional and personal development.
+Reflecting on my journey through the Network Security module in the MSc Computer Science program, I find it both valuable and challenging. This module has increased my understanding of various professional terms and ethics in the field and has enriched my professional and personal development.
 
 #### Summary of Learning Outcomes
-Throughout this module, I explored various aspects of network security, including legal, social, ethical, and professional issues faced by information security and risk professionals. The module covered techniques for scanning, evaluating, and mitigating network vulnerabilities, providing a solid understanding of vulnerability assessment basics, especially in web applications. Key assignments included conducting a Vulnerability Audit and Assessment, presenting the results in an Executive Summary, and reflecting on personal development.
+During this module, I explored various aspects of network security, including legal, social, ethical, and professional issues faced by information security and risk professionals. The module covered techniques for scanning, evaluating, and mitigating network vulnerabilities, providing a solid understanding of vulnerability assessment basics, especially in web applications. Key assignments included conducting a Vulnerability Audit and Assessment, presenting the results in an Executive Summary, and reflecting on personal development.
 
 The assignments required a deep dive into real-world applications of network security principles. For example, the first [Baseline Analysis and Plan assignment](NS_Assignment1.md) for the Gin & Juice Shop (G&J) project taught me how to analyze network vulnerabilities in detail and develop a comprehensive plan for assessment. The subsequent [Results and Executive Summary assignment](NS_Assignment2.md) helped me communicate technical findings to non-technical stakeholders effectively. These tasks, though challenging, provided invaluable insights into the practicalities of network security.
 
@@ -29,7 +29,7 @@ The knowledge and skills I developed during this module, such as conducting netw
 | Communication and Literacy Skills	| Discussion and idea presentation	| Basic	| Intermediate	| Participated in collaborative discussions, created a baseline analysis and plan, and issued an executive summary report. |
 | IT and Digital	| Discover various scanning tools and platforms	| Basic	| Intermediate	| Used Burp Suite and other tools to complete the scanning activity. |
 | Research	| Conducting literature reviews and applying findings	| Basic	| Intermediate	| Conducted vulnerability analysis literature review for assignments. |
-| Interpersonal	| Reflecting on experiences to identify strengths, weaknesses, and areas for improvement |	Basic	| Intermediate	| Maintained an e-portfolio with reflections and learning outcomes. |
+| Interpersonal	| Reflecting on experiences to identify strengths, weaknesses, and areas for improvement |	Basic	| Intermediate	| Record all artifacts in the e-portfolio with reflections and learning outcomes. |
 | Problem-Solving |	Developing and implementing effective strategies to resolve issues	| Intermediate	| Advanced	| Looked for alternative solutions when the existing resource could not complete the activity requirement. |
 | Ethical Awareness |	Reflecting on ethical implications of security practices	| Basic	| Intermediate	| Studied GDPR and WCAG, which enhanced my awareness of data protection and the importance of accessibility for websites. |
 
@@ -37,12 +37,12 @@ The knowledge and skills I developed during this module, such as conducting netw
 
 Moving forward, I aim to continue enhancing my skills in network security by:
  - Engaging with Advanced Topics: Exploring advanced topics in network security and data protection.
- - Practical Application: Applying the knowledge gained to real-world projects, particularly in my current role as Data Protection Officer.
+ - Practical Application: Applying the knowledge gained to my current role as Data Protection Officer.
  - Continuous Learning: Staying updated with the latest tools and techniques in network security through continuous education and professional development.
  - Ethical Practices: Implementing ethical considerations and best practices in all security-related projects.
 
 #### Conclusion
-Reflecting on my journey through the Network Security module, I recognize its profound impact on my professional and personal development. This module has enriched my understanding of network vulnerabilities, ethical hacking, and compliance requirements, significantly enhancing my technical and analytical skills. The assignments and activities provided practical insights, particularly in vulnerability assessment and effective communication with stakeholders. Moving forward, I am committed to applying this knowledge in my role as a Data Protection Officer and continuing my professional development in network security, ensuring that ethical considerations remain at the forefront of my practices.
+In conclusion, this module has had a profound impact on my professional and personal development during my Network Security journey. It has enriched my understanding of network vulnerabilities, ethical hacking, and compliance requirements, significantly enhancing my technical and analytical skills. The assignments and activities provided practical insights, particularly in vulnerability assessment and effective communication with stakeholders. Moving forward, I am committed to applying this knowledge in my role as a Data Protection Officer and continuing my professional development in network security, ensuring that ethical considerations remain at the forefront of my practices.
 
 <br><br>
 
