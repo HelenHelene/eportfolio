@@ -4,7 +4,7 @@ This module focuses on understanding the impact of cyber security on network sys
 
 There are three assignments in this module. The first assignment involves conducting a Vulnerability Audit and Assessment - Baseline Analysis and Plan. In this assignment, students analyze network vulnerabilities in detail and develop a plan for assessing them. The second assignment requires students to present the results of the vulnerability assessment in the form of an Executive Summary. Lastly, students are expected to submit an Individual Reflective Piece, reflecting on their personal development throughout the module.
 
-#### Assignment 1: Vulnerability Audit and Assessment - Baseline Analysis and Plan _(In Progress)_
+#### Assignment 1: Vulnerability Audit and Assessment - Baseline Analysis and Plan _(🎓Pass with Merit)_
 [Gin & Juice Shop Ecommerce - Baseline Analysis and Plan](NS_Assignment1.md)
 	
 #### Assignment 2: Vulnerability Audit and Assessment - Results and Executive Summary _(In Progress)_
