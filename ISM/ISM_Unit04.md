@@ -15,7 +15,7 @@ This unit describes the key roles that risk assessment, management and security 
 ### Artefacts 
 As part of my e-portfolio, I completed the assigned activities which are documented in the provided link:
 
-[Collaborative Wiki Development - Security Frameworks](NS_Unit04_WikiActivity.md)
+[Collaborative Wiki Development - Security Frameworks](ISM_Unit04_Wiki.md)
 
 [Optional Activity - GDPR Case Studies](NS_Unit03_Scanning.md)
 
