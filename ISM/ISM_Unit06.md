@@ -13,11 +13,15 @@ On completion of this week, you will be able to:
 This unit pulls together the learning from the previous units, and also presents a number of emerging trends for students to evaluate and vote on.
 
 ### Artefacts 
-This week, I completed two assignment, including the Executive Summary and App Presentation, and the Individual Reflection.
+This week, I continued the development of the module wiki in Unit 5.
 
-[Executive Summary and App Presentation](NS_Assignment2.md)
+[Collaborative Wiki Development - The Future of ISM](ISM_Unit05_Wiki.md)
 
-[Individual Reflection](NS_Assignment3.md)
+Moreover, I completed two assignments including the Executive Summary and App Presentation, and the Individual Reflection.
+
+[Executive Summary and App Presentation](ISM_A2.md)
+
+[Individual Reflection](ISM_A3.md)
 
 ### Reflections
 xxxx
