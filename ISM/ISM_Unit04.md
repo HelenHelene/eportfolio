@@ -17,7 +17,7 @@ As part of my e-portfolio, I completed the assigned activities which are documen
 
 [Collaborative Wiki Development - Security Frameworks](ISM_Unit04_Wiki.md)
 
-[Optional Activity - GDPR Case Studies](NS_Unit03_Scanning.md)
+[Optional Activity - GDPR Case Studies](ISM_Unit04_GDPR.md)
 
 ### Reflections
 xxxx
