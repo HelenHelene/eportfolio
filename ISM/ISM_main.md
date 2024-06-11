@@ -1,34 +1,32 @@
 # Module 4 Information Security Management
 
+This module covers the integration of security and risk within enterprise solutions, highlighting their overlap and interaction. It explores qualitative and quantitative risk assessments, traditional and hybrid risk models, common security standards like PCI-DSS, and business continuity and disaster recovery solutions. Additionally, the module delves into key research topics and advances in security and risk management.
 
-## This can be your internal website page / project page
+Throughout this module, we learn to differentiate between qualitative and quantitative risk assessments, conduct qualitative assessments, and create and interpret threat models. By the end of the module, we will be able to identify, analyze, and manage security risks, threats, and vulnerabilities in information systems using appropriate methodologies, tools, and techniques. We will also systematically analyze security breaches using multiple information sources and critically appraise security management tools and techniques. Moreover, we will articulate the legal, social, ethical, and professional issues faced by information security professionals.
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The module includes three assignments. The first assignment requires us to conduct risk assessments for a business's current state and potential digitalization and to recommend a course of action based on these assessments. The second assignment involves developing a Python application to visualize and evaluate attack trees, demonstrating threat models before and after digitalization. The final assignment is an individual reflection on our personal development throughout the module.
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+#### Assignment 1: Risk Identification Report _(In Progress)_
+[Gin & Juice Shop Ecommerce - Baseline Analysis and Plan](NS_Assignment1.md)
+	
+#### Assignment 2: Executive Summary and App Presentation _(In Progress)_
+[Gin & Juice Shop Ecommerce - Results and Executive Summary](NS_Assignment2.md)
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+#### Assignment 3: Individual Reflection _(In Progress)_
+[Individual Reflective Piece](NS_Assignment3.md)
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+The units presented below serve as a compilation of evidence, showcasing the work accomplished in this module and documenting the learning journey.
 
-### 2. Assess assumptions on which statistical inference will be based
+#### [Unit 1: An Introduction to Security and Risk Management](NS_Unit01.md)
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+#### [Unit 2: Threat Modelling Exercises](NS_Unit02.md)
 
-### 3. Support the selection of appropriate statistical tools and techniques
+#### [Unit 3: Introduction to Threat Modelling and Management](NS_Unit03.md)
 
-<img src="https://helenhelene.github.io/eportfolio/images/ModuleOutline.jpg" alt="ModuleOutline" style="height: 230px; width:544px;"/>
+#### [Unit 4: Security Standards, Frameworks and Disaster Recovery](NS_Unit04.md)
 
-### 4. Provide a basis for further data collection through surveys or experiments
+#### [Unit 5: Future Trends in Security and Risk Management](NS_Unit05.md)
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+#### [Unit 6: The Great Debate - What Will be the Most Influential Trend in ISM in the Next 5 Years?](NS_Unit06.md)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+---
