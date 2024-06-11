@@ -17,7 +17,7 @@ This week introduces students to the differences between threats and vulnerabili
 ### Artefacts and Collaborative Discussion 
 As part of my e-portfolio, I completed the assigned activities. 
 
-[Exercise - Security Standards](NS_Unit03_Scanning.md)
+[Exercise - Security Standards](ISM_Unit03_Exercise.md)
 
 ### Reflections
 xxxx
