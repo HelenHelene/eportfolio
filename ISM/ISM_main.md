@@ -7,26 +7,26 @@ Throughout this module, we learn to differentiate between qualitative and quanti
 The module includes three assignments. The first assignment requires us to conduct risk assessments for a business's current state and potential digitalization and to recommend a course of action based on these assessments. The second assignment involves developing a Python application to visualize and evaluate attack trees, demonstrating threat models before and after digitalization. The final assignment is an individual reflection on our personal development throughout the module.
 
 #### Assignment 1: Risk Identification Report _(In Progress)_
-[Gin & Juice Shop Ecommerce - Baseline Analysis and Plan](NS_Assignment1.md)
+[Pampered Pets - A Report by a Security and Risk Management Consultant](ISM_A1.md)
 	
 #### Assignment 2: Executive Summary and App Presentation _(In Progress)_
-[Gin & Juice Shop Ecommerce - Results and Executive Summary](NS_Assignment2.md)
+[Executive Summary and Presentation on Python Application](ISM_A2.md)
 
 #### Assignment 3: Individual Reflection _(In Progress)_
-[Individual Reflective Piece](NS_Assignment3.md)
+[Individual Reflection](ISM_A3.md)
 
 The units presented below serve as a compilation of evidence, showcasing the work accomplished in this module and documenting the learning journey.
 
-#### [Unit 1: An Introduction to Security and Risk Management](NS_Unit01.md)
+#### [Unit 1: An Introduction to Security and Risk Management](ISM_Unit01.md)
 
-#### [Unit 2: Threat Modelling Exercises](NS_Unit02.md)
+#### [Unit 2: Threat Modelling Exercises](ISM_Unit02.md)
 
-#### [Unit 3: Introduction to Threat Modelling and Management](NS_Unit03.md)
+#### [Unit 3: Introduction to Threat Modelling and Management](ISM_Unit03.md)
 
-#### [Unit 4: Security Standards, Frameworks and Disaster Recovery](NS_Unit04.md)
+#### [Unit 4: Security Standards, Frameworks and Disaster Recovery](ISM_Unit04.md)
 
-#### [Unit 5: Future Trends in Security and Risk Management](NS_Unit05.md)
+#### [Unit 5: Future Trends in Security and Risk Management](ISM_Unit05.md)
 
-#### [Unit 6: The Great Debate - What Will be the Most Influential Trend in ISM in the Next 5 Years?](NS_Unit06.md)
+#### [Unit 6: The Great Debate - What Will be the Most Influential Trend in ISM in the Next 5 Years?](ISM_Unit06.md)
 
 ---
