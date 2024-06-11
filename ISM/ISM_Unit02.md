@@ -16,7 +16,7 @@ On completion of this week, you will be able to:
 This is a key unit in the module because it introduces students to the topic of threat modelling which is a core competency both for cyber security and development teams.
 
 ### Artefacts and Collaborative Discussion 
-As part of my e-portfolio, I read Kovaitė & Stankevičienė (2019) as the basis of the case study and participated in collaborative discussions, which are documented in the provided link:
+During this unit, I continued the collaborative discussions as recorded below:
 
 Collaborative Discussion 1 - The Risks of Digitalisation-Initial post-Respond to peers: [Respond1](Module03_Discussion1_Respond1.pdf) & [Respond2](Module03_Discussion1_Respond2.pdf)
 
