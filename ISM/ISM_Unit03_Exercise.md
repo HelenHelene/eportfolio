@@ -29,7 +29,9 @@ xxx
 
 ### Reference
 ICO. (2020) Guide to the General Data Protection Regulation (GDPR). Available from: https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/ [Accessed xxx].
+
 PCI Security Standards.org. (2020) Official PCI Security Standards Council Site - PCI Security Standards Overview. Available from: https://www.pcisecuritystandards.org/standards/ [Accessed xxx].
+
 HIPAA. (2020) HIPAA For Dummies – HIPAA Guide. Available from: https://www.hipaaguide.net/hipaa-for-dummies [Accessed xxx].
 <br><br>
 
