@@ -1,4 +1,4 @@
-# Unit 1: Threat Modelling Exercises
+# Unit 2: Threat Modelling Exercises
 
 Welcome to Week 2 where we will conduct a deeper dive into the Risk Management Process – specifically looking at the effect of different types of assessment (Qualitative vs. Quantitative) and we will practice threat modelling and management, guided by the threat modelling manifesto, the OWASP cookbook and the Mitre ATT&CK database.
 
@@ -21,9 +21,10 @@ As part of my e-portfolio, I read Kovaitė & Stankevičienė (2019) as the basis
 Collaborative Discussion 1 - The Risks of Digitalisation-Initial post-Respond to peers: [Respond1](Module03_Discussion1_Respond1.pdf) & [Respond2](Module03_Discussion1_Respond2.pdf)
 
 ### Reflections
-
+xxxx
 
 ### Professional Skills Matrix and Action Plan
+xxxx
 
 <br><br>
 
