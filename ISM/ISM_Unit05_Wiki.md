@@ -1,22 +1,22 @@
 # Collaborative Wiki Development: The Future of ISM
 
-The last seminar (Unit 6) focuses on the development of the module wiki based on your answers from this Unit, as well as the answers created in next week’s seminar session. 
+The last seminar [Unit 6](ISM_Unit06.md) focuses on the development of the module wiki based on your answers from this Unit, as well as the answers created in next week’s seminar session. 
 The general title for the wiki page will be **“Which factor will most affect the future direction of Security and Risk Management?”** 
 
 Each student should create a minimum of two entries: 
-1. one based on the question chosen in this unit from the Aven (2016) reading, and
-2. one that answers the questions in the Seminar preparation (Unit 6).
+1. one based on the question chosen in this unit from the [Aven (2016)](ISM_Unit05_Reading.pdf) reading, and
+2. one that answers the questions in the Seminar preparation [Unit 6](ISM_Unit06.md).
    
 Both should be supported with appropriate references. You are free to comment on each other’s wiki contribution.
 
-In the conclusion of his paper, Aven (2016) proposes several issues (reproduced below):
+In the conclusion of his paper, [Aven (2016)](ISM_Unit05_Reading.pdf) proposes several issues (reproduced below):
 
-a. “In intergenerational decision-making situations, what are the available frameworks and perspectives to be taken? What are other options? When are different frameworks more appropriate than others? How do we capture the key knowledge issues and uncertainties of the present and future? What duty of care do we owe to future generations?
-b. How can we describe and represent the results of risk assessments in a way that is useful to decision-makers, which clearly presents the assumptions made and their justification with respect to the knowledge upon which the assessment is based?
-c. How can we display risk information without misrepresenting what we know and do not know?
-d. How can we accurately represent and account for uncertainties in a way that properly justifies confidence in the risk results?
-e. How can we state how good expert judgements are, and how can we improve them?
-f. In the analysis of near misses, how should we structure the multi-dimensional space of causal proximity among different scenarios in order to measure ‘how near is a miss to an actual accident’?”
+1. “In intergenerational decision-making situations, what are the available frameworks and perspectives to be taken? What are other options? When are different frameworks more appropriate than others? How do we capture the key knowledge issues and uncertainties of the present and future? What duty of care do we owe to future generations?
+2. How can we describe and represent the results of risk assessments in a way that is useful to decision-makers, which clearly presents the assumptions made and their justification with respect to the knowledge upon which the assessment is based?
+3. How can we display risk information without misrepresenting what we know and do not know?
+4. How can we accurately represent and account for uncertainties in a way that properly justifies confidence in the risk results?
+5. How can we state how good expert judgements are, and how can we improve them?
+6. In the analysis of near misses, how should we structure the multi-dimensional space of causal proximity among different scenarios in order to measure ‘how near is a miss to an actual accident’?”
 
 Read the paper and then select one of the ‘issues’ listed above and propose an answer, based on the research around future trends presented in this unit.
 
