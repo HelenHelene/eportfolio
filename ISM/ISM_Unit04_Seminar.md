@@ -35,7 +35,9 @@ xxx
 
 ### Reference
 Alhazmi, O. & Malaiya, Y. (2013) Evaluating disaster recovery plans using the cloud. Available from: https://ieeexplore.ieee.org/document/6517700 [Accessed xxx].
+
 Morrow, T. et al. (2021) Cloud Security Best Practices Derived from Mission Thread Analysis. Available from: https://apps.dtic.mil/sti/pdfs/AD1139951.pdf [Accessed xxx].
+
 Opara-Martins, J. et al. (2014) Critical Review of Vendor Lock-in and Its Impact on Adoption of Cloud Computing. Available from: https://eprints.bournemouth.ac.uk/22467/1/Critical%20Review%20of%20Vendor%20Lock-in%20and%20Its%20Impact%20on%20Adoption%20of%20Cloud%20Computing.pdf [Accessed xxx].
 <br><br>
 
