@@ -11,7 +11,7 @@ By the end of this unit, I accomplished the following learning outcomes:
  - Identified common security and risk standards and chose the right ones for specific situations.
 
 ### Artefacts and Collaborative Discussion 
-As part of my e-portfolio, I read Kovaitė & Stankevičienė (2019) as the basis of the case study and participated in collaborative discussions, which are documented in the provided link:
+As part of my e-portfolio, I read [Kovaitė & Stankevičienė (2019)](ISM_Unit01_Reading.pdf) as the basis of the case study and participated in collaborative discussions, which are documented in the provided link:
 
 [Collaborative Discussion 1 - The Risks of Digitalisation-Initial post](Module03_Discussion1_Initial.pdf)
 
