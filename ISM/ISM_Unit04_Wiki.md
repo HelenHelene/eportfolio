@@ -1,6 +1,6 @@
 # Collaborative Wiki Development - Security Frameworks
 
-Read the article by [Barafort et al (2018](ISM_Unit04_Reading.pdf) and the blog by [Kirvan (2023)](https://www.techtarget.com/searchsecurity/tip/IT-security-frameworks-and-standards-Choosing-the-right-one?vgnextfmt=print%20%5bAccessed%201%20July%202022%5d). Review the websites listed in the blog and then answer the following questions.
+Read the article by [Barafort et al (2018)](ISM_Unit04_Reading.pdf) and the blog by [Kirvan (2023)](https://www.techtarget.com/searchsecurity/tip/IT-security-frameworks-and-standards-Choosing-the-right-one?vgnextfmt=print%20%5bAccessed%201%20July%202022%5d). Review the websites listed in the blog and then answer the following questions.
 
 Q1. Which of the frameworks do you think would be applicable to the following organisations:
  - International bank.
@@ -29,7 +29,7 @@ xxx
 ### Reference
 Barafort, B. et al. (2018) ISO 31000‐based integrated risk management process assessment model for IT organizations. DOI: https://doi-org.uniessexlib.idm.oclc.org/10.1002/smr.1984
 
-Kirvan, P. (2023) Top 12 IT security frameworks and standards explained. Available from: https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/](https://www.techtarget.com/searchsecurity/tip/IT-security-frameworks-and-standards-Choosing-the-right-one?vgnextfmt=print%20%5bAccessed%201%20July%202022%5d [Accessed xxx].
+Kirvan, P. (2023) Top 12 IT security frameworks and standards explained. Available from: https://www.techtarget.com/searchsecurity/tip/IT-security-frameworks-and-standards-Choosing-the-right-one?vgnextfmt=print%20%5bAccessed%201%20July%202022%5d [Accessed xxx].
 <br><br>
 
 ---
