@@ -40,9 +40,8 @@ It is recommended that most of these questions are addressed as bullet points to
 Please note that appendices should not be used to extend the core report as reports should stand alone, complete and concise, without the appendices. They should really only be used if required, and only for supplementary and/ or supporting information. One key part of the exercises in this module is the need to be to be able to express ideas succinctly, concisely and with necessary brevity.
 
 #### Learning Outcomes
-Identify and analyse security risks, threats and vulnerabilities in information systems and determine appropriate methodologies, tools, and techniques to manage and/or solve them.
-Gather and synthesise information from multiple sources (including internet security alerts & warning sites) to aid in the systematic analysis of security breaches & issues.
-Turnitin Originality Check
+ - Identify and analyse security risks, threats and vulnerabilities in information systems and determine appropriate methodologies, tools, and techniques to manage and/or solve them.
+ - Gather and synthesise information from multiple sources (including internet security alerts & warning sites) to aid in the systematic analysis of security breaches & issues.
 
 <br><br>
 
