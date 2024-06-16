@@ -13,7 +13,7 @@ By the end of this unit, I accomplished the following learning outcomes:
 ### Artefacts and Collaborative Discussion 
 As part of my e-portfolio, I read [Kovaitė & Stankevičienė (2019)](ISM_Unit01_Reading.pdf) as the basis of the case study and participated in collaborative discussions, which are documented in the provided link:
 
-[Collaborative Discussion 1 - The Risks of Digitalisation-Initial post](Module03_Discussion1_Initial.pdf)
+[Collaborative Discussion 1 - The Risks of Digitalisation-Initial post](ISM_Unit01_Discussion.pdf)
 
 ### Reflections
 This unit provided a solid introduction to Security and Risk Management. Learning about different definitions and concepts of risk helped me understand the complexity of managing risks. 
