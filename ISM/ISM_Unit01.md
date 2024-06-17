@@ -16,9 +16,8 @@ As part of my e-portfolio, I read [Kovaitė & Stankevičienė (2019)](ISM_Unit01
 [Collaborative Discussion 1 - The Risks of Digitalisation-Initial post](ISM_Unit01_Discussion.pdf)
 
 ### Reflections
-This unit provided a solid introduction to Security and Risk Management. Learning about different definitions and concepts of risk helped me understand the complexity of managing risks. 
-The structured approach to the risk management process was particularly useful. Participating in activities and discussions allowed me to apply what I learned to practical scenarios. 
-The digitalization risks case study was a great way to see real-world applications of risk management strategies.
+This unit provided a solid introduction to Security and Risk Management. Learning about different definitions and concepts of risk helped me understand the complexity of managing risks. The structured approach to the risk management process was particularly useful. 
+Participating in discussions allowed me to apply what I learned to practical scenarios. Specifically, the request to provide two real-world examples in the Initial post was a great way to see real-world applications of risk management strategies.
 
 ### Professional Skills Matrix and Action Plan
 Moving forward, I will continue reading more about risk management and look for opportunities to apply risk management concepts in real situations.
