@@ -15,6 +15,7 @@ Cathy, cognisant of the influence and benefits of the Internet, has retained the
  - Could an online presence grow the business by up to 50%?
  - Could changing to an international supply chain reduce costs by up to 24%?
  - Could the business lose up to 33% of its existing customers if the business doesn’t provide some online features?
+   
 Orla O’dour (eccentric Irish billionaire) decides to buy a share in the company and advises Cathy that the business should be digitalised to improve internal business processes and to expand the reach of the business internationally – and she is willing to fund the transformation.
 
 #### Assessment: A Report by a Security and Risk Management Consultant.
