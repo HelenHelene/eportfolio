@@ -7,10 +7,10 @@ There are three assignments in this module. The first assignment involves conduc
 #### Assignment 1: Vulnerability Audit and Assessment - Baseline Analysis and Plan _(🎓Pass with Merit)_
 [Gin & Juice Shop Ecommerce - Baseline Analysis and Plan](NS_Assignment1.md)
 	
-#### Assignment 2: Vulnerability Audit and Assessment - Results and Executive Summary _(In Progress)_
+#### Assignment 2: Vulnerability Audit and Assessment - Results and Executive Summary _(🎓Pass with Distinction)_
 [Gin & Juice Shop Ecommerce - Results and Executive Summary](NS_Assignment2.md)
 
-#### Assignment 3: Individual Reflective Piece _(In Progress)_
+#### Assignment 3: Individual Reflective Piece _(🎓Pass with Distinction)_
 [Individual Reflective Piece](NS_Assignment3.md)
 
 The units presented below serve as a compilation of evidence, showcasing the work accomplished in this module and documenting the learning journey.
