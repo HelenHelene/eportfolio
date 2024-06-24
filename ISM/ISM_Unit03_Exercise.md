@@ -136,7 +136,7 @@ ICO. (n.d.) UK GDPR guidance and resources. Available from: https://ico.org.uk/f
 
 PCI Security Standards Council. (n.d.) PCI Security Standards Overview. Available from: https://www.pcisecuritystandards.org/standards/ [Accessed 22 June 2024]
 
-HIPAA. (2020) HIPAA For Dummies – HIPAA Guide. Available from: https://www.hipaaguide.net/hipaa-for-dummies [Accessed 23 June 2024].
+HIPAA. (n.d.) HIPAA For Dummies – HIPAA Guide. Available from: https://www.hipaaguide.net/hipaa-for-dummies [Accessed 23 June 2024].
 <br><br>
 
 ---
