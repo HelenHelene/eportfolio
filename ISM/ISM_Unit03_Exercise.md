@@ -45,6 +45,7 @@ Key rules under HIPAA include:
 <br>
 
 Based on the case study and the information from the provided sources, the following standards would apply to Pampered Pets:
+
 | **Standard** | **Justification** |
 | :----------- | :---------------- |
 | **GDPR** | Since Pampered Pets operates in the UK and handles customers' personal data (e.g., through email orders and digital transaction records), they must comply with GDPR to protect individuals' privacy and data rights. |
@@ -56,6 +57,7 @@ Based on the case study and the information from the provided sources, the follo
 <br>
 
 ### GDPR:
+
    | **Compliance** | **Detail** | **Checking** |
    | :------------- | :---------------- | :----------- |
    | Data Collection and Processing | Pampered Pets collects personal data through email orders and in-store transactions. They must ensure lawful, fair, and transparent processing of this data. | Review how data is collected, stored, and processed. Ensure that there is a lawful basis for each type of data processing and that data subjects are informed about their rights. |
@@ -64,6 +66,7 @@ Based on the case study and the information from the provided sources, the follo
    | Accountability and Governance | Proper documentation and evidence of compliance with GDPR, including data protection impact assessments (DPIAs) where necessary. | Review documentation practices and ensure that records of data processing activities are maintained. Conduct DPIAs for new data processing activities that could pose high risks to data subjects. |
 
 ### PCI DSS:
+
    | **Compliance** | **Detail** | **Checking** |
    | :------------- | :---------------- | :----------- |
    | Secure Network | Implement and maintain a secure network through firewalls and secure configurations of network devices. | Conduct network vulnerability scans and penetration tests to ensure firewalls and security configurations are effective. Regularly update and patch network devices. |
@@ -78,6 +81,7 @@ Based on the case study and the information from the provided sources, the follo
 <br>
 
 ### GDPR Compliance:
+
    | **Recommendation** | **Detail** |
    | :------------------ | :--------- |
    | Conduct a Data Audit | Identify what personal data is being collected, how it is processed, and ensure lawful bases for processing. |
@@ -86,6 +90,7 @@ Based on the case study and the information from the provided sources, the follo
    | Document Compliance | Maintain records of data processing activities and ensure that consent is obtained where necessary. Perform DPIAs for new data processing activities that could pose high risks to data subjects.
 
 ### PCI DSS Compliance:
+
    | **Recommendation** | **Detail** |
    | :------------------ | :--------- |
    | Secure the Wireless Network | Ensure that the wireless network used by the staff is secure and separate from the network used for transactions. |
