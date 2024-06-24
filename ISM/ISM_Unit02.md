@@ -18,7 +18,7 @@ This is a key unit in the module because it introduces students to the topic of 
 ### Artefacts and Collaborative Discussion 
 During this unit, I continued the collaborative discussions as recorded below:
 
-Collaborative Discussion 1 - The Risks of Digitalisation-Initial post-Respond to peers: [Respond1](Module03_Discussion1_Respond1.pdf) & [Respond2](Module03_Discussion1_Respond2.pdf)
+Collaborative Discussion 1 - The Risks of Digitalisation-Initial post-Respond to peers: [Respond1](ISM_Unit02_Respond1.pdf) & [Respond2](ISM_Unit02_Respond2.pdf)
 
 ### Reflections
 xxxx
