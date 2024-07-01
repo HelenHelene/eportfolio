@@ -33,6 +33,7 @@ Figure 2: OCTAVE Phases (Alberts et al, 2003; Shevchenko et al, 2018)
 <img src="ISM_A1_OCTAVE.jpg" alt="OCTAVE" width="600"/>
    
 #### 3.	Risk Assessment
+
 | Risk level |
 | :---- |
 | 🔘🔘🔘	None |
@@ -40,9 +41,11 @@ Figure 2: OCTAVE Phases (Alberts et al, 2003; Shevchenko et al, 2018)
 | ⚫⚫🔘	Medium |
 | ⚫⚫⚫	High |
 
+
 #### 3.1.	Maintain Status Quo
 
 #### 3.1.1.	Threat Profiles
+
 | **Critical Asset** |	**Description**	| **Threats**	| **Vulnerabilities** | **Risk level** |
 | :----------------- | :-------------- | :---------- | :------------------ | :------------- |
 | Customer Data | Contact and order records	| Data breach, unauthorized access, damage |	Lack of access control, poor disposal, limited backups | ⚫⚫⚫ |
@@ -51,7 +54,9 @@ Figure 2: OCTAVE Phases (Alberts et al, 2003; Shevchenko et al, 2018)
 | Reputation |	Customer trust, supplier relationships	| Inefficiency, missed orders	| Limited online presence, lack of reputation management	| ⚫⚫🔘 |
 | Supply Chain |	Local suppliers | Supplier disruptions, quality issues |	Dependence on local suppliers, limited alternatives | ⚫⚫🔘 |
 
+
 #### 3.1.2.	Mitigation Plan
+
 | **Threat/Vulnerability** |	**Mitigation Strategy** |
 | :----- | :----- |
 | Physical theft/damage	| Implement access controls, secure disposal, regular digital backups |
@@ -61,6 +66,7 @@ Figure 2: OCTAVE Phases (Alberts et al, 2003; Shevchenko et al, 2018)
 | Limited online presence	| Create website and social media presence |
 | Supply chain disruptions	| Diversify suppliers, develop contingency plans |
 
+
 #### 3.2.	Proposed Changes
  - E-commerce platform: Online store for receiving orders.
  - Online payment gateway: Secure system for online payments.
@@ -68,6 +74,7 @@ Figure 2: OCTAVE Phases (Alberts et al, 2003; Shevchenko et al, 2018)
  - ERP System: Streamline operations and inventory management, including DMS, CRM, and WMS.
 
 #### 3.2.1.	Threat Profiles
+
 | **Critical Asset** |	**Description**	| **Threats**	| **Vulnerabilities** | **Risk level** |
 | :----------------- | :-------------- | :---------- | :------------------ | :------------- |
 | E-commerce platform	| Online store	| Cyberattacks, DDoS, data breaches | Software vulnerabilities, weak authentication, lack of security | ⚫⚫⚫ |
@@ -75,7 +82,9 @@ Figure 2: OCTAVE Phases (Alberts et al, 2003; Shevchenko et al, 2018)
 | ERP system	| Integrated ERP with DMS, CRM, WMS |	Technical failures, unauthorized access |	Weak passwords, lack of access controls |	⚫⚫⚫ |
 | Social Media Account |	Platforms for marketing | Account hijacking, misinformation |	Weak passwords, phishing, lack of policy |	⚫⚫🔘 |
 
+
 #### 3.2.2.	Mitigation Plan
+
 | **Threat/Vulnerability** |	**Mitigation Strategy** |
 | :----- | :----- |
 | Website/system vulnerabilities	| Implement security measures, regular updates, vulnerability scanning, penetration testing, WCAG compliance |
@@ -85,6 +94,7 @@ Figure 2: OCTAVE Phases (Alberts et al, 2003; Shevchenko et al, 2018)
 | Online payment fraud |	Reputable payment gateways with fraud detection, PCI DSS compliance |
 | Social media risks |	Implement social media policies, use strong passwords, two-factor authentication |
 
+
 #### 4.	Recommendations
 We recommend pursuing digital transformation for Pampered Pets due to its growth and efficiency potential.
  - **Growth Potential:** An online presence can expand customer base, offering convenience and increasing the possibility of achieving 50% growth target.
@@ -93,6 +103,7 @@ We recommend pursuing digital transformation for Pampered Pets due to its growth
 
 #### 5.	Timeline
 A realistic timeline for digital transformation is 18-24 months.
+
 | **Phase** |	**Actions** |
 | :----- | :----- |
 | Planning (9-12 months) |	Define goals, conduct risk assessment, select technology, create investment plan |
@@ -102,6 +113,7 @@ A realistic timeline for digital transformation is 18-24 months.
 | UAT Testing (1 month) |	Test systems with users, address issues and feedback |
 | Rollout (1 month) |	Launch ERP and e-commerce platforms, monitor performance |
 | Optimization/Expansion (Post-implement) |	Integrate CRM and WMS with ERP, explore international expansion |
+
 
 #### 6.	Conclusions
 Digitalization offers significant growth and efficiency potential. Essential steps include robust cybersecurity, data protection compliance, and a phased approach with thorough planning, testing, and staff training.
