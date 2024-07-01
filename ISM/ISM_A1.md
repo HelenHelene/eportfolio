@@ -1,55 +1,184 @@
-### [Assignment 1: Risk Identification Report](Module03_BaselineAnalysisAndPlan.pdf)
+### [Assignment 1: Risk Identification Report](ISM_A1_RiskIdentificationReport.pdf)
 
 <br>
 
-#### Introduction
-This is the first summative assessment for this module and accounts for 30% of your final module grade. Submit by end of unit 3. The required word count for your submission is a limit of 1 page (600 words) for the report.
+#### Table of Contents
+1.	Executive Summary
+2.	Methodology
+3.	Risk Assessment
+3.1.	Maintain Status Quo
+3.1.1.	Threat Profiles
+3.1.2.	Mitigation Plan
+3.2.	Proposed Changes
+3.2.1.	Threat Profiles
+3.2.2.	Mitigation Plan
+4.	Recommendations
+5.	Timeline
+6.	Conclusions
+Abbreviations and Acronyms
+Reference
 
-#### Full Brief
-Pampered Pets are a bricks-and-mortar business, based in a leafy suburb of Hashington-on-the-Water. It employs 4 staff; Alice the owner/ manager; Cathy the shop manager; Andrea the store assistant and Harry the warehouse manager. 90% of their business is carried out face to face, with people coming into the store to buy items. A small percentage of clients will email their orders – once these are ready the staff email the clients who then travel to the store to pick up goods and pay. Recently Harry has started to use an old, networked computer (with a spreadsheet package) to keep track of warehouse deliveries and item locations. The front desk uses a computer for all sales and purchases so that transactions are recorded digitally – this makes VAT and Tax submissions easier. The main shop has a wireless gateway and hub that both computers are connected to. In addition, all the staff use the wireless connection for various apps on their smart phones.
+#### 1.	Executive Summary
+Pampered Pets (Figure 1) is considering a digital transformation to expand its business. This report evaluates the risks associated with current operations and proposed digitalization, offering risk mitigation strategies and assesses the advisability of this transformation. 
 
-The business is most famous for the quality of its pet foods – using the highest quality ingredients from local suppliers, with many items being prepared and packed in-house. This has a number of advantages including easy and regular quality checks of ingredients and a guaranteed supply chain – if necessary, employees could get into their cars and drive 10 minutes to the suppliers (mostly local farms) to pick up the ingredients by hand.
+Figure 1: Business Overview
 
-Cathy, cognisant of the influence and benefits of the Internet, has retained the services of a consultancy (you) to research the best way to grow the business. The report should investigate all reasonable threats AND address the following three questions:
+<img src="ISM_A1_PamperedPets.jpg" alt="Pampered Pets" width="600"/>
 
- - Could an online presence grow the business by up to 50%?
- - Could changing to an international supply chain reduce costs by up to 24%?
- - Could the business lose up to 33% of its existing customers if the business doesn’t provide some online features?
+#### 2.	Methodology
+The OCTAVE-S method, suited for small organizations with fewer than 100 employees (Alberts et al, 2005; PECB, N.D.), was used.  This method is based on three phases described in OCTAVE criteria (Figure 2).
+
+Figure 2: OCTAVE Phases (Alberts et al, 2003; Shevchenko et al, 2018)
+
+<img src="ISM_A1_OCTAVE.jpg" alt="OCTAVE" width="600"/>
    
-Orla O’dour (eccentric Irish billionaire) decides to buy a share in the company and advises Cathy that the business should be digitalised to improve internal business processes and to expand the reach of the business internationally – and she is willing to fund the transformation.
+#### 3.	Risk Assessment
+| Risk level |
+| --- |
+| 🔘🔘🔘	None |
+| ⚫🔘🔘	Low |
+| ⚫⚫🔘	Medium |
+| ⚫⚫⚫	High |
 
-#### Assessment: A Report by a Security and Risk Management Consultant.
-For this submission, you are tasked with carrying out a risk assessment, evaluating the risks of both the effects of the digitalisation process and of the alternative of maintaining the status quo to the business. Which would you recommend, taking both assessments into account? Produce a risk identification report with your responses to these questions. Note that the associated grading criteria are highlighted in the requirements below, to be reviewed alongside the criteria grid (Module Resources).
+#### 3.1.	Maintain Status Quo
 
-Checklist:
-1. Carry out a risk assessment of the Pampered Pets business as it stands currently (Knowledge and Understanding weighted at 25%). This should include:
- - A selection of a risk assessment methodology with justifications for the selection.
- - A risk and threat modelling exercise that enumerates and evaluates the current threats and risks to the business.
- - A list of potential mitigations to the identified risks and threats.
+#### 3.1.1.	Threat Profiles
+| **Critical Asset** |	**Description**	| **Threats**	| **Vulnerabilities** | **Risk level** |
+| :----------------- | :-------------- | :---------- | :------------------ | :------------- |
+Customer Data	Contact and order records	Data breach, unauthorized access, damage	Lack of access control, poor disposal, limited backups	⚫⚫⚫
+Financial Data	Transaction records	Unauthorized access, data loss, hardware failure	Weak passwords, outdated software, limited backups	⚫⚫⚫
+Inventory Database	Warehouse inventory tracking	Data loss, unauthorized access, inaccuracies	Weak passwords, outdated software, single point of failure	⚫⚫🔘
+Reputation	Customer trust, supplier relationships	Inefficiency, missed orders	Limited online presence, lack of reputation management	⚫⚫🔘
+Supply Chain	Local suppliers	Supplier disruptions, quality issues	Dependence on local suppliers, limited alternatives	⚫⚫🔘
 
-2. Carry out a risk assessment around the potential digitalisation process as applied to the Pampered Pets business (Application and Understanding weighted at 15%, Criticality weighted at 15%). This should include:
- - A selection of a risk assessment methodology with justifications for the selection.
- - A list of proposed changes that form the basis of the digitalisation process/ transformation (e.g., e-commerce portal, ERP system, online marketing, blogs, etc. – note you do not have to include ALL these features).
- - A risk and threat modelling exercise that enumerates and evaluates the potential threats and risks to the business of the proposed changes.
- - A list of potential mitigations to the identified risks and threats.
+#### 3.1.2.	Mitigation Plan
+Threat/Vulnerability	Mitigation Strategy
+Physical theft/damage	Implement access controls, secure disposal, regular digital backups
+Unauthorized access/data loss	Enforce strong passwords, multi-factor authentication, antivirus software, regular data backups
+Data breaches/malware	Use firewalls, intrusion detection, regular security updates, cybersecurity training
+Outdated technology/single point	Move inventory to a cloud-based system with redundancy, upgrade hardware
+Limited online presence	Create website and social media presence
+Supply chain disruptions	Diversify suppliers, develop contingency plans
 
-3. Finally, provide a summary of your recommendations for the business. Do you recommend that the digitalisation process be carried out? If so, what would be involved? What approach and timeline would you suggest? (Application and Understanding weighted at 10%, Criticality weighted at 10%)
-Presentation and Structure of your work (weighted at 25%) includes spelling, style, evidence of proofreading, correct use (and format) of citations and references.
+#### 3.2.	Proposed Changes
+•	E-commerce platform: Online store for receiving orders.
+•	Online payment gateway: Secure system for online payments.
+•	Social Media Marketing: Increase brand visibility and customer engagement.
+•	ERP System: Streamline operations and inventory management, including DMS, CRM, and WMS.
 
-It is recommended that most of these questions are addressed as bullet points to meet the word count requirement – the timeline can be expressed as a diagram or Gantt chart.
+#### 3.2.1.	Threat Profiles
+| **Critical Asset** |	**Description**	| **Threats**	| **Vulnerabilities** | **Risk level** |
+| :----------------- | :-------------- | :---------- | :------------------ | :------------- |
+E-commerce platform	Online store	Cyberattacks, DDoS, data breaches	Software vulnerabilities, weak authentication, lack of security	⚫⚫⚫
+Online payment gateway	Payment processing system	Fraudulent transactions, data breaches	Insecure processing, lack of fraud detection	⚫⚫⚫
+ERP system	Integrated ERP with DMS, CRM, WMS	Technical failures, unauthorized access	Weak passwords, lack of access controls	⚫⚫⚫
+Social Media Account	Platforms for marketing	Account hijacking, misinformation	Weak passwords, phishing, lack of policy	⚫⚫🔘
 
-Please note that appendices should not be used to extend the core report as reports should stand alone, complete and concise, without the appendices. They should really only be used if required, and only for supplementary and/ or supporting information. One key part of the exercises in this module is the need to be to be able to express ideas succinctly, concisely and with necessary brevity.
+#### 3.2.2.	Mitigation Plan
+Threat/Vulnerability	Mitigation Strategy
+Website/system vulnerabilities	Implement security measures, regular updates, vulnerability scanning, penetration testing, WCAG compliance
+Weak authentication/access controls	Enforce strong passwords, multi-factor authentication, access control policies
+Data breaches/privacy violations	Encrypt data, implement data loss prevention, GDPR compliance
+DDoS attacks	DDoS mitigation services, ensure sufficient server capacity
+Online payment fraud	Reputable payment gateways with fraud detection, PCI DSS compliance
+Social media risks	Implement social media policies, use strong passwords, two-factor authentication
 
-#### Learning Outcomes
- - Identify and analyse security risks, threats and vulnerabilities in information systems and determine appropriate methodologies, tools, and techniques to manage and/or solve them.
- - Gather and synthesise information from multiple sources (including internet security alerts & warning sites) to aid in the systematic analysis of security breaches & issues.
+#### 4.	Recommendations
+We recommend pursuing digital transformation for Pampered Pets due to its growth and efficiency potential.
+•	Growth Potential: An online presence can expand customer base, offering convenience and increasing the possibility of achieving 50% growth target.
+•	Cost Reduction: Switching to  international supply chain could reduce costs, requiring careful quality control.
+•	Customer Retention: Online features and delivery options can enhance convenience and retention, preventing market share loss.
+
+#### 5.	Timeline
+A realistic timeline for digital transformation is 18-24 months.
+Phase	Actions
+Planning (9-12 months)	Define goals, conduct risk assessment, select technology, create investment plan
+Infrastructure Setup (3-4 months)	Upgrade network security and IT infrastructure, implement ERP system with DMS integration
+Data Conversion (3-4 months)	Scan documents to DMS, automate data entry
+Staff Training (1-2 months)	Train on new systems, cybersecurity workshops
+UAT Testing (1 month)	Test systems with users, address issues and feedback
+Rollout (1 month)	Launch ERP and e-commerce platforms, monitor performance
+Optimization/Expansion	Integrate CRM and WMS with ERP, explore international expansion
+
+#### 6.	Conclusions
+Digitalization offers significant growth and efficiency potential. Essential steps include robust cybersecurity, data protection compliance, and a phased approach with thorough planning, testing, and staff training.
 
 <br><br>
 
 ---
 
+#### Abbreviations and Acronyms
+
+|  |  |
+| :------- | :---------- |
+| CRM | Customer Relationship Managemer |
+| DDoS | Distributed Denial-of-Service |
+| DMS | Document Management System |
+| ERP | Enterprise Resource planning |
+| GDPR | General Data Protection Regulation | 
+| OCTAVE | Operationally Critical Threat, Asset, and Vulnerability Evaluation |
+| OCTAVE-S | Operationally Critical Threat, Asset, and Vulnerability Evaluation - Simplified |
+| PCI DSS | Payment Card Industry Data Security Standard |
+| WCAG | Web Content Accessibility Guideline |
+| WMS | Warehouse Management System |
+
+---
+
 #### References
-Kovaitė, K. & Stankevičienė, J. (2019) Risks of Digitalisation of Business Models.  International Scientific Conference - Contemporary Issues in Business, Management and Economics Engineering 2019. DOI: https://doi.org/10.3846/cibmee.2019.039
+Addy, AC. (2023) Threat Modeling Methodology: OCTAVE. Available from: https://www.iriusrisk.com/resources-blog/octave-threat-modeling-methodologies [Accessed 25 June 2024].
+
+Alberts, C. et al. (2003) Introduction to the OCTAVE Approach. Available from: https://insights.sei.cmu.edu/library/introduction-to-the-octave-approach/ [Accessed 25 June 2024].
+
+Alberts, C. et al. (2005) OCTAVE-S Implementation Guide, Version 1.0.  Available from: https://insights.sei.cmu.edu/documents/1608/2005_002_001_14273.pdf [Accessed 26 June 2024].
+
+Aven, T (2016) Risk Assessment and risk management: Review of recent advances on their foundation. European Journal of Operational Research 253(1): 1-13. DOI: https://doi.org/10.1016/j.ejor.2015.12.023
+
+Bonnie, E. (2023) How to Develop a Risk Management Methodology + 6 Popular Types to Choose From. Available from: https://secureframe.com/blog/risk-management-methodologies [Accessed 24 June 2024].
+
+Campbell, T. (2016) Practical Information Security Management. 1st ed. New York:
+Apress. Available from: https://insights.sei.cmu.edu/library/introducing-octave-allegro-improving-the-information-security-risk-assessment-process/ [Accessed 27 June 2024].
+
+Caralli, R, et al. (2007) Introducing OCTAVE Allegro: Improving the Information Security Risk Assessment Process 
+
+Chamberlain, S. (2022) The Benefits of Utilizing the OCTAVE Threat Model. Available from: https://www.eccouncil.org/cybersecurity-exchange/threat-intelligence/octave-threat-model-benefits/ [Access 25 June 2024]
+
+COrsO. (2024) Threat Modeling Methodology: The OCTAVE Method and its Variants. Available from: https://c0rs0.medium.com/the-octave-method-and-its-variants-octave-allegro-and-octave-s-dc49ce51a05e [Accessed 27 June 2024] 
+
+Deloitte. (2018) Managing Risk in Digital Transformation.  Available from: https://www2.deloitte.com/content/dam/Deloitte/in/Documents/risk/in-ra-managing-risk-digital-transformation-1-noexp.pdf [Accessed 24 June 2024].
+
+Febria, ZD. & Suroso, SJ. (2018) Risk Management of Debtor Information System (At Bank XYZ Using OCTAVE Allegro Method). Available from: https://www.researchgate.net/publication/327859251 [Accessed 27 June 2024]
+
+GDPR. (N.D.) General Data Protection Regulation. Available from: https://gdpr.eu/tag/gdpr/ [Accessed 22 June 2024].
+
+Harahap, MR. (2011) Information Technology Risk Measurement: Octave-S Method. DOI: 10.21512/commit.v5i1.556
+
+ICO. (N.D.) UK GDPR guidance and resources. Available from: https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/ [Accessed 22 June 2024].
+
+IriusRisk. (2023). Methodologies Blog. Available from: https://www.iriusrisk.com/resources-blog/methodologies [Accessed 22 June 2024].
+
+Kirvan, P. (2023) Top 12 IT security frameworks and standards explained. Available from: https://www.techtarget.com/searchsecurity/tip/IT-security-frameworks-and-standards-Choosing-the-right-one?vgnextfmt=print%20%5bAccessed%201%20July%202022%5d  [Accessed 27 June 2024].
+
+Kovaitė, K. & Stankevičienė, J. (2019) Risks of Digitalisation of Business Models. International Scientific Conference - Contemporary Issues in Business, Management and Economics Engineering 2019. DOI: https://doi.org/10.3846/cibmee.2019.039
+
+Lasi, H. et al. (2014). Industry 4.0. Business & Information Systems Engineering 6(4): 239-242. DOI: 10.1007/s12599-014-0334-4
+
+Lambrinoudakis, C. et al. (2022) Compendium of Risk Management Frameworks with Potential Interoperability – Supplement to the Interoperable EU Risk Management Framework Report. Available from: https://www.studocu.com/cl/document/universidad-los-leones/ingenieria-gestion/enisa-report-compendium-of-risk-management-frameworks-with-potential-interoperability/39177721 [Accessed 24 June 2024].
+
+PCI Security Standards Council. (N.D.) PCI Security Standards Overview. Available from: https://www.pcisecuritystandards.org/standards/ [Accessed 22 June 2024].
+
+PECB (N.D.) Risk Assessment with OCTAVE. Available from: https://pecb.com/whitepaper/risk-assessment-with-octave [Accessed 25 June 2024].
+
+Shevchenko, N. (2018) Threat Modeling: 12 Available Methods. Available from: https://insights.sei.cmu.edu/blog/threat-modeling-12-available-methods/ [Accessed 27 June 2024].
+
+Shevchenko, N. et al. (2018) Threat Modeling: A Summary of Available Methods.  Available from: https://insights.sei.cmu.edu/library/threat-modeling-a-summary-of-available-methods/ [Accessed 24 June 2024].
+
+Shostack, A. (2014) Threat Modeling: Designing for Security. 1st ed. Indianapolis:
+John Wiley & Sons.
+
+Sobieski, S. (2012) Implementation of the OCTAVE Methodology in Security Risk Management Process for Business Resources. DOI: 10.1007/978-3-642-25355-3_21
+
+Stephanus, S. (2014) Implementation Octave-S and ISO 27001controls in Risk Management Information Systems. Binus Journal Publishing 5(2). DOI: https://doi.org/10.21512/comtech.v5i2.2225
+
 <br><br>
 
 ---
