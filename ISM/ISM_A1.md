@@ -5,13 +5,13 @@
 #### Table of Contents
 1.	Executive Summary
 2.	Methodology
-3.	Risk Assessment
-3.1.	Maintain Status Quo
-3.1.1.	Threat Profiles
-3.1.2.	Mitigation Plan
-3.2.	Proposed Changes
-3.2.1.	Threat Profiles
-3.2.2.	Mitigation Plan
+3.	Risk Assessment\
+ 3.1.	Maintain Status Quo\
+ 3.1.1.	Threat Profiles\
+ 3.1.2.	Mitigation Plan\
+ 3.2.	Proposed Changes\
+ 3.2.1.	Threat Profiles\
+ 3.2.2.	Mitigation Plan
 4.	Recommendations
 5.	Timeline
 6.	Conclusions
@@ -34,7 +34,7 @@ Figure 2: OCTAVE Phases (Alberts et al, 2003; Shevchenko et al, 2018)
    
 #### 3.	Risk Assessment
 | Risk level |
-| --- |
+| :---- |
 | 🔘🔘🔘	None |
 | ⚫🔘🔘	Low |
 | ⚫⚫🔘	Medium |
@@ -45,60 +45,63 @@ Figure 2: OCTAVE Phases (Alberts et al, 2003; Shevchenko et al, 2018)
 #### 3.1.1.	Threat Profiles
 | **Critical Asset** |	**Description**	| **Threats**	| **Vulnerabilities** | **Risk level** |
 | :----------------- | :-------------- | :---------- | :------------------ | :------------- |
-Customer Data	Contact and order records	Data breach, unauthorized access, damage	Lack of access control, poor disposal, limited backups	⚫⚫⚫
-Financial Data	Transaction records	Unauthorized access, data loss, hardware failure	Weak passwords, outdated software, limited backups	⚫⚫⚫
-Inventory Database	Warehouse inventory tracking	Data loss, unauthorized access, inaccuracies	Weak passwords, outdated software, single point of failure	⚫⚫🔘
-Reputation	Customer trust, supplier relationships	Inefficiency, missed orders	Limited online presence, lack of reputation management	⚫⚫🔘
-Supply Chain	Local suppliers	Supplier disruptions, quality issues	Dependence on local suppliers, limited alternatives	⚫⚫🔘
+| Customer Data | Contact and order records	| Data breach, unauthorized access, damage |	Lack of access control, poor disposal, limited backups | ⚫⚫⚫ |
+| Financial Data	| Transaction records |	Unauthorized access, data loss, hardware failure |	Weak passwords, outdated software, limited backups | ⚫⚫⚫ |
+| Inventory Database |	Warehouse inventory tracking |	Data loss, unauthorized access, inaccuracies	| Weak passwords, outdated software, single point of failure	| ⚫⚫🔘 |
+| Reputation |	Customer trust, supplier relationships	| Inefficiency, missed orders	| Limited online presence, lack of reputation management	| ⚫⚫🔘 |
+| Supply Chain |	Local suppliers | Supplier disruptions, quality issues |	Dependence on local suppliers, limited alternatives | ⚫⚫🔘 |
 
 #### 3.1.2.	Mitigation Plan
-Threat/Vulnerability	Mitigation Strategy
-Physical theft/damage	Implement access controls, secure disposal, regular digital backups
-Unauthorized access/data loss	Enforce strong passwords, multi-factor authentication, antivirus software, regular data backups
-Data breaches/malware	Use firewalls, intrusion detection, regular security updates, cybersecurity training
-Outdated technology/single point	Move inventory to a cloud-based system with redundancy, upgrade hardware
-Limited online presence	Create website and social media presence
-Supply chain disruptions	Diversify suppliers, develop contingency plans
+| **Threat/Vulnerability** |	**Mitigation Strategy** |
+| :----- | :----- |
+| Physical theft/damage	| Implement access controls, secure disposal, regular digital backups |
+| Unauthorized access/data loss	| Enforce strong passwords, multi-factor authentication, antivirus software, regular data backups |
+| Data breaches/malware	| Use firewalls, intrusion detection, regular security updates, cybersecurity training |
+| Outdated technology/single point	| Move inventory to a cloud-based system with redundancy, upgrade hardware |
+| Limited online presence	| Create website and social media presence |
+| Supply chain disruptions	| Diversify suppliers, develop contingency plans |
 
 #### 3.2.	Proposed Changes
-•	E-commerce platform: Online store for receiving orders.
-•	Online payment gateway: Secure system for online payments.
-•	Social Media Marketing: Increase brand visibility and customer engagement.
-•	ERP System: Streamline operations and inventory management, including DMS, CRM, and WMS.
+ - E-commerce platform: Online store for receiving orders.
+ - Online payment gateway: Secure system for online payments.
+ - Social Media Marketing: Increase brand visibility and customer engagement.
+ - ERP System: Streamline operations and inventory management, including DMS, CRM, and WMS.
 
 #### 3.2.1.	Threat Profiles
 | **Critical Asset** |	**Description**	| **Threats**	| **Vulnerabilities** | **Risk level** |
 | :----------------- | :-------------- | :---------- | :------------------ | :------------- |
-E-commerce platform	Online store	Cyberattacks, DDoS, data breaches	Software vulnerabilities, weak authentication, lack of security	⚫⚫⚫
-Online payment gateway	Payment processing system	Fraudulent transactions, data breaches	Insecure processing, lack of fraud detection	⚫⚫⚫
-ERP system	Integrated ERP with DMS, CRM, WMS	Technical failures, unauthorized access	Weak passwords, lack of access controls	⚫⚫⚫
-Social Media Account	Platforms for marketing	Account hijacking, misinformation	Weak passwords, phishing, lack of policy	⚫⚫🔘
+| E-commerce platform	| Online store	| Cyberattacks, DDoS, data breaches | Software vulnerabilities, weak authentication, lack of security | ⚫⚫⚫ |
+| Online payment gateway |	Payment processing system |	Fraudulent transactions, data breaches |	Insecure processing, lack of fraud detection |	⚫⚫⚫ |
+| ERP system	| Integrated ERP with DMS, CRM, WMS |	Technical failures, unauthorized access |	Weak passwords, lack of access controls |	⚫⚫⚫ |
+| Social Media Account |	Platforms for marketing | Account hijacking, misinformation |	Weak passwords, phishing, lack of policy |	⚫⚫🔘 |
 
 #### 3.2.2.	Mitigation Plan
-Threat/Vulnerability	Mitigation Strategy
-Website/system vulnerabilities	Implement security measures, regular updates, vulnerability scanning, penetration testing, WCAG compliance
-Weak authentication/access controls	Enforce strong passwords, multi-factor authentication, access control policies
-Data breaches/privacy violations	Encrypt data, implement data loss prevention, GDPR compliance
-DDoS attacks	DDoS mitigation services, ensure sufficient server capacity
-Online payment fraud	Reputable payment gateways with fraud detection, PCI DSS compliance
-Social media risks	Implement social media policies, use strong passwords, two-factor authentication
+| **Threat/Vulnerability** |	**Mitigation Strategy** |
+| :----- | :----- |
+| Website/system vulnerabilities	| Implement security measures, regular updates, vulnerability scanning, penetration testing, WCAG compliance |
+| Weak authentication/access controls |	Enforce strong passwords, multi-factor authentication, access control policies |
+| Data breaches/privacy violations |	Encrypt data, implement data loss prevention, GDPR compliance |
+| DDoS attacks |	DDoS mitigation services, ensure sufficient server capacity |
+| Online payment fraud |	Reputable payment gateways with fraud detection, PCI DSS compliance |
+| Social media risks |	Implement social media policies, use strong passwords, two-factor authentication |
 
 #### 4.	Recommendations
 We recommend pursuing digital transformation for Pampered Pets due to its growth and efficiency potential.
-•	Growth Potential: An online presence can expand customer base, offering convenience and increasing the possibility of achieving 50% growth target.
-•	Cost Reduction: Switching to  international supply chain could reduce costs, requiring careful quality control.
-•	Customer Retention: Online features and delivery options can enhance convenience and retention, preventing market share loss.
+ - **Growth Potential:** An online presence can expand customer base, offering convenience and increasing the possibility of achieving 50% growth target.
+ - **Cost Reduction:** Switching to international supply chain could reduce costs, requiring careful quality control.
+ - **Customer Retention:** Online features and delivery options can enhance convenience and retention, preventing market share loss.
 
 #### 5.	Timeline
 A realistic timeline for digital transformation is 18-24 months.
-Phase	Actions
-Planning (9-12 months)	Define goals, conduct risk assessment, select technology, create investment plan
-Infrastructure Setup (3-4 months)	Upgrade network security and IT infrastructure, implement ERP system with DMS integration
-Data Conversion (3-4 months)	Scan documents to DMS, automate data entry
-Staff Training (1-2 months)	Train on new systems, cybersecurity workshops
-UAT Testing (1 month)	Test systems with users, address issues and feedback
-Rollout (1 month)	Launch ERP and e-commerce platforms, monitor performance
-Optimization/Expansion	Integrate CRM and WMS with ERP, explore international expansion
+| **Phase** |	**Actions** |
+| :----- | :----- |
+| Planning (9-12 months) |	Define goals, conduct risk assessment, select technology, create investment plan |
+| Infrastructure Setup (3-4 months)	| Upgrade network security and IT infrastructure, implement ERP system with DMS integration |
+| Data Conversion (3-4 months) | Scan documents to DMS, automate data entry |
+| Staff Training (1-2 months) |	Train on new systems, cybersecurity workshops |
+| UAT Testing (1 month) |	Test systems with users, address issues and feedback |
+| Rollout (1 month) |	Launch ERP and e-commerce platforms, monitor performance |
+| Optimization/Expansion (Post-implement) |	Integrate CRM and WMS with ERP, explore international expansion |
 
 #### 6.	Conclusions
 Digitalization offers significant growth and efficiency potential. Essential steps include robust cybersecurity, data protection compliance, and a phased approach with thorough planning, testing, and staff training.
