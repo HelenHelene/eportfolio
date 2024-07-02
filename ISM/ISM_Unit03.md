@@ -1,18 +1,12 @@
 # Unit 3: Introduction to Threat Modelling and Management
 
-Welcome to Week 3 where we will discuss various approaches to Threat Modelling. We will discuss a number of popular approaches including STRIDE and DREAD, Attack Trees and hybrid models such as the Process for Attack Simulation and Threat Analysis (PASTA). We will also introduce some guides and cookbooks that can be used to help in selecting which framework to use.
+In Unit 3, we explored various approaches to threat modelling, including STRIDE, DREAD, Attack Trees, and hybrid models like the Process for Attack Simulation and Threat Analysis (PASTA). We also discussed the differences between threats and vulnerabilities and reviewed several guides and cookbooks to aid in selecting appropriate threat modelling frameworks.
 
-This week we shall:
- - Discuss the difference between threats and vulnerabilities.
- - Review a number of threat modelling techniques.
- - Discuss a number of guides and cookbooks to help with threat modelling.
-
-On completion of this week, you will be able to:
- - Describe a number of threat modelling techniques.
- - Advise which technique should be used in specific situations.
- - Discuss when techniques should be combined in a hybrid model.
-This week introduces students to the differences between threats and vulnerabilities and introduces a number of threat modelling and management tools.
-
+### Learning Outcomes
+This unit was essential in introducing the differences between threats and vulnerabilities and presenting various threat modelling and management tools.  By the end of this unit, I achieved the following learning outcomes:
+ - Technique Description: I can describe multiple threat modelling techniques.
+ - Technique Selection: I can advise on which technique should be used in specific situations.
+ - Hybrid Models: I understand when techniques should be combined into a hybrid model.
 
 ### Artefacts and Collaborative Discussion 
 As part of my e-portfolio, I completed the assigned exercise. 
@@ -20,13 +14,12 @@ As part of my e-portfolio, I completed the assigned exercise.
 [Exercise - Security Standards](ISM_Unit03_Exercise.md)
 
 ### Reflections
-xxxx
+This week’s focus on threat modelling approaches and security standards significantly enhanced my understanding of how to assess and manage risks effectively. The research on the GDPR, PCI Security Standards, and HIPAA provided a solid foundation for understanding the regulatory requirements and their implications for digital security. Applying GDPR and PCI SS to Assignment 1 helped me grasp the practical aspects of conducting a risk assessment for Pampered Pets' digitalization.
 
 ### Professional Skills Matrix and Action Plan
-xxxx
+After understanding different threat modelling approaches, I have determined that OCTAVE-S is the most suitable for Assignment 1. Therefore, I will focus on researching OCTAVE-S extensively. 
 
 <br><br>
-
 
 --- 
 
