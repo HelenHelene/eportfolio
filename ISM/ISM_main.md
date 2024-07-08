@@ -6,7 +6,7 @@ Throughout this module, we learn to differentiate between qualitative and quanti
 
 The module includes three assignments. The first assignment requires us to conduct risk assessments for a business's current state and potential digitalization and to recommend a course of action based on these assessments. The second assignment involves developing a Python application to visualize and evaluate attack trees, demonstrating threat models before and after digitalization. The final assignment is an individual reflection on our personal development throughout the module.
 
-#### Assignment 1: Risk Identification Report _(In Progress)_
+#### Assignment 1: Risk Identification Report _(🎓Pass with Distinction)_
 [Pampered Pets - A Report by a Security and Risk Management Consultant](ISM_A1.md)
 	
 #### Assignment 2: Executive Summary and App Presentation _(In Progress)_
