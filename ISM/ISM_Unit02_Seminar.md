@@ -112,20 +112,20 @@ Based on the OWASP Threat Modeling Cookbook, here are the mitigations for all ST
 
 ### OWASP Threat Modeling Cookbook Guidelines
 1. **Systematic Approach:** Use a structured methodology to ensure thorough and reproducible threat modeling.
- - Apply security and privacy knowledge in a structured manner.
- - Achieve thoroughness and reproducibility in threat modeling processes.
+    - Apply security and privacy knowledge in a structured manner.
+    - Achieve thoroughness and reproducibility in threat modeling processes.
 2. **Informed Creativity:** Combine creative thinking with scientific rigor to identify potential threats.
- - Allow for creativity by including both craft and science.
- - Use diverse techniques and perspectives to uncover threats.
+    - Allow for creativity by including both craft and science.
+    - Use diverse techniques and perspectives to uncover threats.
 3. **Varied Viewpoints:** Involve subject matter experts from different domains to gain diverse insights.
- - Assemble a diverse team with appropriate subject matter experts.
- - Encourage cross-functional collaboration to capture a wide range of viewpoints.
+    - Assemble a diverse team with appropriate subject matter experts.
+    - Encourage cross-functional collaboration to capture a wide range of viewpoints.
 4. **Useful Toolkit:** Utilize tools that enhance productivity, repeatability, and measurability of the threat modeling process.
- - Support your approach with tools that increase productivity.
- - Enhance workflows and enable repeatability and measurability.
+    - Support your approach with tools that increase productivity.
+    - Enhance workflows and enable repeatability and measurability.
 5. **Theory into Practice:** Apply field-tested techniques that are aligned with the latest best practices and local needs.
- - Use successfully field-tested techniques.
- - Align techniques to local needs and be informed by the latest thinking on the benefits and limits of those techniques.
+    - Use successfully field-tested techniques.
+    - Align techniques to local needs and be informed by the latest thinking on the benefits and limits of those techniques.
 
 ## Step 6: Validate
  - **Review:** Regularly review and update the threat model based on new intelligence and changes in the threat landscape.
@@ -134,15 +134,15 @@ Based on the OWASP Threat Modeling Cookbook, here are the mitigations for all ST
 ### Principles from the Threat Modeling Manifesto
 Values and Principles from the Threat Modeling Manifesto:
 1. **Values:**
- - **Culture of Finding and Fixing Design Issues:** Focus on identifying and resolving design issues rather than mere compliance.
- - **People and Collaboration:** Foster collaboration among diverse teams to bring various perspectives to the threat modeling process.
- - **Continuous Refinement:** Regularly refine and update the threat model to adapt to new threats and vulnerabilities.
+    - **Culture of Finding and Fixing Design Issues:** Focus on identifying and resolving design issues rather than mere compliance.
+    - **People and Collaboration:** Foster collaboration among diverse teams to bring various perspectives to the threat modeling process.
+    - **Continuous Refinement:** Regularly refine and update the threat model to adapt to new threats and vulnerabilities.
 
 2. **Principles:**
- - **Improve Security and Privacy:** The best use of threat modeling is to improve the security and privacy of a system through early and frequent analysis.
- - **Align with Development Practices:** Threat modeling must align with an organization’s development practices and follow design changes in iterations that are each scoped to manageable portions of the system.
- - **Value to Stakeholders:** The outcomes of threat modeling are meaningful when they are of value to stakeholders.
- - **Dialog and Documentation:** Dialog is key to establishing the common understandings that lead to value, while documents record those understandings and enable measurement.
+    - **Improve Security and Privacy:** The best use of threat modeling is to improve the security and privacy of a system through early and frequent analysis.
+    - **Align with Development Practices:** Threat modeling must align with an organization’s development practices and follow design changes in iterations that are each scoped to manageable portions of the system.
+    - **Value to Stakeholders:** The outcomes of threat modeling are meaningful when they are of value to stakeholders.
+    - **Dialog and Documentation:** Dialog is key to establishing the common understandings that lead to value, while documents record those understandings and enable measurement.
 
 ## Reflections
 This threat model highlights the importance of securing both digital and physical assets of a large international bank. The use of STRIDE and DREAD frameworks provides a structured approach to identifying and evaluating threats. Incorporating principles from the Threat Modeling Manifesto ensures a comprehensive and collaborative approach to threat modeling, while the OWASP Threat Modeling Cookbook provides practical mitigation strategies, and the ATT&CK libraries offer detailed adversary tactics and techniques to be aware of.
