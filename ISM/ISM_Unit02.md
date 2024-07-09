@@ -17,7 +17,7 @@ During this unit, I continued with the collaborative discussions and attended th
 
 Collaborative Discussion 1 - The Risks of Digitalisation-Initial post-Respond to peers: [Respond1](ISM_Unit02_Respond1.pdf) & [Respond2](ISM_Unit02_Respond2.pdf)
 
-Threat Modelling Exercises [ISM_Unit02_Seminar.md]
+[Threat Modelling Exercises](ISM_Unit02_Seminar.md)
 
 ### Reflections
 This week’s reading comprehensive understanding of the complexities involved in threat modelling and risk management.  The OWASP Threat Modelling Cookbook provided practical insights and actionable steps, which I found particularly useful in applying theoretical knowledge to practical scenarios.  The collaborative discussions were particularly enriching, as they provided diverse viewpoints and fostered a deeper collective understanding of the challenges in Industry 4.0.
