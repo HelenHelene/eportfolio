@@ -144,7 +144,9 @@ Values and Principles from the Threat Modeling Manifesto:
     - **Value to Stakeholders:** The outcomes of threat modeling are meaningful when they are of value to stakeholders.
     - **Dialog and Documentation:** Dialog is key to establishing the common understandings that lead to value, while documents record those understandings and enable measurement.
 
-## Reflections
+<br><br>
+
+### Reflections
 This threat model highlights the importance of securing both digital and physical assets of a large international bank. The use of STRIDE and DREAD frameworks provides a structured approach to identifying and evaluating threats. Incorporating principles from the Threat Modeling Manifesto ensures a comprehensive and collaborative approach to threat modeling, while the OWASP Threat Modeling Cookbook provides practical mitigation strategies, and the ATT&CK libraries offer detailed adversary tactics and techniques to be aware of.
 
 <br><br>
