@@ -22,8 +22,8 @@
 * [Module 2 Object Oriented Programming](/module/OOP.md)
 * [Module 3 Network Security](/NS/NS_main.md)
 * [Module 4 Information Security Management](/ISM/ISM_main.md)
-* [Module 5 Secure Software Development](/SSD/SSD_main.md)
-* [Module 6 Software Engineering Project Management](/SEPM/SEPM_main.md)
+* [Module 5 Software Engineering Project Management](/SEPM/SEPM_main.md)
+* [Module 6 Secure Software Development](/SSD/SSD_main.md)
 * [Module 7 Research Methods and Professional Practice](/RMPP/RMPP_main.md)
 * [MSc Computing Project and Dissertation](http://example.com/)
 
