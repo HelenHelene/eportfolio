@@ -116,7 +116,7 @@ Figure 7: Final attack tree of Post-digitalisation
 | **3** |	input_values	| **G** (networkx.DiGraph): The NetworkX graph object. |This function prompts the user to input values for the leaf nodes using Tkinter dialogs. |
 | **4** |	aggregate_values	| **G** (networkx.DiGraph): The NetworkX graph object. |	This function calculates the total value of the attack tree by using depth-first search to traverse the tree and aggregate values from the leaf nodes to the root. |
 | **5** |	main	| |	The main function ties everything together. It parses the JSON, visualizes the initial tree, collects user inputs, aggregates the values, and finally visualizes the updated tree. |
- 
+
 #### Conclusion
 The Attack Tree Visualization Application is an essential tool for cybersecurity professionals and risk managers. It helps analyze and visualize the risks associated with Pampered Pets' digital transformation, both pre-digitalisation and post-digitalisation.
 
