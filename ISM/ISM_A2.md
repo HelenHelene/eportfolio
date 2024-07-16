@@ -3,7 +3,7 @@
 
 <br>
 
-🔗[Attack Tree Visualization Application - Python Scripts](attack_tree/index.md)
+🔗[Attack Tree Visualization Application - Python Scripts](ISM_A2_Scripts.md)
 
 <br>
 
