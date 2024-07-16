@@ -47,7 +47,10 @@ Figure 1: Threats of Pre-digitalisation and Post-digitalisation
    <img src="ISM_A2_Output3.jpg" alt="HTML files" width="300"/>
    
 9.	Open the HTML files in a web browser to view the attack tree before and after user inputs.
-    
+
+9. Open the HTML files in a web browser to view the attack tree before and after user inputs.
+
+
 #### Input
 1.	**JSON files:** The application accepts an attack tree specification in JSON format. The JSON structure should define the hierarchy of nodes and their relationships (Figure 2 and Figure 3).
    
