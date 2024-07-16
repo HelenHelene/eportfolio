@@ -3,6 +3,10 @@
 
 <br>
 
+🔗[Attack Tree Visualization Application - Python Scripts](attack_tree\index.md)
+
+<br>
+
 #### Overview
 This application was developed to analyze the risks associated with Pampered Pets, a business considering digital transformation. The goal was to evaluate both the current operational risks (Pre-digitalisation) and the potential risks introduced by digitalisation (Post-digitalisation).
 
@@ -197,10 +201,6 @@ Appendix 5 main
 <img src="ISM_A2_main.jpg" alt="main function" width="600"/> 
 
 <br><br>
-
----
-
-[Go to Attack Tree Visualization Application](ISM_attack_tree)
 
 --- 
 
