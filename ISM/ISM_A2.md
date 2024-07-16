@@ -46,7 +46,7 @@ Figure 1: Threats of Pre-digitalisation and Post-digitalisation
     
   <img src="ISM_A2_Output3.jpg" alt="HTML files" width="300"/>
 
-9.	Open the HTML files in a web browser to view the attack tree before and after user inputs.
+9. Open the HTML files in a web browser to view the attack tree before and after user inputs.
 
 #### Input
 1.	**JSON files:** The application accepts an attack tree specification in JSON format. The JSON structure should define the hierarchy of nodes and their relationships (Figure 2 and Figure 3).
@@ -111,8 +111,8 @@ Figure 7: Final attack tree of Post-digitalisation
 
 | **Appendix** |	**Function** |	**Arguments** |	**Description** |
 | :----------- | :----------- | :------------ | :-------------- |
-| **1** |	parse_attack_tree	| **data** (dict): The JSON data representing the attack tree. <br> **parent** (str): The parent node name. <br> **G** (networkx.DiGraph): The NetworkX graph object.	| This function converts the JSON into a NetworkX graph by recursively parses the JSON structure, adding nodes and edges to the graph. |
-| **2** |	visualize_attack_tree |	**G** (networkx.DiGraph): The NetworkX graph object.<br> **filename** (str): The name of the output HTML file. |	This function uses PyVis to create an HTML visualization of the attack tree. |
+| **1** |	parse_attack_tree	| **data** (dict): The JSON data representing the attack tree.  **parent** (str): The parent node name.  **G** (networkx.DiGraph): The NetworkX graph object.	| This function converts the JSON into a NetworkX graph by recursively parses the JSON structure, adding nodes and edges to the graph. |
+| **2** |	visualize_attack_tree |	**G** (networkx.DiGraph): The NetworkX graph object.  **filename** (str): The name of the output HTML file. |	This function uses PyVis to create an HTML visualization of the attack tree. |
 | **3** |	input_values	| **G** (networkx.DiGraph): The NetworkX graph object. |This function prompts the user to input values for the leaf nodes using Tkinter dialogs. |
 | **4** |	aggregate_values	| **G** (networkx.DiGraph): The NetworkX graph object. |	This function calculates the total value of the attack tree by using depth-first search to traverse the tree and aggregate values from the leaf nodes to the root. |
 | **5** |	main	| |	The main function ties everything together. It parses the JSON, visualizes the initial tree, collects user inputs, aggregates the values, and finally visualizes the updated tree. |
