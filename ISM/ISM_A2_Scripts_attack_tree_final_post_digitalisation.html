@@ -1,0 +1,157 @@
+
+<html>
+    <head>
+        <meta charset="utf-8">
+        
+            <script src="lib/bindings/utils.js"></script>
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/dist/vis-network.min.css" integrity="sha512-WgxfT5LWjfszlPHXRmBWHkV2eceiWTOBvrKCNbdgDYTHrT2AeLCGbF4sZlZw3UMN3WtL0tGUoIAKsu8mllg/XA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/vis-network.min.js" integrity="sha512-LnvoEWDFrqGHlHmDD2101OrLcbsfkrzoSpvtSQtxK3RMnRV0eOkhhBN2dXHKRrUU8p2DGRTk35n4O8nWSVe1mQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+            
+        
+<center>
+<h1></h1>
+</center>
+
+<!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
+<script type="text/javascript" src="../node_modules/vis/dist/vis.js"> </script>-->
+        <link
+          href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css"
+          rel="stylesheet"
+          integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6"
+          crossorigin="anonymous"
+        />
+        <script
+          src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js"
+          integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf"
+          crossorigin="anonymous"
+        ></script>
+
+
+        <center>
+          <h1></h1>
+        </center>
+        <style type="text/css">
+
+             #mynetwork {
+                 width: 100%;
+                 height: 600px;
+                 background-color: #ffffff;
+                 border: 1px solid lightgray;
+                 position: relative;
+                 float: left;
+             }
+
+             
+
+             
+
+             
+        </style>
+    </head>
+
+
+    <body>
+        <div class="card" style="width: 100%">
+            
+            
+            <div id="mynetwork" class="card-body"></div>
+        </div>
+
+        
+        
+
+        <script type="text/javascript">
+
+              // initialize global variables.
+              var edges;
+              var nodes;
+              var allNodes;
+              var allEdges;
+              var nodeColors;
+              var originalNodes;
+              var network;
+              var container;
+              var options, data;
+              var filter = {
+                  item : '',
+                  property : '',
+                  value : []
+              };
+
+              
+
+              
+
+              // This method is responsible for drawing the graph, returns the drawn network
+              function drawGraph() {
+                  var container = document.getElementById('mynetwork');
+
+                  
+
+                  // parsing and collecting nodes and edges from the python
+                  nodes = new vis.DataSet([{"color": "#97c2fc", "id": "Post-digitalisation", "label": "Post-digitalisation\nValue: 83000.0", "shape": "dot", "size": 10, "title": "Value: 83000.0", "value": 83000.0}, {"color": "#97c2fc", "id": "E-commerce Platform", "label": "E-commerce Platform\nValue: 30000.0", "shape": "dot", "size": 10, "title": "Value: 30000.0", "value": 30000.0}, {"color": "#97c2fc", "id": "Online Payment Gateway", "label": "Online Payment Gateway\nValue: 30000.0", "shape": "dot", "size": 10, "title": "Value: 30000.0", "value": 30000.0}, {"color": "#97c2fc", "id": "ERP System", "label": "ERP System\nValue: 14000.0", "shape": "dot", "size": 10, "title": "Value: 14000.0", "value": 14000.0}, {"color": "#97c2fc", "id": "Social Media Account", "label": "Social Media Account\nValue: 9000.0", "shape": "dot", "size": 10, "title": "Value: 9000.0", "value": 9000.0}, {"color": "#97c2fc", "id": "Cyberattacks", "label": "Cyberattacks\nValue: 12000.0", "shape": "dot", "size": 10, "title": "Value: 12000.0", "value": 12000.0}, {"color": "#97c2fc", "id": "DDoS", "label": "DDoS\nValue: 8000.0", "shape": "dot", "size": 10, "title": "Value: 8000.0", "value": 8000.0}, {"color": "#97c2fc", "id": "Data Breach", "label": "Data Breach\nValue: 10000.0", "shape": "dot", "size": 10, "title": "Value: 10000.0", "value": 10000.0}, {"color": "#97c2fc", "id": "Fraudulent Transactions", "label": "Fraudulent Transactions\nValue: 20000.0", "shape": "dot", "size": 10, "title": "Value: 20000.0", "value": 20000.0}, {"color": "#97c2fc", "id": "Technical Failures", "label": "Technical Failures\nValue: 9000.0", "shape": "dot", "size": 10, "title": "Value: 9000.0", "value": 9000.0}, {"color": "#97c2fc", "id": "Unauthorized Access", "label": "Unauthorized Access\nValue: 5000.0", "shape": "dot", "size": 10, "title": "Value: 5000.0", "value": 5000.0}, {"color": "#97c2fc", "id": "Account Hijacking", "label": "Account Hijacking\nValue: 3000.0", "shape": "dot", "size": 10, "title": "Value: 3000.0", "value": 3000.0}, {"color": "#97c2fc", "id": "Misinformation", "label": "Misinformation\nValue: 3000.0", "shape": "dot", "size": 10, "title": "Value: 3000.0", "value": 3000.0}, {"color": "#97c2fc", "id": "Phishing", "label": "Phishing\nValue: 3000.0", "shape": "dot", "size": 10, "title": "Value: 3000.0", "value": 3000.0}]);
+                  edges = new vis.DataSet([{"from": "Post-digitalisation", "to": "E-commerce Platform", "width": 1}, {"from": "Post-digitalisation", "to": "Online Payment Gateway", "width": 1}, {"from": "Post-digitalisation", "to": "ERP System", "width": 1}, {"from": "Post-digitalisation", "to": "Social Media Account", "width": 1}, {"from": "E-commerce Platform", "to": "Cyberattacks", "width": 1}, {"from": "E-commerce Platform", "to": "DDoS", "width": 1}, {"from": "E-commerce Platform", "to": "Data Breach", "width": 1}, {"from": "Online Payment Gateway", "to": "Fraudulent Transactions", "width": 1}, {"from": "Online Payment Gateway", "to": "Data Breach", "width": 1}, {"from": "ERP System", "to": "Technical Failures", "width": 1}, {"from": "ERP System", "to": "Unauthorized Access", "width": 1}, {"from": "Social Media Account", "to": "Account Hijacking", "width": 1}, {"from": "Social Media Account", "to": "Misinformation", "width": 1}, {"from": "Social Media Account", "to": "Phishing", "width": 1}]);
+
+                  nodeColors = {};
+                  allNodes = nodes.get({ returnType: "Object" });
+                  for (nodeId in allNodes) {
+                    nodeColors[nodeId] = allNodes[nodeId].color;
+                  }
+                  allEdges = edges.get({ returnType: "Object" });
+                  // adding nodes and edges to the graph
+                  data = {nodes: nodes, edges: edges};
+
+                  var options = {
+    "configure": {
+        "enabled": false
+    },
+    "edges": {
+        "color": {
+            "inherit": true
+        },
+        "smooth": {
+            "enabled": true,
+            "type": "dynamic"
+        }
+    },
+    "interaction": {
+        "dragNodes": true,
+        "hideEdgesOnDrag": false,
+        "hideNodesOnDrag": false
+    },
+    "physics": {
+        "enabled": true,
+        "stabilization": {
+            "enabled": true,
+            "fit": true,
+            "iterations": 1000,
+            "onlyDynamicEdges": false,
+            "updateInterval": 50
+        }
+    }
+};
+
+                  
+
+
+                  
+
+                  network = new vis.Network(container, data, options);
+
+                  
+
+                  
+
+                  
+
+
+                  
+
+                  return network;
+
+              }
+              drawGraph();
+        </script>
+    <a href="https://helenhelene.github.io/eportfolio/ISM/ISM_A2_Scripts.html">Return to Contents List</a>
+    </body>
+</html>
