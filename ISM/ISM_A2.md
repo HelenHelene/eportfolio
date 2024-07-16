@@ -44,7 +44,7 @@ Figure 1: Threats of Pre-digitalisation and Post-digitalisation
  
 8.	The HTML files will be saved in the same directory where you run the Python script. Ensure you know the path to this directory.
    
-     <img src="ISM_A2_Output3.jpg" alt="HTML files" width="300"/>
+  <img src="ISM_A2_Output3.jpg" alt="HTML files" width="300"/>
 
 9.	Open the HTML files in a web browser to view the attack tree before and after user inputs.
     
