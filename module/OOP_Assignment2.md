@@ -2,6 +2,10 @@
 
 <br>
 
+🔗[Driverless Car System - Python Scripts](OOP_Assignment2_Scripts.md)
+
+<br>
+
 #### Description
 This project implements software to support the operation of a driverless car using OOP principles in Python. It supports three key operations, allowing user interaction through a frontend interface, while the backend simulates data generation and collection. Other required functions like sensors, cameras, and control panels, are assumed to be imported from other subsystems. The corresponding UML diagrams modified in response to feedback, are presented in the **Appendix** for reference.
 
@@ -75,8 +79,6 @@ Sosa, R. & Velazquez, G. (2007) Obstacles detection and collision avoidance syst
 ---
 
 #### Appendix	
-
-🔗[Driverless Car System - Python Scripts](OOP_Assignment2_Scripts.md)
 
 <img src="OOP_Assignment2_UseCase.jpg?raw=true">
 <br><br>
