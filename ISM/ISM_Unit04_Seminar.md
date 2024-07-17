@@ -2,55 +2,37 @@
 
 Activities before Unit 4 seminar.
 
-### Activity 1: DR Terms and Concepts
+## Activity 1: DR Terms and Concepts
 Read [Alhazmi & Malaiya (2013)](ISM_Unit04_SeminarReading1.pdf) and then answer the following questions:
 
-#### RPO (Recovery Point Objective)
-**Definition:** RPO indicates the maximum acceptable amount of data loss measured in time. It determines how much data the organization can afford to lose in case of a disruption.
+### Summary of Recovery Point Objective (RPO) and Recovery Time Objective (RTO)
+ - Critical components of disaster recovery plans.
+ - Define acceptable data loss and system restoration time.
+ - Lower RPO and RTO require advanced and costly solutions.
+ - Balance based on business needs and resources.
+ - Carefully assess RPO and RTO requirement to design effective and cost-efficient disaster recovery solutions.
 
-**Key Points:**
- - **Data Loss Tolerance:** RPO defines the point in time to which data must be recovered after an outage. It answers the question, "How much data can we afford to lose?"
- - **Backup Frequency:** The RPO influences the frequency of backups. A shorter RPO requires more frequent data backups.
- - **Impact on Operations:** A low RPO might necessitate real-time or near-real-time data replication, which can impact operational costs and complexity.
+| **Key Point** | **Recovery Point Objective (RPO)** | **Recovery Time Objective (RTO)**|
+| :--- | :--- | :--- |
+| **Definition** |  Maximum acceptable amount of **data loss** measured in time. | Maximum acceptable amount of **time to restore** business operations after a disaster. |
+| **Importance** | Determines frequency of data backups or replications. | Minimizes downtime. |
+|  | Ensures data loss is within acceptable limits during recovery. | Ensures business continuity. |
+| **Implementation** | Frequent data backups. | Robust disaster recovery solutions. |
+|  | Continuous data replication. | Hot standby systems. |
+|  | Technologies like synchronous replication for near-zero RPO. | Automated failover mechanisms. |
+|  | | Pre-configured recovery environments. |
+| **Complementary Metrics** | Addresses data loss tolerance. | Addresses downtime tolerance. |
 
-#### RTO (Recovery Time Objective)
-Definition: RTO is the maximum acceptable amount of time to restore a system or application after a disaster to avoid significant impacts on business operations.
-
-Key Points:
-
-Downtime Tolerance: RTO defines the time within which the business process must be restored after an outage. It answers the question, "How quickly do we need to recover?"
-Impact on Recovery Strategy: The RTO determines the required speed of recovery operations. A shorter RTO requires faster recovery solutions, which might involve more resources and higher costs.
-Service Continuity: A low RTO ensures that business operations resume swiftly, minimizing the impact on service continuity.
-Comparison:
-RPO: Focuses on data loss (how much data can be lost).
-RTO: Focuses on downtime (how quickly the system must be back up).
-Example:
-Consider a financial company that processes transactions every minute:
-
-RPO: If the company sets an RPO of 5 minutes, it means they can afford to lose up to 5 minutes of data in a disaster. Therefore, they need to back up their data at least every 5 minutes.
-RTO: If the company sets an RTO of 1 hour, it means they need to restore their systems and resume operations within 1 hour of any disruption to avoid significant impact on their business.
 
 #### 1. What is the difference between Hot Standby, Warm Standby and Cold Standby? Frame your answers in terms of availability, RPO and RTO.
 
-### Hot Standby:
-Availability: Highest availability.
-RPO: Near-zero or very low, as data is continuously synchronized.
-RTO: Near-zero or very low, as the system is ready to take over immediately.
-Hot standby refers to a fully operational backup system that receives live updates and can take over instantly in case of a primary system failure. This setup ensures minimal disruption to services.
+| **Mode** | **Availability** | **Cost** | **Recovery Point Objective (RPO)** | **Recovery Time Objective (RTO)**|
+| :--- | :--- | :--- | :--- |
+| **Hot Standby** | Very high, as the backup site is always running and ready to take over immediately. | Most expensive | Quickest failover with low RPO usually close to zero, as data is continuously synchronized. | Minimal, often a few seconds to minutes, since the system is always on standby. |
+| **Warm Standby** | Moderate, as the backup system is partially ready and might require some initialization. | Moderate | Typically a few minutes to hours, depending on the synchronization frequency. | Moderate, ranging from minutes to hours, as some setup and data synchronization might be needed to bring the system online. |
+| **Cold Standby** | Low, as the backup site is not operational until needed. | Least expensive | Up to 24 hours or more, as data synchronization might occur less frequently. | Long, potentially taking several hours to days, since the system needs to be powered on, initialized, and synchronized. |
 
-### Warm Standby:
-Availability: Moderate availability.
-RPO: Low to moderate, with periodic synchronization.
-RTO: Moderate, as the system may require some configuration and data synchronization before it can become fully operational.
-Warm standby involves a backup system that is partially configured and receives periodic updates. It requires some time to become fully operational after a failure.
-
-### Cold Standby:
-Availability: Lowest availability.
-RPO: Highest, with less frequent or no synchronization.
-RTO: Highest, as the system needs to be started and configured from scratch.
-Cold standby refers to a backup system that is not operational and requires significant time to be brought online and made ready to take over.
-
-2. Does the technology deployed affect the options available? For example, can you create a high availability, hot standby solution between two on-premise data centres?
+#### 2. Does the technology deployed affect the options available? For example, can you create a high availability, hot standby solution between two on-premise data centres?
 
 Justify and support your answers with appropriate references from academic journals and sources. Add you answers to your e-portfolio and be prepared to share them in this week’s seminar.
 
