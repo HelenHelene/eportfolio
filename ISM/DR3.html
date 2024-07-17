@@ -6,24 +6,48 @@
     <title>DR Solution 3</title>
     <style>
         .diagram {
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-        }
-        .diagram img {
-            width: 600px;
-            height: auto;
-        }
-        .diagram p {
             text-align: center;
+        }
+        .diagram svg {
+            border: 1px solid #ccc;
+        }
+        .label {
+            font-size: 14px;
             font-weight: bold;
         }
     </style>
 </head>
 <body>
     <div class="diagram">
-        <p>DR Solution 3: RPO=5 mins; RTO=1 hr; High Availability Required</p>
-        <img src="https://via.placeholder.com/600x400" alt="DR Solution 3 Diagram">
+        <p class="label">DR Solution 3: RPO=5 mins; RTO=1 hr; High Availability Required</p>
+        <svg width="600" height="400">
+            <!-- Primary Data Centre -->
+            <rect x="50" y="50" width="200" height="100" fill="#87CEEB" stroke="#000" />
+            <text x="150" y="120" text-anchor="middle" class="label">Primary Data Centre</text>
+
+            <!-- Secondary Data Centre -->
+            <rect x="350" y="50" width="200" height="100" fill="#FFB6C1" stroke="#000" />
+            <text x="450" y="120" text-anchor="middle" class="label">Secondary Data Centre</text>
+
+            <!-- Backup Storage -->
+            <rect x="200" y="250" width="200" height="100" fill="#98FB98" stroke="#000" />
+            <text x="300" y="320" text-anchor="middle" class="label">Backup Storage</text>
+
+            <!-- Arrows -->
+            <line x1="150" y1="150" x2="150" y2="250" stroke="#000" marker-end="url(#arrow)" />
+            <line x1="450" y1="150" x2="450" y2="250" stroke="#000" marker-end="url(#arrow)" />
+            <line x1="250" y1="100" x2="350" y2="100" stroke="#000" marker-end="url(#arrow)" />
+
+            <!-- Load Balancer -->
+            <circle cx="300" cy="100" r="20" fill="#FFD700" stroke="#000" />
+            <text x="300" y="105" text-anchor="middle" class="label">LB</text>
+
+            <defs>
+                <marker id="arrow" markerWidth="10" markerHeight="10" refX="5" refY="5" orient="auto">
+                    <path d="M0,0 L10,5 L0,10 z" fill="#000" />
+                </marker>
+            </defs>
+        </svg>
         <p>
             - Primary Data Centre: Active system.<br>
             - Secondary Data Centre: Hot standby with real-time data replication.<br>
