@@ -53,26 +53,42 @@ Read [Opara-Martins et al (2014)](ISM_Unit04_SeminarReading2.pdf) and [Morrow et
 #### 1. What are some of the main vendor lock-in issues the authors identify? How would you mitigate them?
 
 ### Main Vendor Lock-In Issues:
-1. Proprietary Technologies and APIs: Vendors often use proprietary technologies that are not compatible with other systems.
-2. Data Portability: Difficulty in transferring data from one vendor to another due to proprietary data formats.
-3. High Switching Costs: Substantial costs associated with migrating applications and data to another provider.
-4. Contractual Lock-In: Long-term contracts that make it financially challenging to switch vendors.
+1. **Proprietary Technologies and APIs:** Vendors often use proprietary technologies that are not compatible with other systems.
+2. **Data Portability:** Difficulty in transferring data from one vendor to another due to proprietary data formats.
+3. **High Switching Costs:** Substantial costs associated with migrating applications and data to another provider.
+4. **Contractual Lock-In:** Long-term contracts that make it financially challenging to switch vendors.
 
 ### Mitigations:
-1. Use of Open Standards: Favor vendors that support open standards and APIs to ensure compatibility and ease of migration.
-2. Data Portability Tools: Implement tools and practices that facilitate data export in standardized formats.
-3. Hybrid or Multi-Cloud Strategies: Distribute workloads across multiple cloud providers to avoid dependency on a single vendor.
-4. Negotiating Flexible Contracts: Ensure contracts include exit clauses and provisions for data migration.
+1. **Use of Open Standards:** Favor vendors that support open standards and APIs to ensure compatibility and ease of migration.
+2. **Data Portability Tools:** Implement tools and practices that facilitate data export in standardized formats.
+3. **Hybrid or Multi-Cloud Strategies:** Distribute workloads across multiple cloud providers to avoid dependency on a single vendor.
+4. **Negotiating Flexible Contracts:** Ensure contracts include exit clauses and provisions for data migration.
 
 #### 2. What are some of the security concerns with the modern cloud? How can these be mitigated?
+
+### Security Concerns:
+1. **Data Breaches:** Unauthorized access to sensitive data stored in the cloud.
+2. **Insufficient Identity and Access Management:** Weak user authentication and access controls.
+3. **Insecure APIs:** Vulnerabilities in APIs that can be exploited by attackers.
+4. **Misconfiguration:** Improper configuration of cloud resources leading to security gaps.
+
+### Mitigations:
+1. **Encryption:** Use robust encryption for data at rest and in transit to protect against unauthorized access.
+2. **Multi-Factor Authentication (MFA):** Implement MFA to strengthen identity and access management.
+3. **Secure API Practices:** Regularly audit and secure APIs to protect against exploitation.
+4. **Regular Audits and Monitoring:** Continuously monitor and audit cloud configurations to identify and rectify misconfigurations.
 
 ---
 
 ### Activity 3: DR Solutions Design and Review
 Create a high-level diagram of a DR solution for each of the following requirements. They should be created in PowerPoint, and you should include a basic description of each design.
+
 1. RPO= 1 hr; RTO= 8 hrs; high availability (HA) required.
 2. RPO= 24 hrs; RTO = 72 hrs; HA NOT required.
 3. RPO= 5 mins; RTO= 1 hr; HA required.
+
+![DR Solution 1][]Description:- Primary Data Center: Active with real-time data replication.- Secondary Data Center: Passive hot standby, ready to take over within minutes.- Data Replication: Continuous replication to ensure RPO of 1 hour.- Failover Mechanism: Automated failover process to switch operations within 8 hours.2. RPO= 24 hrs; RTO = 72 hrs; HA NOT Required![DR Solution 2][]Description:- Primary Data Center: Active with daily backups.- Secondary Data Center: Cold standby, powered off until needed.- Data Backup: Daily backups to ensure RPO of 24 hours.- Failover Mechanism: Manual failover process with an RTO of up to 72 hours.3. RPO= 5 mins; RTO= 1 hr; HA Required![DR Solution 3][]Description:- Primary Data Center: Active with real-time data replication.- Secondary Data Center: Hot standby, running in parallel.- Data Replication: Near real-time replication to ensure RPO of 5 minutes.- Failover Mechanism: Automated failover with a target of 1 hour.Add these diagrams and descriptions to your e-portfolio and be prepared to discuss them during the seminar this week.
+
 
 ### Reflections
 xxx 
