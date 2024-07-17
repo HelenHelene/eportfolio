@@ -4,19 +4,32 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>DR Solution 1</title>
+    <style>
+        .diagram {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        .diagram img {
+            width: 600px;
+            height: auto;
+        }
+        .diagram p {
+            text-align: center;
+            font-weight: bold;
+        }
+    </style>
 </head>
 <body>
-    <h2>DR Solution 1</h2>
-    <p><strong>RPO=1 hr; RTO=8 hrs; High Availability Required</strong></p>
-    <div>
-        <h3>Description:</h3>
-        <ul>
-            <li><strong>Primary Data Centre:</strong> Active system.</li>
-            <li><strong>Secondary Data Centre:</strong> Hot standby with real-time data replication.</li>
-            <li><strong>Backup Storage:</strong> Hourly backups to ensure RPO of 1 hour.</li>
-            <li><strong>Load Balancer:</strong> Ensures high availability.</li>
-        </ul>
+    <div class="diagram">
+        <p>DR Solution 1: RPO=1 hr; RTO=8 hrs; High Availability Required</p>
+        <img src="https://via.placeholder.com/600x400" alt="DR Solution 1 Diagram">
+        <p>
+            - Primary Data Centre: Active system.<br>
+            - Secondary Data Centre: Hot standby with real-time data replication.<br>
+            - Backup Storage: Hourly backups to ensure RPO of 1 hour.<br>
+            - Load Balancer: Ensures high availability.
+        </p>
     </div>
-    <img src="https://via.placeholder.com/600x400" alt="DR Solution 1 Diagram">
 </body>
 </html>
