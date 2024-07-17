@@ -1,4 +1,4 @@
-# Unit 4 Seminar – Disaster Recovery (DR) Solutions Design and Review
+# Unit 4 Seminar Exercise – Disaster Recovery (DR) Solutions Design and Review
 
 Activities before Unit 4 seminar.
 
