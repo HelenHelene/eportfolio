@@ -1,10 +1,55 @@
 # Unit 4 Seminar – DR Solutions Design and Review
 
-Attempt all 3 activities before attending this week’s seminar.
+Activities before Unit 4 seminar.
 
 ### Activity 1: DR Terms and Concepts
-Read Alhazmi & Malaiya (2013) and then answer the following questions:
-1. What is the difference between Hot Standby, Warm Standby and Cold Standby? Frame your answers in terms of availability, RPO and RTO.
+Read [Alhazmi & Malaiya (2013)](ISM_Unit04_SeminarReading1.pdf) and then answer the following questions:
+
+#### RPO (Recovery Point Objective)
+**Definition:** RPO indicates the maximum acceptable amount of data loss measured in time. It determines how much data the organization can afford to lose in case of a disruption.
+
+**Key Points:**
+ - **Data Loss Tolerance:** RPO defines the point in time to which data must be recovered after an outage. It answers the question, "How much data can we afford to lose?"
+ - **Backup Frequency:** The RPO influences the frequency of backups. A shorter RPO requires more frequent data backups.
+ - **Impact on Operations:** A low RPO might necessitate real-time or near-real-time data replication, which can impact operational costs and complexity.
+
+#### RTO (Recovery Time Objective)
+Definition: RTO is the maximum acceptable amount of time to restore a system or application after a disaster to avoid significant impacts on business operations.
+
+Key Points:
+
+Downtime Tolerance: RTO defines the time within which the business process must be restored after an outage. It answers the question, "How quickly do we need to recover?"
+Impact on Recovery Strategy: The RTO determines the required speed of recovery operations. A shorter RTO requires faster recovery solutions, which might involve more resources and higher costs.
+Service Continuity: A low RTO ensures that business operations resume swiftly, minimizing the impact on service continuity.
+Comparison:
+RPO: Focuses on data loss (how much data can be lost).
+RTO: Focuses on downtime (how quickly the system must be back up).
+Example:
+Consider a financial company that processes transactions every minute:
+
+RPO: If the company sets an RPO of 5 minutes, it means they can afford to lose up to 5 minutes of data in a disaster. Therefore, they need to back up their data at least every 5 minutes.
+RTO: If the company sets an RTO of 1 hour, it means they need to restore their systems and resume operations within 1 hour of any disruption to avoid significant impact on their business.
+
+#### 1. What is the difference between Hot Standby, Warm Standby and Cold Standby? Frame your answers in terms of availability, RPO and RTO.
+
+### Hot Standby:
+Availability: Highest availability.
+RPO: Near-zero or very low, as data is continuously synchronized.
+RTO: Near-zero or very low, as the system is ready to take over immediately.
+Hot standby refers to a fully operational backup system that receives live updates and can take over instantly in case of a primary system failure. This setup ensures minimal disruption to services.
+
+### Warm Standby:
+Availability: Moderate availability.
+RPO: Low to moderate, with periodic synchronization.
+RTO: Moderate, as the system may require some configuration and data synchronization before it can become fully operational.
+Warm standby involves a backup system that is partially configured and receives periodic updates. It requires some time to become fully operational after a failure.
+
+### Cold Standby:
+Availability: Lowest availability.
+RPO: Highest, with less frequent or no synchronization.
+RTO: Highest, as the system needs to be started and configured from scratch.
+Cold standby refers to a backup system that is not operational and requires significant time to be brought online and made ready to take over.
+
 2. Does the technology deployed affect the options available? For example, can you create a high availability, hot standby solution between two on-premise data centres?
 
 Justify and support your answers with appropriate references from academic journals and sources. Add you answers to your e-portfolio and be prepared to share them in this week’s seminar.
