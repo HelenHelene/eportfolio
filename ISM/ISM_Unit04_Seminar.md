@@ -1,4 +1,4 @@
-# Unit 4 Seminar – DR Solutions Design and Review
+# Unit 4 Seminar – Disaster Recovery (DR) Solutions Design and Review
 
 Activities before Unit 4 seminar.
 
@@ -23,6 +23,7 @@ Read [Alhazmi & Malaiya (2013)](ISM_Unit04_SeminarReading1.pdf) and then answer 
 |  | | Pre-configured recovery environments. |
 | **Complementary Metrics** | Addresses data loss tolerance. | Addresses downtime tolerance. |
 
+<br>
 
 #### 1. What is the difference between Hot Standby, Warm Standby and Cold Standby? Frame your answers in terms of availability, RPO and RTO.
 
@@ -35,6 +36,8 @@ Read [Alhazmi & Malaiya (2013)](ISM_Unit04_SeminarReading1.pdf) and then answer 
 | **Hot Standby** | Very high, as the backup site is always running and ready to take over immediately. | Most expensive | Near-zero or very low, as data is continuously synchronized. | Minimal, often a few seconds to minutes, since the system is always on standby. |
 | **Warm Standby** | Moderate, as the backup system is partially ready and might require some initialization. | Moderate | Typically a few minutes to hours, depending on the synchronization frequency. | Moderate, ranging from minutes to hours, as some setup and data synchronization might be needed to bring the system online. |
 | **Cold Standby** | Low, as the backup site is not operational until needed. | Least expensive | Up to 24 hours or more, as data synchronization might occur less frequently. | Long, potentially taking several hours to days, since the system needs to be powered on, initialized, and synchronized. |
+
+<br>
 
 #### 2. Does the technology deployed affect the options available? For example, can you create a high availability, hot standby solution between two on-premise data centres?
 
@@ -64,6 +67,8 @@ Read [Opara-Martins et al (2014)](ISM_Unit04_SeminarReading2.pdf) and [Morrow et
 3. **Hybrid or Multi-Cloud Strategies:** Distribute workloads across multiple cloud providers to avoid dependency on a single vendor.
 4. **Negotiating Flexible Contracts:** Ensure contracts include exit clauses and provisions for data migration.
 
+<br>
+
 #### 2. What are some of the security concerns with the modern cloud? How can these be mitigated?
 
 ### Security Concerns:
@@ -81,17 +86,46 @@ Read [Opara-Martins et al (2014)](ISM_Unit04_SeminarReading2.pdf) and [Morrow et
 ---
 
 ### Activity 3: DR Solutions Design and Review
-Create a high-level diagram of a DR solution for each of the following requirements. They should be created in PowerPoint, and you should include a basic description of each design.
+Create a high-level diagram of a DR solution for each of the following requirements. 
 
-1. RPO= 1 hr; RTO= 8 hrs; high availability (HA) required.
-2. RPO= 24 hrs; RTO = 72 hrs; HA NOT required.
-3. RPO= 5 mins; RTO= 1 hr; HA required.
+### DR Solution 1
+#### RPO= 1 hr; RTO= 8 hrs; High Availability required.
 
-![DR Solution 1][]Description:- Primary Data Center: Active with real-time data replication.- Secondary Data Center: Passive hot standby, ready to take over within minutes.- Data Replication: Continuous replication to ensure RPO of 1 hour.- Failover Mechanism: Automated failover process to switch operations within 8 hours.2. RPO= 24 hrs; RTO = 72 hrs; HA NOT Required![DR Solution 2][]Description:- Primary Data Center: Active with daily backups.- Secondary Data Center: Cold standby, powered off until needed.- Data Backup: Daily backups to ensure RPO of 24 hours.- Failover Mechanism: Manual failover process with an RTO of up to 72 hours.3. RPO= 5 mins; RTO= 1 hr; HA Required![DR Solution 3][]Description:- Primary Data Center: Active with real-time data replication.- Secondary Data Center: Hot standby, running in parallel.- Data Replication: Near real-time replication to ensure RPO of 5 minutes.- Failover Mechanism: Automated failover with a target of 1 hour.Add these diagrams and descriptions to your e-portfolio and be prepared to discuss them during the seminar this week.
+#### Description:- 
+ - **Primary Data Center:** Active with real-time data replication.
+ - **Secondary Data Center:** Passive hot standby, ready to take over within minutes.
+ - **Backup Storage:** Hourly backups to ensure RPO of 1 hour.
+ - **Failover Mechanism:** Automated failover process to switch operations within 8 hours.
 
+<br>
+
+### DR Solution 2
+#### RPO= 24 hrs; RTO = 72 hrs; High Availability NOT Required
+
+#### Description:- 
+ - **Primary Data Center:** Active with daily backups.
+ - **Secondary Data Center:** Cold standby, powered off until needed.
+ - **Backup Storage:** Daily backups to ensure RPO of 24 hours.
+ - **Failover Mechanism:** Manual failover process with an RTO of up to 72 hours.
+
+<br>
+
+### DR Solution 3
+#### RPO= 5 mins; RTO= 1 hr; High Availability Required
+
+#### Description:- 
+ - **Primary Data Center:** Active with real-time data replication.
+ - **Secondary Data Center:** Hot standby, running in parallel.
+ - **Backup Storage:** Near real-time replication to ensure RPO of 5 minutes.
+ - **Failover Mechanism:** Automated failover with a target of 1 hour.
+
+---
 
 ### Reflections
-xxx 
+This unit emphasized the necessity of a well-rounded approach to disaster recovery, integrating both load balancers and failover mechanisms to achieve comprehensive resilience. Load balancers optimize resource use under normal conditions, while failover mechanisms ensure service continuity during failures. Understanding and implementing these concepts is critical for developing robust DR strategies that align with business requirements and minimize operational risks.
+
+Overall, these activities have enhanced my ability to analyze, design, and implement effective DR solutions, equipping me with the knowledge to manage and mitigate risks in information systems effectively. The insights gained will be invaluable in my future endeavors, ensuring that I can contribute to building resilient and reliable IT infrastructures.
+
 <br><br>
 
 ---
