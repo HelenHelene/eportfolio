@@ -10,7 +10,7 @@ The module includes three assignments. The first assignment requires us to condu
 [Pampered Pets - A Report by a Security and Risk Management Consultant](ISM_A1.md)
 	
 #### Assignment 2: Executive Summary and App Presentation _(In Progress)_
-[Executive Summary and Presentation on Python Application](ISM_A2.md)
+[README - Attack Tree Visualization Application](ISM_A2.md)
 
 #### Assignment 3: Individual Reflection _(In Progress)_
 [Individual Reflection](ISM_A3.md)
