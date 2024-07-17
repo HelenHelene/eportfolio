@@ -17,6 +17,8 @@ As part of my e-portfolio, I completed the assigned activities which are documen
 
 [Collaborative Wiki Development - Security Frameworks](ISM_Unit04_Wiki.md)
 
+[Disaster Recovery (DR) Solutions Design and Review](ISM_Unit04_Seminar.md)
+
 [Optional Activity - GDPR Case Studies](ISM_Unit04_GDPR.md)
 
 ### Reflections
