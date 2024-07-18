@@ -1,16 +1,13 @@
 # Unit 5: Future Trends in Security and Risk Management
 
-Welcome to Week 5 where we will review current and emerging trends in security and risk management. We will examine trends and inputs from several areas including economic theory, AI and automation.
+In Unit 5, we focused on reviewing current and emerging trends in security and risk management (SRM). We examined trends and inputs from several areas, including economic theory, AI, and automation. This unit provided a comprehensive understanding of how these trends influence the future directions of SRM.
 
-This week we shall:
- - Review a number of current and emerging trends in SRM.
- - Discuss the pros and cons of each trend.
- - Evaluate each trend in respect of its influence on future directions.
-On completion of this unit, you will be able to:
- - Describe the main emerging trends in the field.
- - Explain their potential impact on research.
- - Recommend which you think will be most influential.
-This unit reviews current and emerging trends in the SRM field and provides material to help students evaluate their potential impact.
+### Learning Outcomes:
+This unit was essential in understanding the importance of staying updated with emerging trends and their potential impacts on the field of security and risk management. By the end of this unit, I achieved the following learning outcomes:
+
+ - Emerging Trends Knowledge: I can describe the main emerging trends in the field of SRM.
+ - Impact on Research: I can explain the potential impact of these trends on research.
+ - Trend Influence: I can recommend which trends I think will be most influential in the future.
 
 ### Artefacts 
 As part of my e-portfolio, I completed the assigned activity as shown below:
@@ -19,10 +16,10 @@ As part of my e-portfolio, I completed the assigned activity as shown below:
 
 
 ### Reflections
-xxxx
+Unit 5 was an enlightening experience, providing deep insights into the future trends in security and risk management. One of the key takeaways was the importance of staying updated with emerging trends such as AI and automation, and understanding how these trends can reshape SRM practices. I explored various trends like AI, automation, and economic influences on SRM, which helped me appreciate the dynamic nature of the field and the need for continuous learning. Discussing the pros and cons of each trend provided a balanced view, enabling me to critically assess their potential impacts. Evaluating how these trends will shape the future of SRM highlighted the importance of strategic foresight and adaptability.
 
 ### Professional Skills Matrix and Action Plan
-xxxx
+To build on the knowledge and skills acquired in Unit 5, I plan to stay informed by regularly reviewing industry reports and research papers on emerging trends in SRM and participating in webinars, workshops, and conferences focused on future SRM technologies and methodologies. I aim to enhance my skills by pursuing advanced training in AI and automation as they relate to SRM and developing skills in economic analysis to better understand the financial impacts of security risks. I will implement my learnings by integrating emerging trends into SRM practices at my organization and advocating for the adoption of AI and automation tools to enhance security measures and risk management processes. Additionally, I will foster a forward-thinking culture by encouraging my team to stay updated with the latest trends and innovations in SRM and promoting a culture of continuous learning and adaptability to prepare for future challenges.
 
 <br><br>
 
