@@ -30,28 +30,28 @@ Figure 1: Threats of Pre-digitalisation and Post-digitalisation
 4.	Save the provided JSON files as pre_digitalisation.json and post_digitalisation.json in the same directory as your Python script.
 5.	Execute the attack_tree.py script.
    
-   <img src="ISM_A2_Execute.jpg" alt="Execute" width="400"/>
+     <img src="ISM_A2_Execute.jpg" alt="Execute" width="400"/>
 
 6.	The application will open a series of dialogs asking for input values for each leaf node.  Enter the values as prompted.
    
-   <img src="ISM_A2_Input.jpg" alt="Input" width="300"/>
+     <img src="ISM_A2_Input.jpg" alt="Input" width="300"/>
 
 7.	After entering all values, the script will display the total aggregated value and create HTML files for visualizing the attack trees:
     
-   <img src="ISM_A2_Output1.jpg" alt="Agreegate value" width="300"/>
+     <img src="ISM_A2_Output1.jpg" alt="Agreegate value" width="300"/>
 
-   <img src="ISM_A2_Output2.jpg" alt="Visualization" width="400"/>
+     <img src="ISM_A2_Output2.jpg" alt="Visualization" width="400"/>
  
-8.	The HTML files will be saved in the same directory where you run the Python script. Ensure you know the path to this directory.
-
-   <img src="ISM_A2_Output3.jpg" alt="HTML files" width="300"/>
+8.	The HTML files will be saved in the same directory where you run the Python script.
+   Ensure you know the path to this directory.
+  	  <img src="ISM_A2_Output3.jpg" alt="HTML files" width="250"/>
 
 9. Open the HTML files in a web browser to view the attack tree before and after user inputs.
 
 #### Input
 1.	**JSON files:** The application accepts an attack tree specification in JSON format. The JSON structure should define the hierarchy of nodes and their relationships (Figure 2 and Figure 3).
    
-    Figure 2: JSON input specification of Pre-digitalisation	
+     Figure 2: JSON input specification of Pre-digitalisation	
 
     <img src="ISM_A2_Json1.jpg" alt="Json file" width="300"/>
 
