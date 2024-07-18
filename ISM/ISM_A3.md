@@ -1,5 +1,3 @@
-
-
 ### [Assignment 3: Individual Reflective Piece](ISM_A3_Reflection.pdf)
 
 <br>
@@ -45,23 +43,22 @@ The knowledge and skills developed during this module, such as conducting networ
 
 | **Skills** |	**Detail** |	**Competence** |	**Evidence** |
 | :--------- |	:--------- |	:-----------  |	:------------ |
-| **Time Management**	| Managing time to meet deadlines and balance workload. | ⚫⚫⚫🔘	| Successfully completed assignments on time during staggered module periods. |
-| **Critical Thinking and Analysis** |	Evaluating information to make well-informed decisions and solve problems | ⚫⚫🔘🔘 |	Applied critical thinking in project evaluations and literature reviews. |
-| **Communication and Literacy Skills**	| Discussion and idea presentation	|	⚫⚫⚫🔘	| Participated in collaborative discussions, created a baseline analysis and plan, and issued an executive summary report. |
-| **IT and Digital**	| Discover various scanning tools and platforms	| ⚫🔘🔘🔘	| Used Burp Suite and other tools to complete the scanning activity. |
-| **Numeracy** | Discover various scanning tools and platforms	| ⚫🔘🔘🔘	| Used Burp Suite and other tools to complete the scanning activity. |
-| **Research**	| Conducting literature reviews and applying findings	| ⚫⚫🔘🔘	| Conducted vulnerability analysis literature review for assignments. |
-| **Interpersonal**	| Reflecting on experiences to identify strengths, weaknesses, and areas for improvement | ⚫⚫🔘🔘	| Record all artifacts in the e-portfolio with reflections and learning outcomes. |
-| **Problem-Solving** |	Developing and implementing effective strategies to resolve issues	|	⚫⚫⚫🔘	| Looked for alternative solutions when the existing resource could not complete the activity requirement. |
-| **Ethical Awareness** |	Reflecting on ethical implications of security practices	| 	⚫⚫⚫🔘	| Studied GDPR and WCAG, which enhanced my awareness of data protection and the importance of accessibility for websites. |
+| **Time Management**	| Managing time to meet deadlines and balance workload. | ⚫⚫⚫⚫	| Completed assignments on time despite high workload during module period. |
+| **Critical Thinking and Analysis** |	Evaluating information to make decisions | ⚫⚫⚫🔘 |	Applied critical thinking in risk assessments and chose the most suitable threat modeling for the assignment case study. |
+| **Communication and Literacy Skills**	| Discussion and idea presentation	|	⚫⚫⚫🔘	| Participated in collaborative discussions, created risk identification report, developed attack tree visualization application, and maintained an e-portfolio. |
+| **IT and Digital**	| Discover various IDE and and python libraries	| ⚫⚫🔘🔘	| Learned Visual Studio Code and used PyVis, NetworkX, and Tkinter to complete the attack tree visualization. |
+| **Research**	| Conducting literature reviews	| ⚫⚫🔘🔘	| Conducted research on OCTAVE-S, GDPR, and security frameworks for assignments. |
+| **Interpersonal**	| Reflecting on experiences to improve | ⚫⚫⚫🔘	| Maintained an e-portfolio with reflections and learning outcomes for each unit in ISM. |
+| **Problem-Solving** |	Developing and implementing strategies		|	⚫⚫⚫🔘	| Found alternative solutions when existing resources could not meet assignment requirements. For example, explored a new IDE for a Python script assignment. |
+| **Ethical Awareness** |	Reflecting on ethical implications	| 	⚫⚫⚫🔘	| Analyzed GDPR CCTV case study, enhancing awareness of data protection and privacy issues. |
 
 **<ins>Action Plan</ins>**
 
 Moving forward, I aim to continue enhancing my skills in information security management by:
- - **Engaging with Advanced Topics:** Exploring advanced topics in network security and data protection.
- - **Practical Application:** Applying the knowledge gained to real-world projects, particularly in my current role.
- - **Continuous Learning:** Staying updated with the latest tools and techniques in network security through continuous education and professional development.
- - **Ethical Practices:** Implementing ethical considerations and best practices in all security-related projects.
+ - **Engaging with Advanced Topics:** Exploring advanced topics in data protection, GDPR compliance, and related frameworks.
+ - **Practical Application:** Applying the knowledge gained to real-world projects in my current role as a DPO, particularly focusing on GDPR compliance and data protection strategies.
+ - **Continuous Learning:** Staying updated with the latest tools and techniques in information security through continuous education, professional development, and obtaining further certifications like ISO/IEC 27001 Lead Auditor and CIPP/E.
+ - **Ethical Practices:** Implementing ethical considerations and best practices in all data protection and compliance projects, ensuring robust adherence to GDPR and other relevant regulations.
 
 #### Conclusion
 In summary, the ISM module has been a transformative experience. It has equipped me with essential technical skills, fostered a deeper understanding of reflective practice, and significantly impacted my professional and personal development. Reflecting on this journey has been enlightening, helping me to consolidate my learnings and prepare for future challenges. The experiences and insights gained will undoubtedly serve as a strong foundation for my ongoing growth and success in the field of information security management.
