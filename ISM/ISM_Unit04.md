@@ -1,16 +1,13 @@
 # Unit 4: Security Standards, Frameworks and Disaster Recovery
 
-Welcome to Week 4 where we will look at another crucial aspect of Security and Risk Management – industry and enterprise security standards. This module will discuss the role of standards in risk assessments and security designs and will also discuss some of the implications of standards for business continuity and disaster recovery.
+In Unit 4, we delved into the crucial aspects of industry and enterprise security standards. We explored the role of these standards in risk assessments and security designs, and discussed their implications for business continuity and disaster recovery. We covered industry-specific security standards and directives, how these standards impact security and risk assessments, and various approaches to disaster recovery, including DR as a Service (DRaaS).
 
-This week we shall:
- - Explore industry specific security standards and directives.
- - Discuss how standards affect security and risk assessments.
- - Review approaches to disaster recovery and DR as a Service (DRaaS).
+### Learning Outcomes
+This unit was fundamental in understanding the importance of security standards, frameworks, and disaster recovery solutions in the context of security management. By the end of this unit, I achieved the following learning outcomes:
 
-On completion of this week, you will be able to:
- - List common security standards and select the appropriate one(s) for a given situation.
- - Describe how to design and create DR solutions.
-This unit describes the key roles that risk assessment, management and security standards play in security management and DR planning.
+ - Security Standards Knowledge: I can list common security standards and select the appropriate ones for a given situation.
+ - Disaster Recovery Solutions: I can describe how to design and create disaster recovery (DR) solutions.
+ - Role of Standards in Security Management: I understand the key roles that risk assessment, management, and security standards play in security management and DR planning.
 
 ### Artefacts 
 As part of my e-portfolio, I completed the assigned activities which are documented in the provided link:
