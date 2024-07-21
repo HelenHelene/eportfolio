@@ -3,34 +3,34 @@
 <br>
 
 #### Introduction
-Reflecting on my journey through the Information Security Management (ISM) module of my MSc in Computer Science, I feel both challenged and enriched. This module has not only improved my technical skills but also significantly impacted my professional and personal development. As a Data Protection Officer (DPO) who is deeply interested in GDPR compliance and frameworks, the knowledge gained from this module is invaluable to me.
+This reflection discusses my experiences and learning outcomes from the Information Security Management (ISM) module in my MSc in Computer Science. The module enhanced my technical proficiency and contributed to professional and personal growth. As a Data Protection Officer (DPO) interested in GDPR compliance, the knowledge gained has immense practical value.
 
 #### Summary of Learning Outcomes
-Throughout this module, I explored various aspects of information security management, including legal, social, ethical, and professional issues faced by information security and risk professionals. The module covered techniques for scanning, evaluating, and mitigating network vulnerabilities, providing a solid understanding of vulnerability assessment basics, especially in web applications. Key assignments included conducting a risk assessment and developing a Python application to visualize and evaluate attack trees.
+The ISM module explored information security management's legal, social, ethical, and professional dimensions. We learned techniques for threat modeling, risk assessment, and mitigation. The two main assignments, Risk Identification Report and developing  Python application for Attack Tree Visualization, applied theoretical concepts practically.
 
 #### Assignment 1: Risk Identification Report
-The first assignment required a comprehensive risk assessment for Pampered Pets, evaluating both pre-digitalization and post-digitalization threats. This assignment taught me how to analyze network vulnerabilities in detail and develop a comprehensive plan for assessment. I utilized the OCTAVE-S method, which is tailored for small organizations, to identify and mitigate risks effectively. The assignment also provided me with a deeper understanding of the critical assets, threat profiles, and mitigation strategies necessary to protect an organization’s data during a digital transformation.
+The first assignment involved conducting comprehensive [risk assessment for Pampered Pets](ISM_A1.md), considering both pre- and post-digitalization threats. Using the OCTAVE-S method, I honed my skills in identifying and evaluating potential risks, gaining insights into mitigating these risks. This assignment deepened my understanding of critical assets, threat profiles, and strategies for safeguarding organizational data.
 
-#### Assignment 2: Attack Tree Visualization Application
-The second assignment involved developing a Python application to visualize and evaluate attack trees. This assignment was particularly challenging as I had no prior experience with Python visualization tools. I conducted extensive research to familiarize myself with various packages and libraries, including PyVis, NetworkX, and Tkinter. I also learned to use Visual Studio Code, a user-friendly IDE that I plan to continue using throughout my MSc journey. Creating the attack tree visualization not only honed my programming skills but also enhanced my ability to present complex security concepts in an easily understandable format.
+#### Assignment 2: Attack Tree Visualization Application 
+The second assignment required developing [Python application to visualize and evaluate attack trees](ISM_A2.md). With no prior experience in Python visualization tools, I researched libraries like PyVis, NetworkX, and Tkinter. Unlike the previous module, this one did not provide Codio training and an Integrated Development Environment (IDE) for our coding assignment. Therefore, I self-learned and utilized Visual Studio Code (VS Code), which I intend to continue using. This assignment pushed me beyond the provided learning resources, refining my programming abilities and equipping me with the skills to present complex security concepts clearly.
 
-#### Unit 1: Introduction to Security and Risk Management
-This unit provided a solid introduction to security and risk management. Learning about different definitions and concepts of risk helped me understand the complexity of managing risks. The structured approach to the risk management process was particularly useful, allowing me to apply theoretical knowledge to practical scenarios.
+#### Unit 1: Introduction to Security and Risk Management 
+Unit 1 provided a foundation in security and risk management basics. We discussed various definitions and concepts of risk, enhancing my understanding of the complexities involved. Real-world discussions, like those on data privacy and security risks at UnitedHealth Group and Boeing 737 MAX, highlighted the importance of effective risk management. [Collaborative Discussion](ISM_Unit01_Disscussion.pdf).
 
 #### Unit 2: Threat Modelling Exercises
-In Unit 2, we delved into the risk management process (RMP) and engaged in threat modelling and management activities. This unit was pivotal as it introduced me to threat modelling, a fundamental skill for both cybersecurity and development teams. The collaborative discussions and exercises significantly enhanced my understanding of threat modelling tools and their applications.
+In Unit 2, we focused on threat modeling and management. I selected large international bank for [Threat Modeling Exercises](ISM_Unit02_Seminar.md), improving my understanding of tools like STRIDE, DREAD, OWASP, and the ATT&CK framework. Applying these tools in realistic scenarios helped me grasp their practical applications.
 
 #### Unit 3: Introduction to Threat Modelling and Management
-This unit focused on various approaches to threat modelling, including STRIDE, DREAD, and attack trees. It significantly enhanced my understanding of how to assess and manage risks effectively. The research on GDPR, PCI Security Standards, and HIPAA provided a solid foundation for understanding regulatory requirements and their implications for digital security.
+[Security Standards Exercise](ISM_Unit03_Exercise.md) where we researched regulations like GDPR, PCI Security Standards, and HIPAA. We applied this knowledge to Pampered Pets, building my understanding of how regulations impact digital security.
 
 #### Unit 4: Security Standards, Frameworks, and Disaster Recovery
-As a DPO with a PECB ISO/IEC 27001 Foundation certification, this unit is my favorite one which was particularly relevant to my role. It emphasized the importance of industry-specific security standards, risk assessments in security designs, and effective disaster recovery strategies. The collaborative Wiki activities highlighted the practical aspects of implementing security frameworks to different organizations like an international bank, a large hospital, and a large food manufacturing factory, teaching me how to choose the right framework based on industry needs and regulations. The GDPR case studies, particularly the CCTV case, are directly applicable to my job role as I am currently establishing a Data Protection Policy for CCTV monitoring for my company. Coincidentally, I am currently reviewing the emergency plan for IT infrastructure and discussing the maximum tolerable system downtime of my company. The knowledge I gained from the activity Disaster Recovery (DR) Solutions Design and Review provided me with the necessary insights to go deeper into this topic with our head of IT department of headquarters.
+As a DPO with PECB ISO/IEC 27001 Foundation certification , this unit was my favorite and particularly relevant. [Collaborative Wiki](ISM_Unit04_Wiki.md) taught me how to choose the right framework based on an organization’s needs and regulations. [GDPR CCTV case studies](ISM_Unit04_GDPR.md) directly related to my job, aiding in creating a Data Protection Policy for CCTV monitoring. The [Disaster Recovery Solutions Design and Review activity](ISM_Unit04_Seminar.md)) was timely, coinciding with discussions on system downtime tolerance with our headquarters IT department.
 
-#### Unit 5: Future Trends in Security and Risk Management
-This unit reviewed current and emerging trends in security and risk management. It provided insights into the impact of trends such as AI and automation on the future of information security. The collaborative wiki development and debates on the most influential trends were particularly enriching.
+#### Unit 5 and 6: Future Trends in ISM
+The final units focused on future trends in information security management, including AI and automation. [Collaborative Wiki](ISM_Unit05_Wiki.md) and debates on impactful trends highlighted the evolving landscape of ISM.
 
 #### Professional Skills Matrix and Action Plan (PDP)
-The knowledge and skills developed during this module, such as conducting network vulnerability assessments, drafting assessment reports, and understanding GDPR and WCAG compliance, are invaluable. Specifically, GDPR compliance is directly transferable to real-world scenarios in my current role as a DPO. The ability to issue an assessment report makes it easier to communicate between top management and information technology teams.
+This module significantly improved my professional skills. I am now better at threat modeling, writing assessment reports, and understanding GDPR, essential for my role as DPO. Clear communication of risk assessments has enhanced interactions between management and IT teams.
 
 **<ins>Professional Skills Matrix</ins>**
 
@@ -41,27 +41,26 @@ The knowledge and skills developed during this module, such as conducting networ
 |	⚫⚫🔘🔘 _Some Competence_	|	✖️ _Not relevant_ |
 
 
-| **Skills** |	**Detail** |	**Competence** |	**Evidence** |
-| :--------- |	:--------- |	:-----------  |	:------------ |
-| **Time Management**	| Managing time to meet deadlines and balance workload. | ⚫⚫⚫⚫	| Completed assignments on time despite high workload during module period. |
-| **Critical Thinking and Analysis** |	Evaluating information to make decisions | ⚫⚫⚫🔘 |	Applied critical thinking in risk assessments and chose the most suitable threat modeling for the assignment case study. |
-| **Communication and Literacy Skills**	| Discussion and idea presentation	|	⚫⚫⚫🔘	| Participated in collaborative discussions, created risk identification report, developed attack tree visualization application, and maintained an e-portfolio. |
-| **IT and Digital**	| Discover various IDE and and python libraries	| ⚫⚫🔘🔘	| Learned Visual Studio Code and used PyVis, NetworkX, and Tkinter to complete the attack tree visualization. |
-| **Research**	| Conducting literature reviews	| ⚫⚫🔘🔘	| Conducted research on OCTAVE-S, GDPR, and security frameworks for assignments. |
-| **Interpersonal**	| Reflecting on experiences to improve | ⚫⚫⚫🔘	| Maintained an e-portfolio with reflections and learning outcomes for each unit in ISM. |
-| **Problem-Solving** |	Developing and implementing strategies		|	⚫⚫⚫🔘	| Found alternative solutions when existing resources could not meet assignment requirements. For example, explored a new IDE for a Python script assignment. |
-| **Ethical Awareness** |	Reflecting on ethical implications	| 	⚫⚫⚫🔘	| Analyzed GDPR CCTV case study, enhancing awareness of data protection and privacy issues. |
+| **Skills** |	**Competence** |	**Evidence** |
+| :--------- |	:-----------  |	:------------ |
+| **Time Management**	| ⚫⚫⚫⚫	| Completed assignments on time despite a busy working schedule during the module. |
+| **Critical Thinking and Analysis** | ⚫⚫⚫🔘 |	Used critical thinking in risk assessments and chose the best threat modeling approach for the case study. |
+| **Communication and Literacy**	|	⚫⚫⚫🔘	| Participated in collaborative discussions, created risk identification report and developed attack tree visualization application. |
+| **IT and Digital**		| ⚫⚫🔘🔘	| Self-learned VS Code and used PyVis, NetworkX, and Tkinter to complete the attack tree visualization. |
+| **Research**	| ⚫⚫🔘🔘	| Researched OCTAVE-S, GDPR, and relevant security frameworks for different assignments. |
+| **Interpersonal**	|  ⚫⚫⚫🔘	| Kept an e-portfolio with reflections and key takeaways for each ISM unit. |
+| **Problem-Solving** |	⚫⚫⚫🔘	| Explored and used a new IDE for Python assignment when existing resources were not enough. |
+| **Ethical Awareness** |	⚫⚫⚫🔘	| Analyzed the GDPR CCTV case study, increasing awareness of data protection and privacy issues. |
 
 **<ins>Action Plan</ins>**
-
-Moving forward, I aim to continue enhancing my skills in information security management by:
- - **Engaging with Advanced Topics:** Exploring advanced topics in data protection, GDPR compliance, and related frameworks.
- - **Practical Application:** Applying the knowledge gained to real-world projects in my current role as a DPO, particularly focusing on GDPR compliance and data protection strategies.
- - **Continuous Learning:** Staying updated with the latest tools and techniques in information security through continuous education, professional development, and obtaining further certifications like ISO/IEC 27001 Lead Auditor and CIPP/E.
- - **Ethical Practices:** Implementing ethical considerations and best practices in all data protection and compliance projects, ensuring robust adherence to GDPR and other relevant regulations.
+ - **Exploring Advanced Topics:** Further study in advanced data protection, GDPR compliance, and related frameworks.
+ - **Practical Application:** Applying new knowledge in my role, particularly in GDPR compliance and data protection.
+ - **Continuous Learning:** Staying updated on the latest tools and techniques in information security through ongoing education, professional development, and certifications like ISO/IEC 27001 Lead Auditor.
+ - **Ethical Practices:** Ensuring all data protection and compliance projects adhere to ethical guidelines and best practices.
+ - **Dissertation Topic:** Considering focusing on compliance and framework development for specific digitalization use cases as my dissertation topic.
 
 #### Conclusion
-In summary, the ISM module has been a transformative experience. It has equipped me with essential technical skills, fostered a deeper understanding of reflective practice, and significantly impacted my professional and personal development. Reflecting on this journey has been enlightening, helping me to consolidate my learnings and prepare for future challenges. The experiences and insights gained will undoubtedly serve as a strong foundation for my ongoing growth and success in the field of information security management.
+This module has been a transformative learning experience. Practical applications through assignments and real-world case studies solidified my understanding of complex security concepts and equipped me with valuable skills directly applicable to my role as a DPO. The insights gained into GDPR compliance and security framework implementation are actively applied in my professional work. I look forward to continuing to expand my expertise and contribute to the evolving field of information security.
 
 <br><br>
 
@@ -70,7 +69,7 @@ In summary, the ISM module has been a transformative experience. It has equipped
 #### Reference
 Di Silvestro, F. & Nadir, H. (2021) The Power of ePortfolio Development to Foster Reflective and Deeper Learning in an Online Graduate Adult Education Program. Adult Learning 32(4):154-164. 
 
-Rewo. (2024) What is a skills matrix. Available from: https://www.rewo.io/skills-matrix-for-manufacturing/ [Accessed 8 June 2024]. 
+Rewo. (2024) What is a skills matrix. Available from: https://www.rewo.io/skills-matrix-for-manufacturing/ [Accessed 21 July 2024]. 
 
 University of Essex Online. (2024) University of Essex Online Writing Guide Series – A short guide to Reflective Writing.  Essex: University of Essex Online.
 
