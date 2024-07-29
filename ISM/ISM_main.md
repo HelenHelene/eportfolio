@@ -9,10 +9,10 @@ The module includes three assignments. The first assignment requires us to condu
 #### Assignment 1: Risk Identification Report _(🎓Pass with Distinction)_
 [Pampered Pets - A Report by a Security and Risk Management Consultant](ISM_A1.md)
 	
-#### Assignment 2: Executive Summary and App Presentation _(In Progress)_
+#### Assignment 2: Executive Summary and App Presentation _(🎓Pass with Distinction)_
 [README - Attack Tree Visualization Application](ISM_A2.md)
 
-#### Assignment 3: Individual Reflection _(In Progress)_
+#### Assignment 3: Individual Reflection _(🎓Pass with Distinction)_
 [Individual Reflection](ISM_A3.md)
 
 The units presented below serve as a compilation of evidence, showcasing the work accomplished in this module and documenting the learning journey.
