@@ -11,14 +11,14 @@ The second assignment requires students to present to stakeholders, providing a 
 Lastly, we are expected to submit an e-Portfolio, gathering evidence of work and submitting a reflective piece on personal development throughout the module.
 
 #### Assignment 1: Development Team Project _(Work in progress)_
-[Project Report](SEPM_Assignment1.md)
-[Peer Review Submission]
+[Project Report](SEPM_A1.md)
+[Peer Review Submission](SEPM_A1_PeerReviewForm.pdf)
 	
 #### Assignment 2: Development Individual Project _(Work in progress_
-[Presentation](SEPM_Assignment2.md)
+[Presentation](SEPM_A2.md)
 
 #### Assignment 3: Individual Module e-Portfolio _(Work in progress)_
-[Final Reflection](SEPM_Assignment3.md)
+[Final Reflection](SEPM_A3.md)
 
 The units presented below serve as a compilation of evidence, showcasing the work accomplished in this module and documenting the learning journey.
 
