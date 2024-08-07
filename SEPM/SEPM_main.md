@@ -1,33 +1,52 @@
 # Module 5 Software Engineering Project Management
 
-## This can be your internal website page / project page
+In this module, we explore what it means to be a Project Manager in software engineering. We examine the relationships between the Project Manager and stakeholders, ensuring the triple constraints of project management are balanced without accruing technical debt. From a practical perspective, we consider how to respond to customer needs using test-driven and behavior-driven development. We identify and apply appropriate methodologies, tools, and techniques for developing solutions to real-world problems.
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+We explore the implications of computer and network architectures for system-level design, focusing on risk and quality management. We design, develop, and evaluate management systems to handle constraints and uncertainties, incorporating BDD concepts and secure coding practices. Students systematically develop skills to be effective team members in a virtual environment, adopting real-life perspectives on roles and team organization.
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+There are three assignments in this module. In the first assignment, we participate in the team submission and individual peer assessment. For the team submission, we need to develop a proposal detailing a suitable development methodology, requirements, development plan, milestones, deliverables, and estimated costs.
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+The second assignment requires students to present to stakeholders, providing a status update, plan, and budget to address challenges from the first assignment.
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+Lastly, we are expected to submit an e-Portfolio, gathering evidence of work and submitting a reflective piece on personal development throughout the module.
 
-### 2. Assess assumptions on which statistical inference will be based
+#### Assignment 1: Development Team Project _(Work in progress)_
+[Project Report](SEPM_Assignment1.md)
+[Peer Review Submission]
+	
+#### Assignment 2: Development Individual Project _(Work in progress_
+[Presentation](SEPM_Assignment2.md)
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+#### Assignment 3: Individual Module e-Portfolio _(Work in progress)_
+[Final Reflection](SEPM_Assignment3.md)
 
-### 3. Support the selection of appropriate statistical tools and techniques
+The units presented below serve as a compilation of evidence, showcasing the work accomplished in this module and documenting the learning journey.
 
-<img src="https://helenhelene.github.io/eportfolio/images/ModuleOutline.jpg" alt="ModuleOutline" style="height: 230px; width:544px;"/>
+#### [Unit 1: Introduction to Software Engineering Project Management](SEPM_Unit01.md)
 
-### 4. Provide a basis for further data collection through surveys or experiments
+#### [Unit 2: Study: Why Projects Fail and Gathering Requirements Exercise](SEPM_Unit02.md)
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+#### [Unit 3: Estimating, Planning and Risk](SEPM_Unit03.md)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+#### [Unit 4: Estimating Tools and Risk Assessment](SEPM_Unit04.md)
+
+#### [Unit 5: User Experience](SEPM_Unit05.md)
+
+#### [Unit 6: pytest and Test-Driven Development](SEPM_Unit06.md)
+
+#### [Unit 7: Software Development Life Cycles](SEPM_Unit07.md)
+
+#### [Unit 8: Python Data Structures](SEPM_Unit08.md)
+
+#### [Unit 9: Quality Management Strategy](SEPM_Unit09.md)
+
+#### [Unit 10: Software Quality Monitoring in Python](SEPM_Unit10.md)
+
+#### [Unit 11: Software Engineering Project Management: Future Trends](SEPM_Unit11.md)
+
+#### [Unit 12: The Case for the Future Direction of Software Engineering Project Management](SEPM_Unit12.md)
+<br>
+
+📑 **You may also refer to the [List of Artefacts](SEPM_ArtefactsSummary.md) for quick access to all artefacts.**
+
+---
