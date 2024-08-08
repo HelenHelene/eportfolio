@@ -15,7 +15,7 @@ As part of my e-portfolio, I have completed the following activities and activel
 
 Collaborative Discussion 1 - Project Failures Study-Respond to peers: [Respond 1](SEPM_Unit02_Respond1.pdf) & [Respond 2](SEPM_Unit02_Respond2.pdf)
 
-[Requirements Gathering](SEPM_Unit02_Seminar)
+[Requirements Gathering](SEPM_Unit02_Seminar.md)
 
 ### Reflections
 ...
