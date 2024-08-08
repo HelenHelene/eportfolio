@@ -1,6 +1,6 @@
 # Exercise: Security Standards
 
-### Introduction
+## Introduction
 This exercise is reading the [Behaviour Driven Development (2020) pages](https://behave.readthedocs.io/en/stable/philosophy.html#the-gherkin-language) and then use the Gherkin language to create a Gherkin sequence that addresses ONE of the following examples:
  - Using a new coffee making machine.
  - Interfacing with a new SatNav system.
@@ -10,7 +10,7 @@ This exercise is reading the [Behaviour Driven Development (2020) pages](https:/
 
 The response should consist of at least three scenarios describing different roles such as administrator, user, driver and so on.  
 
-### Getting familiar with a new vehicle
+## Getting familiar with a new vehicle
 **Scenario:** Driver starts the vehicle <br>
     **Given** the driver has the vehicle key <br>
     **When** the driver inserts the key into the ignition <br>
@@ -27,15 +27,16 @@ The response should consist of at least three scenarios describing different rol
     **When** the administrator accesses the auto drive settings <br>
     And connects the system to the internet <br>
     **Then** the auto drive system should be updated with the latest software <br>
-   
-### Reflections
+
+  
+## Reflections
 ...
 
 <br><br>
 
 ---
 
-### Reference
+## Reference
 Rice, B. et al. (n.d.) Behavior Driven Development. Available from: https://behave.readthedocs.io/en/stable/philosophy.html#the-gherkin-language
 
 <br><br>
