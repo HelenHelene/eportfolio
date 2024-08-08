@@ -11,22 +11,22 @@ This exercise is reading the [Behaviour Driven Development (2020) pages](https:/
 The response should consist of at least three scenarios describing different roles such as administrator, user, driver and so on.  
 
 ### Getting familiar with a new vehicle
-**Scenario:** Driver starts the vehicle
-    **Given** the driver has the vehicle key
-    **When** the driver inserts the key into the ignition
-    And turns the key
-    **Then** the vehicle should start
+**Scenario:** Driver starts the vehicle <br>
+    **Given** the driver has the vehicle key <br>
+    **When** the driver inserts the key into the ignition <br>
+    And turns the key <br>
+    **Then** the vehicle should start <br>
 
-  **Scenario: Passenger adjusts the seat**
-    **Given** the passenger is seated in the vehicle
-    **When** the passenger uses the seat adjustment controls
-    **Then** the seat should move to the desired position
+  **Scenario: Passenger adjusts the seat** <br>
+    **Given** the passenger is seated in the vehicle <br>
+    **When** the passenger uses the seat adjustment controls <br>
+    **Then** the seat should move to the desired position <br>
 
-  **Scenario: Administrator sets up the vehicle's infotainment system**
-    **Given** the administrator has access to the vehicle
-    **When** the administrator accesses the infotainment settings
-    And connects the system to the internet
-    **Then** the infotainment system should be updated with the latest software
+  **Scenario: Administrator upgrades the vehicle's auto drive system** <br>
+    **Given** the administrator has access to the vehicle <br>
+    **When** the administrator accesses the auto drive settings <br>
+    And connects the system to the internet <br>
+    **Then** the auto drive system should be updated with the latest software <br>
    
 ### Reflections
 ...
