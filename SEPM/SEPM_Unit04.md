@@ -19,6 +19,8 @@ As part of my e-portfolio, I have completed the following activities and activel
 
 [Collaborative Discussion 1 - Project Failures Study-Summary post](SEPM_Unit04_Summary.pdf)
 
+[Wiki Entry-Risks and Risk Mitigation](SEPM_Unit04_Wiki.md)
+
 [Estimating Tools and Risk Assessment](SEPM_Unit04_Seminar.md)
 
 
