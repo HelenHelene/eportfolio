@@ -20,7 +20,7 @@ Collaborative Discussion 2 - Factors Affecting User Experience-Respond to peers:
 
 [Collaborative Discussion 2 - Factors Affecting User Experience-Summary Post](SEPM_Unit07_Summary.pdf)
 
-[e-Portfolio Activity-Emotional reactions](SEPM_Unit07_Activity.md)
+[Emotional reactions](SEPM_Unit07_Activity.md)
 
 ### Reflections
 ...
