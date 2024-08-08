@@ -30,7 +30,7 @@ The response should consist of at least three scenarios describing different rol
 
   
 ## Reflections
-...
+This Gherkin language reminds me of Pseudocode from one of the assignments in the first module, Launching into Computer Science. It’s an easy way to get stakeholders involved during requirement gathering.
 
 <br><br>
 
