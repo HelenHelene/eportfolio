@@ -12,7 +12,7 @@ By the end of this unit, I will be able to:
 ### Artefacts and Collaborative Discussion 
 As part of my e-portfolio, I participated in collaborative discussions, which are documented in the provided link:
 
-[Collaborative Discussion 1 - Project Failures Study](SEPM_Unit01_Discussion.pdf)
+[Collaborative Discussion 1 - Project Failures Study-Initial post](SEPM_Unit01_Discussion.pdf)
 
 ### Reflections
 Reflecting on this module, I've gained insight into how SEPM integrates both managerial and technical expertise. 
