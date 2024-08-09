@@ -10,7 +10,7 @@ In the CUE-model, the core aspects of the user experience are summarised in thre
 These three make up User experience consequences: overall judgments, usage behaviour and choice between alternatives.
 
 <img src="SEPM_Unit07_Figure.jpg" alt="User experience" width="600"/>
-Figure: Components of User Experience Model [Van der Linden et al., (2019)](SEPM_Unit07_Reading.pdf)
+Figure: Components of User Experience Model (Van der Linden et al., 2019)
 
 ## Question
 As a Project Manager, what might be your response to manage the emotional reactions of a customer? 
@@ -35,4 +35,4 @@ Van der Linden, J. et al. (2019) 'User Experience and Social Influence: A New Pe
 
 ---
 
-[Return to Module 5 Unit 6](SEPM_Unit06.md)
+[Return to Module 5 Unit 7](SEPM_Unit07.md)
