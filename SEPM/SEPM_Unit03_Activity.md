@@ -1,7 +1,7 @@
 # e-Portfolio Activity: Data Structures Reflection
 
 ## Introduction
-Read [Dicheva & Hodge (2018)](SEPM_Unit03_Read.pdf). Think about an online system which you use on a daily basis. 
+Read [Dicheva & Hodge (2018)](SEPM_Unit03_Reading.pdf). Think about an online system which you use on a daily basis. 
 Consider how it might operate at the back-end using data structures. 
  
 ## Reflections
