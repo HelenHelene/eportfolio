@@ -16,6 +16,7 @@ Read the articles by [Verner et al (2014)](SEPM_Unit04_Reading1.pdf) and [Anton 
 
 ## Reference
 Anton, S.G. & Nucu, A.E. (2020) Enterprise Risk Management: A Literature Review and Agenda for Future Research. Journal of Risk and Financial Management 13(11). DOI:10.3390/jrfm13110281
+
 Verner, J.M. et al. (2014) Risks and risk mitigation in global software development: A tertiary study. Information and Software Technology 56(1): 54-78. DOI: http://dx.doi.org/10.1016/j.infsof.2013.06.005
 
 <br><br>
