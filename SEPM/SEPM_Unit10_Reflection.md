@@ -18,8 +18,8 @@ Discuss, in 300 words, the major differences in relation to software quality bet
 Mertz, J. (2019) Writing Clean and Pythonic Code. Available from: https://docslib.org/doc/9751240/writing-clean-and-pythonic-code
 
 McCall, J.A., Richards, P.K. and Walters, G.F. (1977) Factors in Software Quality Concept and Definitions of Software Quality. RADC TR-77-369, Rome: Rome Air Development Center.
-Available in amazon with cost $179.7 : https://www.amazon.com/Factors-Software-Quality-Concepts-Definitions/dp/B00BGLRGPO
-Unavailable in UoE resource: https://apps.dtic.mil/dtic/tr/fulltext/u2/a049014.pdf
+ - Available in amazon with cost $179.7 : https://www.amazon.com/Factors-Software-Quality-Concepts-Definitions/dp/B00BGLRGPO
+ - Unavailable in UoE resource: https://apps.dtic.mil/dtic/tr/fulltext/u2/a049014.pdf
 
 <br><br>
 
