@@ -3,9 +3,11 @@
 ## Introduction
 The following task involves experimenting with pytest using the Python programming language. <br> 
 The pytest question should be completed in a Jupyter Notebook. <br>
-Remember to save your work to your GitHub repository. <br>
+Remember to save your work to your GitHub repository. 
 
-### Copy the following code into a file named _wallet.py_:
+<br>
+
+### Copy the following code into a file named _wallet.py_
 
 ```python
 # code source: https://semaphoreci.com/community/tutorials/testing-python-applications-with-pytest
@@ -26,7 +28,9 @@ class Wallet(object):
         self.balance += amount
 ```
 
-### Copy the following code into a file named _test_wallet.py_:
+<br>
+
+### Copy the following code into a file named _test_wallet.py_
 
 ```python
 # code source: https://semaphoreci.com/community/tutorials/testing-python-applications-with-pytest
@@ -58,13 +62,16 @@ def test_wallet_spend_cash_raises_exception_on_insufficient_amount():
         wallet.spend_cash(100)
 ```
 
-### Run the tests using the command: _$ pytest -q test_wallet.py_ You should see the following output:
+<br>
 
-<img src="SEPM_Unit06_Run.jpg" alt="output" width="200"/>
+### Run the tests using the command: _$ pytest -q test_wallet.py_ <br>
+You should see the following output:
+
+<img src="SEPM_Unit06_Run.jpg" alt="output" width="500"/>
 
 Amend the code so that the tests fail.
 
----
+<br><br>
 
 ## Reflections
 ...
