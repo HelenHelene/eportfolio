@@ -11,7 +11,7 @@ The second assignment requires students to present to stakeholders, providing a 
 Lastly, we are expected to submit an e-Portfolio, gathering evidence of work and submitting a reflective piece on personal development throughout the module.
 
 #### Assignment 1: Development Team Project _(🎓Pass with Distinction)_
-[Project Report](SEPM_A1_Intro.md) <br>
+[Project Report - Synputer](SEPM_A1_Intro.pdf) <br>
 [Peer Review Submission](SEPM_A1_PeerReviewForm.pdf)
 	
 #### Assignment 2: Development Individual Project _(Work in progress_
