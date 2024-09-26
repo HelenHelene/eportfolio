@@ -1,4 +1,3 @@
-
 # List of Artefacts for Each Unit
 
 | Unit(s)	| Component	|	Artefacts | 
