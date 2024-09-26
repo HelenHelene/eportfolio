@@ -12,14 +12,18 @@
 | 5 September 2024 | <br> [Project Report Refinements](SEPM_A1_MoM_ProjectReport2ndRefinements_20240905.pdf) <br><br> |
 | 7 September 2024 | <br> [Project Report Final Review](SEPM_A1_MoM_ProjectReportFinalReview_20240907.pdf) <br><br> |
 
+<br>
+
 # Team Contract
 
 | Date	| Title	|	
 | :------ | :-------- | 
 | 2 August 2024 | <br> [Group 1 - MASH](SEPM_A1_TeamContract_Group1.pdf) <br><br> |
 
+<br>
 
 ---
+
 [Return to Assignment 1 - Project Report - Synputer](SEPM_A1.md) <br>
 [Return to Assignment 3 - e-Portfolio](SEPM_A3.md) <br>
 [Return to Module 5](SEPM_main.md)
