@@ -61,6 +61,7 @@ The material cost is £157 per machine (Appendix 4).
 Assuming that the initial design, development, manufacturing, and testing costs are included (Appendix 5), the cost of the first 2,000 machines can be controlled at **£250 per unit**.
 
 <img src="SEPM_A1_Cost.jpg" alt="Cost Plan" width="300"/>
+
 Figure 2: Total budget allocation for the project
 
 #### 6.3 Milestones and Deliverables 
