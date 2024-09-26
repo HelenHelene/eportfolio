@@ -17,7 +17,7 @@ On completion of this unit you will be able to:
 ### Artefacts and Collaborative Discussion 
 As part of my e-portfolio, I have completed the following activities and actively engaged in collaborative discussions, which are documented in the provided link:
 
-[Collaborative Discussion 1 - Project Failures Study-Summary post](SEPM_Unit04_Summary.pdf)
+[Collaborative Discussion 1 - Project Failures Study-Summary post](SEPM_Unit04_SummaryPost.pdf)
 
 [Wiki Entry-Risks and Risk Mitigation](SEPM_Unit04_Wiki.md)
 
