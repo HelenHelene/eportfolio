@@ -1,7 +1,7 @@
 ### [Assignment 1: Development Team Project: Project Report - Synputer](SEPM_A1_ProjectReport_final.pdf)
 
 <br>
-Team Name: MASH (Group 1)
+Team Name: MASH (Group 1)<br>
 Team Members: Anda Ziemele, Mario Butorac, OiLam Siu, Samuel Harrison
 
 #### [Minutes of Meeting (MoM) and Team Contract](SEPM_A1_MoM.md)
@@ -27,7 +27,7 @@ Table 1. Gathered requirements.
 #### 3.2 Missing Requirements
 A domain model was created to ensure the completeness of requirements (Appendix 1). This approach proved fruitful in requirements gathering (Arora et al., 2019). Table 2 lists the missing requirements identified. 
 
-<img src="SEPM_A1_Missing.jpg" alt="Missing Requirement" width="600"/>
+<img src="SEPM_A1_Missing.jpg" alt="Missing Requirement" width="500"/>
 
 Table 2. Missing requirements.
 
@@ -37,7 +37,7 @@ The components list includes the elements for the proposed design, tailored to t
 ### 4. Gherkin Specifications
 Figure 1 shows the Gherkin requirements for some of the critical functionality of our system (Rice et al., n.d.):
 
-<img src="SEPM_A1_Gherkin.jpg" alt="Gherkin Statement" width="600"/>
+<img src="SEPM_A1_Gherkin.jpg" alt="Gherkin Statement" width="700"/>
 
 Figure 1: Gherkin statements
 
@@ -64,7 +64,7 @@ Since the sum of the above values is less than 13, and studies show that inadequ
 The material cost is £157 per machine (Appendix 4).  
 Assuming that the initial design, development, manufacturing, and testing costs are included (Appendix 5), the cost of the first 2,000 machines can be controlled at **£250 per unit**.
 
-<img src="SEPM_A1_Cost.jpg" alt="Cost Plan" width="600"/>
+<img src="SEPM_A1_Cost.jpg" alt="Cost Plan" width="500"/>
 
 Figure 2: Total budget allocation for the project
 
@@ -93,21 +93,27 @@ The Synputer aims to deliver a competitive, market-ready product within budget a
 -----
 ### 10. Appendix
 Appendix 1: Domain model of the proposed system
-<img src="SEPM_A1_Domain.jpg" alt="Domain model" width="600"/>
+
+<img src="SEPM_A1_Domain.jpg" alt="Domain model" width="700"/>
 
 Appendix 2: Components list
-<img src="SEPM_A1_Components.jpg" alt="Components list" width="600"/>
+
+<img src="SEPM_A1_Components.jpg" alt="Components list" width="500"/>
 
 Appendix 3: Extracted Gantt Chart
-<img src="SEPM_A1_Gantt.jpg" alt="Gantt Chart" width="600"/>
+
+<img src="SEPM_A1_Gantt.png" alt="Gantt Chart" width="700"/>
 
 Appendix 4: Breakdown of Material cost per machine
+
 <img src="SEPM_A1_MaterialCost.jpg" alt="Material Cost per machine" width="600"/>
 
 Appendix 5: Breakdown of Role allocation and personnel cost calculation
+
 <img src="SEPM_A1_Personnel.jpg" alt="Role allocation and Personnel cost calculation" width="600"/>
 
 Appendix 6: Table of Home Micro costs and specifications in the 1980s given in the Case Study document
+
 <img src="SEPM_A1_MarketPrice.jpg" alt="Market Price in 1980s" width="600"/>
 
 <br><br>
