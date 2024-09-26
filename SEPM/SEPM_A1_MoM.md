@@ -1,4 +1,5 @@
 # List of Minutes of Meeting (MoM)
+
 | Date	| Title	|	
 | :------ | :-------- | 
 | 1 August 2024	| <br> [Establishment of the Group](SEPM_A1_MoM_GroupEstablish_20240801.pdf) <br><br> |
@@ -12,6 +13,7 @@
 | 7 September 2024 | <br> [Project Report Final Review](SEPM_A1_MoM_ProjectReportFinalReview_20240907.pdf) <br><br> |
 
 # Team Contract
+
 | Date	| Title	|	
 | :------ | :-------- | 
 | 2 August 2024 | <br> [Group 1 - MASH](SEPM_A1_TeamContract_Group1.pdf) <br><br> |
