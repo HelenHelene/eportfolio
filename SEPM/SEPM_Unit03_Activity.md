@@ -71,27 +71,23 @@ YouTube Music relies heavily on a variety of data structures behind the scenes t
 ---
 
 ## Reference
-Covington, P., Adams, J., & Sargin, E. (2016). Deep neural networks for YouTube recommendations. In Proceedings of the 10th ACM Conference on Recommender Systems (pp. 191–198). ACM. https://doi.org/10.1145/2959100.2959190
+Anderson, C. (2019). Using Deep Neural Networks to make YouTube Recommendations. Medium. Available from: https://towardsdatascience.com/using-deep-neural-networks-to-make-youtube-recommendations-dfc0a1a13d1e
 
-Dicheva, D., & Hodge, A. (2018). Active learning through game play in a data structures course. In Proceedings of the 49th ACM Technical Symposium on Computer Science Education 2018 (pp. 834–839). https://doi.org/10.1145/3159450.3159605
+Covington, P., Adams, J., & Sargin, E. (2016). 'Deep neural networks for YouTube recommendations', RecSys '16: Proceedings of the 10th ACM Conference on Recommender Systems. Massachusetts, Boston, USA, 15-19 September 2016. ACM. 191-198. DOI: https://doi.org/10.1145/2959100.2959190
 
-Okeke, C. (2023). Introduction to Data Structures with Real World Examples. Medium. https://medium.com/@DevChy/introduction-to-data-structures-with-real-world-examples-15063e4adbad
+Dicheva, D., & Hodge, A. (2018). 'Active learning through game play in a data structures course', SIGCSE '18: Proceedings of the 49th ACM Technical Symposium on Computer Science Education. Baltimore, MD, USA, 21-24 February 2018. ACM. 834–839. DOI: https://doi.org/10.1145/3159450.3159605
 
-Kleinerman, A. (2020). How YouTube uses data structures for content recommendation. Towards Data Science. https://towardsdatascience.com/how-youtube-uses-data-structures-for-content-recommendation-fef7d2e4e5b2
+JamWise (2024). Music Recommendation Algorithms: How They Work and What We Can Learn From Them. Available from: https://www.jamwise.org/p/music-recommendation-algorithms-how
 
-Knuth, D. E. (1997). The art of computer programming, volume 1: Fundamental algorithms (3rd ed.). Addison-Wesley.
+Knuth, D. E. (1997). The art of computer programming, volume 1: Fundamental algorithms. 3rd ed. CA: Addison-Wesley.
 
-Laaksonen, A. (2020). Guide to competitive programming: Learning and improving algorithms through contests. Springer.
+Laaksonen, A. (2024). Guide to competitive programming: Learning and improving algorithms through contests. 3rd ed. Springer Cham.
 
-JamWise (2024). Music Recommendation Algorithms: How They Work and What We Can Learn From Them. https://www.jamwise.org/p/music-recommendation-algorithms-how
+Okeke, C. (2023). Introduction to Data Structures with Real World Examples. Medium. Available from: https://medium.com/@DevChy/introduction-to-data-structures-with-real-world-examples-15063e4adbad
 
-Tarjan, R. E. (1972). Depth-first search and linear graph algorithms. SIAM Journal on Computing, 1(2), 146–160.
+Tarjan, R. (1972). Depth-first search and linear graph algorithms. SIAM Journal on Computing 1(2): 146–160. DOI: https://doi.org/10.1137/0201010
 
-Weiss, M. A. (2012). Data structures and algorithm analysis in Java (3rd ed.). Pearson.
-
-Zhou, Y, Wilkinson, D, Schreiber, R & Pan, R 2008, 'Large-scale parallel collaborative filtering for the Netflix Prize', in Algorithmic aspects in information and management: proceedings of the 4th International Conference, AAIM 2008, Shanghai, China, June 23-25, 2008, Springer, Berlin, Germany, pp. 337–348, doi:10.1007/978-3-540-68880-8_32.
-
-
+Zhou, Y, Wilkinson, D, Schreiber, R & Pan, R (2008). 'Large-scale parallel collaborative filtering for the Netflix Prize', AAIM: International Conference on Algorithmic Aspects in Information and Management. Shanghai, China, 23-25 June 2008.  Springer. 337–348. DOI: 10.1007/978-3-540-68880-8_32.
 
 <br><br>
 
