@@ -14,7 +14,7 @@ Lastly, we are expected to submit an e-Portfolio, gathering evidence of work and
 [Project Report - Synputer](SEPM_A1_Intro.pdf) <br>
 	
 #### Assignment 2: Development Individual Project _(Work in progress_
-[Presentation](SEPM_A2.md)
+[Presentation](SEPM_A2_Intro.pdf)
 
 #### Assignment 3: Individual Module e-Portfolio _(Work in progress)_
 [Final Reflection](SEPM_A3.md)
