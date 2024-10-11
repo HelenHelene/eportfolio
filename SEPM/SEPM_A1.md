@@ -94,27 +94,27 @@ The Synputer aims to deliver a competitive, market-ready product within budget a
 
 -----
 ### 10. Appendix
-Appendix 1: Domain model of the proposed system
+Appendix 1: Domain model of the proposed system<br>
 <img src="SEPM_A1_Domain.jpg" alt="Domain model" width="700"/>
 <br>
 
-Appendix 2: Components list
+Appendix 2: Components list<br>
 <img src="SEPM_A1_Components.jpg" alt="Components list" width="400"/>
 <br>
 
-Appendix 3: Extracted Gantt Chart
+Appendix 3: Extracted Gantt Chart<br>
 <img src="SEPM_A1_Gantt.png" alt="Gantt Chart" width="700"/>
 <br>
 
-Appendix 4: Breakdown of Material cost per machine
+Appendix 4: Breakdown of Material cost per machine<br>
 <img src="SEPM_A1_MaterialCost.jpg" alt="Material Cost per machine" width="600"/>
 <br>
 
-Appendix 5: Breakdown of Role allocation and personnel cost calculation
+Appendix 5: Breakdown of Role allocation and personnel cost calculation<br>
 <img src="SEPM_A1_Personnel.jpg" alt="Role allocation and Personnel cost calculation" width="600"/>
 <br>
 
-Appendix 6: Table of Home Micro costs and specifications in the 1980s given in the Case Study document
+Appendix 6: Table of Home Micro costs and specifications in the 1980s given in the Case Study document<br>
 <img src="SEPM_A1_MarketPrice.jpg" alt="Market Price in 1980s" width="600"/>
 
 <br><br>
