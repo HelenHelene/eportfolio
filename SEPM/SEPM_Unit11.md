@@ -14,10 +14,10 @@ On completion of this unit you will be able to:
 Throughout the unit, I continued to work on my e-portfolio, collecting evidence of my work and showcasing my understanding of the module’s concepts and topics.
 
 ### Reflections
-...
+In Unit 11, I explored various emerging trends in project management, software engineering, computer science, and IT that could shape the future of the discipline. Understanding these trends highlighted their potential impact on SEPM and how they might drive future directions. This exploration emphasized the importance of staying informed and adaptable in a rapidly evolving field.
 
-### Professional Skills Matrix and Action Plan
-...
+### Action Plan
+I plan to continuously research and follow the latest trends in project management and software engineering. I will engage with professional communities by participating in forums and attending conferences to learn about upcoming innovations. Additionally, I'll focus on acquiring skills related to new technologies and methodologies, and update my e-portfolio with projects that demonstrate my understanding and application of these trends. 
 
 <br><br>
 
