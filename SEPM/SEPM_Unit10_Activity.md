@@ -64,6 +64,7 @@ Code source: https://realpython.com/python-code-quality/
  - Tends to be verbose but thorough.
    
 **pylint _code_with_lint.py_** <br>
+
 <img src="SEPM_Unit10_pylint.jpg" alt="pylint" width="800"/>
 
 ### Pyflakes
