@@ -19,10 +19,10 @@ I have completed the following activity to meet these learning outcomes, which a
 
 
 ### Reflections
-...
+In Unit 9, I learned the significance of effective quality management in software development. Understanding how to measure software quality using various metrics and ensuring that both functional and non-functional requirements are met is crucial. The role of quality management in planning, control, and assurance is essential for delivering high-quality software. This unit highlighted the impact of technical debt due to poor quality management and the importance of maintaining code quality through strategies like adhering to PEP 8 standards, using tools like black, and documenting code thoroughly.
 
-### Professional Skills Matrix and Action Plan
-...
+### Action Plan
+My action plan for Unit 9 involves deepening my understanding of quality management by regularly writing and reviewing non-functional requirements to ensure comprehensive testing. I'll study and apply different quality metrics to assess software quality effectively. I'll also implement quality management strategies in personal projects, focusing on planning, control, and assurance. By concentrating on these areas, I aim to enhance my skills in quality management and consistently deliver high-quality software products.
 
 <br><br>
 
