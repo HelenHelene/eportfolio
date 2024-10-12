@@ -4,7 +4,7 @@
 The following task involves experimenting with pytest using the Python programming language. <br> 
 <br>
 
-### Copy the following code into a file named _wallet.py_
+### _wallet.py_
 ```python
 # code source: https://semaphoreci.com/community/tutorials/testing-python-applications-with-pytest
 # wallet.py
@@ -27,7 +27,7 @@ class Wallet(object):
 
 <br>
 
-### Copy the following code into a file named _test_wallet.py_
+### _test_wallet.py_
 ```python
 # code source: https://semaphoreci.com/community/tutorials/testing-python-applications-with-pytest
 # test_wallet.py
@@ -61,14 +61,14 @@ def test_wallet_spend_cash_raises_exception_on_insufficient_amount():
 
 <br>
 
-### First Run the tests using the command: _$ pytest -q test_wallet.py_ without amend the code<br>
+### First Run the tests without amend the code
 <img src="SEPM_Unit06_Output1.jpg" alt="output" width="700"/>
 
 <br>
 
 ---
 
-### Amend the code in _wallet.py_ so that the test fail.
+### Amend the code in _wallet.py_ so that the test fail. <br>
 ```python
 # code source: https://semaphoreci.com/community/tutorials/testing-python-applications-with-pytest
 # wallet.py
@@ -91,14 +91,13 @@ class Wallet(object):
 
 <br>
 
-### Second Run the tests using the command: _$ pytest -q test_wallet.py_ with amended code<br>
+### Second Run the tests with amended code <br>
 <img src="SEPM_Unit06_Output2.jpg" alt="output" width="900"/>
 
 <br>
 
 ## Reflections
-...
-
+Reflecting on the Jupyter Notebook activity with pytest, I've learned the importance of testing in software development and how it ensures code reliability. Experimenting with pytest demonstrated how simple assertions can effectively validate code functionality. By intentionally causing tests to fail, I gained insight into how errors are detected and resolved, reinforcing the significance of test-driven development. This understanding will be invaluable for future coding assignments, where writing tests alongside code will help catch bugs early and maintain high-quality software.
 <br><br>
 
 ---
