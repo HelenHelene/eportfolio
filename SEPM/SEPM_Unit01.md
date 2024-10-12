@@ -19,7 +19,7 @@ Reflecting on this module, I've gained insight into how SEPM integrates both man
 Understanding the differences from traditional project management has highlighted the unique challenges and solutions in software projects. 
 Participating in discussions on project failures has been particularly enlightening, providing real-world context to theoretical concepts.
 
-### Professional Skills Matrix and Action Plan
+### Action Plan
 I plan to continue participating in collaborative discussions and study different project failure cases to understand their root causes and mitigation strategies. 
 This approach will not only aid in completing assignments but also prepare me for real-world scenarios.
 
