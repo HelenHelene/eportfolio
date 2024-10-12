@@ -1,16 +1,11 @@
 # Unit 4: Estimating Tools and Risk Assessment
 
-Welcome to Week 4 where we will discuss common risks and risk mitigation in large software projects. In addition, we will utilise some of the tools discussed in the previous lecture cast to create a project estimate.
-
-In this unit we shall:
- - Discuss risks and risk mitigation in large software projects.
- - Produce an estimate for our summative project utilising the tools reviewed.
- - Review a number of estimating tools.
+This week, we discussed risks and risk mitigation in large software projects. In addition, we utilized some of the tools from the previous lecture to create a project estimate and review various estimating tools.
 
 ### Learning Outcomes
-On completion of this unit you will be able to:
- - Select an appropriate tool for project estimation based on a number of common factors
- - Utilise the tool to create a project estimate.
+On completion of this unit, I will be able to:
+ - Select an appropriate tool for project estimation based on common factors.
+ - Utilize the tool to create a project estimate.
  - Evaluate the usefulness of the tool in estimating.
  - Discuss risk evaluation and mitigation approaches.
 
@@ -25,10 +20,10 @@ As part of my e-portfolio, I have completed the following activities and activel
 
 
 ### Reflections
-...
+During Unit 4, I gained valuable insights into project estimation and risk assessment, emphasizing the importance of structured methodologies for managing large software projects. Through various activities and artefacts, I learned to select and effectively apply appropriate tools for project estimation. Collaborative discussions and practical exercises reinforced the significance of understanding risks and integrating them into the project management process. A key takeaway was the understanding of frameworks like NIST, which systematically address risks and ensure comprehensive project planning. Applying the Mythical Man Month formula allowed me to break down project phases and allocate time efficiently, highlighting the importance of detailed planning. Additionally, reviewing NIST Privacy Tools underscored the need to incorporate privacy into risk assessments, ensuring robust project security.
 
-### Professional Skills Matrix and Action Plan
-...
+### Action Plan
+I'm planning to enhance my understanding of estimation tools by exploring and practicing various techniques in real-world scenarios. I will also apply this to our upcoming team project to estimate the project timeline. Additionally, I aim to deepen my risk management skills by studying frameworks like RMF and ISO 31000, which will broaden my knowledge and improve risk identification and mitigation in future projects.
 
 <br><br>
 
