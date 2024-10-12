@@ -47,22 +47,23 @@ Testing time (Tt): 2.1666666666666665 months
 System test time (Ts): 3.25 months
 ````
 
-Using the Python program, since the sum of the above values is less than 13, and studies show that inadequate quality control is one of the major contributors to project failures (Jones, 2004), the additional time will be devoted to testing, bringing it up to 3.2 months. 
+Using the Python program, since the sum of the above values is less than 13, and studies show that inadequate quality control is one of the major contributors to project failures (Jones, 2004), the additional time will be devoted to Testing and System Test, bringing it up to 3 and 4 months. 
 
-The breakdown is as follows:
-Total time to complete the project (Tc): 13 months
-Planning time (Tp): 4.33 months
-Development time (Td): 2.17 months
-Testing time (Tt): 2.17 months
-System test time (Ts): 3.25 months
+The breakdown is rounded up to the nearest integer as follows:
+ - Total time to complete the project (Tc): 13 months
+ - Planning time (Tp): 4 months
+ - Development time (Td): 2 months
+ - Testing time (Tt): 3 months
+ - System test time (Ts): 4 months
 
 These estimates help ensure that the project stays on track by allocating appropriate time for each phase.
 
 <br><br>
 
 ## Reflections
-...
+Reflecting on the seminar preparation and the tasks involved, I've gained a deeper understanding of how structured methodologies can enhance risk assessment and project estimation. The review of NIST Privacy Tools highlighted the importance of integrating privacy considerations into overall risk management, which is crucial for comprehensive security strategies. Applying this to Assignment 1, I can better appreciate the role of privacy in risk assessments and ensure that it is not overlooked.
 
+Additionally, the Python program for project estimation taught me the significance of breaking down complex projects into manageable phases. By applying the Mythical Man Month formula, I learned to allocate time effectively across different stages of a project, which is essential for maintaining timelines and quality. This approach will be invaluable for optimizing project management in future assignments, ensuring that each phase receives adequate attention while adapting to unforeseen challenges.
 <br><br>
 
 ---
