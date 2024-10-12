@@ -25,8 +25,6 @@ I would use the NIST Risk Management Framework as it provides a comprehensive ap
 **Risk:** Misalignment between vendor and client expectations.<br>
 **Mitigation:** Establish clear communication channels and regular check-ins to ensure alignment. Use detailed contracts and service level agreements (SLAs) to set expectations.
 
-## 4. Choose an entry made by one of your colleagues in the wiki and comment on how you might mitigate it.
-If a colleague identified "Data Security Breaches" as a risk, I would suggest using encryption protocols and regular security audits as a mitigation strategy. Additionally, implementing a robust incident response plan can help manage breaches effectively.
 
 ## Reflections
 From this exercise, I've learned the importance of understanding various risk factors and how they fit into the broader context of project management and development life cycles. Using frameworks like NIST helps in systematically addressing and mitigating these risks, ensuring better project outcomes. The collaborative aspect of adding to a wiki and reviewing peers' entries enhances learning through shared insights and practical solutions.
