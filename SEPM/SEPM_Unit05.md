@@ -1,16 +1,12 @@
 
 # Unit 5: User Experience
 
-Welcome to Week 5, during which we will examine the concept of User Experience during a software development project. We consider the variety of stakeholders involved in a project, whose User Experience is prioritised. The critical role which is played by the Project Manager in facilitating this is also considered. 
+During this week, I will examine the concept of User Experience in software development projects. I will consider the various stakeholders involved and whose User Experience should be prioritized. I will also reflect on the critical role of the Project Manager in facilitating this process.
 
-In this unit we shall:
- - Examine the concepts of usability and user experience. 
- - Review the ways by which User Experience might be monitored and managed.
- - Explore the metrics which are used to measure User Experience.
- - Investigate Python’s built-in capabilities to support Test-driven Development, through which a good User Experience can be supported.
+I will examine the concepts of usability and user experience, review methods for monitoring and managing UX, and explore metrics used to measure it. Additionally, I will investigate Python's built-in capabilities to support Test-driven Development, which helps ensure a good User Experience.
 
 ### Learning Outcomes
-On completion of this unit you will be able to:
+On completion of this unit I will be able to:
  - Write a project plan, through which maximum efforts are being made to ensure a high-quality User Experience. 
  - Define a strategy by which the User Experience can be measured and managed. 
  - Recognise how to implement a Test-driven Development approach in Python.
@@ -21,10 +17,10 @@ As part of my e-portfolio, I participated in collaborative discussions, which ar
 [Collaborative Discussion 2 - Factors Affecting User Experience-Initial post](SEPM_Unit05_Initial.pdf)
 
 ### Reflections
-...
+Unit 5 provided an insightful exploration into the multifaceted concept of User Experience (UX) within software development projects. Engaging with the different stakeholders helped me appreciate whose UX needs should be prioritized, highlighting the Project Manager’s pivotal role in this process. The collaborative discussion emphasized the importance of usability and how it directly impacts user satisfaction. Through this dialogue, I gained a deeper understanding of how usability can be effectively monitored and managed. Additionally, the unit's focus on metrics for measuring UX allowed me to recognize the significance of empirical data in refining UX strategies. Learning about Python’s capabilities in supporting Test-driven Development (TDD) was particularly enlightening, as it underscored a methodical approach to ensuring high-quality UX. The practical application of these concepts in a collaborative setting enriched my comprehension and underscored the value of teamwork in achieving UX goals.
 
-### Professional Skills Matrix and Action Plan
-...
+### Action Plan
+I plan to integrate the knowledge gained from this unit into my project management practices. First, I will prioritize creating a comprehensive project plan that emphasizes stakeholder engagement to ensure a superior User Experience. This involves actively seeking stakeholder feedback and incorporating it into the development process. I will also implement a robust strategy to measure and manage UX, utilizing the metrics discussed to continuously assess and improve the user interface. 
 
 <br><br>
 
