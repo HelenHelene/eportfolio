@@ -1,6 +1,6 @@
 # Unit 1: Introduction to Software Engineering Project Management
 
-This module introduces the role of the Software Engineering Project Manager, emphasizing the blend of traditional project management skills (like resource management and planning) with technical skills (such as requirement management and agile management). 
+The first unit introduces the role of the Software Engineering Project Manager, emphasizing the blend of traditional project management skills (like resource management and planning) with technical skills (such as requirement management and agile management). 
 It explores the need for and history of software engineering project management (SEPM), comparing it with traditional project management.
 
 ### Learning Outcomes
