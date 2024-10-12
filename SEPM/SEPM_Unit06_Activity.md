@@ -62,7 +62,7 @@ def test_wallet_spend_cash_raises_exception_on_insufficient_amount():
 <br>
 
 ### First Run the tests without amend the code
-<img src="SEPM_Unit06_Output1.jpg" alt="output" width="700"/>
+<img src="SEPM_Unit06_Output1.jpg" alt="output 1" width="700"/>
 
 <br>
 
@@ -92,7 +92,7 @@ class Wallet(object):
 <br>
 
 ### Second Run the tests with amended code <br>
-<img src="SEPM_Unit06_Output2.jpg" alt="output" width="900"/>
+<img src="SEPM_Unit06_Output2.jpg" alt="output 2" width="900"/>
 
 <br>
 
