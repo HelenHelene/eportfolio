@@ -150,7 +150,7 @@ myPhoneBookApp()
 <br>
 
 ### Improved Python code
-To improve the provided Python code, I'll apply three strategies from the "Writing Clean and Pythonic Code" resource:
+To improve the above Python code, I'll apply three strategies from the "Writing Clean and Pythonic Code" resource:
 
  - **Use Tools to Help You:** Use black for auto-formatting to ensure consistent style.
  - **Follow a Style Guide:** Adhere to PEP 8, including naming conventions and indentation.
