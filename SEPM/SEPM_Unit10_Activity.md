@@ -64,15 +64,36 @@ Code source: https://realpython.com/python-code-quality/
  - Tends to be verbose but thorough.
    
 **pylint _code_with_lint.py_** <br>
-
-<img src="SEPM_Unit10_pylint.jpg" alt="pylint" width="800"/>
+```python
+code_with_lint.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+code_with_lint.py:2:0: W0614: Unused import pi from wildcard import (unused-wildcard-import)
+code_with_lint.py:5:0: W0611: Unused import io (unused-import)
+code_with_lint.py:8:0: C0103: Constant name "some_global_var" doesn't conform to UPPER_CASE naming style (invalid-name)
+code_with_lint.py:12:4: C0103: Variable name "some_global_var" doesn't conform to snake_case naming style (invalid-name)
+code_with_lint.py:13:19: C0326: No space allowed after star operator (bad-whitespace)
+code_with_lint.py:15:4: R1711: Useless return at end of function or method (useless-return)
+code_with_lint.py:16:4: W0101: Unreachable code (unreachable)
+code_with_lint.py:23:15: C0121: Comparison to None should be 'if cond is not None:' (singleton-comparison)
+code_with_lint.py:26:22: C0321: More than one statement on a single line (multiple-statements)
+code_with_lint.py:28:24: W0101: Unreachable code (unreachable)
+code_with_lint.py:37:8: W0621: Redefining name 'time' from outer scope (redefined-outer-name)
+```
 
 ### Pyflakes
  - Focuses on logical errors, such as unused imports and variables.
  - Does not emphasize style issues, making it faster but less comprehensive for style checks.
    
 **pyflakes _code_with_lint.py_** <br>
-<img src="SEPM_Unit10_pyflakes.jpg" alt="pyflakes" width="800"/>
+```python
+code_with_lint.py:1:1 'io' imported but unused
+code_with_lint.py:2:1 'from math import *' used; unable to detect undefined names
+code_with_lint.py:12:5 local variable 'some_global_var' is assigned to but never used
+code_with_lint.py:39:44 'pi' may be undefined, or defined from star imports: math
+code_with_lint.py:39:9 local variable 'list_comprehension' is assigned to but never used
+code_with_lint.py:40:16 local variable 'time' defined in enclosing scope on line 4 referenced before assignment
+code_with_lint.py:40:9 local variable 'time' is assigned to but never used
+code_with_lint.py:42:9 local variable 'date_and_time' is assigned to but never used
+```
 
 ### Pycodestyle
  - Concentrates on PEP 8 style violations.
@@ -80,15 +101,36 @@ Code source: https://realpython.com/python-code-quality/
  - Useful for enforcing consistent code style.
    
 **pycodestyle _code_with_lint.py_** <br>
-<img src="SEPM_Unit10_pycodestyle.jpg" alt="pycodestyle" width="700"/>
-
+```python
+code_with_lint.py:8:1: E302 expected 2 blank lines, found 1
+code_with_lint.py:13:15: E225 missing whitespace around operator
+code_with_lint.py:18:1: E302 expected 2 blank lines, found 1
+code_with_lint.py:19:80: E501 line too long (80 > 79 characters)
+code_with_lint.py:24:10: E711 comparison to None should be 'if cond is not None:'
+code_with_lint.py:26:25: E703 statement ends with a semicolon
+code_with_lint.py:30:24: E201 whitespace after '('
+code_with_lint.py:34:1: E302 expected 2 blank lines, found 1
+code_with_lint.py:36:58: E251 unexpected spaces around keyword / parameter equals
+code_with_lint.py:36:60: E251 unexpected spaces around keyword / parameter equals
+code_with_lint.py:37:28: E221 multiple spaces before operator
+code_with_lint.py:37:31: E222 multiple spaces after operator
+code_with_lint.py:38:22: E221 multiple spaces before operator
+code_with_lint.py:38:31: E222 multiple spaces after operator
+code_with_lint.py:39:80: E501 line too long (83 > 79 characters)
+code_with_lint.py:43:15: W292 no newline at end of file
+```
 ### Pydocstyle
  - Checks compliance with PEP 257 for docstrings.
  - Identifies missing or incorrectly formatted docstrings.
  - Important for maintaining documentation consistency.
    
 **pydocstyle _code_with_lint.py_** <br>
-<img src="SEPM_Unit10_pydocstyle.jpg" alt="pydocstyle" width="800"/>
+```python
+code_with_lint.py:1:1: D100: Missing docstring in public module
+code_with_lint.py:10:1: D103: Missing docstring in public function
+code_with_lint.py:19:1: D103: Missing docstring in public function
+code_with_lint.py:31:1: D101: Missing docstring in public class
+```
 
 ## Conclusion
 Each linter has its strengths:
