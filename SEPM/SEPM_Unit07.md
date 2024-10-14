@@ -23,10 +23,10 @@ Collaborative Discussion 2 - Factors Affecting User Experience-Respond to peers:
 [Emotional reactions](SEPM_Unit07_Activity.md)
 
 ### Reflections
-...
+In Unit 7, I explored the influence of software development life cycles (SDLC), particularly the waterfall and agile approaches, on project management. Through the collaborative discussions and artefacts, I gained insights into balancing the triple constraints of project management and understanding various non-functional requirements. Engaging with the Components of User Experience (CUE) model highlighted how emotional reactions are shaped by usability and aesthetics. This deepened my appreciation for a holistic approach to user experience that considers both functional and emotional aspects. The inclusion of peer post expanded my perspective on integrating security and user backgrounds into UX models.
 
 ### Action Plan
-...
+Moving forward, I will apply these insights by ensuring that project plans incorporate both functional and emotional user requirements. I plan to integrate regular usability testing and user feedback into the development process to enhance user satisfaction. Additionally, I will focus on improving communication channels to manage emotional reactions effectively. By adopting a more inclusive and comprehensive approach to UX design, I aim to enhance overall user satisfaction and project success.
 
 <br><br>
 
