@@ -3,14 +3,14 @@
 ## Introduction
 This activity requests us to refer to the ‘Components of User Experience’ model from [Van der Linden et al., (2019)](SEPM_Unit07_Reading.pdf) (below), consider the ‘Emotional reactions’ of user experience.
 
-## Description of image
+## Description of CUE-model
 On the highest level, system properties, user characteristic and context parameters feed into human-technology interaction. <br>
-In the CUE-model, the core aspects of the user experience are summarised in three distinct components: 
+In the user experience (UX) components, the core aspects are: 
 1. Perceived instrumental qualities
 2. Emotional reactions
 2. Perceived non-instrumental qualities <br>
 
-These three make up user experience consequences: overall judgments, usage behaviour and choice between alternatives.
+These three make up UX consequences: overall judgments, usage behaviour and choice between alternatives.
 
 <img src="SEPM_Unit07_Figure.jpg" alt="User experience" width="600"/>
 Figure: Components of User Experience Model (Van der Linden et al., 2019)
