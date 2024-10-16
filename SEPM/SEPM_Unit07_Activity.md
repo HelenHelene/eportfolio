@@ -1,12 +1,16 @@
 # e-Portfolio activity: Emotional reactions
 
 ## Introduction
-In relation to the ‘Components of User Experience’ model from [Van der Linden et al., (2019)](SEPM_Unit07_Reading.pdf) (below), consider the ‘Emotional reactions’ of user experience.
+This activity request us refer to the ‘Components of User Experience’ model from [Van der Linden et al., (2019)](SEPM_Unit07_Reading.pdf) (below), consider the ‘Emotional reactions’ of user experience.
 
 ## Description of image
 On the highest level, system properties, user characteristic and context parameters feed into human-technology interaction. 
-In the CUE-model, the core aspects of the user experience are summarised in three distinct components: the Perceived instrumental qualities, the Perceived non-instrumental qualities and the Emotional reactions. 
-These three make up User experience consequences: overall judgments, usage behaviour and choice between alternatives.
+In the CUE-model, the core aspects of the user experience are summarised in three distinct components: 
+1. Perceived instrumental qualities
+2. Emotional reactions
+2. Perceived non-instrumental qualities <br>
+
+These three make up user experience consequences: overall judgments, usage behaviour and choice between alternatives.
 
 <img src="SEPM_Unit07_Figure.jpg" alt="User experience" width="600"/>
 Figure: Components of User Experience Model (Van der Linden et al., 2019)
@@ -16,7 +20,7 @@ As a Project Manager, what might be your response to manage the emotional reacti
 You should use at least three academic papers to support your response and write a minimum of 300 words as your response.
 
 ## Answer
-As a Project Manager, managing the emotional reactions of a customer is crucial for ensuring a positive user experience. According to the Components of User Experience (CUE) model by Van der Linden et al. (2019), emotional reactions are influenced by both perceived instrumental qualities (such as usefulness and ease of use) and perceived non-instrumental qualities (including aesthetic, symbolic, and motivational aspects). Here are strategies to manage these reactions, supported by academic literature:
+Managing the emotional reactions of a customer is crucial for ensuring a positive user experience. According to the CUE model by Van der Linden et al. (2019), emotional reactions are influenced by both perceived instrumental qualities (such as usefulness and ease of use) and perceived non-instrumental qualities (including aesthetic, symbolic, and motivational aspects). Here are strategies to manage these reactions, supported by academic literature:
 
 ### 1. Enhance Perceived Usefulness and Ease of Use:<br>
 The Technology Acceptance Model (TAM) highlights perceived usefulness and ease of use as key factors influencing user acceptance (Davis, 1989). By ensuring the product is genuinely useful and easy to navigate, users are more likely to have positive emotional reactions. Regular usability testing and user feedback can help identify areas for improvement.
