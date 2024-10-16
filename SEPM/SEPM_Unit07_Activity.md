@@ -1,7 +1,7 @@
 # e-Portfolio activity: Emotional reactions
 
 ## Introduction
-This activity request us refer to the ‘Components of User Experience’ model from [Van der Linden et al., (2019)](SEPM_Unit07_Reading.pdf) (below), consider the ‘Emotional reactions’ of user experience.
+This activity requests us to refer to the ‘Components of User Experience’ model from [Van der Linden et al., (2019)](SEPM_Unit07_Reading.pdf) (below), consider the ‘Emotional reactions’ of user experience.
 
 ## Description of image
 On the highest level, system properties, user characteristic and context parameters feed into human-technology interaction. <br>
