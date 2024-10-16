@@ -15,7 +15,7 @@ As part of my e-portfolio, I participated in collaborative discussions, which ar
 [Collaborative Discussion 1 - Project Failures Study-Initial post](SEPM_Unit01_Discussion.pdf)
 
 ### Reflections
-Reflecting on this module, I've gained insight into how SEPM integrates both managerial and technical expertise. 
+Reflecting on this unit, I've gained insight into how SEPM integrates both managerial and technical expertise. 
 Understanding the differences from traditional project management has highlighted the unique challenges and solutions in software projects. 
 Participating in discussions on project failures has been particularly enlightening, providing real-world context to theoretical concepts.
 
