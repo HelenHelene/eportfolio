@@ -4,7 +4,7 @@
 This activity request us refer to the ‘Components of User Experience’ model from [Van der Linden et al., (2019)](SEPM_Unit07_Reading.pdf) (below), consider the ‘Emotional reactions’ of user experience.
 
 ## Description of image
-On the highest level, system properties, user characteristic and context parameters feed into human-technology interaction. 
+On the highest level, system properties, user characteristic and context parameters feed into human-technology interaction. <br>
 In the CUE-model, the core aspects of the user experience are summarised in three distinct components: 
 1. Perceived instrumental qualities
 2. Emotional reactions
