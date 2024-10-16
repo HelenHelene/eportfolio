@@ -1,4 +1,4 @@
-# Exercise: Security Standards
+# Exercise: Requirements Gathering
 
 ## Introduction
 This exercise is reading the [Behaviour Driven Development (2020) pages](https://behave.readthedocs.io/en/stable/philosophy.html#the-gherkin-language) and then use the Gherkin language to create a Gherkin sequence that addresses ONE of the following examples:
