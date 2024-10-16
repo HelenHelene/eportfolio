@@ -23,7 +23,7 @@ I would use the NIST Risk Management Framework as it provides a comprehensive ap
 
 ## 3. Add a risk and a suggested mitigation to the module wiki.
 **Risk:** Misalignment between vendor and client expectations.<br>
-**Mitigation:** Establish clear communication channels and regular check-ins to ensure alignment. Use detailed contracts and service level agreements (SLAs) to set expectations.
+**Mitigation:** Establish clear communication channels ensure alignment. Use detailed contracts and service level agreements (SLAs) to set expectations.
 
 
 ## Reflections
