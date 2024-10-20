@@ -1,34 +1,49 @@
 # Module 6 Secure Software Development
 
-## This can be your internal website page / project page
+In this module, we explore xxx
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+There are three assignments in this module. In the first assignment, we participate in the team submission and individual peer assessment. For the team submission, we need to develop a proposal detailing xxx.
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+The second assignment xxx.
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+Lastly, we are expected to submit an e-Portfolio, gathering evidence of work and submitting a reflective piece on personal development throughout the module.
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+#### Assignment 1: Development Team Project _(Work in progress)_
+[Project Report - Synputer](SSD_A1.md) <br>
+	
+#### Assignment 2: Development Individual Project _(Work in progress)_
+[Presentation](SSD_A2.md)
 
-### 2. Assess assumptions on which statistical inference will be based
+#### Assignment 3: Individual Module e-Portfolio _(Work in progress)_
+[Final Reflection](SSD_A3.md)
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+The units presented below serve as a compilation of evidence, showcasing the work accomplished in this module and documenting the learning journey.
 
-### 3. Support the selection of appropriate statistical tools and techniques
+#### [Unit 1: xxx](SSD_Unit01.md)
 
-<img src="https://helenhelene.github.io/eportfolio/images/ModuleOutline.jpg" alt="ModuleOutline" style="height: 230px; width:544px;"/>
+#### [Unit 2: xxx](SSD_Unit02.md)
 
-### 4. Provide a basis for further data collection through surveys or experiments
+#### [Unit 3: xxx](SSD_Unit03.md)
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+#### [Unit 4: xxx](SSD_Unit04.md)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+#### [Unit 5: xxx](SSD_Unit05.md)
 
+#### [Unit 6: xxx](SSD_Unit06.md)
+
+#### [Unit 7: xxx](SSD_Unit07.md)
+
+#### [Unit 8: xxx](SSD_Unit08.md)
+
+#### [Unit 9: xxx](SSD_Unit09.md)
+
+#### [Unit 10: xxx](SSD_Unit10.md)
+
+#### [Unit 11: xxx](SSD_Unit11.md)
+
+#### [Unit 12: xxx](SSD_Unit12.md)
+<br>
+
+📑 **You may also refer to the [List of Artefacts](SSD_ArtefactsSummary.md) for quick access to all artefacts.**
+
+---
