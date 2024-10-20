@@ -9,7 +9,7 @@ The second assignment xxx.
 Lastly, we are expected to submit an e-Portfolio, gathering evidence of work and submitting a reflective piece on personal development throughout the module.
 
 #### Assignment 1: Development Team Project _(Work in progress)_
-[Project Report - Synputer](SSD_A1.md) <br>
+[Project Report](SSD_A1.md) <br>
 	
 #### Assignment 2: Development Individual Project _(Work in progress)_
 [Presentation](SSD_A2.md)
