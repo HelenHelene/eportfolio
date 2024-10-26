@@ -9,13 +9,13 @@ The second assignment xxx.
 Lastly, we are expected to submit an e-Portfolio, gathering evidence of work and submitting a reflective piece on personal development throughout the module.
 
 #### Assignment 1: Development Team Project _(Work in progress)_
-[Project Report](SSD_A1.md) <br>
+[Design Document](SSD_A1_Requirement.pdf) <br>
 	
 #### Assignment 2: Development Individual Project _(Work in progress)_
-[Presentation](SSD_A2.md)
+[Output and Evidence of Testing](SSD_A2_Requirement.pdf)
 
 #### Assignment 3: Individual Module e-Portfolio _(Work in progress)_
-[Final Reflection](SSD_A3.md)
+[Final Reflection](SSD_A3_Requirement.pdf)
 
 The units presented below serve as a compilation of evidence, showcasing the work accomplished in this module and documenting the learning journey.
 
