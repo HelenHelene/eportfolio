@@ -23,11 +23,11 @@ As part of my e-portfolio, I have completed the following activities and activel
 
 [Collaborative Discussion 1 - UML Flowchart-Summary post](SSD_Unit03_Summary.pdf)
 
-[Team Activity: Discussion - What is a Secure Programming Language?](SSD_Unit03_TeamActivity.md) 
+[Team Discussion - What is a Secure Programming Language?](SSD_Unit03_TeamActivity.md) 
 
-[Activity: Exploring Python tools and features](SSD_Unit03_Activity1.md) 
+[Activity - Exploring Python tools and features](SSD_Unit03_Activity1.md) 
 
-[Activity: The Producer-Consumer Mechanism](SSD_Unit03_Activity2.md) 
+[Activity - The Producer-Consumer Mechanism](SSD_Unit03_Activity2.md) 
 
 
 ### Reflections
