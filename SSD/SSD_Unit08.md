@@ -4,7 +4,7 @@
 xx
 
 ### Artefacts and Collaborative Discussion 
-As part of my e-portfolio, I participated in collaborative discussions completed the following activities, which are documented in the provided link:
+As part of my e-portfolio, I participated in collaborative discussions and completed the following activities, which are documented in the provided link:
 
 [Collaborative Discussion 1 - Cryptography Case Study - TrueCrypt-Initial post](SSD_Unit08_Initial.pdf)
 
