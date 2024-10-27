@@ -1,4 +1,4 @@
-# Team activity: Discussion
+# Team Discussion: What is a Secure Programming Language?
 
 ## Requirement
 You should read Chapter 2,6,7,8 of the course text (Pillai, 2017) and [Cifuentes & Bierman (2019)](SSD_Unit03_TeamActivityReference.pdf) and then answer the questions below, 
