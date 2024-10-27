@@ -16,7 +16,7 @@ Lastly, we are expected to submit an e-Portfolio, gathering evidence of work and
 #### Assignment 2: Development Individual Project _(🎓Pass with Distinction)_
 [Presentation](SEPM_A2.md)
 
-#### Assignment 3: Individual Module e-Portfolio _(Work in progress)_
+#### Assignment 3: Individual Module e-Portfolio _(🎓Pass with Distinction)_
 [Final Reflection](SEPM_A3.md)
 
 The units presented below serve as a compilation of evidence, showcasing the work accomplished in this module and documenting the learning journey.
