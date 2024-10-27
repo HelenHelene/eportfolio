@@ -13,6 +13,7 @@ Items are placed in a buffer when produced, so:
  - Producer shouldn’t ‘overwrite’ an item in the buffer
 
 <img src="SSD_Unit03_Activity2Dig.jpg" alt="Producer-Consumer Mechanism." width="600"/>
+
 <br>
 
 Synchronisation is necessary because:
