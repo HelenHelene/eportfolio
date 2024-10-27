@@ -1,4 +1,4 @@
-# Unit 2 Scrum Security review
+# Scrum Security review
 
 ## Requirement
 Please carry out these activities before joining the seminar this week. Your answers will be discussed during the seminar.
