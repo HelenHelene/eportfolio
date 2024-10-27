@@ -42,10 +42,10 @@ print(buffer)
  - Run your code using: Python overflow.py (or use the codio rocket icon)
  - What is the result?
  - Read about Pylint at [http://pylint.pycqa.org/en/latest/tutorial.html](http://pylint.pycqa.org/en/latest/tutorial.html)
- - Install pylint using the following commands:
-        pip install pylint (in the command shell/ interpreter)
- - Run pylint on one of your files and evaluate the output:
-      pylint your_file
+ - Install pylint using the following commands:<br>
+   * _pip install pylint (in the command shell/ interpreter)_ <br>
+ - Run pylint on one of your files and evaluate the output:<br>
+   * _pylint your_file_ <br>
  - (Make sure you are in the directory where your file is located before running Pylint)
  - What is the result? Does this tell you how to fix the error above?
 
