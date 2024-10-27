@@ -14,7 +14,8 @@
 | [5](SSD_Unit05.md) | e-portfolio Component | <br> [Exploring the Cyclomatic Complexity’s Relevance Today](SSD_Unit05_Component.md) <br><br> |
 | [6](SSD_Unit06.md) | Seminar Preparation | <br> [Exploring Linters to Support Testing in Python](SSD_Unit06_Seminar.md) <br><br> |
 | [7](SSD_Unit07.md) | e-portfolio Component | <br> [What is an Ontology?](SSD_Unit07_Component.md) <br><br> |
-| [7](SSD_Unit07.md) | Activity | <br> [Exploring a simple Python shell](SSD_Unit07_Activity.md) <br><br> |
+| [7](SSD_Unit07.md) | Activity | <br> [Exploring a simple Python shell](SSD_Unit07_Activity1.md) <br><br> |
+| [7](SSD_Unit07.md) | Activity | <br> [Developing an API for a Distributed Environment](SSD_Unit07_Activity2.md) <br><br> |
 | [8](SSD_Unit08.md) | Seminar Preparation | <br> [Cryptography Programming Exercise](SSD_Unit08_Seminar.md) <br><br> |
 | [8](SSD_Unit08.md) - [10](SSD_Unit10.md)	| Collaborative Discussion 2 | <br> Cryptography Case Study - TrueCrypt : [Initial post](SSD_Unit08_Initial.pdf), [Peer Response 1](SSD_Unit09_Respond1.pdf), [Peer Response 2](SSD_Unit09_Respond2.pdf), [Summary post](SSD_Unit10_Summary.pdf) <br><br> |
 | [10](SSD_Unit10.md) | e-portfolio Component | <br> [Faceted Data](SSD_Unit10_Component.md) <br><br> |
