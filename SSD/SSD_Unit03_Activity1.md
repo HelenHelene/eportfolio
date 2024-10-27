@@ -41,7 +41,7 @@ print(buffer)
 
  - Run your code using: Python overflow.py (or use the codio rocket icon)
  - What is the result?
- - Read about Pylint at [http://pylint.pycqa.org/en/latest/tutorial.html](http://pylint.pycqa.org/en/latest/tutorial.html)
+ - Read about Pylint at http://pylint.pycqa.org/en/latest/tutorial.html
  - Install pylint using the following commands:<br>
    * _pip install pylint (in the command shell/ interpreter)_ <br>
  - Run pylint on one of your files and evaluate the output:<br>
