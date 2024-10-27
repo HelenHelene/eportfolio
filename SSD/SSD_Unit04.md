@@ -1,18 +1,24 @@
-# Unit 4: Estimating Tools and Risk Assessment
+# Unit 4: Exploring Programming Language Concepts
 
-This week, we discussed xxx
+Welcome to Week 4 where we will investigate and explore the effect of key programming concepts on system security. We will focus on two concepts in particular: regular expressions and recursion.
+
+In this unit we shall:
+ - Explore the use of regular expressions and recursion in creating software solutions.
+ - Investigate the effects of using regular expressions and recursion on system security.
+ - Recommend the most suitable approaches for given security requirements/ risk appetites.
 
 ### Learning Outcomes
-xxx
+On completion of this unit you will be able to:
+ - Explain how and when to use regular expressions in solutions.
+ - Describe how and when to use recursion in solutions.
+ - Discuss the security implications of both approaches.
+
+This section will provide you with the opportunity to explore two programming language concepts and to investigate the pros and cons of both approaches. This section will also help you understand how the application of such concepts can affect overall system and solution security.
 
 ### Artefacts and Collaborative Discussion 
-As part of my e-portfolio, I have completed the following activities and actively engaged in collaborative discussions, which are documented in the provided link:
+As part of my e-portfolio, I have completed the following activities, which are documented in the provided link:
 
-[Collaborative Discussion 1 - Project Failures Study-Summary post](SSD_Unit04_SummaryPost.pdf)
-
-[Wiki Entry-Risks and Risk Mitigation](SSD_Unit04_Wiki.md)
-
-[Estimating Tools and Risk Assessment](SSD_Unit04_Seminar.md)
+[Programming language concepts](SSD_Unit04_Seminar.pdf)
 
 
 ### Reflections
