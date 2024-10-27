@@ -24,6 +24,6 @@
 
 ---
 
-[Return to Assignment 1 - Project Report](SSD.md) <br>
+[Return to Assignment 1 - Design Document](SSD_A1.md) <br>
 [Return to Assignment 3 - e-Portfolio](SSD_A3.md) <br>
 [Return to Module 6](SSD_main.md)
