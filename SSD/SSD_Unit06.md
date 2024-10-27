@@ -6,14 +6,9 @@ This week, we discussed xxx
 xxx
 
 ### Artefacts and Collaborative Discussion 
-As part of my e-portfolio, I have completed the following activities and actively engaged in collaborative discussions, which are documented in the provided link:
+As part of my e-portfolio, I have completed the following activities, which are documented in the provided link:
 
-[Collaborative Discussion 1 - Project Failures Study-Summary post](SSD_Unit04_SummaryPost.pdf)
-
-[Wiki Entry-Risks and Risk Mitigation](SSD_Unit04_Wiki.md)
-
-[Estimating Tools and Risk Assessment](SSD_Unit04_Seminar.md)
-
+[Exploring Linters to Support Testing in Python](SSD_Unit06_Seminar.md)<br><br>
 
 ### Reflections
 During this unit, I gained valuable insights into xxx
