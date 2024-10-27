@@ -19,13 +19,13 @@ Lastly, we are expected to submit an e-Portfolio, gathering evidence of work and
 
 The units presented below serve as a compilation of evidence, showcasing the work accomplished in this module and documenting the learning journey.
 
-#### [Unit 1: xxx](SSD_Unit01.md)
+#### [Unit 1: Introduction to Secure Software Development](SSD_Unit01.md)
 
-#### [Unit 2: xxx](SSD_Unit02.md)
+#### [Unit 2: UML Modelling to Support Secure System Planning](SSD_Unit02.md)
 
-#### [Unit 3: xxx](SSD_Unit03.md)
+#### [Unit 3: Programming Languages: History, Concepts & Design](SSD_Unit03.md)
 
-#### [Unit 4: xxx](SSD_Unit04.md)
+#### [Unit 4: Exploring Programming Language Concepts](SSD_Unit04.md)
 
 #### [Unit 5: xxx](SSD_Unit05.md)
 
