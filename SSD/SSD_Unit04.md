@@ -18,8 +18,9 @@ This section will provide you with the opportunity to explore two programming la
 ### Artefacts and Collaborative Discussion 
 As part of my e-portfolio, I have completed the following activities, which are documented in the provided link:
 
-[Programming language concepts](SSD_Unit04_Seminar.md)
+[Programming language concepts](SSD_Unit04_Component.md)
 
+[Programming exercises - recursion and regex](SSD_Unit04_Seminar.md)
 
 ### Reflections
 During Unit 4, I gained valuable insights into xxx
