@@ -29,19 +29,19 @@ The units presented below serve as a compilation of evidence, showcasing the wor
 
 #### [Unit 5: An Introduction to Testing](SSD_Unit05.md)
 
-#### [Unit 6: xxx](SSD_Unit06.md)
+#### [Unit 6: Using Linters to Support Python Testing](SSD_Unit06.md)
 
-#### [Unit 7: xxx](SSD_Unit07.md)
+#### [Unit 7: Introduction to Operating Systems](SSD_Unit07.md)
 
-#### [Unit 8: xxx](SSD_Unit08.md)
+#### [Unit 8: Cryptography and Its Use in Operating Systems](SSD_Unit08.md)
 
-#### [Unit 9: xxx](SSD_Unit09.md)
+#### [Unit 9: Developing an API for a Distributed Environment](SSD_Unit09.md)
 
-#### [Unit 10: xxx](SSD_Unit10.md)
+#### [Unit 10: From Distributed Computing to Microarchitectures](SSD_Unit10.md)
 
-#### [Unit 11: xxx](SSD_Unit11.md)
+#### [Unit 11: Future trends in Secure Software Development](SSD_Unit11.md)
 
-#### [Unit 12: xxx](SSD_Unit12.md)
+#### [Unit 12: The Great Tanenbaum-Torvalds Debate Revisited](SSD_Unit12.md)
 <br>
 
 📑 **You may also refer to the [List of Artefacts](SSD_ArtefactsSummary.md) for quick access to all artefacts.**
