@@ -1,4 +1,4 @@
-# Unit 7: Estimating Tools and Risk Assessment
+# Unit 7:
 
 This week, we discussed xxx
 
@@ -6,13 +6,11 @@ This week, we discussed xxx
 xxx
 
 ### Artefacts and Collaborative Discussion 
-As part of my e-portfolio, I have completed the following activities and actively engaged in collaborative discussions, which are documented in the provided link:
+As part of my e-portfolio, I have completed the following activities which are documented in the provided link:
 
-[Collaborative Discussion 1 - Project Failures Study-Summary post](SSD_Unit04_SummaryPost.pdf)
+[What is an Ontology?](SSD_Unit07_Component.md) 
 
-[Wiki Entry-Risks and Risk Mitigation](SSD_Unit04_Wiki.md)
-
-[Estimating Tools and Risk Assessment](SSD_Unit04_Seminar.md)
+[Exploring a simple Python shell](SSD_Unit07_Activity.md) <br><br> 
 
 
 ### Reflections
