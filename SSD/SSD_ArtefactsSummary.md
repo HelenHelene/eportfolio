@@ -4,7 +4,6 @@
 | Unit(s)	| Component	|	Artefacts | 
 | :------ | :-------- | :-------- |
 | [1](SSD_Unit01.md) - [3](SSD_Unit03.md)	| Collaborative discussion 1 | <br> UML Flowchart: [Initial post](SSD_Unit01_Discussion.pdf), [Peer Response 1](SSD_Unit02_Respond1.pdf), [Peer Response 2](SSD_Unit02_Respond2.pdf), [Summary post](SSD_Unit03_Summary.pdf) <br><br> |
-| [1](SSD_Unit01.md) | Seminar Preparation | <br> [Introduction to Team Project](SSD_Unit01_Seminar.md) <br><br> |
 | [2](SSD_Unit02.md) | Seminar Preparation | <br> [Scrum Security review](SSD_Unit02_Seminar.md) <br><br> |
 | [3](SSD_Unit03.md) | Team Activity | <br> [What is a Secure Programming Language?](SSD_Unit03_TeamActivity.md) <br><br> |
 | [3](SSD_Unit03.md) | Activity | <br> [Exploring Python tools and features](SSD_Unit03_Activity.md) <br><br> |
