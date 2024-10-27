@@ -19,8 +19,6 @@ The topics presented during Week 5 are important within the overall context of d
 ### Artefacts and Collaborative Discussion 
 As part of my e-portfolio, I have completed the following activities, which are documented in the provided link:
 
-[Collaborative Discussion 1 - Project Failures Study-Summary post](SSD_Unit04_SummaryPost.pdf)
-
 [Equivalence Testing in Python](SSD_Unit05_Activity.md)
 
 [Exploring the Cyclomatic Complexity’s Relevance Today](SSD_Unit05_Component.md)
