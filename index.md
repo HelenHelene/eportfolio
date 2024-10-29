@@ -3,9 +3,9 @@
 # Helen SIU <br>  
 
 ## Professional Qualification  
-#### [PECB ISO/IEC 27001 Foundation]
-#### [HKICPA Certified Public Accountant]
-#### [ACCA Fellow member]
+#### PECB ISO/IEC 27001 Foundation
+#### HKICPA Certified Public Accountant
+#### ACCA Fellow member
 
 ## Education
 #### MSc Computer Science (In Progress)
