@@ -1,7 +1,7 @@
 ## E-Portfolio of   
 
-# [Helen SIU](Aboutme.md) <br>  
-
+# Helen SIU <br>  
+## [About Me](Aboutme.md) <br>
 
 
 ### University of Essex Learning Experience
