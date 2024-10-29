@@ -7,4 +7,4 @@
 
 ## Education
 #### MSc Computer Science (In Progress)
-#### Master of Management Science - Accounting (2008)
+#### Master of Management Science - Accounting
