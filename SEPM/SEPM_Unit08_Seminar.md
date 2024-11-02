@@ -1,6 +1,6 @@
 # Seminar Preparation: Data Structures
 
-## Below two different data structures to hold the data associated with the list of functional and non-functional requirements in [previous tasks](SEPM/SEPM_Unit03_Activity.md) with justification. 
+## Below two different data structures to hold the data associated with the list of functional and non-functional requirements in [previous tasks](SEPM_Unit03_Activity.md) with justification. 
 
 ### Queue
  - **Functional Requirements:**
