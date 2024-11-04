@@ -6,13 +6,14 @@
 # Meeting Recordings
 
 2 November 2024	<br> 
-🔗 [![Meeting Recording](SSD_A1_Meeting1.jpg)](https://www.youtube.com/watch?v=5opSY1JQdYs)
-<br><br>
+🔗 <br>
+<a href="https://www.youtube.com/watch?v=5opSY1JQdYs/">
+    <img src="SSD_A1_Meeting1.jpg" width="600" alt="Meeting Recording">
+</a>
 
 10 November 2024 <br> 
-🔗<a href="https://www.youtube.com/watch?v=5opSY1JQdYs/">
-    <img src="SSD_A1_Meeting1.jpg" width="300" alt="Meeting Recording">
-</a>
+🔗 <br> 
+[![Meeting Recording](SSD_A1_Meeting1.jpg)](https://www.youtube.com/watch?v=5opSY1JQdYs)
 <br><br>
 
 17 November 2024 <br> 
