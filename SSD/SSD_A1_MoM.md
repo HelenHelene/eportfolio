@@ -13,7 +13,6 @@
 
 ### 10 November 2024 <br> 
 🔗 Clicking the image will redirect you to YouTube. <br> 
-[![Meeting Recording](SSD_A1_Meeting1.jpg)](https://www.youtube.com/watch?v=5opSY1JQdYs)
 <br><br>
 
 ### 17 November 2024 <br> 
