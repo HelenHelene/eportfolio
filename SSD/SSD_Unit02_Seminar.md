@@ -1,28 +1,65 @@
 # Scrum Security review
 
-## Requirement
-Please carry out these activities before joining the seminar this week. Your answers will be discussed during the seminar.
 
 ## Question 1: Table
 Create a 2-column multi-line table. In the left-hand column, include the software development stages of the Scrum agile life cycle approach to project management. In the right-hand column, describe the processes which you recommend are applied at each stage to ensure that secure software is produced at the end of the development. To support the preparation of your response, you can refer to the following literature:
 
 [Sharma, A. & Bawa, R. K. (2020) Identification and Integration of Security Activities for Secure Agile Development. International Journal of Information Technology.](SSD_Unit02_Reference.pdf)
+<br><br>
 
-## Question 2: Blog Post (also e-portfolio activity)
-Some say that people are the biggest risk of cyber security.
+---
 
-Select five terms from [ISO/IEC Standard 27000 Section 3 Terms and Definitions](https://www.iso.org/obp/ui/#iso:std:iso-iec:27000:ed-5:v1:en) and write a 300-word blog post on how people can be managed to overcome cyber security attacks from the inside.
+## Question 2: Blog Post 
 
-The posts made into this blog tool will be visible to all participants in this module. Comments from student peers and the tutor are encouraged.
+### Managing People to Mitigate Insider Cybersecurity Threats
 
-## Reflections
-xxx
+Insider threats, often due to human error, are a significant risk in cybersecurity. Managing these threats requires a strategic approach based on the ISO/IEC 27000:2018 standard. I have chosen the following terms from ISO/IEC Standard 27000 Section 3 Terms and Definitions to explore how they can help overcome cybersecurity attacks from inside.
+
+### 3.1 Access Control
+ISO (2018) defines this as: <br>
+_“means to ensure that access to assets is authorized and restricted based on business and security requirements (3.56)”_ <br>
+
+By granting employees only the access necessary for their job functions, organizations adhere to the principle of least privilege. This minimizes the risk of unauthorized access leading to data breaches or misuse of information by insiders.
+
+### 3.9 Competence
+ISO (2018) defines this as: <br>
+_“ability to apply knowledge and skills to achieve intended results”_ <br>
+
+Ensuring that all personnel have the necessary skills to perform their roles securely is vital. Organizations should invest in continuous education, such as cybersecurity awareness training. Enhancing employee competence promotes thoughtful and secure behavior, reducing the likelihood of mistakes that could compromise security.
+
+### 3.10 Confidentiality
+ISO (2018) defines this as: <br>
+_“property that information is not made available or disclosed to unauthorized individuals, entities, or processes (3.54)”_ <br>
+
+Employees must understand the importance of safeguarding sensitive information and the potential consequences of unauthorized disclosure. By fostering a culture that values confidentiality, organizations can reduce the risk of accidental leaks and ensure appropriate handling of information. Methods to enforce confidentiality include data classification, encryption, and clear policies on data handling, aligning closely with access control (3.1) measures.
+
+### 3.14 Control
+ISO (2018) defines this as: <br>
+_“measure that is modifying risk (3.61)”_ <br>
+
+Establishing robust controls, such as segregation of duties, regular audits, monitoring systems, and incident response procedures helps detect and prevent malicious or inadvertent activities within the organization. Regularly reviewing and adjusting these controls ensures their continued effectiveness against evolving threats.
+
+### 3.23 Governance of Information Security
+ISO (2018) defines this as: <br>
+_“system by which an organization’s (3.50)information security (3.28) activities are directed and controlled”_ <br>
+
+Effective governance ensures that security strategies align with business objectives and are embedded throughout the organization. By establishing clear leadership, roles, and responsibilities, organizations create an environment where information security is everyone's responsibility. This top-down approach reinforces the importance of security policies and procedures, leading to better adherence and accountability at all levels.
+
+### Conclusion
+By focusing on these key areas defined in the ISO/IEC 27000:2018 standard, organizations can effectively mitigate risks posed by internal actors. Empowering employees with knowledge, restricting access appropriately, safeguarding sensitive information, implementing risk-modifying controls, and strategically directing security activities are all critical steps in strengthening an organization's overall security posture.
+
+### References
+ISO. (2018) ISO/IEC 27000:2018 Information technology-Security techniques-Information security management systems-Overview and vocabulary. Available from: https://www.iso.org/obp/ui/#iso:std:iso-iec:27000:ed-5:v1:en:term:3.50 [Accessed 4 November 2024].
+
+### Bibliography
+Kemp, CL. & Theoharidou, M. (2010). Insider Threat and Information Security Management. DOI: 10.1007/978-1-4419-7133-3_3
 
 <br><br>
 
 ---
 
-## Reference
+
+## Reflections
 xxx
 
 <br><br>
