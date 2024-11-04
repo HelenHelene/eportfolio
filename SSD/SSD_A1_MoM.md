@@ -7,27 +7,27 @@
 
 2 November 2024	<br> 
 🔗 https://www.youtube.com/watch?v=5opSY1JQdYs <br>
-<img src="SSD_A1_Meeting1jpg" alt="Capture screen of eeting recording" width="100"/>
+<img src="SSD_A1_Meeting1jpg" alt="Capture screen of meeting recording" width="100"/>
 <br>
 
 10 November 2024 <br> 
 🔗 https://www.youtube.com/watch?v=5opSY1JQdYs <br>
-<img src="SSD_A1_Meeting1jpg" alt="Capture screen of eeting recording" width="100"/>
+<img src="SSD_A1_Meeting1jpg" alt="Capture screen of meeting recording" width="100"/>
 <br>
 
 17 November 2024 <br> 
 🔗 https://www.youtube.com/watch?v=5opSY1JQdYs <br>
-<img src="SSD_A1_Meeting1jpg" alt="Capture screen of eeting recording" width="100"/>
+<img src="SSD_A1_Meeting1jpg" alt="Capture screen of meeting recording" width="100"/>
 <br>
 
 24 November 2024 <br> 
 🔗 https://www.youtube.com/watch?v=5opSY1JQdYs <br>
-<img src="SSD_A1_Meeting1jpg" alt="Capture screen of eeting recording" width="100"/>
+<img src="SSD_A1_Meeting1jpg" alt="Capture screen of meeting recording" width="100"/>
 <br>
 
 1 December 2024 <br> 
 🔗 https://www.youtube.com/watch?v=5opSY1JQdYs <br>
-<img src="SSD_A1_Meeting1jpg" alt="Capture screen of eeting recording" width="100"/>
+<img src="SSD_A1_Meeting1jpg" alt="Capture screen of meeting recording" width="100"/>
 <br><br>
 
 ---
