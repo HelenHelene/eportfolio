@@ -10,6 +10,7 @@
 <a href="https://www.youtube.com/watch?v=5opSY1JQdYs/">
     <img src="SSD_A1_Meeting1.jpg" width="600" alt="Meeting Recording">
 </a>
+<br><br>
 
 ### 10 November 2024 <br> 
 🔗 Clicking the image will redirect you to YouTube. <br> 
