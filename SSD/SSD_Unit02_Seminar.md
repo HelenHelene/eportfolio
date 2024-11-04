@@ -11,7 +11,7 @@ Create a 2-column multi-line table. In the left-hand column, include the softwar
 
 ## Question 2: Blog Post 
 
-### Managing People to Mitigate Insider Cybersecurity Threats
+### [Managing People to Mitigate Insider Cybersecurity Threats](SSD_Unit02_Blog.pdf)
 
 Insider threats, often due to human error, are a significant risk in cybersecurity. Managing these threats requires a strategic approach based on the ISO/IEC 27000:2018 standard. I have chosen the following terms from ISO/IEC Standard 27000 Section 3 Terms and Definitions to explore how they can help overcome cybersecurity attacks from inside.
 
