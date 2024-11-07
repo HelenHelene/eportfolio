@@ -78,7 +78,11 @@ Kemp, CL. & Theoharidou, M. (2010). Insider Threat and Information Security Mana
 
 
 ## Reflections
-xxx
+In the Scrum Security Review, I gained a comprehensive understanding of integrating security processes within the Scrum framework. By mapping security activities to each Scrum stage, I've learned to appreciate the importance of embedding security considerations from the outset. This approach enhances the security posture of software projects and ensures that security is an ongoing concern rather than an afterthought. Identifying and prioritizing security features early in the Product Backlog helps mitigate risks from the start. Incorporating security tasks in Sprint Planning and Daily Scrums keeps the team focused on security throughout development. Regular Sprint Reviews and Retrospectives allow the team to address vulnerabilities and refine security practices continuously.
+
+In the Blog Post on Managing Insider Cybersecurity Threats, I explored how human factors significantly impact cybersecurity. By delving into ISO/IEC 27000 terms, I learned how to strategically manage insider risks. Implementing the principle of least privilege and cultivating a culture of confidentiality are crucial in preventing unauthorized access and data breaches. Ensuring employees are well-trained and aware of security protocols reduces the likelihood of errors that could lead to security incidents. Establishing strong governance and controls ensures that security measures align with organizational goals and are effectively implemented.
+
+Overall, these exercises have reinforced the importance of integrating security at every stage of development and managing human elements to safeguard against insider threats. This holistic approach to security fosters a culture of awareness and responsibility, ultimately strengthening the organization’s security framework.
 
 <br><br>
 
