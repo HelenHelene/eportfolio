@@ -8,7 +8,7 @@ Additionally, the unit emphasized the need for a risk-aware culture within organ
 While developing secure software is vital, fostering a security-conscious mindset among developers and maintainers is equally important.
 
 ### Learning Outcomes
-By the end of this unit, we should be able to:
+By the end of this unit, we were able to:
  - Identify academic literature on secure software development using agile methodologies.
  - Break down activities into tasks using UML flow charts.
  - Understand the significance of a risk-aware culture alongside secure software creation.
