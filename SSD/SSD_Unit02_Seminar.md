@@ -7,9 +7,22 @@ Create a 2-column multi-line table. In the left-hand column, include the softwar
 [Sharma, A. & Bawa, R. K. (2020) Identification and Integration of Security Activities for Secure Agile Development. International Journal of Information Technology.](SSD_Unit02_Reference.pdf)
 <br><br>
 
+| **Scrum Development Stage** | **Recommended Security Processes** |
+| :---------------------------- | :----------------------------------- |
+| **Product Backlog**         | Conduct security requirement gathering and threat modeling. Identify and prioritize security features. Use role matrix for access control definitions. |
+| **Sprint Planning**         | Integrate security requirements into sprint goals. Ensure tasks include security testing and code reviews. Specify operational environment security needs. |
+| **Daily Scrum**             | Include security status updates. Discuss and mitigate any security risks or issues identified during development. |
+| **Sprint Review**           | Demonstrate implemented security features. Review any security vulnerabilities identified and discuss solutions. |
+| **Sprint Retrospective**    | Analyze security incidents or vulnerabilities from the last sprint. Adjust processes to improve security practices. |
+| **Increment**               | Perform final security testing on the product increment. Conduct penetration testing and dynamic analysis. |
+
+<br><br>
+
 ---
 
 ## Question 2: Blog Post 
+Some say that people are the biggest risk of cyber security.
+Select five terms from ISO/IEC Standard 27000 Section 3 Terms and Definitions and write a 300-word blog post on how people can be managed to overcome cyber security attacks from the inside.
 
 ### [Managing People to Mitigate Insider Cybersecurity Threats](SSD_Unit02_Blog.pdf)
 
