@@ -14,7 +14,12 @@ Create a 2-column multi-line table. In the left-hand column, include the softwar
 | **Daily Scrum**             | Include security status updates. Discuss and mitigate any security risks or issues identified during development. |
 | **Sprint Review**           | Demonstrate implemented security features. Review any security vulnerabilities identified and discuss solutions. |
 | **Sprint Retrospective**    | Analyze security incidents or vulnerabilities from the last sprint. Adjust processes to improve security practices. |
-| **Increment**               | Perform final security testing on the product increment. Conduct penetration testing and dynamic analysis. |
+| **Release**               | Perform final security testing before releasing to production. Conduct penetration testing and dynamic analysis. |
+
+### References
+Moyon, F. et al. (2020) How to Integrate Security Compliance Requirements with Agile Software Engineering at Scale?. DOI: 10.1007/978-3-030-64148-1_5
+
+Sharma, A. & Bawa, RK. (2022) Identification and integration of security activities for secure agile development. DOI: https://doi.org/10.1007/s41870-020-00446-4
 
 <br><br>
 
