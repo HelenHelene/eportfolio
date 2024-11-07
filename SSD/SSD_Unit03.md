@@ -1,23 +1,14 @@
 # Unit 3: Programming Languages: History, Concepts & Design
 
-Welcome to Week 3 where we will spend some time investigating programming languages – looking at the history, concepts and design that led to the languages we have today. Programming languages are a fundamental concept in computer science – they are the primary tool used by computer scientists and developers to design, define, create and implement the tools we use today.
-
-In this unit we shall:
- - Review the history and concepts of programming languages.
- - Investigate language concepts using Python as an example.
- - Describe best practices and methods to overcome common security issues.
+In Week 3, we explored the history, concepts, and design of programming languages, using Python as an example. We discussed key figures like Alan Turing and Alonzo Church, and examined paradigms that define different languages. This included the evolution from early machine code to languages like Cobol, Fortran, Lisp, and ALGOL. We also covered essential concepts like inheritance, polymorphism, and abstraction, and reviewed best practices for security. Finally, we explored design patterns to improve software development.
 
 ### Learning Outcomes
-On completion of this unit you will be able to:
- - Describe some key milestones in the development of programming languages.
- - Outline some of the key paradigms that define the different types of languages.
- - Explain the key concepts that determine the operation of programming languages.
- - Discuss key programming challenges and recommended best practices.
+On completion of this unit, I was able to:
+ - Describe key milestones in the development of programming languages.
+ - Outline key paradigms that define different types of languages.
+ - Explain key concepts that determine the operation of programming languages.
+ - Discuss programming challenges and recommended best practices.
  - Explain what design patterns are and when to use them.
-
-This session will describe in some detail the history and concepts of programming languages. We will start by looking a basic definition and discussing where programming languages came from, the impact of the work of Alan Turing and Alonzo Church and reviewing the basic paradigms that define the different types of programming languages available today. We will also review the development of programming languages, from the early machine code language of the Small Scale Experimental Machine (SSEM), through the first assembly language code of the Cambridge EDSAC (which in turn led to the first business machine – the Lyons Electronic Office (LEO)), to the giddy days of the nineteen fifties and the birth of languages such as Cobol, Fortran and Lisp, ultimately leading to the design of ALGOL. This section will help students understand the origins of programming languages and how those roots have influenced language design today.
-
-We will spend some time looking at key language concepts such as inheritance, polymorphism and abstraction, why we need and use these techniques and how they are implemented, using Python as an example. We will also review some common security challenges and look at best practice recommendations to mitigate them. Finally, we will look at design patterns and how they can help developers design and build better and more secure software applications.
 
 ### Artefacts 
 As part of my e-portfolio, I have completed the following activities and actively engaged in collaborative discussions, , which are recorded in the link below:
