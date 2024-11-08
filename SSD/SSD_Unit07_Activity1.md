@@ -3,7 +3,7 @@
 ## Requirement
 In this session, you will create a command shell in Python, and then run it and answer questions about it. You can use your chosen **Jupyter Notebook space** for your work.
 
-Review the blogs at [Praka (2018)] and [Szabo (n.d.)] and then create a CLI/ shell that implements the following:
+Review the blogs at [Praka (2018)](https://danishpraka.sh/posts/shell-in-python/) and [Szabo (n.d.)](https://code-maven.com/interactive-shell-with-cmd-in-python) and then create a CLI/ shell that implements the following:
 
  - When you enter the command LIST it lists the contents of the current directory
  - The ADD command will add the following two numbers together and provide the result
