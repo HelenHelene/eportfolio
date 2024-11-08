@@ -1,7 +1,7 @@
 # Debate: Microservices and Microkernels
 
 ## Requirement
-Read [Appendix A: the Tanenbaum-Torvalds debate in DiBona & Ockman (1999)] then read [Fritzsch et al (2019)].
+Read [Appendix A: the Tanenbaum-Torvalds debate in DiBona & Ockman (1999)](SSD_Unit11_ActivityReference1.pdf) then read [Fritzsch et al (2019)](SSD_Unit11_ActivityReference2.pdf).
 
 The forum has a message that says: “Torvalds has been proven wrong and it only took nearly thirty years. Microservices and microkernels are the future. “
 
