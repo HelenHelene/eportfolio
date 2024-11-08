@@ -4,7 +4,7 @@
 In this session, you will create a RESTful API which can be used to create and delete user records. 
 Responses to the questions should be recorded in your e-portfolio.
 
-You are advised to use these techniques to create an API for your team’s submission in Unit 11 and be prepared to demonstrate it during next week’s seminar (Unit 10). 
+You are advised to use these techniques to create an API for your team’s submission in [Unit 11](SSD_Unit11.md) and be prepared to demonstrate it during next week’s seminar [(Unit 10)](SSD_Unit10.md). 
 Remember that you can arrange a session with the tutor during office hours for more support, if required.
 
 Using the **Jupyter Notebook workspace**, create a file named api.py and copy the following code into it (a copy is provided for upload to Codio/GitHub): 
@@ -109,7 +109,7 @@ What happens when this command is run, and why?
 What capability is achieved by the flask library?
 
 ## Architecture Evolution Activity
-Based on your reading this week, could you write a section that might be appended to this paper, [Salah et al, 2016], which would present the next phase of evolution history, from microservices to the technologies which are commonly in use today?
+Based on your reading this week, could you write a section that might be appended to this paper, [Salah et al, 2016](SSD_Unit07_ActivityRef1.pdf), which would present the next phase of evolution history, from microservices to the technologies which are commonly in use today?
 
 Remember to record your results, ideas and team discussions in your e-portfolio.
 
