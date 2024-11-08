@@ -7,7 +7,7 @@ You are also welcome to demo your summative code assessment in Week 10 if you ar
 
 Read the paper: [S. Fiore et al. (2019)](SSD_Unit10_SeminarReference.pdf). Making reference to page 117659 and the paragraph which begins, "Through an API or via web pages, ...", write a similar paragraph which is applicable for the system that you have designed and developed."
 
-Please remember that these demonstrations are in line with academic integrity requirements; you will not get full marks by only delivering working code in Unit 11.
+Please remember that these demonstrations are in line with academic integrity requirements; you will not get full marks by only delivering working code in [Unit 11](SSD_Unit11.md).
 
 Where it is not possible for all team members to join the session this week, a separate session should be arranged with the tutor.
 
