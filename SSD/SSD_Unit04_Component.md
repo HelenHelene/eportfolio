@@ -1,9 +1,9 @@
 # Programming language concepts
 
 ## Requirement
-Read [Larson (2018)](SSD_Unit04_Reference.pdf) and [Weidman (n.d.)](https://owasp.org/www-community/attacks/Regular_expression_Denial_of_Service_-_ReDoS) then answer the questions below, adding them as evidence to your e-portfolio. 
+Read [Larson (2018)](SSD_Unit04_Reference.pdf) and [Weidman (n.d.)](https://owasp.org/www-community/attacks/Regular_expression_Denial_of_Service_-_ReDoS) then answer the questions below.
 
-### 1. What is ReDOS and what part do ‘Evil Regex’ play?
+### 1. What is ReDoS and what part do ‘Evil Regex’ play?
 ReDoS, or Regular Expression Denial of Service, is an attack targeting weaknesses in how some regular expression (regex) engines handle input. It exploits patterns that lead to excessive backtracking, using up lots of CPU and memory, which can slow down or crash systems, denying service to real users.
 
 'Evil Regex' patterns are key to ReDoS attacks. They can cause complex processing times due to their structure, often involving:
@@ -57,14 +57,22 @@ By using regex wisely, security solutions can better manage and validate text da
 
 
 ## Reflections
-xxx
+Through this Q&A, I have deepened my understanding of ReDoS attacks and the role of 'Evil Regex' patterns. I learned that ReDoS exploits inefficiencies in regex handling, leading to excessive backtracking and resource consumption. Understanding how nested repetitions and overlapping alternation contribute to these vulnerabilities is crucial.
+
+In my future coding practice, I will focus on designing efficient regex patterns by avoiding structures that lead to excessive backtracking and being mindful of nested quantifiers and ambiguous patterns. Implementing mitigation strategies is also essential. I plan to use automated tools to detect potential regex vulnerabilities and conduct thorough testing with diverse inputs, including edge cases.
+
+Enhancing security practices is another key takeaway. I will leverage regex for input validation and sanitisation while regularly reviewing and updating patterns to ensure security. Staying informed about best practices and updates in regex usage is vital, and I will engage in peer reviews to catch potential issues early.
+
+By integrating these lessons into my coding workflow, I aim to write more secure and efficient code, reducing the risk of ReDoS and enhancing overall application performance.
 
 <br><br>
 
 ---
 
 ## Reference
-xxx
+Larson, E. (2018) Automatic Checking of Regular Expressions. 18th IEEE International Working Conference on Source Code Analysis and Manipulation (SCAM).
+
+Weidman, A. (n.d.) Regular expression Denial of Service - ReDoS.
 
 <br><br>
 
