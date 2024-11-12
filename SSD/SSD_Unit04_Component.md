@@ -1,7 +1,7 @@
 # Programming language concepts
 
 ## Requirement
-Read [Larson (2018)](SSD_Unit04_Reference.pdf) and [Weidman (n.d.)](https://owasp.org/www-community/attacks/Regular_expression_Denial_of_Service_-_ReDoS) then answer the questions below.
+Read [Larson (2018)](SSD_Unit04_Reference.pdf) and [Weidman (n.d.)](https://owasp.org/www-community/attacks/Regular_expression_Denial_of_Service_-_ReDoS) then answer the questions below:
 
 ### 1. What is ReDoS and what part do ‘Evil Regex’ play?
 ReDoS, or Regular Expression Denial of Service, is an attack targeting weaknesses in how some regular expression (regex) engines handle input. It exploits patterns that lead to excessive backtracking, using up lots of CPU and memory, which can slow down or crash systems, denying service to real users.
