@@ -20,6 +20,7 @@ Python has several features that contribute to its security:
  - **Extensive Libraries:** Includes libraries for secure web development and cryptography.
  - **Community and Support:** Large community actively maintains security updates.
  - **Readability:** Encourages writing clear and maintainable code, reducing bugs.
+
 While Python offers many secure features, it still depends on how developers use it. Misuse of functions like eval or insecure third-party libraries can introduce vulnerabilities (Pillai, 2017).
 
 ### 3. Python would be a better language to create operating systems than C. Discuss.
@@ -27,6 +28,7 @@ While Python provides high-level abstractions and ease of development, C is gene
  - **Performance:** C offers low-level access and efficient execution, crucial for OS development.
  - **Control:** C allows direct manipulation of hardware, essential for managing system resources.
  - **Legacy and Compatibility:** Many existing OS components are written in C, ensuring compatibility.
+
 Python's abstractions and slower execution make it less ideal for OS development compared to C.
 
 
