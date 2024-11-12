@@ -5,32 +5,33 @@ Read Chapter 2,6,7,8 of the course text (Pillai, 2017) and [Cifuentes & Bierman 
 
 ### 1. What factors determine whether a programming language is secure or not?
 According to Cifuentes and Bierman (2019), a secure programming language should address common vulnerabilities such as:
- - **Memory Safety:** Prevents buffer overflows and memory corruption.
- - **Type Safety:** Ensures operations are performed on compatible data types.
- - **Concurrency Support:** Manages race conditions safely.
- - **Error Handling:** Provides robust exception handling.
- - **Standard Libraries:** Includes secure defaults for cryptography and input validation.
- - **Community and Ecosystem:** Active support for security updates and patches.
- - **Tooling:** Availability of static analysis tools to detect vulnerabilities.
+ - **Buffer Errors:** These occur when a program overruns the buffer's boundary and overwrites adjacent memory, leading to crashes or exploitable code execution. A secure language should prevent buffer overflows by managing memory safely.
+ - **Injection Errors:** Such as SQL injection or cross-site scripting (XSS), these happen when untrusted input is incorporated into code or commands executed by the program. Secure languages should provide abstractions that eliminate the risks of code injection by properly handling and sanitizing user inputs.
+ - **Information Leak Errors:** These vulnerabilities involve the unintended disclosure of sensitive information. A secure language should ensure that sensitive data is handled correctly and not exposed to unauthorized entities.
+
+Pillai (2017) indirectly touches upon security through discussions of modifiability, readability, and testability. These qualities, while not directly security features, contribute to a more secure development process by reducing the likelihood of vulnerabilities.
    
 ### 2. Could Python be classed as a secure language? Justify your answer.
 Python has several features that contribute to its security:
- - **Memory Management:** Automatic memory management helps prevent buffer overflows.
- - **Strong Typing:** Reduces type-related vulnerabilities.
- - **Extensive Libraries:** Includes libraries for secure web development and cryptography.
- - **Community and Support:** Large community actively maintains security updates.
- - **Readability:** Encourages writing clear and maintainable code, reducing bugs.
+ - **Memory Management:** Python's automatic garbage collection helps prevent memory leaks and dangling pointers, reducing the risk of memory-related vulnerabilities.
+ - **Type Safety:** While dynamically typed, Python enforces type checking at runtime, catching potential type-related errors that could lead to security issues.
+ - **Community and Ecosystem:** Python has a large and active community that emphasizes secure coding practices. Numerous security-focused libraries and tools are readily available.
 
-While Python offers many secure features, it still depends on how developers use it. Misuse of functions like eval or insecure third-party libraries can introduce vulnerabilities (Pillai, 2017).
+Overall, Python is considered relatively secure, but it still depends on how developers use it. Misuse of functions like eval or insecure third-party libraries can introduce vulnerabilities. 
+Pillai (2017) suggests several strategies for enhancing security when using Python:
+ - **Input Validation:** Always validate user input using raw_input() (Python 2) or input() (Python 3) and handle type conversions manually. Use getpass for passwords.
+ - **Avoid eval() and exec():** Never use these functions with untrusted input. If absolutely necessary, restrict their use to controlled and trusted data sources.
+ - **Safe Serialization:** Avoid pickle and cPickle. Use json or yaml instead. If pickle is unavoidable, implement sandboxing or chroot jails.
+ - **Handle Integer Overflows:** Use exception handlers to catch and manage potential integer overflows.
+ - **Secure String Formatting:** Use the format() method for string formatting instead of the older % operator to prevent format string vulnerabilities.
 
-### 3. Python would be a better language to create operating systems than C. Discuss.
-While Python provides high-level abstractions and ease of development, C is generally more suitable for creating operating systems due to:
- - **Performance:** C offers low-level access and efficient execution, crucial for OS development.
- - **Control:** C allows direct manipulation of hardware, essential for managing system resources.
- - **Legacy and Compatibility:** Many existing OS components are written in C, ensuring compatibility.
+### 3. Python would be a better language to create operating systems (OS) than C. Discuss.
+While Python provides high-level abstractions and ease of development, C is generally more suitable for creating OS due to:
+ - **Performance:** C offers low-level access and efficient execution, crucial for OS development which require high performance for efficient resource management.
+ - **Control:** C offers precise control over hardware resources while Python's higher-level abstractions limit this control.
+ - **Existing Ecosystem:** The vast majority of existing operating systems are written in C or C++, creating a mature ecosystem of tools and libraries specifically designed for OS development.
 
-Python's abstractions and slower execution make it less ideal for OS development compared to C.
-
+While Python excels in application development due to its simplicity and productivity, it is not suitable for creating OS where performance, resource management, and hardware interaction are paramount (Cifuentes & Bierman, 2019). Therefore, C remains the preferred choice for OS development.
 
 ## Reflections
 From the analysis of programming language security, I've learned that a secure language must address common vulnerabilities like memory safety, type safety, and robust error handling. Python demonstrates many secure attributes, such as automatic memory management and strong typing, which help mitigate security risks. However, it also emphasizes the importance of how developers use these features to maintain security.
