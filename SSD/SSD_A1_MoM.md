@@ -12,12 +12,11 @@
 </a>
 <br><br>
 
-### 10 November 2024 <br> 
-🔗 Clicking the image will redirect you to YouTube. <br> 
-<br><br>
-
 ### 17 November 2024 <br> 
 🔗 Clicking the image will redirect you to YouTube. <br> 
+<a href="https://www.youtube.com/watch?v=UmlXR5dzWPo/">
+    <img src="SSD_A1_Meeting2.jpg" width="600" alt="Meeting Recording">
+</a>
 <br><br>
 
 ### 24 November 2024 <br> 
