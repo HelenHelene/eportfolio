@@ -6,6 +6,7 @@ The Cyclomatic Complexity is commonly considered in modules on testing the valid
 ## Introdution
 Cyclomatic Complexity (CC) is a metric used to measure the complexity of a program by quantifying the number of linearly independent paths through its source code. It's calculated based on the program's control flow graph and serves as an indicator of a program's complexity (Pressman, 2010). A higher CC value indicates greater complexity, which can make the code harder to understand, test, and maintain.
 
+
 ### 1. Should CC be considered?
 
 CC is a useful metric for assessing potential risks in the code. A higher complexity often correlates with a higher chance of defects and maintenance difficulties. Modules with lower CC are generally easier to understand and maintain, which is crucial for long-term project sustainability.
@@ -14,8 +15,6 @@ CC also helps in determining the minimum number of test cases needed to cover al
 
 In an educational context, it's important to teach foundational concepts like CC while also introducing students to its limitations and alternative metrics. This balanced approach can provide a more holistic understanding of code complexity.
 
-<br><br>
-
 
 ### 2. Is Cyclomatic Complexity remain relevant today?
 
@@ -23,7 +22,6 @@ It depends on the context. CC serves as a foundation for more advanced complexit
 
 Modern programming languages and paradigms may not be accurately assessed by CC. Nevertheless, while CC may not capture all facets of modern software complexity, it remains a relevant tool, especially when used in conjunction with other metrics. It can provide valuable insights into certain aspects of code quality and maintainability.
 
-<br><br>
 
 ### 3. Is it relevant in our quest to develop secure software?
 
@@ -35,6 +33,8 @@ While CC can be a helpful indicator in identifying potentially vulnerable areas 
 
 ## Conclusion
 While not the sole metric to rely on, CC provides valuable insights into code structure and potential risks. It is a useful tool in the broader strategy of developing secure, maintainable software. Incorporating CC alongside other metrics and modern practices can enhance code quality and security.
+
+<br> 
 
 ## Reflections
 Through exploring the relevance of CC, I have learned that while CC is not a comprehensive measure of code complexity, it remains a valuable tool for identifying potential problem areas in code. By understanding CC, I can better assess the complexity of my own code during exercises and projects.
