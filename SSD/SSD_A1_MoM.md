@@ -23,8 +23,13 @@
 🔗 Clicking the image will redirect you to YouTube. <br> 
 <br><br>
 
-### 1 December 2024 <br> 
+### 28 November 2024 <br> 
 🔗 Clicking the image will redirect you to YouTube. <br> 
+<br><br>
+
+### 1 December 2024 <br> 
+ <img src="SSD_A1_Meeting3.jpg" width="600" alt="Meeting Recording">
+</a>
 <br><br>
 
 ---
