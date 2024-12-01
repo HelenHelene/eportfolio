@@ -20,15 +20,20 @@
 <br><br>
 
 ### 24 November 2024 <br> 
-🔗 Clicking the image will redirect you to YouTube. <br> 
+<img src="SSD_A1_Meeting3.jpg" width="600" alt="Meeting Recording">
+</a>
+<br><br>
+
+### 26 November 2024 <br> 
+We have scheduled a meeting with the professor to discuss the design document and clarify any questions. 
 <br><br>
 
 ### 28 November 2024 <br> 
-🔗 Clicking the image will redirect you to YouTube. <br> 
+A small group meeting is scheduled to follow up on the points discussed after the meeting with the professor.  
 <br><br>
 
 ### 1 December 2024 <br> 
- <img src="SSD_A1_Meeting3.jpg" width="600" alt="Meeting Recording">
+<img src="SSD_A1_Meeting4.jpg" width="600" alt="Meeting Recording">
 </a>
 <br><br>
 
