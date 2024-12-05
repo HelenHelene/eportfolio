@@ -1,4 +1,4 @@
-### [Assignment 1: Development Team Project: Project Report - Synputer](SSD_A1_DesignDocument_final.pdf)
+### [Assignment 1: Development Team Project: Design Document](SSD_A1_DesignDocument_final.pdf)
 
 <br>
 Team Name: GAZHA<br>
