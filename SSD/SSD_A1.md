@@ -75,7 +75,7 @@ The Model-View-Controller (MVC) pattern separates concerns, enabling rapid proto
 #### 4.3 Data Structures
 Key data structures include: <br>
 
-<img src="SSD_A1_DataStructures.jpg" alt="Data Structures" width="600"/>
+<img src="SSD_A1_DataStructures.jpg" alt="Data Structures" width="500"/>
 <br>
 
 _Table 1. Data Structures_
@@ -87,27 +87,27 @@ Flask is used for the REST API to create a microservice without requiring additi
 ### 5. Security Concerns and Mitigations
 Key security challenges and mitigations are summarised below: <br>
 
-<img src="SSD_A1_AttackVectors.jpg" alt="Attack Vectors with OWASP and STRIDE" width="600"/>
+<img src="SSD_A1_AttackVectors.jpg" alt="Attack Vectors with OWASP and STRIDE" width="500"/>
 <br>
 
 _Table 2: Key attack vectors and proposed mitigations, in alignment with OWASP Top Ten and STRIDE. _
 
 ### 6. UML Designs
 #### 6.1 Class Diagram
-<img src="SSD_A1_Class.jpg" alt="Class Diagram" width="600"/>
+<img src="SSD_A1_Class.jpg" alt="Class Diagram" width="700"/>
 <br>
 
 #### 6.2 Use Case Diagram
-<img src="SSD_A1_UseCase.jpg" alt="Use Case Diagram" width="600"/>
+<img src="SSD_A1_UseCase.jpg" alt="Use Case Diagram" width="700"/>
 <br>
 
 #### 6.3 Misuse Case Diagram
 6.3.1	Misuse Case (Pauli & Xu, 2005) <br>
-<img src="SSD_A1_MisuseCase.jpg" alt="Misuse Case Diagram" width="600"/>
+<img src="SSD_A1_MisuseCase.jpg" alt="Misuse Case Diagram" width="700"/>
 <br>
 
 6.3.2	Misuse Case with Mitigation <br>
-<img src="SSD_A1_MisuseCaseMitigation.jpg" alt="Misuse Case with Mitigation" width="600"/>
+<img src="SSD_A1_MisuseCaseMitigation.jpg" alt="Misuse Case with Mitigation" width="700"/>
 <br>
 
 #### 6.4 Activity Diagram
@@ -115,21 +115,21 @@ Separate diagrams for login and CRUD operations.<br>
 
 6.4.1	User login activities<br>
 
-<img src="SSD_A1_LoginActivity.jpg" alt="User login activities" width="600"/>
+<img src="SSD_A1_LoginActivity.jpg" alt="User login activities" width="700"/>
 <br>
 
 6.4.2	Administration user CRUD activities<br>
 
-<img src="SSD_A1_AdminCRUD.jpg" alt="Administration user CRUD activities" width="600"/>
+<img src="SSD_A1_AdminCRUD.jpg" alt="Administration user CRUD activities" width="700"/>
 <br>
 
 6.4.3	Customer user activities<br>
 
-<img src="SSD_A1_CustomerCRUD.jpg" alt="Customer user activities" width="600"/>
+<img src="SSD_A1_CustomerCRUD.jpg" alt="Customer user activities" width="700"/>
 <br>
 
 ### 7. Tools and Libraries
-<img src="SSD_A1_Tools.jpg" alt="Tools and Libraries" width="600"/>
+<img src="SSD_A1_Tools.jpg" alt="Tools and Libraries" width="500"/>
 <br>
 
 _Table 3: Tools and Libraries_
@@ -137,14 +137,14 @@ _Table 3: Tools and Libraries_
 ### 8. Testing Strategy
 The following will be used to test the software application: <br>
 
-<img src="SSD_A1_Test.jpg" alt="Testing strategy" width="600"/>
+<img src="SSD_A1_Test.jpg" alt="Testing strategy" width="500"/>
 <br>
 
 _Table 4: Testing strategy_
 
 The following source code analysis tools for static application security testing (SAST) will aid secure code development: <br>
 
-<img src="SSD_A1_SAST.jpg" alt="Static application security testing" width="600"/>
+<img src="SSD_A1_SAST.jpg" alt="Static application security testing" width="500"/>
 <br>
 _Table 5: SAST_
 
@@ -156,31 +156,31 @@ This application limits personal data collection to essential information under 
 -----
 ### 10. Appendices
 Appendix 1: Domain requirements table <br>
-<img src="SSD_A1_Domain.jpg" alt="Domain requirement" width="700"/>
+<img src="SSD_A1_Domain.jpg" alt="Domain requirement" width="500"/>
 <br>
 
 Appendix 2: User stories <br>
-<img src="SSD_A1_UserStories.jpg" alt="User stories" width="700"/>
+<img src="SSD_A1_UserStories.jpg" alt="User stories" width="500"/>
 <br>
 
 Appendix 3: OWASP Top 10 2021 <br>
-<img src="SSD_A1_OWASP.jpg" alt="OWASP Top 10 2021" width="700"/>
+<img src="SSD_A1_OWASP.jpg" alt="OWASP Top 10 2021" width="500"/>
 <br>
 
 Appendix 4: OWASP Top 10 2024 Proactive Controls <br>
-<img src="SSD_A1_Proactive.jpg" alt="OWASP Top 10 2024 Proactive Controls" width="700"/>
+<img src="SSD_A1_Proactive.jpg" alt="OWASP Top 10 2024 Proactive Controls" width="500"/>
 <br>
 
 Appendix 5: STRIDE Model <br>
-<img src="SSD_A1_STRIDE.jpg" alt="STRIDE Model" width="700"/>
+<img src="SSD_A1_STRIDE.jpg" alt="STRIDE Model" width="500"/>
 <br>
 
 Appendix 6: Correspond GDPR Compliance <br>
-<img src="SSD_A1_GDPR.jpg" alt="Correspond GDPR Compliance" width="700"/>
+<img src="SSD_A1_GDPR.jpg" alt="Correspond GDPR Compliance" width="500"/>
 <br>
 
 Appendix 7: Correspond PCI DSS Compliance <br>
-<img src="SSD_A1_PCIDSS.jpg" alt="Correspond PCI DSS Compliance" width="700"/>
+<img src="SSD_A1_PCIDSS.jpg" alt="Correspond PCI DSS Compliance" width="500"/>
 <br><br>
 
 -----
