@@ -33,7 +33,7 @@ We have scheduled a meeting with the professor to discuss the design document an
 <br><br>
 
 ### 28 November 2024 <br> 
-A small group meeting is scheduled to follow up on the points discussed after the meeting with the professor.  
+A small group meeting is scheduled to follow up on the points discussed during the meeting with the professor.  
 <br><br>
 
 ### 1 December 2024 <br> 
