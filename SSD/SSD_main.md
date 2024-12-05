@@ -9,7 +9,7 @@ The second assignment xxx.
 Lastly, we are expected to submit an e-Portfolio, gathering evidence of work and submitting a reflective piece on personal development throughout the module.
 
 #### Assignment 1: Development Team Project _(🎓Pass with Distinction)_
-[Design Document](SSD_A1_Requirement.pdf) <br>
+[Design Document](SSD_A1.md) <br>
 	
 #### Assignment 2: Development Individual Project _(Work in progress)_
 [Output and Evidence of Testing](SSD_A2_Requirement.pdf)
