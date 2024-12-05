@@ -4,7 +4,7 @@
 Team Name: GAZHA<br>
 Team Members: George Koridze, Andrius Busilas, Zukiswa Tuso, Helen Oi Lam Siu, Anda Ziemele, Seyun Hur
 
-#### [Meeting records and Team contract](SSD_A1_MoM.md)
+#### [Team contract and Meeting records](SSD_A1_MoM.md)
 
 #### Contents
 1. Introduction
@@ -102,11 +102,11 @@ _Table 2: Key attack vectors and proposed mitigations, in alignment with OWASP T
 <br>
 
 #### 6.3 Misuse Case Diagram
-6.3.1	Misuse Case (Pauli & Xu, 2005)
+6.3.1	Misuse Case (Pauli & Xu, 2005) <br>
 <img src="SSD_A1_MisuseCase.jpg" alt="Misuse Case Diagram" width="600"/>
 <br>
 
-6.3.2	Misuse Case with Mitigation
+6.3.2	Misuse Case with Mitigation <br>
 <img src="SSD_A1_MisuseCaseMitigation.jpg" alt="Misuse Case with Mitigation" width="600"/>
 <br>
 
