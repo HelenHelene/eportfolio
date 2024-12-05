@@ -75,9 +75,7 @@ The Model-View-Controller (MVC) pattern separates concerns, enabling rapid proto
 #### 4.3 Data Structures
 Key data structures include: <br>
 
-<img src="SSD_A1_DataStructures.jpg" alt="Data Structures" width="500"/>
-<br>
-
+<img src="SSD_A1_DataStructures.jpg" alt="Data Structures" width="500"/> <br>
 _Table 1. Data Structures_
 
 #### 4.4 API
@@ -87,10 +85,8 @@ Flask is used for the REST API to create a microservice without requiring additi
 ### 5. Security Concerns and Mitigations
 Key security challenges and mitigations are summarised below: <br>
 
-<img src="SSD_A1_AttackVectors.jpg" alt="Attack Vectors with OWASP and STRIDE" width="500"/>
-<br>
-
-_Table 2: Key attack vectors and proposed mitigations, in alignment with OWASP Top Ten and STRIDE. _
+<img src="SSD_A1_AttackVectors.jpg" alt="Attack Vectors with OWASP and STRIDE" width="500"/><br>
+_Table 2: Key attack vectors and proposed mitigations, in alignment with OWASP Top Ten and STRIDE._
 
 ### 6. UML Designs
 #### 6.1 Class Diagram
@@ -129,23 +125,18 @@ Separate diagrams for login and CRUD operations.<br>
 <br>
 
 ### 7. Tools and Libraries
-<img src="SSD_A1_Tools.jpg" alt="Tools and Libraries" width="500"/>
-<br>
-
+<img src="SSD_A1_Tools.jpg" alt="Tools and Libraries" width="500"/> <br>
 _Table 3: Tools and Libraries_
 
 ### 8. Testing Strategy
 The following will be used to test the software application: <br>
 
-<img src="SSD_A1_Test.jpg" alt="Testing strategy" width="500"/>
-<br>
-
+<img src="SSD_A1_Test.jpg" alt="Testing strategy" width="500"/> <br>
 _Table 4: Testing strategy_
 
 The following source code analysis tools for static application security testing (SAST) will aid secure code development: <br>
 
-<img src="SSD_A1_SAST.jpg" alt="Static application security testing" width="500"/>
-<br>
+<img src="SSD_A1_SAST.jpg" alt="Static application security testing" width="500"/> <br>
 _Table 5: SAST_
 
 ### 9. Compliance and Privacy
