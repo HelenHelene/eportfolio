@@ -39,7 +39,6 @@ A small group meeting is scheduled to follow up on the points discussed during t
 ### 1 December 2024 <br> 
 Final meeting to agree on the design document and submission arrangement. <br>
 <img src="SSD_A1_Meeting4.jpg" width="600" alt="Meeting Recording">
-</a>
 <br><br>
 
 ---
