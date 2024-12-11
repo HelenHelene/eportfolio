@@ -34,7 +34,7 @@ While Python provides high-level abstractions and ease of development, C is gene
 While Python excels in application development due to its simplicity and productivity, it is not suitable for creating OS where performance, resource management, and hardware interaction are paramount (Cifuentes & Bierman, 2019). Therefore, C remains the preferred choice for OS development.
 
 ## Reflections
-From the analysis of programming language security, I've learned that a secure language must address common vulnerabilities like memory safety, type safety, and robust error handling. Python demonstrates many secure attributes, such as automatic memory management and strong typing, which help mitigate security risks. However, it also emphasizes the importance of how developers use these features to maintain security.
+From the analysis of programming language security, I've learned that a secure language must address common vulnerabilities like memory safety, type safety, and robust error handling. Python demonstrates many secure attributes, such as automatic memory management and strong typing, which help mitigate security risks. However, it also emphasises the importance of how developers use these features to maintain security.
 
 Python's high-level nature and readability make it ideal for tasks requiring rapid development, but it lacks the low-level control and performance efficiency needed for operating systems, which C provides.
 
