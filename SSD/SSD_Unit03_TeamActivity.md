@@ -51,6 +51,7 @@ By leveraging Python's strengths and being mindful of potential pitfalls, I can 
 
 ## Reference
 Cifuentes, C. & Bierman, G. (2019) What is a Secure Programming Language? 3rd Summit on Advances in Programming Languages (SNAPL).136(3): 1 - 15.
+
 Pillai, A.B. (2017) Software Architecture with Python. Birmingham, UK. Packt Publishing Ltd.
 
 <br><br>
