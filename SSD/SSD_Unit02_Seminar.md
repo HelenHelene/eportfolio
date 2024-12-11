@@ -9,11 +9,11 @@ Create a 2-column multi-line table. In the left-hand column, include the softwar
 
 | **Scrum Development Stage** | **Recommended Security Processes** |
 | :---------------------------- | :----------------------------------- |
-| **Product Backlog**         | Conduct security requirement gathering and threat modeling. Identify and prioritize security features. Use role matrix for access control definitions. |
+| **Product Backlog**         | Conduct security requirement gathering and threat modeling. Identify and prioritise security features. Use role matrix for access control definitions. |
 | **Sprint Planning**         | Integrate security requirements into sprint goals. Ensure tasks include security testing and code reviews. Specify operational environment security needs. |
 | **Daily Scrum**             | Include security status updates. Discuss and mitigate any security risks or issues identified during development. |
 | **Sprint Review**           | Demonstrate implemented security features. Review any security vulnerabilities identified and discuss solutions. |
-| **Sprint Retrospective**    | Analyze security incidents or vulnerabilities from the last sprint. Adjust processes to improve security practices. |
+| **Sprint Retrospective**    | Analyse security incidents or vulnerabilities from the last sprint. Adjust processes to improve security practices. |
 | **Release**               | Perform final security testing before releasing to production. Conduct penetration testing and dynamic analysis. |
 
 ### References
@@ -35,21 +35,21 @@ Insider threats, often due to human error, are a significant risk in cybersecuri
 
 ### 3.1 Access Control
 ISO (2018) defines this as: <br>
-_“means to ensure that access to assets is authorized and restricted based on business and security requirements (3.56)”_ <br>
+_“means to ensure that access to assets is authorised and restricted based on business and security requirements (3.56)”_ <br>
 
-By granting employees only the access necessary for their job functions, organizations adhere to the principle of least privilege. This minimizes the risk of unauthorized access leading to data breaches or misuse of information by insiders.
+By granting employees only the access necessary for their job functions, organisations adhere to the principle of least privilege. This minimises the risk of unauthorized access leading to data breaches or misuse of information by insiders.
 
 ### 3.9 Competence
 ISO (2018) defines this as: <br>
 _“ability to apply knowledge and skills to achieve intended results”_ <br>
 
-Ensuring that all personnel have the necessary skills to perform their roles securely is vital. Organizations should invest in continuous education, such as cybersecurity awareness training. Enhancing employee competence promotes thoughtful and secure behavior, reducing the likelihood of mistakes that could compromise security.
+Ensuring that all personnel have the necessary skills to perform their roles securely is vital. Organizations should invest in continuous education, such as cybersecurity awareness training. Enhancing employee competence promotes thoughtful and secure behaviour, reducing the likelihood of mistakes that could compromise security.
 
 ### 3.10 Confidentiality
 ISO (2018) defines this as: <br>
 _“property that information is not made available or disclosed to unauthorized individuals, entities, or processes (3.54)”_ <br>
 
-Employees must understand the importance of safeguarding sensitive information and the potential consequences of unauthorized disclosure. By fostering a culture that values confidentiality, organizations can reduce the risk of accidental leaks and ensure appropriate handling of information. Methods to enforce confidentiality include data classification, encryption, and clear policies on data handling, aligning closely with access control (3.1) measures.
+Employees must understand the importance of safeguarding sensitive information and the potential consequences of unauthorised disclosure. By fostering a culture that values confidentiality, organizations can reduce the risk of accidental leaks and ensure appropriate handling of information. Methods to enforce confidentiality include data classification, encryption, and clear policies on data handling, aligning closely with access control (3.1) measures.
 
 ### 3.14 Control
 ISO (2018) defines this as: <br>
