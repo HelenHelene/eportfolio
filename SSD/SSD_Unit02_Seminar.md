@@ -7,7 +7,7 @@ Create a 2-column multi-line table. In the left-hand column, include the softwar
 [Sharma, A. & Bawa, R. K. (2020) Identification and Integration of Security Activities for Secure Agile Development. International Journal of Information Technology.](SSD_Unit02_Reference.pdf)
 <br><br>
 
-| **Scrum Development Stage** | **Recommended Security Processes** |
+| **Scrum Development Stage** | **Recommended Security Processes** (Sharma & Bawa, 2020) |
 | :---------------------------- | :----------------------------------- |
 | **Product Backlog**         | Conduct security requirement gathering and threat modeling. Identify and prioritise security features. Use role matrix for access control definitions. |
 | **Sprint Planning**         | Integrate security requirements into sprint goals. Ensure tasks include security testing and code reviews. Specify operational environment security needs. |
@@ -17,9 +17,11 @@ Create a 2-column multi-line table. In the left-hand column, include the softwar
 | **Release**               | Perform final security testing before releasing to production. Conduct penetration testing and dynamic analysis. |
 
 ### References
+Sharma, A. & Bawa, RK. (2022) Identification and integration of security activities for secure agile development. DOI: https://doi.org/10.1007/s41870-020-00446-4
+
+### Bibliography
 Moyon, F. et al. (2020) How to Integrate Security Compliance Requirements with Agile Software Engineering at Scale?. DOI: 10.1007/978-3-030-64148-1_5
 
-Sharma, A. & Bawa, RK. (2022) Identification and integration of security activities for secure agile development. DOI: https://doi.org/10.1007/s41870-020-00446-4
 
 <br><br>
 
