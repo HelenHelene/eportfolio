@@ -27,7 +27,7 @@ The OWL-SOA ontology is particularly valuable because it addresses the limitatio
 ## Could you attempt to define an ontology that would be relevant to the system that you are designing for the summative assessment?
 For the system designed for an online retailer in Assignment 1, the Ontology for a Secure Retail Management System can be defined as a means to formalise the knowledge about users, roles, products, and operations within the secure management application. This enables efficient access control and CRUD operations.
 
-Key Concepts in ontology model:
+Key concepts in ontology model:
 1. User: Represents individuals interacting with the system, categorised into roles like Admin, Clerk, and Customer.
    - hasRole (Relationship between a User and their assigned Role).
    - hasAuthenticationDetails (Details required for authentication, e.g., username, password).
