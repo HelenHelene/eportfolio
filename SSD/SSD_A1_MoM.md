@@ -25,7 +25,11 @@ Regular meeting to provide updates and follow up on missing tasks. <br>
 
 ### 24 November 2024 <br> 
 Regular meeting to provide updates and follow up on missing tasks. <br>
-<img src="SSD_A1_Meeting3.jpg" width="600" alt="Meeting Recording">
+
+🔗 Clicking the image will redirect you to YouTube. <br> 
+<a href="https://www.youtube.com/watch?v=QFd9rZu24HA/">
+    <img src="SSD_A1_Meeting3.jpg" width="600" alt="Meeting Recording">
+</a>
 <br><br>
 
 ### 26 November 2024 <br> 
