@@ -17,7 +17,7 @@ As part of my e-portfolio, I have completed the following activities and activel
 
 [Team Discussion - What is a Secure Programming Language?](SSD_Unit03_TeamActivity.md) 
 
-[Exploring Python tools and features](SSD_Unit03_Activity1.md) 
+[Exploring Python tools and features](SSD_Unit03_Activity1.md) (Not available)
 
 [The Producer-Consumer Mechanism](SSD_Unit03_Activity2.md) 
 
