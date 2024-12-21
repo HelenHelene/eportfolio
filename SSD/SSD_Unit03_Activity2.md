@@ -22,9 +22,8 @@ Synchronisation is necessary because:
  - Similarly, the consumer should not consume the same value twice.
 
 ## Task
-Run producer-consumer.py in your chosen Jupyter Notebook workspace (**Producer-Consumer Mechanism**), where the queue data structure is used.
+Run producer-consumer.py in chosen IDE, where the queue data structure is used.
 
-You can also download the **'producer-consumer-mechanism'** zip file.
 
  - code source: https://techmonger.github.io/55/producer-consumer-python/
 
@@ -60,19 +59,21 @@ q.join()
 print (final_results)
 ```
 
+<img src="SSD_A1_DataStructures.jpg" alt="Data Structures" width="500"/> <br>
+
+
 Answer the following questions:
-1. How is the queue data structure used to achieve the purpose of the code?
-2. What is the purpose of q.put(I)?
-3. What is achieved by q.get()?
-4. What functionality is provided by q.join()?
-5. Extend this producer-consumer code to make the producer-consumer scenario available in a secure way. What technique(s) would be appropriate to apply?
 
+## 1. How is the queue data structure used to achieve the purpose of the code?
 
-Remember to record your thoughts and answers in your e-portfolio.
+## 2. What is the purpose of q.put(I)?
 
-## Learning Outcomes
- - Identify and critically analyse operating system risks and issues, and identify appropriate methodologies, tools and techniques to solve them.
- - Critically analyse and evaluate solutions produced.
+## 3. What is achieved by q.get()?
+
+## 4. What functionality is provided by q.join()?
+
+## 5. Extend this producer-consumer code to make the producer-consumer scenario available in a secure way. What technique(s) would be appropriate to apply?
+
 
 ## Reflections
 xxx
