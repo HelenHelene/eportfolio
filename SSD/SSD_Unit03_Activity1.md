@@ -52,18 +52,6 @@ print(buffer)
 Be prepared to discuss your thoughts on both exercises at next week’s seminar. Remember to record this into your e-portfolio.
 
 
-## Reflections
-xxx
-
-<br><br>
-
----
-
-## Reference
-xxx
-
-<br><br>
-
 ---
 
 [Return to Module 6 Unit 3](SSD_Unit03.md)
