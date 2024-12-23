@@ -97,14 +97,21 @@ Implementation:
 By applying these techniques, the producer-consumer code becomes more robust, secure, and ready for use in environments where security and data integrity are critical.
 
 ## Reflections
-xxx
+Working on the producer-consumer mechanism assignment has significantly enhanced my understanding of concurrent programming and the role of synchronisation in multi-threaded applications. By implementing the producer-consumer problem using Python's threading and queue modules, I gained practical experience in enabling threads to communicate and coordinate tasks without interfering with each other.
+
+One of the key lessons was the use of the Queue data structure as a thread-safe buffer. This allowed the producer and consumer threads to work independently while remaining synchronised through the queue. The automatic blocking behaviour of q.put() and q.get() ensured that producers did not overwrite unconsumed data, while consumers waited when the queue was empty. This demonstrated how effective synchronisation can prevent concurrency issues, such as race conditions and data corruption.
+
+Understanding the importance of locks in protecting shared resources was another crucial aspect. By using a threading lock to manage access to the shared final_results list, I ensured that multiple threads could not modify it simultaneously, thereby avoiding inconsistent states or crashes. This reinforced the fact that, despite Python's Global Interpreter Lock (GIL), explicit synchronisation is still necessary when dealing with non-atomic operations.
+
+Applying these concepts to future assignment - the online retailer management system, I now recognise the importance of managing concurrent processes effectively. For instance, handling multiple customer orders concurrently will require a reliable producer-consumer setup to ensure thread safety when accessing shared resources like inventory databases. This will be vital for maintaining data integrity and delivering a dependable user experience.
 
 <br><br>
 
 ---
 
 ## Reference
-xxx
+Shene, C.K. (2014) ThreadMentor: The Producer/Consumer (or Bounded-Buffer) Problem. Available from: https://pages.mtu.edu/~shene/NSF-3/e-Book/SEMA/TM-example-buffer.html
+
 
 <br><br>
 
