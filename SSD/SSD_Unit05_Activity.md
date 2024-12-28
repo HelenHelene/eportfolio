@@ -15,7 +15,7 @@ set([1, -3]) set([2, -2]) set([3, -1]) set([0, 4]) 0 : set([0, 4]) 1 : set([1, -
 ```
 
 The actual output <br> 
-<img src="SSD_Unit05_equivalence2.jpg" alt="Equivalence output - 3 disks" width="500"/> <br>
+<img src="SSD_Unit05_equivalence2.jpg" alt="Equivalence output" width="350"/> <br>
 
 ## Explanation of equivalence_partition
 The equivalence_partition function is designed to group a given iterable into equivalence classes based on a specified equivalence relation. An equivalence relation is a binary function that satisfies these three properties (GeeksforGeeks, 2024):
@@ -81,64 +81,31 @@ Each element in the range [-3, 5] is mapped to its corresponding equivalence cla
 To further investigate the code, I had modified the equivalence relation and observe how the output changes. For example:
 
 ### Experiment 1: Testing with a Different Relation
-Change the relation to group numbers based on their parity:
-```python
-relation = lambda x, y: (x % 2) == (y % 2)
-```
+Change the relation to group numbers based on their parity:<br>
+<img src="SSD_Unit05_equivalence3.jpg" alt="Equivalence experiment 1" width="700"/> <br>
 
-Expected Output:
-
-#### Classes: 
-```python
-{0, 2, 4, -2}, {1, 3, -3, -1}
-```
-
-#### Partitions:
-```python
--3 : {1, 3, -3, -1}
--2 : {0, 2, 4, -2}
--1 : {1, 3, -3, -1}
- 0 : {0, 2, 4, -2}
- 1 : {1, 3, -3, -1}
- 2 : {0, 2, 4, -2}
- 3 : {1, 3, -3, -1}
- 4 : {0, 2, 4, -2}
-```
+Output:<br>
+<img src="SSD_Unit05_equivalence4.jpg" alt="Equivalence experiment 1 output" width="300"/> <br>
 
 ### Experiment 2: Larger Range of Numbers
-Extend the range to range(-10, 10) and keep the original relation:
-```python
-relation = lambda x, y: (x - y) % 4 == 0
-```
+Extend the range to range(-10, 10) and keep the original relation:<br>
+<img src="SSD_Unit05_equivalence5.jpg" alt="Equivalence experiment 2" width="700"/> <br>
 
-Expected Output:
-
-#### Classes: 
-```python
-{0, -4, 4, 8, -8}, {1, -3, 5, -7, 9}, {2, -2, 6, -6}, {3, -1, 7, -5}
-```
-
-#### Partitions:
-Each number will be assigned to its appropriate equivalence class.
+Output:<br>
+<img src="SSD_Unit05_equivalence6.jpg" alt="Equivalence experiment 2 output" width="300"/> <br>
 
 ### Experiment 3: Non-numeric Data
-Partition strings based on their lengths:
-```python
-relation = lambda x, y: len(x) == len(y)
-iterable = ["apple", "pear", "banana", "kiwi", "plum", "grape"]
-```
+Partition strings based on their lengths:<br>
+<img src="SSD_Unit05_equivalence7.jpg" alt="Equivalence experiment 3" width="700"/> <br>
 
-Expected Output:
-#### Classes:
-```python
-{"apple", "grape"}, {"pear", "kiwi", "plum"}, {"banana"}
-```
+Output:<br>
+<img src="SSD_Unit05_equivalence8.jpg" alt="Equivalence experiment 3 output" width="300"/> <br>
 
 ## Reflections
 
-This exercise on equivalence partitioning has provided me with a deeper understanding of how to logically group and classify data using equivalence relations. I learned how to implement equivalence partitioning in Python, which involves dividing a set of objects into distinct equivalence classes based on a custom relation. This process helped me understand the importance of systematically evaluating relationships between elements to ensure they are grouped correctly. Additionally, I gained practical skills in using modular functions, lambda expressions, and validation techniques. By experimenting with the code, I saw how changes to the equivalence relation affect the output and how testing edge cases ensures robustness. Beyond the technical implementation, I realized the broader significance of equivalence partitioning in simplifying complex problems by reducing redundancy and focusing on distinct cases.
+This exercise on equivalence partitioning has helped me understand how to group and classify data logically using equivalence relations. I learned to implement equivalence partitioning in Python, dividing a set of objects into equivalence classes based on a defined relation. This process highlighted the importance of systematically evaluating relationships between elements to ensure they are grouped correctly. I also gained practical skills in using modular functions, lambda expressions, and validation techniques. Experimenting with the code showed me how changes to the equivalence relation affect the output and how testing edge cases ensures robustness. Beyond the technical aspects, I realized the broader significance of equivalence partitioning in simplifying complex problems and reducing redundancy.
 
-In the context of my upcoming assignment on security software design, this concept is highly relevant. I can apply equivalence partitioning to key areas such as input validation, where inputs can be grouped into equivalence classes like valid, invalid, or edge cases to ensure comprehensive testing and prevent security vulnerabilities. It can also be used in access control systems to group users based on roles and privileges, simplifying role-based access control implementation. Additionally, equivalence partitioning can aid in threat modeling by categorizing threats into distinct groups, which helps prioritize defenses more effectively. It can also optimize processes like encryption key management by grouping keys based on their properties and streamline intrusion detection by classifying network traffic patterns. This exercise has taught me how to approach security software design systematically, ensuring both efficiency and reliability, while emphasizing the importance of modular design, validation, and thorough testing. Overall, the skills and insights gained from this exercise will significantly enhance my ability to design secure and robust software systems.
+Through my research on this exercise, I discovered that equivalence partitioning is an important technique for black-box testing (Namiko, 2021) and can be used to reduce the number of test cases while still ensuring comprehensive coverage. I can apply this technique to functional and security testing by identifying valid and invalid input groups and testing representative values from each group. For example, I can test input validation mechanisms, edge cases, and unexpected inputs systematically. While I am not fully certain how this will apply to my upcoming security software design project, the exercise has given me valuable insights into how equivalence partitioning can simplify testing and uncover potential issues during system development.
 
 <br><br>
 
@@ -147,9 +114,23 @@ In the context of my upcoming assignment on security software design, this conce
 ## Reference
 GeeksforGeeks (2024) Equivalence Class. Available from: https://www.geeksforgeeks.org/equivalence-class/
 
+Namiko (2021) Efficient Test Cases with Equivalence Partitioning & BVA. Available from: https://shiftasia.com/column/equivalence-class-partitioning-and-bva-in-test-design/#:~:text=In%20this%20method%2C%20the%20input,cases%2C%20still%20covering%20maximum%20requirements.
+
 Stackoverflow (N.D.) Is there a standard way to partition an interable into equivalence classes given a relation in python? Available from: https://stackoverflow.com/questions/38924421/is-there-a-standard-way-to-partition-an-interable-into-equivalence-classes-given/38924631#38924631
 
+
 ## Bilbilogphy
+
+Astralweb (N.D.) Test design technology: introduction and application of Equivalence Partitioning. Available from: https://www.astralweb.com.tw/test-design-technology-equivalence-partitioning-introduction-and-application/
+
+Chernyak, A.Z. (N.D.) Equivalence Partitioning in Software Testing – What is It, Types, Process, Approaches, Tools, & More! Available from: https://www.zaptest.com/equivalence-partitioning-in-software-testing-what-is-it-types-process-approaches-tools
+
+GeeksforGeeks (2024) Equivalence Partitioning Method. Available from: https://www.geeksforgeeks.org/equivalence-partitioning-method/
+
+Karkar, J. (2024) Equivalence Partitioning: A Detailed Guide to for Smart Testing.  Available from: https://testgrid.io/blog/equivalence-partitioning-testing/
+
+Ranorex. (2023) Using Equivalence Partitioning to Design Your QA Tests. Available from: https://www.ranorex.com/blog/using-equivalence-partitioning/
+
 
 <br><br>
 
