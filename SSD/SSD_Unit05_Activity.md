@@ -126,13 +126,13 @@ Partition strings based on their lengths:
 ```python
 relation = lambda x, y: len(x) == len(y)
 iterable = ["apple", "pear", "banana", "kiwi", "plum", "grape"]
-```python
+```
 
 Expected Output:
 #### Classes:
 ```python
 {"apple", "grape"}, {"pear", "kiwi", "plum"}, {"banana"}
-```python
+```
 
 ## Reflections
 
