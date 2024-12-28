@@ -31,7 +31,6 @@ The highest possible limit is platform-dependent. A user may need to set the lim
 If the new limit is too low at the current recursion depth, a RecursionError exception is raised. '
 
 The Python's default recursion limit is 1000 (Python Central, 2023).
-This can be checked using:
 
 This can be checked using:
 
@@ -40,8 +39,19 @@ import sys
 print(sys.getrecursionlimit())
 ```
 
-### What limits the number of iterations? What is the implication for application and system security?
+### What limits the number of iterations? 
+1. **Recursion Depth:** As mentioned earlier, the default recursion depth in Python is limited to 1,000. You can increase this limit using sys.setrecursionlimit(), but doing so risks crashing the Python interpreter if the system runs out of memory.
 
+2. **Memory Usage:** Each recursive call consumes memory. For large inputs, the program may run out of memory, causing the program to crash.  For example, when I tried running the program with an input of 100 on my personal notebook, the system froze.
+
+3. **Execution Time:** The number of moves required to solve the Towers of Hanoi grows exponentially with the number of disks. Specifically, the number of moves required is 2^n - 1, where n is the number of disks. For large values of n, the execution time becomes impractical.
+
+### What is the implication for application and system security?
+1. **Stack Overflow:** Recursion-heavy algorithms like Towers of Hanoi can lead to stack overflow errors if the recursion depth exceeds the system's stack size. This can be exploited by attackers to crash the system or execute malicious code.
+
+2. **Denial of Service (DoS):** If the program is exposed as part of a web service or API, an attacker could input a very large number of disks, causing the system to consume excessive memory or CPU resources, resulting in a denial of service.
+
+3. **Input Validation:** Failing to validate user input (e.g., ensuring the number of disks is reasonable) could lead to unexpected behavior or system instability.
 <br>
 
 ---
