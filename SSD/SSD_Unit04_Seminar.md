@@ -1,7 +1,6 @@
 # Programming language concepts: Programming exercises – recursion and regex
 
 ## Requirement
-Please note that the Jupyter Notebook environment is available in Codio for you to carry out these activities. 
 This week there are two programming exercises that will help you understand two valuable language concepts – **recursion and regex**.
 
 ## Recursion
@@ -9,7 +8,7 @@ One of the classic programming problems that is often solved by recursion is the
 A good explanation and walkthrough are provided by [Cormen & Balkcom (n.d.)](https://www.khanacademy.org/computing/computer-science/algorithms/towers-of-hanoi/a/towers-of-hanoi). (the code they used for their visual example is provided on their website as well).
 
 ### Read the explanation, study the code and then create your own version using Python. Create a version that asks for the number of disks and then executes the moves, and then finally displays the number of moves executed.
-<img src="SSD_Unit04_Recursion1.jpg" alt="Recursion program" width="700"/> <br>
+<img src="SSD_Unit04_Recursion1.jpg" alt="Recursion program" width="900"/> <br>
 
 <img src="SSD_Unit04_Recursion2.jpg" alt="Recursion program input and output - 3 disks" width="500"/> <br>
 
@@ -20,7 +19,7 @@ A good explanation and walkthrough are provided by [Cormen & Balkcom (n.d.)](htt
 
 ### What is the (theoretical) maximum number of disks that your program can move without generating an error?
 
-In the Python Official Documentation - sys Module (Python, N.D.), the getrecursionlimit() function is described as follows:
+In the Python Official Documentation - sys Module (Python, N.D.a), the getrecursionlimit() function is described as follows:
 
 ' **sys.getrecursionlimit()** <br>
 Return the current value of the recursion limit, the maximum depth of the Python interpreter stack. This limit prevents infinite recursion from causing an overflow of the C stack and crashing Python. It can be set by _setrecursionlimit()_. '
@@ -94,12 +93,39 @@ Explanation:
 <img src="SSD_Unit04_Regex2.jpg" alt="Regex output - 3 disks" width="500"/> <br>
 
 ### How do you ensure your solution is not subject to an evil regex attack?
+Evil Regex Attack occurs when a regex pattern is vulnerable to catastrophic backtracking, where the regex engine takes an exponential amount of time to evaluate certain inputs. This can lead to system performance degradation or denial of service (Patel, 2019).
 
+Below mitigations to Prevent Evil Regex Attacks:
+1. **Avoid Complex Patterns:** Ensure the regex pattern is simple and avoids nested quantifiers or ambiguous repetition. For example:
+ - Patterns like (a|b|c)* or ((A|B)*C)* can be exploited.
+ - The provided UK postcode regex is simple and does not include risky constructs.
 
+2. **Set Timeouts for Regex Matching:** Use libraries like regex (instead of re), which allows you to set timeouts for regex operations (Python, N.D.b) .
 
+3. Validate Input Length: Limit the length of input strings before applying regex. For example, UK postcodes are short (typically <10 characters). Reject inputs that are excessively long.
+
+4. Use Anchors in Regex: Anchors (^ and $) ensure the regex matches the entire input string, not just a substring. This reduces ambiguity and speeds up matching.
+
+5. Input Validation Before Regex: Perform pre-checks to ensure the input adheres to expected characteristics (e.g., length, allowed characters) before applying regex.
+   
+If your program is exposed as part of a web service or API, submitting malicious input (crafted to trigger catastrophic backtracking) can cause high CPU usage, leading to denial of service.  By keeping the regex pattern simple, setting timeouts, and validating input length, it could minimise the risk of such attacks.
 
 ## Reflections
-xxx
+These two programming exercises provided valuable insights into programming concepts and their application in system design, especially with a focus on security and problem-solving.
+
+The Towers of Hanoi exercise was particularly fascinating, as it introduced me to a mathematical and programming concept I hadn't encountered before. Previously, I had only seen the Hanoi Tower as a toy for children, but I never imagined it was rooted in such deep mathematical theory. Learning about the recursive approach to solving this problem was eye-opening, and the explanation and walkthrough provided by Cormen & Balkcom (n.d.) were instrumental in helping me understand how to break the problem into smaller steps.
+
+Through research and implementation, I was able to write a Python script that calculates the minimum number of moves required to solve the puzzle for any given number of disks. This gave me a hands-on understanding of recursion and its applications in problem-solving. As an additional step, I even purchased a real-life Hanoi Tower and placed it on my desk as a brain-training toy. It not only serves as a reminder of what I’ve learned but also helps me improve my logical thinking.
+
+This exercise also gave me an appreciation for the importance of optimizing recursive algorithms, especially when considering system limitations like recursion depth and memory usage. Moreover, it highlighted potential security implications of poorly implemented recursion, such as stack overflow or denial-of-service attacks, which are critical considerations in system design.
+
+The second exercise, involving UK postcode validation, was a practical example of how regular expressions (regex) can be used to validate input formats in real-world applications. This exercise was not only about understanding regex patterns but also about recognizing its limitations and addressing potential security vulnerabilities.
+
+One key takeaway was the importance of layered validation. While regex is excellent for checking the format of inputs like postcodes, it cannot verify whether the input is valid in a real-world context. By implementing additional checks (e.g., comparing the outward code to a list of valid UK postcodes), I learned how to make validation systems more robust. This concept can be extended to other scenarios, such as password validation, where both format and complexity checks are essential to ensure security.
+
+Another major insight was understanding evil regex attacks, which can exploit poorly written regex patterns to cause catastrophic backtracking and denial-of-service. This exercise emphasized the importance of writing efficient regex patterns, using input validation, and setting limits to prevent such attacks. These practices are essential for creating secure systems that handle user input responsibly without introducing new vulnerabilities.
+
+Going forward, these exercises will serve as a foundation for tackling more complex problems, particularly those involving secure system design. They have also deepened my understanding of how theoretical concepts, like recursion and regex, can be applied in practical programming tasks while keeping security in mind.
 
 <br><br>
 
@@ -112,11 +138,13 @@ Ideal Postcodes. (2020) Standard UK Address. Available from: https://docs.ideal-
 
 Jaiswal, S. (2020) Python Regular Expression Tutorial. Available from: https://www.datacamp.com/tutorial/python-regular-expression-tutorial
 
-Python (N.D.) sys — System-specific parameters and functions. Available from: https://docs.python.org/3/library/sys.html#sys.getrecursionlimit
+Patel, N. (2019) What are Evil Regexes? Available from: https://medium.com/@nitinpatel_20236/what-are-evil-regexes-7b21058c747e
+
+Python (N.D.a) sys — System-specific parameters and functions. Available from: https://docs.python.org/3/library/sys.html#sys.getrecursionlimit
+
+Python (N.D.b) re — Regular expression operations. Available form: https://docs.python.org/3/library/re.html
 
 Python Central (2023) Resetting the Recursion Limit. Available from: https://www.pythoncentral.io/resetting-the-recursion-limit
-
-<br><br>
 
 ---
 
