@@ -63,7 +63,8 @@ The lecturecast also contains a useful link to a tutorial on creating regex.
 Re-read the provided links and tutorial [(Jaiswal, 2020)](https://www.datacamp.com/tutorial/python-regular-expression-tutorial) and then attempt the problem presented below:
 
  - The UK postcode system consists of a string that contains a number of characters and numbers – a typical example is ST7 9HV (this is not valid – see below for why). The rules for the pattern are available from idealpostcodes (2020).
- - Create a python program that implements a regex that complies with the rules provided above – test it against the examples provided.
+
+### Create a python program that implements a regex that complies with the rules provided above – test it against the examples provided.
  - Examples:
       - M1 1AA
       - M60 1NW
@@ -71,8 +72,28 @@ Re-read the provided links and tutorial [(Jaiswal, 2020)](https://www.datacamp.c
       - DN55 1PT
       - W1A 1HQ
       - EC1A 1BB
-- How do you ensure your solution is not subject to an evil regex attack?
 
+According to the rules provided by IdealPostcodes (2020) and commonly accepted patterns for UK postcodes:
+ - Outward Code: 1–4 characters (letters and numbers). Examples: M1, DN55, EC1A.
+ - Inward Code: A single digit followed by two uppercase letters. Examples: 1AA, 6XH, 1HQ.
+
+General Regex Pattern for UK Postcodes:
+```python
+^[A-Z]{1,2}[0-9][0-9A-Z]?\s[0-9][A-Z]{2}$
+```
+Explanation:
+ - ^[A-Z]{1,2}: The outward code starts with 1–2 uppercase letters.
+ - [0-9]: Followed by one digit.
+ - [0-9A-Z]?: Optionally followed by another digit or letter.
+ - \s: There is a mandatory space separating the outward and inward codes.
+ - [0-9]: The inward code starts with a single digit.
+ - [A-Z]{2}$: Ends with two uppercase letters.
+
+<img src="SSD_Unit04_Regex1.jpg" alt="Regex program" width="700"/> <br>
+
+<img src="SSD_Unit04_Regex2.jpg" alt="Regex output - 3 disks" width="500"/> <br>
+
+### How do you ensure your solution is not subject to an evil regex attack?
 
 
 
