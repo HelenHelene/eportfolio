@@ -22,13 +22,14 @@ Before selecting a method and creating the Python program, I created a table to 
 | **Vigenere Cipher** | Polyalphabetic Cipher | Single key (shared) | Encrypting text with a repeating key | No | Moderate (Better than Caesar) | Repeated key makes it vulnerable to statistical attacks (e.g., Kasiski examination) | Moderate |
 | **One-Time Pad Cipher** | Polyalphabetic Cipher | Single-use key (same size as data) | Encrypting highly sensitive data (perfect secrecy if used correctly) | Yes | High (Fast) | Requires truly random keys as long as the plaintext; impractical for large-scale use | Moderate |
 | **Data Encryption Standard (DES)** | Symmetric Cipher | Single key (shared)  | Encrypting small data (outdated but educational) | No | Moderate | Considered insecure due to small key size (56 bits); vulnerable to brute force | Moderate |
-| **AES (Advanced Encryption Standard)** | Symmetric Cipher | Single key (shared) | Encrypting files, large amounts of data | Yes | High (Very Fast) | Secure only if key is managed properly; vulnerable to side-channel attacks in flawed implementations  | Easy (with libraries like `cryptography`) |
+| **AES (Advanced Encryption Standard)<br> e.g. Fernet encryption** | Symmetric Cipher | Single key (shared) | Encrypting files, large amounts of data | Yes | High (Very Fast) | Secure only if key is managed properly; vulnerable to side-channel attacks in flawed implementations  | Easy (with libraries like `cryptography`) |
 | **RSA (Rivest–Shamir–Adleman)** | Asymmetric Cipher | Key pair (public/private) | Secure key exchange, digital signatures, encrypting small data | Yes  | Low (Slow for large data) | Computationally intensive; quantum computers can potentially break it in the future | Moderate |
 | **Hybrid Cryptography** | Mixed (Symmetric + Asymmetric) | Symmetric key + RSA for key exchange | Combining fast symmetric encryption (e.g., AES) with secure key exchange (e.g., RSA) | Yes | High (Efficient for large data)| Complex implementation; depends on the security of the underlying symmetric and asymmetric algorithms | Moderate to Difficult |
 
 
 ## Create a python program that can take a text file and output an encrypted version as a file in your folder on the system. 
 
+<img src="SSD_Unit08_Cryptography1.jpg" alt="Cryptography program" width="900"/> <br>
 
 ## Answer the following questions in your e-portfolio:
 
@@ -47,7 +48,7 @@ xxx
 ---
 
 ## Reference
-Tutorialspoint. (N.D.) Cryptography with Python - Overview. Available from: https://www.tutorialspoint.com/cryptography_with_python/cryptography_with_python_quick_guide.htm
+Tutorialspoint. (N.D.) Cryptography with Python Tutorial. Available from: https://www.tutorialspoint.com/cryptography_with_python/cryptography_with_python_quick_guide.htm
 
 <br><br>
 
