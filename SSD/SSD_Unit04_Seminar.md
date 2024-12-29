@@ -80,6 +80,7 @@ General Regex Pattern for UK Postcodes:
 ```python
 ^[A-Z]{1,2}[0-9][0-9A-Z]?\s[0-9][A-Z]{2}$
 ```
+
 Explanation:
  - ^[A-Z]{1,2}: The outward code starts with 1–2 uppercase letters.
  - [0-9]: Followed by one digit.
@@ -97,8 +98,8 @@ Evil Regex Attack occurs when a regex pattern is vulnerable to catastrophic back
 
 Below mitigations to Prevent Evil Regex Attacks:
 1. **Avoid Complex Patterns:** Ensure the regex pattern is simple and avoids nested quantifiers or ambiguous repetition. For example:
- - Patterns like (a|b|c)* or ((A|B)*C)* can be exploited.
- - The provided UK postcode regex is simple and does not include risky constructs.
+   - Patterns like (a|b|c)* or ((A|B)*C)* can be exploited.
+   - The provided UK postcode regex is simple and does not include risky constructs.
 
 2. **Set Timeouts for Regex Matching:** Use libraries like regex (instead of re), which allows you to set timeouts for regex operations (Python, N.D.b) .
 
