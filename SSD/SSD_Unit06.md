@@ -19,7 +19,7 @@ The content in Week 6 is important as it exposes students to the tools and techn
 ### Artefacts and Collaborative Discussion 
 As part of my e-portfolio, I have completed the following activities, which are documented in the provided link:
 
-[Exploring Linters to Support Testing in Python](SSD_Unit06_Seminar.md)<br><br>
+[Exploring Linters to Support Testing in Python](SSD_Unit06_Seminar.md) (Not available) <br><br>
 
 ### Reflections
 During this unit, I gained valuable insights into xxx
