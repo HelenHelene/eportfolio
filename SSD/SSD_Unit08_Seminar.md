@@ -29,7 +29,18 @@ Before selecting a method and creating the Python program, I created a table to 
 
 ## Create a python program that can take a text file and output an encrypted version as a file in your folder on the system. 
 
+Create _fernet.py_ using Fernet encryption (from the cryptography module) to take a plaintext file, encrypt its contents, and save the encrypted version as a new file in the same folder. <br>
+
 <img src="SSD_Unit08_Cryptography1.jpg" alt="Cryptography program" width="700"/> <br>
+
+Create a plaintext file named _plaintext.txt_ in the same folder as Input File. Add text "This is a test file for encryption." to it.<br>
+
+<img src="SSD_Unit08_Cryptography2.jpg" alt="Cryptography input file" width="500"/> <br>
+
+clicked the Start button (or press F5) in Visual Studio to compile and run _fernet.py_.
+
+<img src="SSD_Unit08_Cryptography3.jpg" alt="Cryptography output" width="700"/> <br>
+
 
 ## Answer the following questions in your e-portfolio:
 
