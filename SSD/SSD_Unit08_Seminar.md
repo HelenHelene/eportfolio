@@ -35,11 +35,11 @@ Create _fernet.py_ using Fernet encryption (from the cryptography module) to tak
 
 Create a plaintext file named _plaintext.txt_ in the same folder as Input File. Add text "This is a test file for encryption." to it.<br>
 
-<img src="SSD_Unit08_Cryptography2.jpg" alt="Cryptography input file" width="500"/> <br>
+<img src="SSD_Unit08_Cryptography2.jpg" alt="Plaintext file" width="500"/> <br>
 
 clicked the Start button (or press F5) in Visual Studio to compile and run _fernet.py_.
 
-<img src="SSD_Unit08_Cryptography3.jpg" alt="Cryptography output" width="700"/> <br>
+<img src="SSD_Unit08_Cryptography3.jpg" alt="Run Cryptography program" width="500"/> <br>
 
 
 ## Answer the following questions in your e-portfolio:
