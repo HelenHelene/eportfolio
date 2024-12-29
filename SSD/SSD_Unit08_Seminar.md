@@ -7,8 +7,8 @@ Select one of the methods described / examples given and create a python program
 ## Select one of the methods described / examples given.
 Before selecting a method and creating the Python program, I created a table to review all the methods described on Tutorialspoint.com.
 
-| **Method**  | **Type**   | **Key Management** | **Use Case** |  **GDPR Compliance** | **Performance** | **Weakness** | **Ease of Implementation** |
-| : --------- | :--------- | : ---------------- | :----------- | :------------------- | :-------------- | :----------- | :------------------------- |
+| **Method**	| **Type**	| **Key Management**	| **Use Case** | **GDPR Compliance** | **Performance** | **Weakness** | **Ease of Implementation** |
+| :---------- | :-------- | :--------------- | :----------------- |:----------------- |:----------------- |:----------------- |:----------------- |
 | **Reverse Cipher** | Substitution Cipher | No key required | Simple encryption for educational purposes | No | High (Fast) | Extremely weak; easily reversible (not secure) | Very Easy |
 | **Caesar Cipher** | Substitution Cipher | Single key (shared) | Encoding small text, educational purposes | No | High (Fast) | Vulnerable to brute force (only 25 possible keys) | Very Easy |
 | **ROT13 Algorithm** | Substitution Cipher | No key required (fixed shift of 13) | Simple encoding, educational purposes | No | High (Fast) | Fixed shift makes it easily reversible; not secure | Very Easy |
