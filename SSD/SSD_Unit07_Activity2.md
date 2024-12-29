@@ -10,6 +10,8 @@ Remember that you can arrange a session with the tutor during office hours for m
 Using the **Jupyter Notebook workspace**, create a file named api.py and copy the following code into it (a copy is provided for upload to Codio/GitHub): 
 You can [install Jupyter Notebook on your local machine following these instructions](https://realpython.com/jupyter-notebook-introduction/) or via the [University of Essex Software Hub](https://software.essex.ac.uk/login).
 
+<img src="SSD_Unit07_Shell1.jpg" alt="Python Shell program" width="700"/> <br>
+
 #source of code: [Codeburst](https://codeburst.io/this-is-how-easy-it-is-to-create-a-rest-api-8a25122ab1f3)
 
 ```python
