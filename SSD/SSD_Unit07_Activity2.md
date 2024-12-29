@@ -29,7 +29,7 @@ This output shows that the API is running on http://127.0.0.1:5000.
 ### Run the following command at the terminal prompt, what happens when this command is run, and why?
 ```w3m http://127.0.0.1:5000/user/Ann```
 
-I am using Windows and Visual Studio. Since the Visual Studio terminal is occupied by the running Flask app, I need to open a new terminal (Command Prompt) to execute the HTTP commands. Moreover, Windows does not natively have w3m; instead, I use curl, which comes pre-installed on Windows 10 and later versions.
+I am using Windows and Visual Studio (VS). For convenience, I run the Flask app in the VS terminal and use the Windows Command Prompt with curl to execute the HTTP commands.
 
 <img src="SSD_Unit07_api4.jpg" alt="API Output" width="900"/> <br>
 <br>
@@ -50,7 +50,7 @@ When accessing the endpoint http://127.0.0.1:5000/user/Ann, the browser sends a 
 ### Run the following command at the terminal prompt, what happens when this command is run, and why?
 ```w3m http://127.0.0.1:5000/user/Adam```
 
-As explained in Question 2, I used curl and the Windows Command Prompt and Microsoft Edge to complete this exercise. <br>
+As explained in Question 2, I used Windows Command Prompt with curl and Microsoft Edge to complete this exercise. <br>
 
 <img src="SSD_Unit07_api5.jpg" alt="API Output" width="900"/> <br>
 <br>
@@ -101,6 +101,7 @@ Following the rise of microservices, the next phase in distributed systems evolu
 
 
 ## Reflections
+
 QA. (2023) Advantages and disadvantages of microservices architecture. Available from: https://www.qa.com/resources/blog/microservices-architecture-challenge-advantage-drawback/#:~:text=Improved%20fault%20isolation%3A%20Larger%20applications,an%20individual%20service%20as%20needed.
 
 Saini, A. (2024) Understanding Flask Framework: Installation, features & Expert Insights. Available from: https://www.analyticsvidhya.com/blog/2021/10/flask-python/
@@ -108,6 +109,8 @@ Saini, A. (2024) Understanding Flask Framework: Installation, features & Expert 
 Salah, T., Zemerly, M. J., et al. (2016) The Evolution of Distributed Systems towards Microservices Architectures, in Proc. of the 11th International Conference for Internet Technology and Secured Transactions.
 
 Temov, J. (2024) Serverless Architectures: Benefits and Challenges. Available from: https://www.enov8.com/blog/serverless-architectures-benefits-and-challenges/
+
+<br><br> 
 
 ## Bibliography
 
@@ -127,7 +130,14 @@ Microsoft. (2024) Tutorial: Work with the Flask web framework in Visual Studio. 
 ---
 
 ## Reference
-xxx
+
+This exercise provided valuable hands-on experience in building RESTful APIs using Flask, offering a practical demonstration of distributed system principles. It was fascinating to see how fundamental concepts such as GET, POST, and DELETE requests are applied in real-world scenarios.
+
+During the process, I encountered challenges with the w3m command mentioned in the requirements, as it did not work in the Windows environment. Additionally, I was unable to set up multiple terminals in Visual Studio, which required me to conduct extensive research to find a solution. While I discovered methods for creating Flask projects directly within Visual Studio, these required additional time to explore. As a result, I opted for a simpler approach: running the Flask app in Visual Studio and using the Windows Command Prompt in parallel.
+
+I also realized that w3m is a Linux-based command, which led to additional time spent identifying alternatives. Eventually, I learned about using curl and discovered that testing the API directly in a web browser could achieve similar results. Although this process was time-consuming, it was highly engaging and mirrored the problem-solving scenarios often encountered in real-world development. This experience also proved beneficial in preparing me for the coding exercises in Assignment 2.
+
+Furthermore, exploring the evolution from microservices to serverless architectures emphasized the ongoing pursuit of scalability, cost-efficiency, and reduced operational complexity in modern distributed systems. This exercise highlighted the importance of adaptability and staying informed about emerging technologies in computer science, which is crucial for professional growth.
 
 <br><br>
 
