@@ -1,7 +1,7 @@
 # Team Discussion: What is a Secure Programming Language?
 
 ## Requirement
-Read Chapter 2,6,7,8 of the course text (Pillai, 2017) and [Cifuentes & Bierman (2019)](SSD_Unit03_TeamActivityReference.pdf) and then answer the questions below:
+Read Chapter 2,6,7,8 of the course text (Pillai, 2017) and Cifuentes & Bierman (2019) and then answer the questions below:
 
 ### 1. What factors determine whether a programming language is secure or not?
 According to Cifuentes and Bierman (2019), a secure programming language should address common vulnerabilities such as:
