@@ -64,30 +64,30 @@ Re-read the provided links and tutorial [(Jaiswal, 2020)](https://www.datacamp.c
  - The UK postcode system consists of a string that contains a number of characters and numbers – a typical example is ST7 9HV (this is not valid – see below for why). The rules for the pattern are available from idealpostcodes (2020).
 
 ### Create a python program that implements a regex that complies with the rules provided above – test it against the examples provided.
- - Examples:
-      - M1 1AA
-      - M60 1NW
-      - CR2 6XH
-      - DN55 1PT
-      - W1A 1HQ
-      - EC1A 1BB
+ - Examples: <br>
+    M1 1AA <br>
+    M60 1NW <br>
+    CR2 6XH <br>
+    DN55 1PT <br>
+    W1A 1HQ <br>
+    EC1A 1BB <br>
 
 According to the rules provided by IdealPostcodes (2020) and commonly accepted patterns for UK postcodes:
  - Outward Code: 1–4 characters (letters and numbers). Examples: M1, DN55, EC1A.
  - Inward Code: A single digit followed by two uppercase letters. Examples: 1AA, 6XH, 1HQ.
 
 General Regex Pattern for UK Postcodes:
-```python
+```
 ^[A-Z]{1,2}[0-9][0-9A-Z]?\s[0-9][A-Z]{2}$
 ```
 
-Explanation:
- - ^[A-Z]{1,2}: The outward code starts with 1–2 uppercase letters.
- - [0-9]: Followed by one digit.
- - [0-9A-Z]?: Optionally followed by another digit or letter.
- - \s: There is a mandatory space separating the outward and inward codes.
- - [0-9]: The inward code starts with a single digit.
- - [A-Z]{2}$: Ends with two uppercase letters.
+Explanation: <br>
+ ```^[A-Z]{1,2}``` : The outward code starts with 1–2 uppercase letters. <br>
+ ```[0-9]``` : Followed by one digit. <br>
+ ```[0-9A-Z]?``` : Optionally followed by another digit or letter. <br>
+ ```\s``` : There is a mandatory space separating the outward and inward codes. <br>
+ ```[0-9]``` : The inward code starts with a single digit. <br>
+ ```[A-Z]{2}$``` : Ends with two uppercase letters. <br>
 
 <img src="SSD_Unit04_Regex1.jpg" alt="Regex program" width="700"/> <br>
 
@@ -98,14 +98,14 @@ Evil Regex Attack occurs when a regex pattern is vulnerable to catastrophic back
 
 Below mitigations to Prevent Evil Regex Attacks:
 1. **Avoid Complex Patterns:** Ensure the regex pattern is simple and avoids nested quantifiers or ambiguous repetition. For example:
-   - Patterns like (a|b|c)* or ((A|B)*C)* can be exploited.
+   - Patterns like ```(a|b|c)*``` or ```((A|B)*C)*``` can be exploited.
    - The provided UK postcode regex is simple and does not include risky constructs.
 
 2. **Set Timeouts for Regex Matching:** Use libraries like regex (instead of re), which allows you to set timeouts for regex operations (Python, N.D.b) .
 
 3. Validate Input Length: Limit the length of input strings before applying regex. For example, UK postcodes are short (typically <10 characters). Reject inputs that are excessively long.
 
-4. Use Anchors in Regex: Anchors (^ and $) ensure the regex matches the entire input string, not just a substring. This reduces ambiguity and speeds up matching.
+4. Use Anchors in Regex: Anchors (```^``` and ```$```) ensure the regex matches the entire input string, not just a substring. This reduces ambiguity and speeds up matching.
 
 5. Input Validation Before Regex: Perform pre-checks to ensure the input adheres to expected characteristics (e.g., length, allowed characters) before applying regex.
    
