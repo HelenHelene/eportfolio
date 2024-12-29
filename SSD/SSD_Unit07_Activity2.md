@@ -65,7 +65,7 @@ When this command is run, the browser sends a GET request to the endpoint http:/
 ## Question 4
 ### What capability is achieved by the flask library?
 
-The Flask library provides the capability to build lightweight, flexible web applications and RESTful APIs. Key features include:
+The Flask library provides the capability to build lightweight, flexible web applications and RESTful APIs. Key features include (Saini, 2024) :
 
  - **Routing:** Allows defining URL endpoints and associating them with specific handler functions (e.g., /user/<string:name>).
  - **Request handling:** Handles HTTP methods like GET, POST, PUT, and DELETE for creating, reading, updating, and deleting resources.
@@ -78,39 +78,49 @@ The Flask library provides the capability to build lightweight, flexible web app
 ## Architecture Evolution Activity
 ### Based on your reading this week, could you write a section that might be appended to this paper, Salah et al (2016), which would present the next phase of evolution history, from microservices to the technologies which are commonly in use today?
 
-Following the rise of microservices, the next phase in distributed systems evolution has been the emergence and adoption of serverless architectures. Serverless computing, often referred to as Function-as-a-Service (FaaS), abstracts the underlying infrastructure entirely, allowing developers to focus solely on writing code.
+Following the rise of microservices, the next phase in distributed systems evolution has been the emergence and adoption of serverless architectures. Serverless computing, often referred to as Function-as-a-Service (FaaS), abstracts the underlying infrastructure entirely, allowing developers to focus solely on writing code (QA, 2023; Salah et al, 2016; Temov, 2024).
 
-**Characteristics of Serverless Architectures:**
+**Characteristics of Serverless Architectures:** (QA, 2023; Salah et al, 2016; Temov, 2024) 
  - **Event-Driven Execution:** Functions are triggered by specific events (e.g., HTTP requests, database changes, or message queue events).
  - **Fine-Grained Scaling:** Each function scales independently based on the number of incoming requests or events, optimizing resource usage.
  - **No Server Management:** Developers do not need to manage or provision servers. The cloud provider handles infrastructure management, scaling, and fault tolerance.
  - **Pay-as-You-Go Pricing:** Billing is based on the actual execution time and resources consumed by functions, reducing costs for workloads with variable or occasional traffic.
 
-**Advantages Over Microservices:**
+**Advantages Over Microservices:** (QA, 2023; Salah et al, 2016; Temov, 2024) 
  - **Reduced Operational Overhead:** Serverless eliminates the need to manage infrastructure, container orchestration, or cluster management.
  - **Faster Time-to-Market:** Developers can focus on core functionality without worrying about the underlying infrastructure.
  - **Cost Efficiency:** Organizations pay only for the compute time used, making it more economical for low-traffic applications.
 
-**Challenges:**
+**Challenges:** (QA, 2023; Salah et al, 2016; Temov, 2024) 
  - **Cold Starts:** Serverless functions may experience latency when idle functions are invoked for the first time.
  - **Vendor Lock-In:** Applications become tightly coupled to specific cloud providers (e.g., AWS Lambda, Azure Functions, Google Cloud Functions).
  - **Monitoring and Debugging:** Distributed workflows in serverless architectures can be challenging to monitor and debug due to the stateless nature of functions.
-
-**Example Technologies:**
- - AWS Lambda
- - Google Cloud Functions
- - Azure Functions
- - Knative (for Kubernetes-based serverless workloads)
-
-**Comparison with Microservices:**
-While microservices break down applications into smaller, independently deployable units, serverless architectures take this concept further by eliminating the need for long-running services altogether. This evolution represents a shift toward even greater abstraction and efficiency in distributed systems.
 
 
 <br><br>
 
 
 ## Reflections
-xxx
+QA. (2023) Advantages and disadvantages of microservices architecture. Available from: https://www.qa.com/resources/blog/microservices-architecture-challenge-advantage-drawback/#:~:text=Improved%20fault%20isolation%3A%20Larger%20applications,an%20individual%20service%20as%20needed.
+
+Saini, A. (2024) Understanding Flask Framework: Installation, features & Expert Insights. Available from: https://www.analyticsvidhya.com/blog/2021/10/flask-python/
+
+Salah, T., Zemerly, M. J., et al. (2016) The Evolution of Distributed Systems towards Microservices Architectures, in Proc. of the 11th International Conference for Internet Technology and Secured Transactions.
+
+Temov, J. (2024) Serverless Architectures: Benefits and Challenges. Available from: https://www.enov8.com/blog/serverless-architectures-benefits-and-challenges/
+
+## Bibliography
+
+30DayCodingInc. (2024) Building Scalable REST APIs with Flask and Python: A Comprehensive Guide. Available from: https://30dayscoding.com/blog/building-scalable-rest-apis-with-flask-and-python?srsltid=AfmBOorI6JNyf2XH7moOUKUGW5UacagzwqBiO_Yr2fIoyNO4vByK-ppG
+
+cURL. (N.D.) What is curl used for? Available from: https://curl.se/
+
+GeeksforGeeks. (2023) Flask Cookies. Available from: https://www.geeksforgeeks.org/flask-cookies/
+
+GeeksforGeeks. (2024) Implement a Python REST API with Flask & Flasgger. Available from: https://www.geeksforgeeks.org/implement-a-python-rest-api-with-flask-flasgger/
+
+Microsoft. (2024) Tutorial: Work with the Flask web framework in Visual Studio. Available from: https://learn.microsoft.com/en-us/visualstudio/python/learn-flask-visual-studio-step-01-project-solution?view=vs-2022
+
 
 <br><br>
 
