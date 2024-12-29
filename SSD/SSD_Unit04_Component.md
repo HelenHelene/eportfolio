@@ -9,7 +9,7 @@ ReDoS, or Regular Expression Denial of Service, is an attack targeting weaknesse
 'Evil Regex' patterns are key to ReDoS attacks. They can cause complex processing times due to their structure, often involving:
  - **Nested Repetitions:** Patterns like (a+)+ can make the engine try too many matches.
  - **Repetitions in Groups:** Repeated groups with more repetitions lead to numerous matching paths.
- - **Overlapping Alternation:** Using | where options can match the same prefixes, increasing processing time.
+ - **Overlapping Alternation:** Using \| where options can match the same prefixes, increasing processing time.
 
 Attackers use these patterns to cause catastrophic backtracking, making the regex engine use excessive resources, leading to denial of service.
 
