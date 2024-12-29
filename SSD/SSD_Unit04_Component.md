@@ -7,9 +7,9 @@ Read Larson (2018) and [Weidman (n.d.)](https://owasp.org/www-community/attacks/
 ReDoS, or Regular Expression Denial of Service, is an attack targeting weaknesses in how some regular expression (regex) engines handle input. It exploits patterns that lead to excessive backtracking, using up lots of CPU and memory, which can slow down or crash systems, denying service to real users.
 
 'Evil Regex' patterns are key to ReDoS attacks. They can cause complex processing times due to their structure, often involving:
- - **Nested Repetitions:** Patterns like (a+)+ can make the engine try too many matches.
+ - **Nested Repetitions:** Patterns like ```(a+)+``` can make the engine try too many matches.
  - **Repetitions in Groups:** Repeated groups with more repetitions lead to numerous matching paths.
- - **Overlapping Alternation:** Using \| where options can match the same prefixes, increasing processing time.
+ - **Overlapping Alternation:** Using ```|``` where options can match the same prefixes, increasing processing time.
 
 Attackers use these patterns to cause catastrophic backtracking, making the regex engine use excessive resources, leading to denial of service.
 
@@ -20,7 +20,7 @@ Common regex problems include:
  - **Unbalanced Braces/Parentheses:** Optional braces can lead to unexpected inputs.
  - **Misuse of Wildcards:** Using . too freely can match unintended characters.
  - **Repeating Punctuation:** Allowing repeated punctuation can lead to invalid matches.
- - **Misplaced Anchors:** Incorrect use of ^ and $ can cause wrong matches.
+ - **Misplaced Anchors:** Incorrect use of ```^``` and ```$``` can cause wrong matches.
  - **Duplicate Characters:** Repeated characters in sets might indicate errors.
 
 Below are the possible mitigation strategies:
