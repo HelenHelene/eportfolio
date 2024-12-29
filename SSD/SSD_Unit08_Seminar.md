@@ -29,7 +29,7 @@ Before selecting a method and creating the Python program, I created a table to 
 
 ## Create a python program that can take a text file and output an encrypted version as a file in your folder on the system. 
 
-<img src="SSD_Unit08_Cryptography1.jpg" alt="Cryptography program" width="900"/> <br>
+<img src="SSD_Unit08_Cryptography1.jpg" alt="Cryptography program" width="700"/> <br>
 
 ## Answer the following questions in your e-portfolio:
 
