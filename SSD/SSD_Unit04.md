@@ -3,7 +3,7 @@
 This week, we investigated and explored the effect of key programming concepts on system security. We focused on two concepts in particular: regular expressions and recursion. By examining their use in creating software solutions, we were able to identify their strengths and limitations, as well as investigate the most suitable approaches for given security requirements and risk appetites.
 
 ### Learning Outcomes
-On completion of this unit, we will be able to:
+On completion of this unit, we were able to:
  - Explain how and when to use regular expressions in solutions.
  - Describe how and when to use recursion in solutions.
  - Discuss the security implications of both approaches.
