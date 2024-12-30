@@ -10,7 +10,7 @@ On completion of this unit, I was able to:
  - Discuss programming challenges and recommended best practices.
  - Explain what design patterns are and when to use them.
 
-### Artefacts 
+### Artefacts and Collaborative Discussion
 As part of my e-portfolio, I have completed the following activities and actively engaged in collaborative discussions, , which are recorded in the link below:
 
 [Collaborative Discussion 1 - UML Flowchart-Summary post](SSD_Unit03_Summary.pdf)
