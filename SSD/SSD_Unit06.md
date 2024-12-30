@@ -1,31 +1,26 @@
 # Unit 6: Using Linters to Support Python Testing
 
-Welcome to Week 6. This week, we will examine the technologies that are available for use within the Python programming language to support the development of high-quality code. High quality code is important, with an assumption that high quality code will be secure.
-
-In this unit we shall:
- - Apply linters to support quality Python code development.
- - Appreciate the different contributions from linters which are described as having similar objectives, and to realise their applicability and utility in different scenarios.
- - Correct Python code so that it is free from error and consistent in its design.
-
+During this unit, we explored the use of linters within the Python programming language to support the development of high-quality code. We examined how high-quality code contributes to secure software development, emphasising the importance of tools and techniques that enforce coding standards and error-free implementation. The unit focused on applying linters to ensure quality, understanding the specific contributions of different linters, and learning how to correct Python code to make it error-free and consistent in design. This knowledge is directly relevant to ensuring both quality and security in software projects, particularly in the context of the summative assessment.
 
 ### Learning Outcomes
-On completion of this unit you will be able to:
- - Be familiar with using linters to support quality Python code development.
- - Compare and contrast the outputs from linters to recognise their relevance and applicability in different development and testing scenarios.
- - Develop Python code, which is free of error, consistent in its design, and considered to be high quality according to common Python standards.
+By the end of this unit, we were able to:
+ - Use linters to support the development of quality Python code.
+ - Compare and contrast the outputs of different linters to understand their relevance and applicability in various development and testing scenarios.
+ - Develop Python code that is error-free, consistent in design, and adheres to common Python standards of high quality.
 
-The content in Week 6 is important as it exposes students to the tools and techniques which are available within the Python programming language to support the development of code which is both high quality and secure. This will be directly applicable, and important, within the context of the summative assessment.
 
-### Artefacts and Collaborative Discussion 
-As part of my e-portfolio, I have completed the following activities, which are documented in the provided link:
+### Artefacts 
 
 [Exploring Linters to Support Testing in Python](SSD_Unit06_Seminar.md) (Not available) <br><br>
 
 ### Reflections
-During this unit, I gained valuable insights into xxx
+This unit highlighted the significance of linters as tools to maintain coding consistency, identify errors, and enforce best practices. However, I was unable to complete the artefact for this unit due to technical challenges in running the provided code in my working environment (Windows and Visual Studio as the IDE). Additionally, I devoted most of my resources and time to completing Assignment 1 with my team, which left me with insufficient time to explore alternative solutions to complete the linters exercise.
 
 ### Action Plan
-I'm planning to enhance my understanding of xxx
+I plan to revisit the content of this unit if I have extra time during the SSD module. I will seek alternatives and solutions to successfully run the provided code for the linters exercise.
+
+By doing so, I hope to gain hands-on experience with linters and fully understand their functionality and impact on ensuring high-quality Python code. Additionally, I plan to explore online resources and tutorials to deepen my knowledge of how linters can improve both the quality and security of software projects. This will help me integrate these tools more effectively into my future development processes.
+
 
 <br><br>
 
