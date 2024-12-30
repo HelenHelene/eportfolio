@@ -18,7 +18,7 @@
 | [7](SSD_Unit07.md) | Activity | <br> [Developing an API for a Distributed Environment](SSD_Unit07_Activity2.md) <br><br> |
 | [8](SSD_Unit08.md) - [10](SSD_Unit10.md)	| Collaborative Discussion 2 | <br> Cryptography Case Study - TrueCrypt : [Initial post](SSD_Unit08_Initial.pdf), [Peer Response 1](SSD_Unit09_Respond1.pdf), [Peer Response 2](SSD_Unit09_Respond2.pdf), [Summary post](SSD_Unit10_Summary.pdf) <br><br> |
 | [8](SSD_Unit08.md) | Seminar Preparation | <br> [Cryptography Programming Exercise](SSD_Unit08_Seminar.md) <br><br> |
-| [9](SSD_Unit10.md) | Seminar Preparation | <br> [API Demonstrations](SSD_Unit10_Seminar.md) <br><br> |
+| [9](SSD_Unit09.md) | Seminar Preparation | <br> [API Demonstrations](SSD_Unit10_Seminar.md) <br><br> |
 | [10](SSD_Unit10.md) | e-portfolio Component | <br> [Faceted Data](SSD_Unit10_Component.md) <br><br> |
 | [11](SSD_Unit11.md) | Team Activity | <br> [Debate: Microservices and Microkernels](SSD_Unit11_TeamActivity.md) <br><br> |
 | [12](SSD_Unit12.md) | Seminar Preparation | <br> [Microservices and Microkernels Debate](SSD_Unit12_Seminar.md) <br><br> |
