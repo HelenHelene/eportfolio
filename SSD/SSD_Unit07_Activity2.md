@@ -100,6 +100,22 @@ Following the rise of microservices, the next phase in distributed systems evolu
 <br><br>
 
 
+---
+
+## Reflections
+
+This exercise provided valuable hands-on experience in building RESTful APIs using Flask, offering a practical demonstration of distributed system principles. It was fascinating to see how fundamental concepts such as GET, POST, and DELETE requests are applied in real-world scenarios.
+
+During the process, I encountered challenges with the w3m command mentioned in the requirements, as it did not work in the Windows environment. Additionally, I was unable to set up multiple terminals in Visual Studio, which required me to conduct extensive research to find a solution. While I discovered methods for creating Flask projects directly within Visual Studio, these required additional time to explore. As a result, I opted for a simpler approach: running the Flask app in Visual Studio and using the Windows Command Prompt in parallel.
+
+I also realized that w3m is a Linux-based command, which led to additional time spent identifying alternatives. Eventually, I learned about using curl and discovered that testing the API directly in a web browser could achieve similar results. Although this process was time-consuming, it was highly engaging and mirrored the problem-solving scenarios often encountered in real-world development. This experience also proved beneficial in preparing me for the coding exercises in Assignment 2.
+
+Furthermore, exploring the evolution from microservices to serverless architectures emphasized the ongoing pursuit of scalability, cost-efficiency, and reduced operational complexity in modern distributed systems. This exercise highlighted the importance of adaptability and staying informed about emerging technologies in computer science, which is crucial for professional growth.
+
+<br><br>
+
+--- 
+
 ## Reference
 
 QA. (2023) Advantages and disadvantages of microservices architecture. Available from: https://www.qa.com/resources/blog/microservices-architecture-challenge-advantage-drawback/#:~:text=Improved%20fault%20isolation%3A%20Larger%20applications,an%20individual%20service%20as%20needed.
@@ -111,6 +127,8 @@ Salah, T., Zemerly, M. J., et al. (2016) The Evolution of Distributed Systems to
 Temov, J. (2024) Serverless Architectures: Benefits and Challenges. Available from: https://www.enov8.com/blog/serverless-architectures-benefits-and-challenges/
 
 <br><br> 
+
+---
 
 ## Bibliography
 
@@ -124,20 +142,6 @@ GeeksforGeeks. (2024) Implement a Python REST API with Flask & Flasgger. Availab
 
 Microsoft. (2024) Tutorial: Work with the Flask web framework in Visual Studio. Available from: https://learn.microsoft.com/en-us/visualstudio/python/learn-flask-visual-studio-step-01-project-solution?view=vs-2022
 
-
-<br><br>
-
----
-
-## Reflections
-
-This exercise provided valuable hands-on experience in building RESTful APIs using Flask, offering a practical demonstration of distributed system principles. It was fascinating to see how fundamental concepts such as GET, POST, and DELETE requests are applied in real-world scenarios.
-
-During the process, I encountered challenges with the w3m command mentioned in the requirements, as it did not work in the Windows environment. Additionally, I was unable to set up multiple terminals in Visual Studio, which required me to conduct extensive research to find a solution. While I discovered methods for creating Flask projects directly within Visual Studio, these required additional time to explore. As a result, I opted for a simpler approach: running the Flask app in Visual Studio and using the Windows Command Prompt in parallel.
-
-I also realized that w3m is a Linux-based command, which led to additional time spent identifying alternatives. Eventually, I learned about using curl and discovered that testing the API directly in a web browser could achieve similar results. Although this process was time-consuming, it was highly engaging and mirrored the problem-solving scenarios often encountered in real-world development. This experience also proved beneficial in preparing me for the coding exercises in Assignment 2.
-
-Furthermore, exploring the evolution from microservices to serverless architectures emphasized the ongoing pursuit of scalability, cost-efficiency, and reduced operational complexity in modern distributed systems. This exercise highlighted the importance of adaptability and staying informed about emerging technologies in computer science, which is crucial for professional growth.
 
 <br><br>
 
