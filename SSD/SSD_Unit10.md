@@ -21,9 +21,8 @@ As part of my e-portfolio, I participated in collaborative discussions and compl
 
 [Collaborative Discussion 1 - Cryptography Case Study - TrueCrypt-SummaryPost](SSD_Unit10_Summary.pdf) 
 
-[Faceted Data](SSD_Unit10_Component.md) 
+[Faceted Data](SSD_Unit10_Component.md) <br><br> 
 
-[API Demonstrations](SSD_Unit10_Seminar.md) <br><br> 
 
 ### Reflections
 Reflecting on this unit, xxx
