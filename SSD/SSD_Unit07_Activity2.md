@@ -100,7 +100,7 @@ Following the rise of microservices, the next phase in distributed systems evolu
 <br><br>
 
 
-## Reflections
+## Reference
 
 QA. (2023) Advantages and disadvantages of microservices architecture. Available from: https://www.qa.com/resources/blog/microservices-architecture-challenge-advantage-drawback/#:~:text=Improved%20fault%20isolation%3A%20Larger%20applications,an%20individual%20service%20as%20needed.
 
@@ -129,7 +129,7 @@ Microsoft. (2024) Tutorial: Work with the Flask web framework in Visual Studio. 
 
 ---
 
-## Reference
+## Reflections
 
 This exercise provided valuable hands-on experience in building RESTful APIs using Flask, offering a practical demonstration of distributed system principles. It was fascinating to see how fundamental concepts such as GET, POST, and DELETE requests are applied in real-world scenarios.
 
