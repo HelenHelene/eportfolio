@@ -1,22 +1,14 @@
 # Unit 5: An Introduction to Testing
 
-Welcome to Week 5, during which we will explore the art of testing software, both for general quality and, specific to this module, for security. This takes into account the key terms within the context of software testing, in addition to the important software testing techniques. These are placed in context with a consideration of the practices which are used in industry and are reinforced from a practical perspective through harnessing the tools that are available in Python to automate the testing process.
-
-In this unit we shall:
- - Explore the range of questions to ask when developing a test plan.
- - Become familiar with two industry software testing standards.
- - Examine a range of testing techniques and appreciate the relevance of each in different testing scenarios.
- - Recognise the tools and frameworks which are available to support and automate the Python testing process.
+During this unit, we explored the art of testing software, focusing on both general quality and, specifically, security. For example, we examined the range of questions to ask when developing a test plan, becoming familiar with the key concepts in software testing and understanding their relevance within the context of security. We also investigated key industry practices, including OWASP and contributions from ISO/IEC/IEEE, and explored how these standards guide software testing processes. 
 
 ### Learning Outcomes
-On completion of this unit you will be able to:
- - Describe the key terms which are associated with testing software for security.
+By the end of this unit, we were able to:
+ - Describe the key terms associated with testing software for security.
  - Prepare a list of questions to ask when designing a test plan for secure software.
- - Design software tests through understanding the range of ways which the security of software can be breached.
+ - Design software tests by understanding the range of ways in which the security of software can be breached.
 
-The topics presented during Week 5 are important within the overall context of developing software as part of the module deliverables, as the areas in software which present common attack surfaces are discussed. This knowledge can subsequently be used when developing software, by working to minimise the existence of these pressure points. A discussion of the industry standard testing processes, which include OWASP and contributions from ISO/IEC/IEEE highlight the testing process that is used is practice, with the possibility of reusing some or all of the techniques. This is further supplemented with a detailed overview of the different approaches to testing software, from functional, to usability, performance, penetration, and vulnerability testing. The module material then progresses into a discussion of the techniques which are available in Python to support and automate the testing process. This includes an investigation of logical and stylistic lints, and specific to the security perspective, bandit. From a more practical perspective, the seminar for Week 5 involves installing a variety of Python linters and examining the ways in which they support effective and secure coding practices.
-
-### Artefacts and Collaborative Discussion 
+### Artefacts 
 As part of my e-portfolio, I have completed the following activities, which are documented in the provided link:
 
 [Equivalence Testing in Python](SSD_Unit05_Activity.md)
@@ -25,10 +17,16 @@ As part of my e-portfolio, I have completed the following activities, which are 
 
 
 ### Reflections
-During this unit, I gained valuable insights into xxx
+During this unit, I gained valuable insights into software testing concepts, their application in improving software security, and the practical tools available in Python to support and automate these processes. By delving into equivalence testing in Python, I learned how to group and classify data into equivalence classes using defined relations, ensuring that software tests are comprehensive yet efficient. This highlighted the importance of systematically evaluating relationships between data elements and testing edge cases to ensure robustness. From this, I now better understand how equivalence partitioning can be applied in black-box testing to reduce the number of test cases while maintaining coverage, which is invaluable for both functional and security testing.
+
+Exploring the relevance of Cyclomatic Complexity (CC) further broadened my understanding of code quality metrics and their role in software testing. I learned that while CC is not a comprehensive measure of all types of complexity, it remains a valuable tool for identifying potentially problematic areas in the code. For example, high CC values often indicate areas prone to defects or maintenance challenges, and simplifying these areas can improve both security and readability. I also realised that CC can guide the creation of effective test cases by identifying independent paths in the code, ensuring thorough testing. However, I came to appreciate the limitations of CC, particularly in modern programming paradigms, where other complexity types (e.g., cognitive complexity) may also need to be considered to ensure secure and maintainable software.
+
+This unit also reinforced the importance of automated tools in testing. By engaging with Python-based tools such as linters and security-focused utilities like Bandit, I now understand how these tools can assist in identifying vulnerabilities, enforcing coding standards, and improving overall code quality. This practical exposure has shown me how automation can not only save time but also enhance the accuracy and reliability of the testing process, particularly when addressing common attack surfaces.
 
 ### Action Plan
-I'm planning to enhance my understanding of xxx
+To further develop my understanding and skills in software testing, I plan to continue experimenting with equivalence partitioning by applying it to more complex, real-world scenarios, especially in security-focused testing. This will help me refine my ability to identify equivalence classes and edge cases, ensuring comprehensive testing coverage. 
+
+I also aim to deepen my knowledge of Python’s testing tools by experimenting further with Bandit and other linters, integrating them into my development workflow. By automating the identification of stylistic and security issues, I can ensure my code adheres to best practices while minimising vulnerabilities.
 
 <br><br>
 
