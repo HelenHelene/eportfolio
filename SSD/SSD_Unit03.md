@@ -19,7 +19,7 @@ As part of my e-portfolio, I have completed the following activities and activel
 
 [The Producer-Consumer Mechanism](SSD_Unit03_Activity2.md) 
 
-[Exploring Python tools and features](SSD_Unit03_Activity1.md) (Attempted but not finished)
+[Exploring Python tools and features](SSD_Unit03_Activity1.md) (Not attempted)
 
 ### Reflections
 Through activities like the discussion on secure programming languages, I explored the factors that make a language secure and how Python implements features like memory management and type safety to reduce vulnerabilities. This reinforced the importance of adopting best practices, such as input validation, avoiding functions like eval(), and using secure serialisation methods.
