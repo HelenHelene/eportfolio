@@ -11,7 +11,7 @@ By the end of this unit, we were able to:
 
 ### Artefacts 
 
-[Exploring Linters to Support Testing in Python](SSD_Unit06_Seminar.md) (Not available) <br><br>
+[Exploring Linters to Support Testing in Python](SSD_Unit06_Seminar.md) (Attempted but not finished) <br><br>
 
 ### Reflections
 This unit highlighted the significance of linters as tools to maintain coding consistency, identify errors, and enforce best practices. However, I was unable to complete the artefact for this unit due to technical challenges in running the provided code in my working environment (Windows and Visual Studio as the IDE). Additionally, I devoted most of my resources and time to completing Assignment 1 with my team, which left me with insufficient time to explore alternative solutions to complete the linters exercise.
