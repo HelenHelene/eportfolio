@@ -11,6 +11,9 @@ Run _styleLint.py_
  - Can you modify this code for a more favourable outcome? 
  - What amendments have you made to the code?
 
+<img src="SSD_Unit06_stylelint1.jpg" alt="stylelint.py code" width="450"/> <br>
+<br>
+
 ## Question 2
 
 _pip install pylint_
@@ -25,6 +28,9 @@ on _pylintTest.py_
 
 Before correcting the code errors, save the _pylintTest.py_ file with a new name (it will be needed again in the next question).
 
+<img src="SSD_Unit06_pylinttest1.jpg" alt="pylinttest.py code" width="500"/> <br>
+<br>
+
 ## Question 3
 
 _pip install flake8_
@@ -37,6 +43,9 @@ on _pylintTest.py_
  - Review the errors returned.
  - In what way does this error message differ from the error message returned by pylint?
 
+<img src="SSD_Unit06_pylinttest1.jpg" alt="pylinttest.py code" width="500"/> <br>
+<br>
+
 Run<br>
 
 _flake8_ <br> 
@@ -44,6 +53,9 @@ on _metricTest.py_
 
 - Can you correct each of the errors returned by flake8?
 - What amendments have you made to the code?
+
+<img src="SSD_Unit06_metrictest1.jpg" alt="metrictest.py code" width="600"/> <br>
+<br>
 
 ## Question 4
 
@@ -56,6 +68,9 @@ on _sums.py_.
 
 - What is the result?
 
+<img src="SSD_Unit06_sumsa1.jpg" alt="sums.py code" width="600"/> <br>
+<br>
+
 Run<br>
 
 _mccabe_ <br> 
@@ -63,6 +78,9 @@ on _sums2.py_.
 
 - What is the result?
 - What are the contributors to the cyclomatic complexity in each piece of code?
+
+<img src="SSD_Unit06_sumsb1.jpg" alt="sums2.py code" width="500"/> <br>
+<br>
 
 ## Activity
 Select one or more of the tools installed above and use it/them to test the code your team has created as part of the summative assessment. 
