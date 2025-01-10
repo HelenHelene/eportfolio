@@ -1,23 +1,17 @@
 # Unit 10: From Distributed Computing to Microarchitectures
 
-Welcome to Week 10, in which we will consider the variety of system architectures which exist today, from monolithic deployments to microservices, virtualisation, and containers. We will gain an appreciation of the reasons why the architectures have evolved in the manner that they have and recognise the security problems which can become problematic in each. As we have increasingly moved towards more distributed modes of operation, the surface which can be attacked increases. Intelligent techniques to protect the data that is being transported across these systems is needed, further increasing the drive for system security.
-
-In this unit we shall:
- - Explore the evolution of system architectures, from distributed systems to microservices.
- - Examine the strengths and weaknesses of the variety of approaches to distributed systems.
- - Define the security attacks which are specific to virtual environments.
+During this unit, we investigated the evolution of system architectures, ranging from traditional monolithic deployments to modern microservices, virtualisation, and containers. We explored how these architectures have developed over time and examined the unique security challenges they present, particularly in distributed environments. As the operational landscape shifts towards distributed systems, we recognised the increased attack surface and the need for intelligent techniques to protect data in transit. The unit also focused on encryption methods and key distribution patterns, as well as the vulnerabilities specific to virtualised environments.
 
 ### Learning Outcomes
-On completion of this unit you will be able to:
- - Describe a variety of distributed systems, and the pattern in which they evolved.
- - Discuss the security attacks that distributed systems, in particular, are vulnerable to.
- - Understand the ways in which virtual systems need to be protected due to the specific nature of attacks on them.
+By the end of this unit, I was able to:
 
-The content this week continues to examine the importance of developing secure software, this time from the perspective of distributed systems and the specific challenges which come from operating in a remote manner. Security techniques are therefore expanded this week through the consideration of encryption, for example, and the patterns used to distribute encryption keys, in addition to the nature of attacks that are specific to virtualised environments. This week helps to bring the module content to a more timely and relevant mode of operation, that of being distributed.
-
+ - Describe the evolution of distributed systems and how patterns in architecture have changed over time.
+ - Discuss the strengths and weaknesses of various distributed approaches, including monolithic, microservices, and virtualisation.
+ - Identify and describe security attacks specific to virtual systems and distributed environments.
+ - Understand how distributed systems can be protected using encryption techniques and secure virtualisation practices.
 
 ### Artefacts and Collaborative Discussion 
-As part of my e-portfolio, I participated in collaborative discussions and completed the following activities, which are documented in the provided link:
+As part of this unit, I engaged in collaborative discussions and completed the following activities to reinforce my understanding:
 
 [Collaborative Discussion 1 - Cryptography Case Study - TrueCrypt-SummaryPost](SSD_Unit10_Summary.pdf) 
 
@@ -25,10 +19,14 @@ As part of my e-portfolio, I participated in collaborative discussions and compl
 
 
 ### Reflections
-Reflecting on this unit, xxx
+Reflecting on this unit, I developed a comprehensive understanding of how distributed systems have evolved and the security challenges they face. The discussion on TrueCrypt underscored the importance of maintaining up-to-date encryption methods and avoiding reliance on outdated or unsupported tools. I gained a clear perspective on how vulnerabilities, such as weak key derivation and improper handling of sensitive data, can compromise security in distributed environments.
+
+The exploration of faceted data deepened my knowledge of dynamic information flow security, particularly in systems where data needs to be securely viewed and accessed by users with varying privileges. This concept, though complex, has practical applications in preventing data leakage and ensuring confidentiality in distributed systems. Additionally, I gained an appreciation of how security attacks, such as those targeting virtualised environments, require tailored solutions due to their unique nature.
+
+These activities helped me connect theoretical knowledge with practical implementation, strengthening my ability to critically evaluate system architectures and their associated risks. I also recognised the importance of encryption and key management in safeguarding distributed systems, which has reinforced my understanding of secure software development practices.
 
 ### Action Plan
-I plan to continue participating in collaborative discussions and xxx.
+I plan to further explore advanced encryption techniques and key distribution patterns to enhance my understanding of how to secure data in distributed environments. Moreover, I intend to stay updated on best practices for securing virtualised environments, particularly through resources like OWASP and cybersecurity publications. By doing so, I hope to develop a deeper understanding of how to mitigate attacks targeting virtual systems and contribute to the design of secure, efficient distributed architectures in future projects.
 
 <br><br>
 
