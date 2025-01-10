@@ -1,39 +1,35 @@
 # Unit 12: The Great Tanenbaum-Torvalds Debate Revisited
 
-Welcome to Week 12 where we will revisit (and recreate in our own small way) the Tanenbaum-Torvalds debate of the early nineties.
-
-At the time of the original debate, Andrew Tanenbaum was a university lecturer who had created Minix – a small, microkernel-based operating system that he used as a teaching tool. Linus Torvalds was a master's student who had completed a module in operating systems design. Anecdotally, Torvalds claimed he was just trying to create his own OS kernel that he could use with GNU and would make best use of his new (at the time) 386 based PC. He used Minix as the theoretical basis of his new system.
-
-The world of computing was very different in 1992. Processor speeds were in the MHz, not GHz range. There was no multi-core x86 CPU available – and certainly not in desktop systems. Therefore, the decisions about how OSes should be designed – the trade-offs between single address space systems versus user-kernel memory splits, and the concerns about context switch times were much more acute in those days.
-
-Today we live in a web scale world: workloads run in virtual clouds with supposedly unlimited capacity for expansion – both for RAM and CPU. Malevolent intention is everywhere – barely a day goes by without another announcement of a critical exploit or vulnerability in one system or another – and sometimes in the underlying hardware as well!
-
-All these things should be borne in mind when considering the validity of both Tanenbaum’s and Torvalds’ arguments nearly thirty years on: is a monolithic kernel still the best approach in a mostly distributed world? Does the use of microservices equate to a need for microkernels? And how does the shadow of incessant cyber-attacks impact these decisions? Hopefully this debate will help us all to re-evaluate our opinions on the best approach to take.
-
-In this unit we shall:
- - Review journals and articles about monoliths, microkernels and microservices.
- - Engage in a debate about the above.
- - Explore some of the advances in secure programming.
+During this unit, we examined the longstanding debate between monolithic and microkernel architectures in the context of modern software development. We explored the historical arguments presented by Andrew Tanenbaum and Linus Torvalds during the early 1990s and re-evaluated their relevance in today’s distributed, cloud-based computing environments. Additionally, we investigated the relationship between microkernels and microservices, considering how advances in secure programming and system design influence architectural decisions. This unit provided a comprehensive summary of the module and encouraged us to critically assess current trends in system design, weighing the trade-offs between monolithic and modular approaches.
 
 ### Learning Outcomes
-On completion of this unit you will be able to:
- - Recommend a strategy around which methodology to adopt: monolithic or microservices.
- - Provide evidence to support your recommendation.
- - Explain how faceted data approaches work.
+By the end of this unit, I was able to:
+ - Recommend a strategy for adopting either monolithic or microservice-based methodologies, depending on the use case.
+ - Provide evidence and academic references to support my recommendation.
+ - Explain how faceted data approaches work and their relevance to secure programming.
 
-This session summarises the module and asks you to think about current trends in system design and development and the two opposing approaches: monolithic or microservice/ modular designs.
-
-### Artefacts and Collaborative Discussion 
+### Artefacts 
 As part of my e-portfolio, I have completed the following activities which are documented in the provided link:
 
 [Microservices and Microkernels Debate](SSD_Unit12_Seminar.md) <br><br>
 
 ### Reflections
-During this unit, I gained valuable insights into xxx
+During this unit, I participated in two debates that significantly enhanced my understanding of system design and secure programming principles.
+
+In the first debate (Unit 11: Microservices and Microkernels), I argued that microservices and microkernels represent the future of software architecture due to their scalability, modularity, and fault isolation. Drawing on academic references, I highlighted the advantages of decomposing monolithic systems into smaller, independently deployable components, aligning with modern development goals like continuous delivery and cloud scalability.
+
+Building on this in the second debate (Unit 12: Monolithic vs. Microservices and Microkernels), I further supported the adoption of microservices and microkernels in today’s distributed systems. I analysed how combining microservices at the application layer with microkernel-based operating systems can reduce the trusted computing base (TCB), improve fault isolation, and mitigate security risks such as privilege escalation. The debates provided a platform to critically evaluate opposing views, refine my arguments, and gain a well-rounded understanding of the trade-offs involved in each approach.
+
+Revisiting the Tanenbaum-Torvalds debate gave me valuable insights into how architectural decisions affect performance, scalability, and security. I developed an appreciation for the historical context of monolithic and microkernel designs and how advancements in hardware and software have shifted the balance towards modular approaches. The discussions clarified how microservices and microkernels complement each other: microservices enable independent deployment and scalability at the application level, while microkernels improve security and fault isolation at the operating system level.
+
+The debates also emphasised the importance of context when choosing an architecture. While monolithic systems may offer performance advantages in certain scenarios, the distributed nature of modern systems often demands the flexibility and resilience provided by microservices and microkernels. Additionally, exploring faceted data approaches reinforced my understanding of secure programming techniques, particularly how they can dynamically enforce information flow security in distributed environments.
+
+Overall, this unit helped me develop critical thinking skills and apply them to real-world architectural challenges. It deepened my understanding of how emerging trends, such as cloud computing and continuous delivery pipelines, influence system design and development practices, preparing me to make informed architectural decisions in the future.
 
 ### Action Plan
-I'm planning to enhance my understanding of xxx
+To build on my learning from this unit, I intend to enhance my knowledge of secure programming techniques by investigating faceted data approaches in greater depth. This will involve reviewing academic literature and experimenting with dynamic information flow control methods in programming languages such as Python. Furthermore, I will stay updated on industry trends and best practices by following relevant publications and participating in professional forums.
 
+By continuing to refine my skills in system design and secure programming, I aim to confidently apply these concepts to future projects, ensuring they are scalable, resilient, and secure in distributed environments.
 <br><br>
 
 --- 
