@@ -8,7 +8,7 @@ The forum has a message that says: “Torvalds has been proven wrong and it only
  - On the forum post a message either agreeing or disagreeing with the above and give a justification (ideally with an academic reference) supporting your view.
  - Outside the forum, discuss your positions in your team and come up with a team stance. This should be shared in Unit 12.
 
-## My position
+## My Stance
 I would agree with the statement that microservices and microkernels represent the future of software architecture. Over the intervening decades, microservices and microkernel designs have indeed gained traction, especially in enterprise environments, where scaling and modular maintenance have become paramount.
 
 On the one hand, microservices can offer a number of advantages: development teams can work on loosely coupled services, iterate quickly, and deploy updates without extensive impact on the entire system. As Fritzsch et al. (2019) suggest in their classification of refactoring approaches, organisations often decompose large monoliths into microservices precisely because of benefits like independent scalability, reduced downtime, and easier adoption of new technologies in specific components. These refactoring benefits mirror some of the same motivations behind microkernel design: isolating services (or OS components) so that faults in one area need not compromise the stability of the rest of the system.
