@@ -8,7 +8,7 @@ By the end of this unit, I was able to:
  - Identify and describe security issues associated with these systems, such as data integrity, privacy, and system resilience.
  - Recommend emerging technologies and solutions for further investigation, based on their potential to address current and future security challenges.
 
-### Artefacts and Collaborative Discussion 
+### Artefacts
 As part of my e-portfolio, I have completed the following activities which are documented in the provided link:
 
 [Debate: Microservices and Microkernels](SSD_Unit11_TeamActivity.md) <br><br> 
