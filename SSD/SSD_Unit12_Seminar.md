@@ -1,7 +1,7 @@
 # Microservices and Microkernels Debate
 
 ## Requirement
-Read [Biggs et al (2018)](SSD_Unit12_SeminarReference2.pdf) and [Bucchiarone et al (2018)](SSD_Unit12_SeminarReference.pdf) as examples of modern views and approaches to the Monolithic vs. Microservices/ Microkernel debate.
+Read Biggs et al (2018) and Bucchiarone et al (2018) as examples of modern views and approaches to the Monolithic vs. Microservices/ Microkernel debate.
 
  - Post your team’s stance to the forum along with justifications.
  - Read all the arguments for each position.
