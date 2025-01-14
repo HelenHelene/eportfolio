@@ -92,6 +92,7 @@ The IMS system primarily uses Python lists to store collections of custom object
 1.	_users.json_ holds a list of User objects. 
 2.	_products.json_ holds a list of Product objects. 
 3.	_orders.json_ holds a list of Order objects.
+
 Although data is saved and loaded via JSON, it remains in memory (as lists of objects) while the application runs, allowing quick iteration, addition, and removal.
 
 #### Execution Instructions
