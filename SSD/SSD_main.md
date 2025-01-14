@@ -1,12 +1,14 @@
 # Module 6 Secure Software Development
 
-In this module, we explore xxx
+In this module, we examine the security risks tied to programming languages through design and architecture strategies, programming paradigms, testing, and the role of operating systems and libraries in development. We also focus on distributed systems, APIs, and emerging trends, all within the framework of the secure software development life cycle.
 
-There are three assignments in this module. In the first assignment, we participate in the team submission and individual peer assessment. For the team submission, we need to develop a proposal detailing xxx.
+Throughout the module, we will strengthen our understanding of abstraction, secure development methodologies, and the skills needed for effective analysis, design, construction, and testing. We will explore both classic and modern SDLC models (e.g., TOGAF, Agile), practice collaboration and conflict-resolution within a team, and reflect on our personal growth. By the end, we will be equipped to identify and manage security risks, select suitable development approaches, and build secure software.
 
-The second assignment xxx.
+There are three assignments in this module. In the first assignment, we participate in a team submission and individual peer assessment. For the team submission, we focus on designing a secure application for an online retailer and submitting a Design Document that outlines how the listed requirements will be met.
 
-Lastly, we are expected to submit an e-Portfolio, gathering evidence of work and submitting a reflective piece on personal development throughout the module.
+The second assignment is an Individual Project, which requires creating Python code based on the design from Assignment 1, along with accompanying test evidence and a live demonstration.
+
+Lastly, we are expected to submit an e-Portfolio, collecting evidence of our work and submitting a reflective piece on personal development. This culminates in a final reflection that summarizes individual learning achievements and experiences.
 
 #### Assignment 1: Development Team Project _(🎓Pass with Distinction)_
 [Design Document](SSD_A1.md) <br>
