@@ -72,35 +72,35 @@ _Figure 1: File Tree_
 #### Dependencies and libraries
 | **Library/Module** | **Details** | 
 | :----------- | :--------- |
-| bcrypt (PyPI, 2024a) | Secure password hashing (salting + cost factor) for storing passwords. |
-| requests (PyPI, 2024e)	| Handles simple and efficient HTTP interactions with the Flask validation API. |
-| pytest (PyPI, 2024d)	| A popular framework for unit and integration tests with fixture support. |
-| Flask (Pallets, 2010; PyPI, 2024c)	| Quickly sets up a minimal API endpoint for company ID validation. |
-| logging (Python Software Foundation, n.d.c)	| Writes logs tracking critical application events. |
-| os, sys (GeeksforGeeks, 2024)	| Enables cross-platform file and system operations. |
-| uuid (UUID Generator,  n.d.)	| Generates reliable unique IDs for orders and other items. |
-| unittest.mock/patch (Python Software Foundation, n.d.f)	| Allows mocking inputs and isolating functionality during tests. |
-| datetime, time (Python Software Foundation, n.d.a)	| Manages timestamps and lockout timers with precise controls. |
-| re (Python Software Foundation, n.d.d)	| Performs regex-based checks for password strength. |
-| json (Python Software Foundation, n.d.b)	| Read/write and manipulating JSON data files. |
-| subprocess (Python Software Foundation, n.d.e)	| Executes shell commands for tasks like linting or deployment. |
-| flake8 (PyPI, 2024b)	| Enforces code style and consistency for maintainable code. |
+| _bcrypt_  (PyPI, 2024a) | Secure password hashing (salting + cost factor) for storing passwords. |
+| _requests_  (PyPI, 2024e)	| Handles simple and efficient HTTP interactions with the Flask validation API. |
+| _pytest_  (PyPI, 2024d)	| A popular framework for unit and integration tests with fixture support. |
+| _Flask_  (Pallets, 2010; PyPI, 2024c)	| Quickly sets up a minimal API endpoint for company ID validation. |
+| _logging_  (Python Software Foundation, n.d.c)	| Writes logs tracking critical application events. |
+| _os, sys_  (GeeksforGeeks, 2024)	| Enables cross-platform file and system operations. |
+| _uuid_  (UUID Generator,  n.d.)	| Generates reliable unique IDs for orders and other items. |
+| _unittest.mock/patch_  (Python Software Foundation, n.d.f)	| Allows mocking inputs and isolating functionality during tests. |
+| _datetime_, _time_  (Python Software Foundation, n.d.a)	| Manages timestamps and lockout timers with precise controls. |
+| _re_  (Python Software Foundation, n.d.d)	| Performs regex-based checks for password strength. |
+| _json_  (Python Software Foundation, n.d.b)	| Read/write and manipulating JSON data files. |
+| _subprocess_  (Python Software Foundation, n.d.e)	| Executes shell commands for tasks like linting or deployment. |
+| _flake8_  (PyPI, 2024b)	| Enforces code style and consistency for maintainable code. |
 
 #### Data Structures
 The IMS system primarily uses Python lists to store collections of custom objects in memory, with JSON files for persistence.
-1.	users.json holds a list of User objects. 
-2.	products.json holds a list of Product objects. 
-3.	orders.json holds a list of Order objects.
+1.	_users.json_ holds a list of User objects. 
+2.	_products.json_ holds a list of Product objects. 
+3.	_orders.json_ holds a list of Order objects.
 Although data is saved and loaded via JSON, it remains in memory (as lists of objects) while the application runs, allowing quick iteration, addition, and removal.
 
 #### Execution Instructions
 1.	Prerequisites
     - Python 3.9 or later version should be installed.
-    - Ensure required libraries are installed (e.g., bcrypt, requests, Flask) via pip install.
+    - Ensure required libraries are installed (e.g., _bcrypt_, _requests_, _Flask_) via _pip install_.
       
 2.	Initial Data
     - By default, sample Admin, Clerk, and Customer accounts and sample products exist.
-    - Optionally, run populate_data.py to reset or re-populate initial data.
+    - Optionally, run _populate_data.py_ to reset or re-populate initial data.
       
 3.	Run the Application
     - Launch main.py from your IDE or execute python main.py in your terminal.<br>
@@ -113,47 +113,48 @@ Although data is saved and loaded via JSON, it remains in memory (as lists of ob
     <img src="SSD_A2_Ex04.jpg" alt="Default User" width="300"/><br>
     **Important Note:** In a real production environment, passwords should not be hard-coded in README files.
   	
-6.	MFA Code (For Simulation only)
-    - When prompted, enter the MFA code 123456 to simulate successful multi-factor authentication. <br>
+5.	MFA Code (For Simulation only)
+    - When prompted, enter the MFA code _123456_ to simulate successful multi-factor authentication. <br>
       <img src="SSD_A2_Ex05.jpg" alt="MFA" width="400"/><br>
 
-7.	Creating New Users
+6.	Creating New Users
     - Admin users can add new Clerk users<br>
-     <img src="SSD_A2_Ex06a.jpg" alt="Create Clerk User" width="400"/><br>
+     <img src="SSD_A2_Ex06a.jpg" alt="Create Clerk User" width="300"/><br>
 
     - A new Customer can self-register if they have a valid company ID recognised by the validation API.<br>
-      <img src="SSD_A2_Ex06b.jpg" alt="Register Customer User" width="400"/><br>
+      <img src="SSD_A2_Ex06b.jpg" alt="Register Customer User" width="300"/><br>
 
     - The Admin user must be created on the backend via populate_data.py.
       
 7.	Username and Password Requirements
-    - Usernames must contain only letters and digits (A–Z, a–z, 0–9) and be within 5–20 characters in length.
-    - Passwords must be at least 8 characters long and contain at least one uppercase letter (A–Z), one lowercase letter (a–z), one digit (0–9), and one special character (@#$%^&+=).
+    - Usernames must contain only letters and digits (_A–Z_, _a–z_, _0–9_) and be within 5–20 characters in length.
+    - Passwords must be at least 8 characters long and contain at least one uppercase letter (_A–Z_), one lowercase letter (_a–z_), one digit (_0–9_), and one special character (_@#$%^&+=_).
       
 8.	Unlocking Users
     - Admin users can unlock blocked users manually.<br>
-       <img src="SSD_A2_Ex08a.jpg" alt="Manual Unlock" width="400"/><br>
+       <img src="SSD_A2_Ex08a.jpg" alt="Manual Unlock" width="300"/><br>
 
     - Alternatively, all blocked users can be automatically unlocked after a set duration (default is 5 minutes), eliminating manual steps.<br>
-        <img src="SSD_A2_Ex08b.jpg" alt="Auto Unlock" width="400"/><br>
+        <img src="SSD_A2_Ex08b.jpg" alt="Auto Unlock" width="600"/><br>
 
-    - If the only Admin user is locked and cannot wait for the set duration to automatically unlock, it can be unblocked on the backend (e.g., via unlock_admin.py or direct JSON editing).
+    - If the only Admin user is locked and cannot wait for the set duration to automatically unlock, it can be unblocked on the backend (e.g., via _unlock_admin.py_ or direct JSON editing).
       
 9.	Validation API 
-    - Run company_validation_api.py in another terminal to allow company verification for new customer registration.  For the demonstration, only COMPANY123, COMPANY456, and COMPANY789 are accepted.<br>
-         <img src="SSD_A2_Ex09.jpg" alt="API" width="400"/><br>
+    - Run _company_validation_api.py_ in another terminal to allow company verification for new customer registration.  For the demonstration, only _COMPANY123_, _COMPANY456_, and _COMPANY789_ are accepted.<br>
+         <img src="SSD_A2_Ex09.jpg" alt="API" width="600"/><br>
 
 10.	CLI Navigation
     - Once running, the CLI will guide you through the available actions for your user role (Admin, Clerk, Customer).<br>    
-          <img src="SSD_A2_Ex10.jpg" alt="User Menu" width="400"/><br>
+          <img src="SSD_A2_UserMenu.jpg" alt="User Menu" width="500"/><br>
           _Figure 2: Menu for different users_
 
 11.	Termination
-    - Log out from the current User Menu and select option 3 to exit.
-  
+    - Log out from the current User Menu and select option 3 to exit.<br>
+            <img src="SSD_A2_Ex11.jpg" alt="Exit" width="300"/><br>
+
 
 #### Testing Strategy
-The IMS uses pytest to confirm each unit (controllers, services, models) functions as intended. The main testing areas are:
+The IMS uses _pytest_ to confirm each unit (controllers, services, models) functions as intended. The main testing areas are:
 1.	Authentication
     - Tests correct login, account lockouts, lockout release, MFA code entry, password validation, and registration flows.
 2.	Product Management
@@ -167,13 +168,14 @@ The IMS uses pytest to confirm each unit (controllers, services, models) functio
 6.	Exception Handling
     - Examines how the system reacts to invalid user inputs, missing files, and network errors during API calls.
 7.	Linting
-    - Flake8 is used to detect style and formatting issues.
+    - _Flake8_ is used to detect style and formatting issues.
 
 #### Test Results
 1.	The core functionalities (login/logout, product addition and updates, order placement) passed the automated tests without major issues.
 2.	Integration tests showed that the end-to-end workflows function as intended under typical conditions.
 3.	Some exception handling scenarios revealed that error messages could be more descriptive, and additional edge cases (like extremely large stock values) need expanded testing.
 4.	The linter originally flagged several style violations (e.g., E501 for line length, E302 for missing blank lines). All warnings have since been addressed, and the code now passes all checks.
+
 Evidence of testing can be found in Appendix 15.
 
 #### Future Enhancements
