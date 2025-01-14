@@ -134,7 +134,7 @@ Although data is saved and loaded via JSON, it remains in memory (as lists of ob
       
 8.	Unlocking Users
     - Admin users can unlock blocked users manually.<br>
-       <img src="SSD_A2_Ex08a.jpg" alt="Manual Unlock" width="300"/><br>
+       <img src="SSD_A2_Ex08a.jpg" alt="Manual Unlock" width="250"/><br>
 
     - Alternatively, all blocked users can be automatically unlocked after a set duration (default is 5 minutes), eliminating manual steps.<br>
         <img src="SSD_A2_Ex08b.jpg" alt="Auto Unlock" width="600"/><br>
