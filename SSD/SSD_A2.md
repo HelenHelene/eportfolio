@@ -70,6 +70,7 @@ Below File Tree present the core modules in the IMS.<br>
 _Figure 1: File Tree_
 
 #### Dependencies and libraries
+
 | **Library/Module** | **Details** | 
 | :----------- | :--------- |
 | _bcrypt_  (PyPI, 2024a) | Secure password hashing (salting + cost factor) for storing passwords. |
