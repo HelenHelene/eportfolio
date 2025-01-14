@@ -1,6 +1,5 @@
 ### Assignment 2: Development Individual Project - Output and Evidence of Testing
 ###  - [Demonstration](SSD_A2_Demo.pdf)
-###  - [Inventory Management System (IMS) - Python Scripts](SSD_A2_Scripts.md)
 
 <br>
 
@@ -264,31 +263,11 @@ Visual Studio Code. (2024) Linting Python in Visual Studio Code. Available from:
 
 #### Appendix	
 
-<img src="OOP_Assignment2_UseCase.jpg?raw=true">
-<br><br>
+[Appendix 1 - 14 Python Scripts](SSD_A2_Appendix1-14.pdf)
 
-<img src="OOP_Assignment2_Class.jpg?raw=true">
-<br><br>
+[Appendix 15 Test Result](SSD_A2_Appendix15.pdf)
 
-<img src="OOP_Assignment2_Activity.jpg?raw=true">
-<br><br>
-
-<img src="OOP_Assignment2_StateMach.jpg?raw=true">
-<br><br>
-
-<img src="OOP_Assignment2_Sequence.jpg?raw=true">
-<br><br>
-
----
-
-[Return to Module 2](OOP.md)
-
-
----
-
-#### References
-xxx
-
+[Test Output](SSD_A2_TestOutput.pdf)
 <br><br>
 
 ---
