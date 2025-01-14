@@ -96,76 +96,86 @@ Although data is saved and loaded via JSON, it remains in memory (as lists of ob
 1.	Prerequisites
     - Python 3.9 or later version should be installed.
     - Ensure required libraries are installed (e.g., bcrypt, requests, Flask) via pip install.
+      
 2.	Initial Data
     - By default, sample Admin, Clerk, and Customer accounts and sample products exist.
     - Optionally, run populate_data.py to reset or re-populate initial data.
+      
 3.	Run the Application
-    - Launch main.py from your IDE or execute python main.py in your terminal.
+    - Launch main.py from your IDE or execute python main.py in your terminal.<br>
        <img src="SSD_A2_Ex03a.jpg" alt="Launch" width="600"/><br>
 
-    - Follow on-screen prompts to log in (existing Admin, Clerk, or Customer) or register (new Customer) if you have a valid company ID.
+    - Follow on-screen prompts to log in (existing Admin, Clerk, or Customer) or register (new Customer) if you have a valid company ID.<br>
         <img src="SSD_A2_Ex03b.jpg" alt="Main Menu" width="300"/><br>
 
 4.	Default User Credentials (For demonstration only)<br>
     <img src="SSD_A2_Ex04.jpg" alt="Default User" width="300"/><br>
     **Important Note:** In a real production environment, passwords should not be hard-coded in README files.
-5.	MFA Code (For Simulation only)
-    - When prompted, enter the MFA code 123456 to simulate successful multi-factor authentication. 
+  	
+6.	MFA Code (For Simulation only)
+    - When prompted, enter the MFA code 123456 to simulate successful multi-factor authentication. <br>
       <img src="SSD_A2_Ex05.jpg" alt="MFA" width="400"/><br>
 
-6.	Creating New Users
-    - Admin users can add new Clerk users
+7.	Creating New Users
+    - Admin users can add new Clerk users<br>
      <img src="SSD_A2_Ex06a.jpg" alt="Create Clerk User" width="400"/><br>
 
-    - A new Customer can self-register if they have a valid company ID recognised by the validation API.
+    - A new Customer can self-register if they have a valid company ID recognised by the validation API.<br>
       <img src="SSD_A2_Ex06b.jpg" alt="Register Customer User" width="400"/><br>
 
-•	The Admin user must be created on the backend via populate_data.py.
+    - The Admin user must be created on the backend via populate_data.py.
+      
 7.	Username and Password Requirements
-•	Usernames must contain only letters and digits (A–Z, a–z, 0–9) and be within 5–20 characters in length.
-•	Passwords must be at least 8 characters long and contain at least one uppercase letter (A–Z), one lowercase letter (a–z), one digit (0–9), and one special character (@#$%^&+=).
+    - Usernames must contain only letters and digits (A–Z, a–z, 0–9) and be within 5–20 characters in length.
+    - Passwords must be at least 8 characters long and contain at least one uppercase letter (A–Z), one lowercase letter (a–z), one digit (0–9), and one special character (@#$%^&+=).
+      
 8.	Unlocking Users
-•	Admin users can unlock blocked users manually.
- 
-•	Alternatively, all blocked users can be automatically unlocked after a set duration (default is 5 minutes), eliminating manual steps.
- 
-•	If the only Admin user is locked and cannot wait for the set duration to automatically unlock, it can be unblocked on the backend (e.g., via unlock_admin.py or direct JSON editing).
+    - Admin users can unlock blocked users manually.<br>
+       <img src="SSD_A2_Ex08a.jpg" alt="Manual Unlock" width="400"/><br>
+
+    - Alternatively, all blocked users can be automatically unlocked after a set duration (default is 5 minutes), eliminating manual steps.<br>
+        <img src="SSD_A2_Ex08b.jpg" alt="Auto Unlock" width="400"/><br>
+
+    - If the only Admin user is locked and cannot wait for the set duration to automatically unlock, it can be unblocked on the backend (e.g., via unlock_admin.py or direct JSON editing).
+      
 9.	Validation API 
-•	Run company_validation_api.py in another terminal to allow company verification for new customer registration.  For the demonstration, only COMPANY123, COMPANY456, and COMPANY789 are accepted.
- 
+    - Run company_validation_api.py in another terminal to allow company verification for new customer registration.  For the demonstration, only COMPANY123, COMPANY456, and COMPANY789 are accepted.<br>
+         <img src="SSD_A2_Ex09.jpg" alt="API" width="400"/><br>
+
 10.	CLI Navigation
-•	Once running, the CLI will guide you through the available actions for your user role (Admin, Clerk, Customer).
- 
-Figure 2: Menu for different users
+    - Once running, the CLI will guide you through the available actions for your user role (Admin, Clerk, Customer).<br>    
+          <img src="SSD_A2_Ex10.jpg" alt="User Menu" width="400"/><br>
+          _Figure 2: Menu for different users_
+
 11.	Termination
-•	Log out from the current User Menu and select option 3 to exit.
+    - Log out from the current User Menu and select option 3 to exit.
   
 
-Testing Strategy
+#### Testing Strategy
 The IMS uses pytest to confirm each unit (controllers, services, models) functions as intended. The main testing areas are:
 1.	Authentication
-•	Tests correct login, account lockouts, lockout release, MFA code entry, password validation, and registration flows.
+    - Tests correct login, account lockouts, lockout release, MFA code entry, password validation, and registration flows.
 2.	Product Management
-•	Verifies adding, listing, updating stock quantity, and deleting products reflect correctly in JSON.
+    - Verifies adding, listing, updating stock quantity, and deleting products reflect correctly in JSON.
 3.	Order Management
-•	Ensures successful order placement, correct stock reductions, and accurate order history retrieval.
+    - Ensures successful order placement, correct stock reductions, and accurate order history retrieval.
 4.	Integration Tests
-•	Checks that the complete flow (e.g., logging in as a user and then adding a product) works seamlessly.
+    - Checks that the complete flow (e.g., logging in as a user and then adding a product) works seamlessly.
 5.	User Acceptance Tests
-•	Perform manual testing by simulating user interaction through the CLI.
+    - Perform manual testing by simulating user interaction through the CLI.
 6.	Exception Handling
-•	Examines how the system reacts to invalid user inputs, missing files, and network errors during API calls.
+    - Examines how the system reacts to invalid user inputs, missing files, and network errors during API calls.
 7.	Linting
-•	Flake8 is used to detect style and formatting issues.
+    - Flake8 is used to detect style and formatting issues.
 
-Test Results
+#### Test Results
 1.	The core functionalities (login/logout, product addition and updates, order placement) passed the automated tests without major issues.
 2.	Integration tests showed that the end-to-end workflows function as intended under typical conditions.
 3.	Some exception handling scenarios revealed that error messages could be more descriptive, and additional edge cases (like extremely large stock values) need expanded testing.
 4.	The linter originally flagged several style violations (e.g., E501 for line length, E302 for missing blank lines). All warnings have since been addressed, and the code now passes all checks.
 Evidence of testing can be found in Appendix 15.
 
-Future Enhancements
+#### Future Enhancements
 1.	Implement a password reset flow (via email link or security questions).
 2.	Migrate from JSON to a relational or NoSQL database for large data.
 3.	Mask user-entered passwords.
