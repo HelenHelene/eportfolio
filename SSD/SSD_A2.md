@@ -1,6 +1,8 @@
 ### Assignment 2: Development Individual Project - Output and Evidence of Testing
-###  - [Demonstration](SSD_A2_Demo.pdf)
+<br>
 
+###  - [Demonstration](SSD_A2_Demo.pdf)
+###  - [Test Output](SSD_A2_TestOutput.pdf)
 <br>
 
 ---
@@ -267,7 +269,6 @@ Visual Studio Code. (2024) Linting Python in Visual Studio Code. Available from:
 
 [Appendix 15 Test Result](SSD_A2_Appendix15.pdf)
 
-[Test Output](SSD_A2_TestOutput.pdf)
 <br><br>
 
 ---
