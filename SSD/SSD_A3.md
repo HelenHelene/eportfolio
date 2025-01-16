@@ -6,65 +6,41 @@
 e-Portfolio: [https://helenhelene.github.io/eportfolio/](https://helenhelene.github.io/eportfolio/)
 
 #### Introduction
-This reflection records my learning outcomes from the [Software Engineering Project Management (SEPM) module](SSD_main.md). 
-The module not only deepened my understanding of SEPM theories and concepts but also enhanced my soft skills, significantly contributing to my professional and personal development. 
-It provided valuable insights into effective project management methodologies, collaborative teamwork, and practical applications of software engineering principles.
+This reflection summarises my learning outcomes from the Secure Software Development (SSD) module.  In addition to expanding my theoretical understanding of secure software, it strengthened my technical abilities and team-oriented skills. The module offered valuable insights into identifying and managing security risks, designing robust software, and working in diverse teams.
 
 #### Summary of learning outcomes
-A central component of this module was our [first team project](SSD_A1.md), developing a proposal for a computer development initiative called "Synputer". 
-The proposal detailed suitable development methodologies, requirements, development plans, milestones, deliverables, and estimated costs.
+A central aspect of the module involved a Team project – Design Document, where we designed a secure application for an online retailer. We produced a detailed document outlining core requirements, security concerns with mitigation strategies, relevant development methodologies, UML diagrams, and approaches to testing.
 
-Another key assignment was the [individual project presentation](SSD_A2.md) which is the second deliverable of the team project – a presentation to stakeholders on mitigating challenges and implementing changes. 
-This assignment focused on soft skills like change management and presentation abilities, crucial for project managers who need to translate technical information for non-technical audiences. 
-In my professional role, I often present financial results to stakeholders without a financial background, facing similar challenges.
+The second assignment, Individual Project – Output and Evidence of Testing and Demonstration, required implementing our prior design in Python. This entailed making appropriate security decisions, integrating the chosen libraries, and deploying effective testing techniques. Although the module did not provide an Integrated Development Environment (IDE), I self-learned Visual Studio Code (VS Code), which I had briefly explored during a previous module, enabling me to gain additional hands-on experience.
 
-Beyond the presentation content, I learned how to record a presentation and add subtitles, which is an unexpected but valuable part of the learning process.
+Beyond coding, the requirement to demonstrate our work pushed me to think carefully about how to present software to stakeholders, which is an aspect of development often overshadowed by purely technical tasks.
 
-The final assignment was the [e-portfolio submission](https://helenhelene.github.io/eportfolio/) and reflection, documenting my entire MSc Computer Science journey.  
-For more insight into my background, an [About Me](https://helenhelene.github.io/eportfolio/Professional.html) section is available on the GitHub-hosted website. 
-I separated [each unit with individual learning outcomes and reflections](SSD_main.md), which record all artefacts from my learning journey and practical experiences.
+Finally, the third assignment comprised an e-portfolio submission (Appendix 1) and reflection documenting my journey through the MSc Computer Science.  My Professional Profile (Appendix 2) originally contained personal details, but professor’s feedback encouraged me to revise it to highlight professional attributes instead.
 
-Throughout the module, I completed [all discussion and e-portfolio activities](SEPM_ArtefactsSummary.md), including collaborative discussions, Gherkin exercises, data structures reflections, risk assessment, estimating tools activities, and code improvement and testing. 
-Several pieces of work left me a strong impression and prompted reflection. 
-For example, [Unit 9 Improving Code Quality](SSD_Unit09_Activity.md) allowed me to revisit and enhance my first Python program using techniques learned, such as adhering to PEP 8 standards, using snake_case, and incorporating meaningful docstrings. 
-I observed significant improvement and knowledge gained during this journey.  
-[Units 3](SSD_Unit03_Activity.md) and [8](SSD_Unit08_Seminar.md) were also enlightening, offering a chance to deeply understand the data structure of YouTube Music, which I use daily but had not previously analyzed.
+Throughout the module, I completed the majority of e-Portfolio tasks compiled in each unit (Appendix 3) and documented in the  List of Artefacts (Appendix 4).  These included UML and security discussions, various coding exercises that covered recursion, regular expressions, cryptography, and API development.
+
+Several activities stood out.  For instance, the first collaborative discussion - UML Flowchart (Appendix 5), helped me improve an Activity Diagram illustrating a secure login process. Professor’s feedback prompted me to enhance both structure and clarity, which proved central to our Design Document and future work.
+
+The Towers of Hanoi exercise in Unit 4 (Appendix 6) introduced me to a mathematical puzzle I had previously seen only as a toy. Implementing a recursive solution was both stimulating and rewarding. I even acquired a miniature Hanoi Tower for my desk as a lasting reminder of the underlying logic.
+
+Units 7 and 9 emphasised API development (Appendix 7).  Configuring multiple terminals and using w3m within a Windows environment proved tricky, yet working through these problems enriched my problem-solving skills. These real-world scenarios mirrored the hurdles one might face in a professional setting.
+
+In Unit 8 Cryptography Programming (Appendix 8), I explored Fernet encryption from the Python cryptography library. Although I had used cryptography tools in a practical sense before, this exercise afforded me a deeper understanding of how best to manage encryption libraries and methods for enhanced software security.
+
 
 #### Evidence of Teamwork and Peer Interactions
-During the team project, as the only member in a different time zone and with a different mother tongue, I faced challenges coordinating with peers. 
-However, our team demonstrated remarkable adaptability, scheduling meetings convenient for all.
+Coordinating a multinational team with varied schedules and language backgrounds tested our flexibility. We held regular meetings and drafted a thorough team contract (Appendix 9) that summarised our responsibilities, ensuring that each member’s skills were fully utilised. I took charge of documentation, compliance, and administrational tasks, while more coding-focused team members handled library selection and deep technical queries. Employing Trello (Appendix 10) helped us keep track of tasks and maintain clear accountability.
 
-We exemplified effective collaboration. The [team contract](SSD_A1_MoM.md) we developed outlined roles, responsibilities, and expectations, fostering accountability, and [regular meetings](SSD_A1_MoM.md) facilitated open communication.
-
-I am relatively strong in documentation and administrative work, so I took the initiative in [drafting the team contract, taking minutes, outlining milestones, and calculating budgets and costs](SSD_A1_MoM_ProjectReportDraft_20240815.pdf). 
-My financial and management background enabled me to contribute effectively. Other team members, with strengths in software development, focused on creating domain models, Gantt charts, and reviewing technical requirements to ensure realism in our proposal.
-
-We utilized tools like [Trello](SSD_A1_Trello.jpg) for task management and shared documents for collaborative editing. 
-[Every team member had a clear role allocation based on individual strengths, enhancing team efficiency](SSD_A1_MoM_ProjectReportDraft_20240815.pdf).
-
-One instance highlighting teamwork was when we faced uncertainties in the project's technical requirements and timeline. 
-A team member suggested using domain modeling and Gantt charts to visualize our proposal. This peer-led knowledge sharing enhanced our understanding and improved our proposal.
+Even after finalising our team project, collective support continued. We shared insights, exchanged ideas, and clarified uncertainties throughout the preparation for Individual Assignment 2. A senior developer in my network offered invaluable help when I encountered setbacks with Python-based libraries. Without their support, relying solely on the coding activities in the module may not have been sufficient to successfully finalise Assignment 2. Whilst there is still room for refinement, seeing the software run reliably without errors confirmed the effort invested.
 
 #### Learning and Changed Actions
-Initially, I felt apprehensive about group work due to time zone differences, fearing missed discussions and communication barriers. 
-However, as we collaborated, these anxieties diminished. The team's willingness to accommodate my schedule made me feel valued.
+The scale of this module felt vast at first, particularly for a part-time student juggling assignments alongside professional obligations. Nonetheless, the complex workload propelled me to sharpen my time management strategies and acknowledge the need for external support on occasion. I learned to proactively clear hurdles related to IDEs, coding complexities, and international team interactions, all of which boosted my confidence and preparedness for future software projects.
 
-Excited by the opportunity to apply theoretical knowledge practically, I also felt pressure from coordinating vital project components. 
-These emotions motivated me to be proactive and diligent. Positive team dynamics boosted my confidence, leading me to take on roles I might have previously avoided.
+Demonstrating the software to the professor presented another challenge. The mixture of anticipation and apprehension ensured I practised running the programme repeatedly, simplified processes, and rehearsed potential questions. Ultimately, the demonstration’s positive reception reinforced my belief in the importance of careful presentation alongside technical competence.
 
-Peer feedback was instrumental in shaping my behavior. Recognition of my organizational skills encouraged greater contribution, while constructive criticism helped me identify areas for improvement, such as enhancing technical detail in documentation.
+During the Cryptography Programming exercise in Unit 8 (Appendix 8), I initially planned to implement Fernet encryption for password handling in Assignment 2. After greater scrutiny, however, I realised it was not the most suitable approach for password management. This prompted additional research on password-hashing methods and a rewrite of my code, highlighting the importance of fully justifying technical decisions and applying critical thinking throughout a project.
 
-Through challenges, I realized the importance of effective communication, adaptability, and embracing diverse perspectives. Coordinating across time zones required flexibility and planning. 
-I became more proficient with project management tools like Trello and developed skills in drafting comprehensive team contracts.
-
-The experience taught me the value of clear role allocation based on strengths, enhancing efficiency. Recognizing my team members' diligence inspired me to strive for higher standards.
-
-The skills and knowledge developed have significant real-world applicability. 
-In my role as Head of Finance and IT Operations, upcoming projects involve digitalization and ERP system migration. 
-With a deeper understanding of the project life cycle and management methodologies, I can contribute more effectively, particularly in requirement gathering, user acceptance testing (UAT), and enhancing user experience.
-
-My ability to draft detailed project documentation, manage budgets, and outline milestones are directly transferable skills. 
-Improved proficiency with project management tools will aid in coordinating tasks and communicating with stakeholders professionally.
+Although my professional role in a management team rarely involves hands-on coding, the broad skills gained have enhanced my capacity to identify, select, and oversee the most suitable development tools for genuine business scenarios. Completing high-pressure group deliverables with tight deadlines and presenting my software to stakeholders proved both transformational and academically enriching.
 
 
 #### Professional Skills Matrix
@@ -78,27 +54,26 @@ Improved proficiency with project management tools will aid in coordinating task
 
 | **Skills** |	**Competence** |	**Evidence** |
 | :--------- |	:-----------  |	:------------ |
-| **Time Management**	| ⚫⚫⚫⚫	| Completed all assignments and activities on time while balancing professional commitments. |
-| **Resilience**	| ⚫⚫⚫🔘	| Overcame anxieties about teamwork in a different language and time zone; adapting to new tools and methods and persisting through challenges. |
-| **Critical Thinking and Analysis** | ⚫⚫⚫⚫ |	Applied critical thinking in code quality improvement and project proposals. |
-| **Problem-solving**	| ⚫⚫⚫🔘	| Self-learned to use alternative IDEs for coding exercises and to record presentations with subtitles. |
-| **Communication and Literacy**	|	⚫⚫⚫🔘	| Drafted clear project documents, presented to stakeholders, and engaged in collaborative discussions. |
-| **IT and Digital**		| ⚫⚫🔘🔘	| Improved proficiency in project management tools such as Trello and collaborative editing tools. |
-| **Interpersonal**	|  ⚫⚫⚫🔘	| Participated actively in team meetings and fostered positive working relationships. |
-| **Teamwork / Global Citizen and Leadership** |	⚫⚫⚫🔘	| Contributed to project planning and facilitated communication embracing cultural diversity. |
-| **Emotional Intelligence** |	⚫⚫⚫⚫	| Maintained effective collaboration by positively addressing personal emotions and peer feedback. |
-| **Critical Reflection** |	⚫⚫⚫⚫	| Reflected on learning outcomes in the e-portfolio and connected experiences to professional roles. |
+| **Time Management**	| ⚫⚫⚫⚫	| Met strict module deadlines whilst balancing professional duties. |
+| **Resilience**	| ⚫⚫⚫🔘	| Overcame challenges posed by cross-cultural teamwork, new tools, and adapted to coding hurdles. |
+| **Critical Thinking and Analysis** | ⚫⚫⚫⚫ |	Evaluated security solutions and cryptographic methods. |
+| **Problem-solving**	| ⚫⚫⚫🔘	| Self-taught IDE usage to complete coding exercises; found workarounds for w3m on Windows. |
+| **Communication and Literacy skills**	|	⚫⚫⚫🔘	| Refined UML diagrams and final demonstration delivery. |
+| **IT and Digital**		| ⚫⚫🔘🔘	| Integrated libraries in Python, adopted best practices in secure design. |
+| **Interpersonal**	|  ⚫⚫⚫🔘	| Maintained positive team relationships and participated actively in group meetings. |
+| **Teamwork / Global Citizen and Leadership** |	⚫⚫⚫🔘	| Oversaw documentation while peers handled coding complexities; contributed to overall team success. |
+| **Emotional Intelligence** |	⚫⚫⚫⚫	| Harmonised differing perspectives in team discussions. |
+| **Critical Reflection** |	⚫⚫⚫⚫	| Remained mindful of strengths and weaknesses, diligently applying lessons to future projects |
 
 #### Conclusion
-The SEPM module has been a transformative experience, enhancing my capabilities in software engineering project management. 
-The challenges I encountered led to personal growth and a deeper understanding of effective teamwork. The skills acquired are directly applicable to my professional role and have prepared me for future projects requiring collaboration and project management expertise.
+In conclusion, the SSD module has been an invaluable experience, broadening my knowledge of secure software practices, highlighting thorough risk assessment, and refining my project management skills. Overcoming a demanding workload underlines the importance of teamwork, self-directed learning, and continuous reflection. These talents are directly transferable to my professional environment, ensuring I can champion software security and manage complex technical projects more effectively.
 
 <br><br>
 
 ---
 
 #### Reference
-Rewo. (2024) What is a skills matrix. Available from: https://www.rewo.io/skills-matrix-for-manufacturing/ [Accessed 16 October 2024]. 
+Rewo. (2024) What is a skills matrix. Available from: https://www.rewo.io/skills-matrix-for-manufacturing/ [Accessed 14 January 2025].   
 
 <br><br>
 
