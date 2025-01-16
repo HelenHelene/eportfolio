@@ -58,10 +58,10 @@ Although my professional role in a management team rarely involves hands-on codi
 | **Resilience**	| ⚫⚫⚫🔘	| Overcame challenges posed by cross-cultural teamwork, new tools, and adapted to coding hurdles. |
 | **Critical Thinking and Analysis** | ⚫⚫⚫⚫ |	Evaluated security solutions and cryptographic methods. |
 | **Problem-solving**	| ⚫⚫⚫🔘	| Self-taught IDE usage to complete coding exercises; found workarounds for w3m on Windows. |
-| **Communication and Literacy skills**	|	⚫⚫⚫🔘	| Refined UML diagrams and final demonstration delivery. |
-| **IT and Digital**		| ⚫⚫🔘🔘	| Integrated libraries in Python, adopted best practices in secure design. |
-| **Interpersonal**	|  ⚫⚫⚫🔘	| Maintained positive team relationships and participated actively in group meetings. |
-| **Teamwork / Global Citizen and Leadership** |	⚫⚫⚫🔘	| Oversaw documentation while peers handled coding complexities; contributed to overall team success. |
+| **Communication and Literacy skills**	|	⚫⚫⚫⚫	| Refined UML diagrams and final demonstration delivery. |
+| **IT and Digital**		| ⚫⚫⚫🔘	| Integrated libraries in Python, adopted best practices in secure design. |
+| **Interpersonal**	|  ⚫⚫⚫⚫	| Maintained positive team relationships and participated actively in group meetings. |
+| **Teamwork / Global Citizen and Leadership** |	⚫⚫⚫⚫	| Oversaw documentation while peers handled coding complexities; contributed to overall team success. |
 | **Emotional Intelligence** |	⚫⚫⚫⚫	| Harmonised differing perspectives in team discussions. |
 | **Critical Reflection** |	⚫⚫⚫⚫	| Remained mindful of strengths and weaknesses, diligently applying lessons to future projects |
 
