@@ -1,35 +1,49 @@
 # Module 7 Research Methods and Professional Practice
 
-## This can be your internal website page / project page
+In this module, we xxx
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+There are three assignments in this module. In the first assignment, we xxx.
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+The second assignment is xxx.
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+Lastly, we are expected to submit an e-Portfolio, collecting evidence of our work and submitting a reflective piece on personal development. This culminates in a final reflection that summarizes individual learning achievements and experiences.
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+#### Assignment 1: xxx _(Work in progress)_
+[Design Document](RMPP_A1_Requirement.pdf) <br>
+	
+#### Assignment 2: xxx _(Work in progress)_
+[Output and Evidence of Testing](RMPP_A2_Requirement.pdf)
 
-### 2. Assess assumptions on which statistical inference will be based
+#### Assignment 3: xxx _(Work in progress)_
+[Final Reflection](RMPP_A3_Requirement.pdf)
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+The units presented below serve as a compilation of evidence, showcasing the work accomplished in this module and documenting the learning journey.
 
-### 3. Support the selection of appropriate statistical tools and techniques
+#### [Unit 1: xxx](RMPP_Unit01.md)
 
-<img src="https://helenhelene.github.io/eportfolio/images/ModuleOutline.jpg" alt="ModuleOutline" style="height: 230px; width:544px;"/>
+#### [Unit 2: xxx](RMPP_Unit02.md)
 
-### 4. Provide a basis for further data collection through surveys or experiments
+#### [Unit 3: xxx](RMPP_Unit03.md)
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+#### [Unit 4: xxx](RMPP_Unit04.md)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+#### [Unit 5: xxx](RMPP_Unit05.md)
 
+#### [Unit 6: xxx](RMPP_Unit06.md)
 
+#### [Unit 7: xxx](RMPP_Unit07.md)
+
+#### [Unit 8: xxx](RMPP_Unit08.md)
+
+#### [Unit 9: xxx](RMPP_Unit09.md)
+
+#### [Unit 10: xxx](RMPP_Unit10.md)
+
+#### [Unit 11: xxx](RMPP_Unit11.md)
+
+#### [Unit 12: xxx](RMPP_Unit12.md)
+<br>
+
+📑 **You may also refer to the [List of Artefacts](RMPP_ArtefactsSummary.md) for quick access to all artefacts.**
+
+---
