@@ -9,10 +9,10 @@ The second assignment is xxx.
 Lastly, we are expected to submit an e-Portfolio, collecting evidence of our work and submitting a reflective piece on personal development. This culminates in a final reflection that summarizes individual learning achievements and experiences.
 
 #### Assignment 1: xxx _(Work in progress)_
-[Design Document](RMPP_A1_Requirement.pdf) <br>
+[xxx](RMPP_A1_Requirement.pdf) <br>
 	
 #### Assignment 2: xxx _(Work in progress)_
-[Output and Evidence of Testing](RMPP_A2_Requirement.pdf)
+[xxx](RMPP_A2_Requirement.pdf)
 
 #### Assignment 3: xxx _(Work in progress)_
 [Final Reflection](RMPP_A3_Requirement.pdf)
