@@ -14,7 +14,7 @@ Lastly, we are expected to submit an e-Portfolio, collecting evidence of our wor
 [Design Document](SSD_A1.md) <br>
 	
 #### Assignment 2: Development Individual Project _(Work in progress)_
-[Output and Evidence of Testing](SSD_A2_Requirement.pdf)
+[Output and Evidence of Testing](SSD_A2.md)
 
 #### Assignment 3: Individual Module e-Portfolio _(Work in progress)_
 [Final Reflection](SSD_A3_Requirement.pdf)
