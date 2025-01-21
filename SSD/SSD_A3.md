@@ -15,7 +15,7 @@ The second assignment, [Individual Project – Output and Evidence of Testing](S
 
 Beyond coding, the requirement to demonstrate our work pushed me to think carefully about how to present software to stakeholders, which is an aspect of development often overshadowed by purely technical tasks.
 
-Finally, the third assignment comprised an [e-portfolio submission](https://helenhelene.github.io/eportfolio/) and reflection documenting my journey through the MSc Computer Science.  My [Professional Profile](https://helenhelene.github.io/eportfolio/Aboutme.html) originally contained personal details, but professor’s feedback encouraged me to revise it to highlight professional attributes instead.
+Finally, the third assignment comprised an [e-portfolio submission](https://helenhelene.github.io/eportfolio/) and reflection documenting my journey through the MSc Computer Science.  My [Professional Profile](https://helenhelene.github.io/eportfolio/Aboutme.html) originally contained personal life topics, but professor’s feedback encouraged me to revise it to highlight professional attributes instead.
 
 Throughout the module, I completed the majority of e-Portfolio tasks compiled in [each unit](SSD_main.md) and documented in the  [List of Artefacts](SSD_ArtefactsSummary.md).  These included UML and security discussions, various coding exercises that covered recursion, regular expressions, cryptography, and API development.
 
@@ -42,7 +42,6 @@ During the [Cryptography Programming exercise](SSD_Unit08_Seminar.md) in Unit 8,
 
 Although my professional role in a management team rarely involves hands-on coding, the broad skills gained have enhanced my capacity to identify, select, and oversee the most suitable development tools for genuine business scenarios. Completing high-pressure group deliverables with tight deadlines and presenting my software to stakeholders proved both transformational and academically enriching.
 
-
 #### Professional Skills Matrix
 
 | Level of competence (Rewo, 2024) | |
@@ -61,7 +60,7 @@ Although my professional role in a management team rarely involves hands-on codi
 | **Communication and Literacy skills**	|	⚫⚫⚫⚫	| Refined UML diagrams and final demonstration delivery. |
 | **IT and Digital**		| ⚫⚫⚫🔘	| Integrated libraries in Python, adopted best practices in secure design. |
 | **Interpersonal**	|  ⚫⚫⚫⚫	| Maintained positive team relationships and participated actively in group meetings. |
-| **Teamwork / Global Citizen and Leadership** |	⚫⚫⚫⚫	| Oversaw documentation while peers handled coding complexities; contributed to overall team success. |
+| **Teamwork / Global Citizen and Leadership** |	⚫⚫⚫⚫	| Managed documentation while peers addressed technical complexities and contributed to the overall success of the team. |
 | **Emotional Intelligence** |	⚫⚫⚫⚫	| Harmonised differing perspectives in team discussions. |
 | **Critical Reflection** |	⚫⚫⚫⚫	| Remained mindful of strengths and weaknesses, diligently applying lessons to future projects |
 
