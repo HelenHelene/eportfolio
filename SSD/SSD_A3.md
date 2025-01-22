@@ -51,7 +51,7 @@ Although my professional role in a management team rarely involves hands-on codi
 |	⚫⚫🔘🔘 _Some Competence_	|	✖️ _Not relevant_ |
 
 
-| **Skills** |	**Competence** |	**Evidence** |
+| **Skills** |	**Competence** |	**Achievement** |
 | :--------- |	:-----------  |	:------------ |
 | **Time Management**	| ⚫⚫⚫⚫	| Met strict module deadlines whilst balancing professional duties. |
 | **Resilience**	| ⚫⚫⚫🔘	| Overcame challenges posed by cross-cultural teamwork, new tools, and adapted to coding hurdles. |
@@ -62,7 +62,7 @@ Although my professional role in a management team rarely involves hands-on codi
 | **Interpersonal**	|  ⚫⚫⚫⚫	| Maintained positive team relationships and participated actively in group meetings. |
 | **Teamwork / Global Citizen and Leadership** |	⚫⚫⚫⚫	| Managed documentation while peers addressed technical complexities and contributed to the overall success of the team. |
 | **Emotional Intelligence** |	⚫⚫⚫⚫	| Harmonised differing perspectives in team discussions. |
-| **Critical Reflection** |	⚫⚫⚫⚫	| Remained mindful of strengths and weaknesses, diligently applying lessons to future projects |
+| **Critical Reflection** |	⚫⚫⚫⚫	| Remained mindful of strengths and weaknesses, diligently applying lessons to future projects. |
 
 #### Conclusion
 In conclusion, the SSD module has been an invaluable experience, broadening my knowledge of secure software practices, highlighting thorough risk assessment, and refining my project management skills. Overcoming a demanding workload underlines the importance of teamwork, self-directed learning, and continuous reflection. These talents are directly transferable to my professional environment, ensuring I can champion software security and manage complex technical projects more effectively.
