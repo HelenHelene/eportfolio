@@ -39,7 +39,7 @@ The units presented below serve as a compilation of evidence, showcasing the wor
 
 #### [Unit 10: Research Writing](RMPP_Unit10.md)
 
-#### [Unit 11: xxx](RMPP_Unit11.md)
+#### [Unit 11: SWOT Analysis](RMPP_Unit11.md)
 
 #### [Unit 12: Project Management and Managing Risk](RMPP_Unit12.md)
 <br>
