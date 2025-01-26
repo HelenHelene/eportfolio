@@ -13,7 +13,7 @@ Lastly, we are expected to submit an e-Portfolio, collecting evidence of our wor
 #### Assignment 1: Development Team Project _(🎓Pass with Distinction)_
 [Design Document](SSD_A1.md) <br>
 	
-#### Assignment 2: Development Individual Project _(Work in progress)_
+#### Assignment 2: Development Individual Project _(🎓Pass with Distinction)_
 [Output and Evidence of Testing](SSD_A2.md)
 
 #### Assignment 3: Individual Module e-Portfolio _(Work in progress)_
