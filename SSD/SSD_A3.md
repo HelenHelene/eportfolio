@@ -44,7 +44,7 @@ Although my professional role in a management team rarely involves hands-on codi
 
 #### Professional Skills Matrix
 
-| Level of competence (Rewo, 2024) | |
+| Level of competence (Rewo, n.d.) | |
 | :------------------------ | :------------------------ |
 | 🔘🔘🔘🔘	_No Competence_	| 	⚫⚫⚫🔘 _High Competence_ |
 | ⚫🔘🔘🔘 _Low Competence_	 |	⚫⚫⚫⚫ _Expert_ |
@@ -72,7 +72,7 @@ In conclusion, the SSD module has been an invaluable experience, broadening my k
 ---
 
 #### Reference
-Rewo. (2024) What is a skills matrix. Available from: https://www.rewo.io/skills-matrix-for-manufacturing/ [Accessed 14 January 2025].   
+Rewo. (n.d.) What is a skills matrix. Available from: https://www.rewo.io/skills-matrix-for-manufacturing/ [Accessed 14 January 2025].   
 
 <br><br>
 
