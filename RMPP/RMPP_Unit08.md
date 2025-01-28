@@ -38,7 +38,7 @@ Collaborative Discussion 2 - Case Study on Accuracy of Information-Respond to pe
 
 [Data Annexe and Datasets](RMPP_Unit08_Compulsory.md)
 
-[Research Proposal Outline](RMPP_Unit08_Outline.pdf) 
+[Research Proposal Outline](RMPP_Unit08_Outline.md) 
 
 
 ### Reflections
