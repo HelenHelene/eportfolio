@@ -1,4 +1,4 @@
-# Unit 1: xxx
+# Unit 1: Introduction to Research Methods. The Scientific Investigation and Ethics in Computing
 
 In Unit xxx
 
@@ -10,6 +10,8 @@ xxx
 As part of my e-portfolio, I participated in collaborative discussions, which are documented in the provided link:
 
 [Collaborative Discussion 1 - xxx-Initial post](RMPP_Unit01_Initial.pdf)
+
+[Reflective Activity 1 – Ethics in Computing in the age of Generative AI](RMPP_Unit01_Activity.md)
 
 ### Reflections
 Reflecting on this unit, I xxx
