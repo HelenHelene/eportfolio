@@ -55,7 +55,7 @@ As part of my e-portfolio, I have completed the following activities and activel
 
 [Collaborative Discussion 1 - Codes of Ethics and Professional Conduct-Summary post](RMPP_Unit03_Summary.pdf)
 
-[e-Portfolio Activity: Research Proposal Review](RMPP_Unit03_Activity.md) 
+[Research Proposal Review](RMPP_Unit03_Activity.md) 
 
 [Seminar: Peer Review Activity](RMPP_Unit03_Seminar.md)
 
