@@ -1,7 +1,7 @@
 # Reflective Activity 1 – Ethics in Computing in the age of Generative AI
 
 ## Requirement
-Read Correa et al. (2023) and Deckard (2023).
+Read [Correa et al. (2023)](RMPP_Unit01_Read_Correa.pdf) and [Deckard (2023)](https://www.bcs.org/articles-opinion-and-research/what-are-ethics-in-ai/).
 
 From late 2022, generative AI has taken the world by storm, and there is no field of activity that has not been impacted in some way. This is so much truer for Computer Science, which is where it all began. It is important to realise, however, that AI itself is nothing new, per se; and if the renaissance of the field after the ‘winter’ of the 1980s has been slow but constant, today there is the need of a different set of rules.
 
