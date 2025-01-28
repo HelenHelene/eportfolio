@@ -32,7 +32,11 @@ As part of my e-portfolio, I have completed the following activities and activel
 
 Collaborative Discussion 2 - Case Study on Accuracy of Information-Respond to peers: [Respond 1](RMPP_Unit08_Respond1.pdf) & [Respond 2](RMPP_Unit08_Respond2.pdf)
 
-[Seminar: Workshop on Presenting Results](RMPP_Unit08_Seminar.md)
+[Inference Worksheet](RMPP_Unit08_Worksheet.pdf)
+
+[Exercises - Workbooks](RMPP_Unit08_Exercise.md)
+
+[Data Annexe and Datasets](RMPP_Unit08_Activity.md)
 
 [Research Proposal Outline](RMPP_Unit08_Outline.pdf) 
 
