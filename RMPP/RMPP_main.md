@@ -9,13 +9,13 @@ The second assignment is xxx.
 Lastly, we are expected to submit an e-Portfolio, collecting evidence of our work and submitting a reflective piece on personal development. This culminates in a final reflection that summarizes individual learning achievements and experiences.
 
 #### Assignment 1 _(Work in progress)_
-[Literature Review](RMPP_A1_Requirement.pdf) <br>
+[Literature Review](RMPP_A1_Requirment.pdf) <br>
 	
 #### Assignment 2 _(Work in progress)_
-[Research Proposal Presentation](RMPP_A2_Requirement.pdf)
+[Research Proposal Presentation](RMPP_A2_Requirment.pdf)
 
 #### Assignment 3: Individual ePortfolio _(Work in progress)_
-[Reflective Piece](RMPP_A3_Requirement.pdf)
+[Reflective Piece](RMPP_A3_Requirment.pdf)
 
 The units presented below serve as a compilation of evidence, showcasing the work accomplished in this module and documenting the learning journey.
 
