@@ -1,16 +1,26 @@
-# Activity
+# Charts Worksheet and Analysis
 
 
-## Question 1: xxx
-xxx
+## Requirement
+Complete the Charts worksheet in Excel or LibreOffice. The completed worksheets from Units 8 and 9 should be included in your e-Portfolio. You will need to include your analysis and provide your interpretation of the results.
 
-<br><br>
+You can complete the worksheets before or after this week’s workshop. You can submit your work in Unit 10 for formative feedback.
 
-| **xxx** | **xxx** |
-| :---------------------------- | :----------------------------------- |
-| **xxx**         | xxx |
-| **xxx**         | xxx |
+## Learning Outcomes
+Evaluate critically existing literature, research design and methodology for the chosen topic, including data analysis processes.
 
+### [Charts Worksheet](RMPP_Unit09_Worksheet.pdf)
+
+### Examples - Workbooks
+[Exa 9.1D.xlsx](RMPP_Unit09_Exa9.1D.xlsx)<br>
+[Exa 9.2E.xlsx](RMPP_Unit09_Exa9.2E.xlsx)<br>
+[Exa 9.3B.xlsx](RMPP_Unit09_Exa9.3B.xlsx)<br>
+
+
+### Exercises - Workbooks
+[Exe 9.1D.xlsx](RMPP_Unit09_Exe9.1D)<br>
+[Exe 9.2E.xlsx](RMPP_Unit09_Exe9.2D)<br>
+[Exe 9.3B.xlsx](RMPP_Unit09_Exe9.3B)<br>
 
 ### References
 xxx
