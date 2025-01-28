@@ -49,9 +49,11 @@ On completion of this unit, you will be able to:
 ### Artefacts and Collaborative Discussion 
 As part of my e-portfolio, I participated in collaborative discussions, which are documented in the provided link:
 
-[Collaborative Discussion 1 - xxx-Initial post](RMPP_Unit01_Initial.pdf)
+[Collaborative Discussion 1 - Codes of Ethics and Professional Conduct-Initial post](RMPP_Unit01_Initial.pdf)
 
 [Reflective Activity 1 – Ethics in Computing in the age of Generative AI](RMPP_Unit01_Activity.md)
+
+[Reasoning Quiz](RMPP_Unit01_Quiz.pdf) 
 
 [List of Approved Literature Review Topic](RMPP_Unit01_ListofTopics.pdf) 
 
