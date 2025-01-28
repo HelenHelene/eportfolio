@@ -36,7 +36,7 @@ It is imperative to point out at this point that though both ethics and morals a
 
 Alongside ethics, a researcher must be professional in all areas of their research and practice. A good explanation of what professionalism should mean to you in the various fields of Computer Science is given in the BCS Code of Conduct. This is provided in your reading for this week, as well as information on data protection and intellectual property.
 
-### In this unit we shall:
+In this unit we shall:
  - Introduce the elements within the scientific method.
  - Introduce the various aspects of ethical issues in research, and by extension, in professional practice.
 
@@ -47,7 +47,7 @@ On completion of this unit, you will be able to:
 
 
 ### Artefacts and Collaborative Discussion 
-As part of my e-portfolio, I participated in collaborative discussions, which are documented in the provided link:
+As part of my e-portfolio, I have completed the following activities and actively engaged in collaborative discussions, which are documented in the provided link:
 
 [Collaborative Discussion 1 - Codes of Ethics and Professional Conduct-Initial post](RMPP_Unit01_Initial.pdf)
 
