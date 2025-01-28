@@ -22,7 +22,9 @@ On completion of this unit you will be able to:
  - Consider how to analyse and present the results you obtain from your investigation and how they will enable you to answer your research question.
 
 ### Artefacts 
-As part of my e-portfolio, I have completed the following activities, which are documented in the provided link:
+As part of my e-portfolio, I have completed the following activities and actively engaged in collaborative discussions, which are documented in the provided link:
+
+[Collaborative Discussion 2 - Case Study on Accuracy of Information-Summary post](RMPP_Unit09_Summary.pdf)
 
 [Charts Worksheet and Analysis](RMPP_Unit09_Activity.md)
 
