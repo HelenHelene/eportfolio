@@ -1,16 +1,14 @@
-# Activity
+# Literature Review Outline
 
 
-## Question 1: xxx
-xxx
+## Requirement
+You can submit a brief outline of your review by the end of this unit to receive formative feedback from your tutor. Your submission should only highlight your plan for the Literature Review.
 
-<br><br>
+See Unit 7 submission portal for full assignment details.
 
-| **xxx** | **xxx** |
-| :---------------------------- | :----------------------------------- |
-| **xxx**         | xxx |
-| **xxx**         | xxx |
+This assignment is formative and not graded.
 
+This submission is not blind marked.
 
 ### References
 xxx
