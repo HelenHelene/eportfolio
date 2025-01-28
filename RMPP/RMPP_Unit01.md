@@ -51,7 +51,7 @@ As part of my e-portfolio, I participated in collaborative discussions, which ar
 
 [Collaborative Discussion 1 - Codes of Ethics and Professional Conduct-Initial post](RMPP_Unit01_Initial.pdf)
 
-[Reflective Activity 1 – Ethics in Computing in the age of Generative AI](RMPP_Unit01_Activity.md)
+[Reflective Activity 1 - Ethics in Computing in the age of Generative AI](RMPP_Unit01_Activity.md)
 
 [Reasoning Quiz](RMPP_Unit01_Quiz.pdf) 
 
