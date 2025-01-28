@@ -26,7 +26,7 @@ On completion of this unit you will be able to:
 ### Artefacts and Collaborative Discussion 
 As part of my e-portfolio, I have completed the following activities and actively engaged in collaborative discussions, which are documented in the provided link:
 
-Collaborative Discussion 1 - xxx-Respond to peers: [Respond 1](RMPP_Unit02_Respond1.pdf) & [Respond 2](RMPP_Unit02_Respond2.pdf)
+Collaborative Discussion 1 - Codes of Ethics and Professional Conduct-Respond to peers: [Respond 1](RMPP_Unit02_Respond1.pdf) & [Respond 2](RMPP_Unit02_Respond2.pdf)
 
 [Literature Review and Research Proposal Outlines](RMPP_Unit02_Activity.md)
 
