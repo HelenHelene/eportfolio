@@ -9,7 +9,7 @@ For this workshop, you will need to work through the examples provided for you o
 
 [Summary Measures Worksheet](RMPP_Unit07_Worksheet2.pdf)
 
-Examples - Workbooks
+Examples - Workbooks<br>
 [Exa 7.1B.xlsx](RMPP_Unit07_Exa7.1B.xlsx)<br>
 [Exa 7.2B.xlsx](RMPP_Unit07_Exa7.2B.xlsx)<br>
 [Exa 7.3D.xlsx](RMPP_Unit07_Exa7.3D.xlsx)<br>
