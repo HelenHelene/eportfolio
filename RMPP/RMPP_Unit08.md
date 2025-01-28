@@ -34,9 +34,9 @@ Collaborative Discussion 2 - Case Study on Accuracy of Information-Respond to pe
 
 [Inference Worksheet](RMPP_Unit08_Worksheet.pdf)
 
-[Exercises - Workbooks](RMPP_Unit08_Exercise.md)
+[Exercises - Workbooks](RMPP_Unit08_Activity.md)
 
-[Data Annexe and Datasets](RMPP_Unit08_Activity.md)
+[Data Annexe and Datasets](RMPP_Unit08_Compulsory.md)
 
 [Research Proposal Outline](RMPP_Unit08_Outline.pdf) 
 
