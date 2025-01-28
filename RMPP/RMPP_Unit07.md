@@ -29,13 +29,8 @@ As part of my e-portfolio, I have completed the following activities, which are 
 
 [Collaborative Discussion 1 - Case Study on Accuracy of Information-Initial post](RMPP_Unit07_Initial.pdf)
 
-[Seminar: Inferential Statistics Workshop and Statistics Worksheet](RMPP_Unit07_Seminar.md)
+[Seminar: Inferential Statistics Workshop and Statistics Worksheet](RMPP_Unit07_Activity.md)
 
-[Hypothesis Testing Worksheet](RMPP_Unit07_Worksheet1.pdf)
-
-[Summary Measures Worksheet](RMPP_Unit07_Worksheet2.pdf)
-
-[Examples - Workbooks](RMPP_Unit07_Activity.md)
 
 ### Reflections
 xxx
