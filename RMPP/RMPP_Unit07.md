@@ -25,9 +25,9 @@ On completion of this unit you will be able to:
  - Perform appropriate hypothesis tests.
 
 ### Artefacts 
-As part of my e-portfolio, I have completed the following activities, which are documented in the provided link:
+As part of my e-portfolio, I have completed the following activities and actively engaged in collaborative discussions, which are documented in the provided link:
 
-[Collaborative Discussion 1 - Case Study on Accuracy of Information-Initial post](RMPP_Unit07_Initial.pdf)
+[Collaborative Discussion 2 - Case Study on Accuracy of Information-Initial post](RMPP_Unit07_Initial.pdf)
 
 [Seminar: Inferential Statistics Workshop and Statistics Worksheet](RMPP_Unit07_Activity.md)
 
