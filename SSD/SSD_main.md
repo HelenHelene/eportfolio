@@ -16,7 +16,7 @@ Lastly, we are expected to submit an e-Portfolio, collecting evidence of our wor
 #### Assignment 2: Development Individual Project _(🎓Pass with Distinction)_
 [Output and Evidence of Testing](SSD_A2.md)
 
-#### Assignment 3: Individual Module e-Portfolio _(Work in progress)_
+#### Assignment 3: Individual Module e-Portfolio _(🎓Pass with Distinction)_
 [Final Reflection](SSD_A3.md)
 
 The units presented below serve as a compilation of evidence, showcasing the work accomplished in this module and documenting the learning journey.
