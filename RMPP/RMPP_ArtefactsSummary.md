@@ -2,7 +2,7 @@
 
 | Unit(s)	| Component	|	Artefacts | 
 | :------ | :-------- | :-------- |
-| [1](RMPP_Unit01.md) - [3](RMPP_Unit03.md)	| Collaborative discussion 1 | <br> Codes of Ethics and Professional Conduct: [Initial post](RMPP_Unit01_Initial.pdf), [Peer Response 1](RMPP_Unit02_Respond1.pdf), [Peer Response 2](RMPP_Unit02_Respond2.pdf), [Summary post](RMPP_Unit03_Summary.pdf) <br><br> |
+| [1](RMPP_Unit01.md) - [3](RMPP_Unit03.md)	| Collaborative discussion 1 | <br> Codes of Ethics and Professional Conduct: [Initial post](RMPP_Unit01_Initial.pdf), [Peer Response 1](RMPP_Unit02_Respond1.pdf), [Peer Response 2](RMPP_Unit02_Respond2.pdf), [Peer Response 3](RMPP_Unit02_Respond3.pdf), [Summary post](RMPP_Unit03_Summary.pdf) <br><br> |
 | [1](RMPP_Unit01.md) | Formative | <br> [Reasoning Quiz](RMPP_Unit01_Quiz.pdf) <br><br> |
 | [1](RMPP_Unit01.md) | Reflective Activity | <br> [Ethics in Computing](RMPP_Unit01_Activity.md) <br><br> |
 | [2](RMPP_Unit02.md) | e-Portfolio Activity | <br> [Literature Review and Research Proposal Outlines](RMPP_Unit02_Activity.md) <br><br> |
