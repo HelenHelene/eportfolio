@@ -1,5 +1,5 @@
 # Literature Review Outline
-_(Word count: 486)_
+_(Word count: 481)_
 
 ## Topic
 Financial Impact of Ransomware and Malware in Hong Kong.
@@ -29,9 +29,8 @@ Sources are drawn mainly from academic databases such as UoE Library, IEEE Xplor
 4.	**Indirect Financial Consequences** – Reviews reputational damage, rising insurance costs, and staff training
 5.	**Mitigation Measures** – Discusses security frameworks, continuity planning, and cyber insurance (Marsh & McLennan, n.d.)
 6.	**Critical Perspectives** – Addresses debates about paying ransoms and reliance on insurance
-7.	**Methodological Approaches** – Evaluates research designs and their constraints
-8.	**Gaps and Future Directions** – Emphasises SME concerns and the necessity of longitudinal studies
-9.	**Conclusion** – Summarises key outcomes and suggests further exploration or policy changes
+7.	**Gaps and Future Directions** – Emphasises SME concerns and the necessity of longitudinal studies (Paavilainen & Raukko, 2008)
+8.	**Conclusion** – Summarises key outcomes and suggests further exploration or policy changes
 
 ## Strengths and Limitations
 Emerging empirical case studies increasingly shed light on the financial ramifications of cyberattacks. Nonetheless, reputational fears often lead to underreporting, hindering accurate cost estimations and highlighting the need for more transparent, up-to-date data.
@@ -54,6 +53,8 @@ HKMA. (n.d.) Welcome to Hong Kong Monetary Authority. Available form: https://ww
 IBM. (2024) Cost of a Data Breach Report. Available from: https://www.ibm.com/reports/data-breach [Accessed 17 February 2025]   
 
 Marsh & McLennan. (n.d.) Cyber Insurance – Innovative insurance brokerage services and tools can help companies effectively transfer cyber risk. Available at: https://www.marsh.com/en/services/cyber-risk/expertise/cyber-insurance.html [Accessed 17 Feb. 2025].
+
+Paavilainen, E. & Raukko, M. (2008) ‘Longitudinal Research Methods Approaches in International Business - A Typology’, 7th European Conference on Research Methodology for Business and Management Studies. Regent’s College, London, 19-20 June 2008. UK: Academic Publishing Limited. 237-244.
 
 Shackelford, SJ. (2012) Should your firm invest in cyber risk insurance? Business Horizons. 55(4): 349-356. DOI: https://doi.org/10.1016/j.bushor.2012.02.004.
 
