@@ -13,24 +13,24 @@ Hong Kong’s status as a major economic centre in Asia highlights the urgency o
 
 ## Context, Perspective, and Analytical Framework
 Owing to its digitally advanced and globally linked financial systems, Hong Kong remains particularly susceptible to cyberattacks (FSDC, 2021). From a socio-economic viewpoint, ransomware and malware are not solely technical issues but also present extensive business challenges. Their financial repercussions surpass initial ransom and system recovery costs, extending to reputational damage, regulatory fines, and operational delays (August et al, 2022; IBM, 2024).
-A thematic structure underpins the literature search (George, 2023), covering:
-•	Direct costs: negotiation, restoration
-•	Indirect costs: reputational damage, cyber insurance premiums
-•	Mitigation strategies: continuity planning, technical solutions
-•	Ongoing debates: ethics of ransom payment (Everett, 2016), reliance on insurance (Shackelford, 2012)
+A thematic structure underpins the literature search (George, 2023), covering:<br>
+ - Direct costs: negotiation, restoration
+ - Indirect costs: reputational damage, cyber insurance premiums
+ - Mitigation strategies: continuity planning, technical solutions
+ - Ongoing debates: ethics of ransom payment (Everett, 2016), reliance on insurance (Shackelford, 2012)
 
 ## Source Location and Selection Criteria
 Sources are drawn mainly from academic databases such as UoE Library, IEEE Xplore and Google Scholar, supplemented by key Hong Kong specific organisations, such as the Hong Kong Computer Emergency Response Team (HKCERT, n.d.), the Hong Kong Monetary Authority (HKMA, n.d.) , and other governmental sources. Search terms include “ransomware”, “malware”, “financial impact”, “Hong Kong”, “cybersecurity”, “cyber insurance” and “economic loss”.  Preference is given to studies from the past decade to capture the evolving nature of threats and defences; works containing empirical evidence or explicit cost data are prioritised.
 
 ## Structure of the Review
-1.	**Introduction** – States the rationale and main aims
-2.	**Context and Scope** – Outlines Hong Kong’s digital environment and regulations
-3.	**Direct Financial Impacts** – Examines ransom payments, restoration costs, and legal liabilities
-4.	**Indirect Financial Consequences** – Reviews reputational damage, rising insurance costs, and staff training
-5.	**Mitigation Measures** – Discusses security frameworks, continuity planning, and cyber insurance (Marsh & McLennan, n.d.)
-6.	**Critical Perspectives** – Addresses debates about paying ransoms and reliance on insurance
-7.	**Gaps and Future Directions** – Emphasises SME concerns and the necessity of longitudinal studies (Paavilainen & Raukko, 2008)
-8.	**Conclusion** – Summarises key outcomes and suggests further exploration or policy changes
+1.	**Introduction** – States the rationale and main aims<br>
+2.	**Context and Scope** – Outlines Hong Kong’s digital environment and regulations<br>
+3.	**Direct Financial Impacts** – Examines ransom payments, restoration costs, and legal liabilities<br>
+4.	**Indirect Financial Consequences** – Reviews reputational damage, rising insurance costs, and staff training<br>
+5.	**Mitigation Measures** – Discusses security frameworks, continuity planning, and cyber insurance (Marsh & McLennan, n.d.)<br>
+6.	**Critical Perspectives** – Addresses debates about paying ransoms and reliance on insurance<br>
+7.	**Gaps and Future Directions** – Emphasises SME concerns and the necessity of longitudinal studies (Paavilainen & Raukko, 2008)<br>
+8.	**Conclusion** – Summarises key outcomes and suggests further exploration or policy changes<br>
 
 ## Strengths and Limitations
 Emerging empirical case studies increasingly shed light on the financial ramifications of cyberattacks. Nonetheless, reputational fears often lead to underreporting, hindering accurate cost estimations and highlighting the need for more transparent, up-to-date data.
