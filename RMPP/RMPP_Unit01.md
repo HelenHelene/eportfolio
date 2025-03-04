@@ -55,7 +55,6 @@ As part of my e-portfolio, I have completed the following activities and activel
 
 [Reasoning Quiz](RMPP_Unit01_Quiz.pdf) 
 
-[List of Approved Literature Review Topic](RMPP_Unit01_ListofTopics.pdf) 
 
 ### Reflections
 Reflecting on this unit, I xxx
