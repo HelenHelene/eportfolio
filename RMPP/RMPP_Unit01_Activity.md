@@ -1,31 +1,26 @@
 # Reflective Activity 1 – Ethics in Computing in the age of Generative AI
 
-## Requirement
-Read [Correa et al. (2023)](RMPP_Unit01_Read_Correa.pdf) and [Deckard (2023)](https://www.bcs.org/articles-opinion-and-research/what-are-ethics-in-ai/).
 
-From late 2022, generative AI has taken the world by storm, and there is no field of activity that has not been impacted in some way. This is so much truer for Computer Science, which is where it all began. It is important to realise, however, that AI itself is nothing new, per se; and if the renaissance of the field after the ‘winter’ of the 1980s has been slow but constant, today there is the need of a different set of rules.
-
-In the Correa et al (2023) paper, the authors state that “a lot of work is taking place to define the values and ideas that should guide AI advances. A key challenge, however, lies in establishing a consensus on these values, given the diverse perspectives of various stakeholders worldwide and the abstraction of normative discourse. Researchers and policy makers need better tools to catalogue and compare AI governance documents from around the world and to identify points of divergence and commonality.”
-
-After reviewing the article and reading how different countries across the world deal with the generative AI revolution, discuss your views on the subject and recommend what you think could be a suitable course of action. You should justify your stance by also reviewing any papers included in this study or other relevant literature (additional links to industry have been provided as ‘Other Resources’ to the module). Your discussion should also highlight the impact your actions would have on applicable legal, social and professional issues. Please note that there is no right or wrong answer here, this exercise is to help you evaluate the legal, social ethical and professional issues that affect computing professionals in industry.
-
-The word count is 1,000 for the reflection piece. You will have to include this in your e-portfolio, but you can submit it to your tutor for formative feedback before Week 12.
 
 
 
 ### References
-xxx
+Correa, N.K., Galvão, C., Santos, J.W., Del Pino, C., Pinto, E.P., Barbosa, C., Massmann, D., Mambrini, R., Galvão, L., Terem, E. & de Oliveira, N. (2023) ‘Worldwide AI ethics: A review of 200 guidelines and recommendations for AI governance’, Patterns 4(10): 100857. Available from: https://doi.org/10.1016/j.patter.2023.100857 [Accessed 1 February 2025].
+
+Deckard, R. (2023) What are ethics in AI? BCS – The Chartered Institute for IT. Available from: https://www.bcs.org/articles-opinion-and-research/what-are-ethics-in-ai/ [Accessed 2 February 2025].
+
+European Parliamentary Research Service (EPRS) (2020) The impact of the General Data Protection Regulation (GDPR) on artificial intelligence. Available from: https://www.europarl.europa.eu/RegData/etudes/STUD/2020/641530/EPRS_STU(2020)641530_EN.pdf [Accessed 8 February 2025].
+
+FSDC. (2022) _Connecting Data: Establishing Hong Kong as a Cross-Boundary Financial Data Hub_. Available from: https://www.fsdc.org.hk/en/insights/connecting-data-establishing-hong-kong-as-a-cross-boundary-financial-data-hub [Accessed 1 February 2025].
+
+Hagen, G. (2021) ‘AI and Patents and Trade Secrets’, in: Bariteau, F.M. & Scassa, T. (eds)  _Artificial Intelligence and the Law in Canada. Toronto: LexisNexis Canada_. Available at SSRN: https://ssrn.com/abstract=3734654 [Accessed 8 February 2025]
+
+Reyneke, J.A. (2023) Ethics and Implications of Artificial Intelligence: Navigating the Path to Responsible Innovation. Available from: https://medium.com/aimonks/ethics-and-implications-of-artificial-intelligence-navigating-the-path-to-responsible-innovation-9738d0bd8a2b [Accessed 6 February 2025]
+
+Office of the Privacy Commissioner for Personal Data (PCPD) (2021) Guidance on the ethical development and use of artificial intelligence. Hong Kong: PCPD. Available from: https://www.pcpd.org.hk/english/resources_centre/publications/files/guidance_ethical_e.pdf  [Accessed 6 February 2025].
 
 ### Bibliography
-xxx
-
-<br><br>
-
----
-
-
-## Reflections
-xxx
+Fjeld, J., Achten, N., Hilligoss, H., Nagy, A.C. & Srikumar, M. (2020) Principled Artificial Intelligence: Mapping Consensus in Ethical and Rights-Based Approaches to Principles for AI. Cambridge, MA: Berkman Klein Center for Internet & Society. Available from: https://cyber.harvard.edu/publication/2020/principled-ai [Accessed 2 February 2025].
 
 <br><br>
 
