@@ -23,11 +23,8 @@ Analysing case studies, annual reports, and industry surveys to pinpoint direct 
 ### Surveys and Questionnaires
 Building quantitative measures on the frequency of attacks, financial losses, and the range of defensive techniques.
 
-### Interviews
-Gathering qualitative insights from cybersecurity specialists or financial controllers about the decision-making process, ethical considerations (such as paying ransoms), and the overall impact of attacks on business continuity.
-<br><br>
 
-Combining these methods within a mixed methods approach (quantitative + qualitative) may enhance the depth and reliability of the findings on financial penalties and organisational resilience.
+Combining these methods within a mixed methods approach may enhance the depth and reliability of the findings on financial penalties and organisational resilience.
 
 ---
 
