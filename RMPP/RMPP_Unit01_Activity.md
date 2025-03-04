@@ -1,4 +1,4 @@
-# [Reflective Activity 1 – Ethics in Computing in the age of Generative AI](RMPP_Unit01_Activity.md)
+# [Reflective Activity 1 – Ethics in Computing in the age of Generative AI](RMPP_Unit01_Activity.pdf)
 
 _(Word count: 1,015)_
 
