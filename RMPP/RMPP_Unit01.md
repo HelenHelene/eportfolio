@@ -1,49 +1,20 @@
 # Unit 1: Introduction to Research Methods. The Scientific Investigation and Ethics in Computing
 
-Welcome to Week 1 in which you will be introduced to Research Methods as a subject. We will start with the Scientific Method and Ethics considerations in Research.
+Unit 1 provided a foundational understanding of research methods and the ethical considerations required in computing.
 
-The first question to answer in this module would be “What is the Purpose of Research?”. Whether you continue in Higher Education or move into industry, it is essential to understand why you carry out research. There are 3 main reasons/purposes of research: to explore (familiarise yourself with a topic/situation), to describe (describe your findings), and to explain (answer the question “why?”) (QuestionPro, 2021).
+The unit covered the principles of the scientific method, emphasising observation, hypothesis formulation, reasoning, and testing. It introduced two key approaches to reasoning:
+ - **Deductive Reasoning:** Starting with a general theory and moving to specific observations.
+ - **Inductive Reasoning:** Starting with specific observations and developing a broader theory.
 
-One of the most important approaches in research is the scientific method. See Andersen & Hepburn (2020) for details on the history of this method which involves observation, hypothesis, reasoning and testing. The combination of these elements can vary significantly depending on the discipline of a researcher.
+The unit also underscored the importance of ethics in research, with a focus on the Menlo Report's principles of respect, beneficence, justice, and adherence to laws and public interest. These principles ensure that research is conducted responsibly, particularly when it involves human participants or sensitive data.
 
-Our focus in this unit is on the types of reasoning used in the scientific method as these are the key approaches for problem-solving. The 2 core types of reasoning are Deductive and Inductive reasoning.
+Additionally, the unit addressed ethical challenges in the age of generative AI, raising concerns about data privacy, transparency, fairness, and accountability due to the rapid advancement of AI technologies.
 
-The figures below shows the difference between deduction and induction. A deduction is an idea (such as, 'all men are mortal') that leads to an observation (for example, 'Jason is a man') that leads to a conclusion (such as, 'Jason is mortal'). An induction is an observation (for example, 'I break out when I eat peanuts') that leads to an analysis (such as, 'this is a symptom of being allergic') that leads to a theory (for example, 'I am allergic to peanuts').
-
-Both deduction and induction are forms of inference, which means reaching a conclusion based on evidence and reasoning. However, as the diagram shows, deduction moves you (the researcher) from an idea to an observation, while induction takes you from an observation to an idea.
-
-Deduction can get you to a perfect conclusion, but only if all your assumptions are 100% correct. Therefore, researchers in a non-lab/scientific setting would find deduction more difficult to use because it is often difficult to find a set of fully agreed-upon facts on which to structure their arguments.
-
-On the other hand, induction is used more frequently to solve everyday problems. It is particularly useful for problems that involve partial information about a situation or activity and the conclusions may not always be right, but they are more practical.
-
-Before delving further into the research process, it is essential to develop an understanding of research ethics. Ethics is an area is of importance when conducting any piece of research, particularly where people may be involved.
-
-As mentioned in the Ethics Submission Guidance Booklet by the University of Essex Online:
-
-```As part of all undergraduate and postgraduate projects, you are required to consider any ethical implications of the proposed research. Ethical approval must be granted before students can collect any data from external sources or undertake primary research with human participants. The latter includes both qualitative research, such as interviews and focus groups as well as quantitative research such as experiments or questionnaire studies. Studies analysing previously existing, secondary data will require ethical approval if the data contains any sensitive or personal identifiable information. You will also require evidence of permission to use secondary data where it is not freely accessible.```
-
-So, what are Research Ethics? This can be reviewed by focusing on the key principles that need to be applied when preparing and carrying out your research project, as described by the Menlo Report (Finn & Shilton, 2023):
-
-| | |
-| :------- | :----------------------------------------------- |
-| Respect	| If you are using individuals, they must take part voluntarily. You must respect their decision to participate or not (gaining their consent). Your participants should also have the right to anonymity. |
-| Beneficence |	The balance here is between maximising the benefit you gain from your research and the risk it may pose for the participants. |
-| Justice	| This relates to the equal treatment of your participants, as well as the fair distribution of the benefits of the research. | 
-| Respect for Law and Public Interest	| A researcher should always engage in legal due diligence and be accountable for their actions. Research should be designed, reviewed and undertaken to ensure recognised standards of integrity are met, and quality and transparency are assured. |
-
-
-It is imperative to point out at this point that though both ethics and morals are concerned with ‘right’ and ‘wrong’, they are also quite different. Moreover, in the age of generative AI, ethics in computing requires additional considerations and moral choices (Deckard, 2023).
-
-Alongside ethics, a researcher must be professional in all areas of their research and practice. A good explanation of what professionalism should mean to you in the various fields of Computer Science is given in the BCS Code of Conduct. This is provided in your reading for this week, as well as information on data protection and intellectual property.
-
-In this unit we shall:
- - Introduce the elements within the scientific method.
- - Introduce the various aspects of ethical issues in research, and by extension, in professional practice.
 
 ### Learning Outcomes
-On completion of this unit, you will be able to:
+The learning outcomes for the unit were to:
  - Differentiate between inductive and deductive reasoning.
- - Understand why ethics are important and how they may relate to your area of research and your professional practice.
+ - Understand the significance of ethics in research and professional practice.
 
 
 ### Artefacts and Collaborative Discussion 
@@ -57,10 +28,15 @@ As part of my e-portfolio, I have completed the following activities and activel
 
 
 ### Reflections
-Reflecting on this unit, I xxx
+The reflective activity on ethics in computing, particularly focusing on generative AI, was a thought-provoking experience that deepened my understanding of the ethical dilemmas posed by emerging technologies. Through this activity, I explored multiple perspectives on AI governance, data privacy, and fairness.
 
-### Action Plan
-Moving forward, I xxx
+Generative AI, such as large language models, has transformed industries by enabling new forms of creativity and problem-solving. While these advancements are exciting, they also come with significant ethical concerns. For example, generative AI can inadvertently perpetuate biases in datasets, produce misleading information, or violate individual privacy. I learned that frameworks like the EU’s General Data Protection Regulation (GDPR) and Hong Kong’s Personal Data (Privacy) Ordinance (PDPO) aim to address these challenges, but they often struggle to keep pace with the speed of AI development.
+
+Reflecting on this, I realised the critical role of computer scientists in designing systems that prioritise fairness, accountability, and transparency. This activity also highlighted the growing need for interdisciplinary collaboration between computer science, law, and social sciences to address the societal impacts of AI technologies.
+
+Moving forward, I have selected “Financial Impact of Ransomware and Malware in Hong Kong” as my literature review topic. My next steps are to:
+1. Gather academic articles and credible sources to prepare a detailed outline.
+2. Actively contribute feedback to peers in the collaborative discussion on ethics and professional conduct, using insights gained from this unit to provide constructive and evidence-based responses.
 
 <br><br>
 
