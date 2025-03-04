@@ -32,7 +32,7 @@ Combining these methods within a mixed methods approach may enhance the depth an
 ### Data Analysis and Statistical Competence
 Ability to handle and interpret cost figures, as well as apply statistical tools (e.g. Excel, SPSS, or R) to evaluate trends in cyberattack-related expenses.
 
-### Survey and Interview Design
+### Survey Design
 Skills in crafting clear, targeted questions, especially when examining financial impact and organisational practices related to cybersecurity.
 
 ### Literature Synthesis
