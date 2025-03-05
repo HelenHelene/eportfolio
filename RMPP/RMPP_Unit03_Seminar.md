@@ -16,10 +16,10 @@ Krivokapic, D., Nikolic, A., Stefanovic, A. & Milosavljevic, M. (2023) Financial
 
 ### 1. Research Purpose, Problem, and Objectives
 **Paper 1 (Castro et al., 2020):** 
-In the first paper, the authors examine the economic impact of ransomware and investigate how different strategies used by cybercriminals (such as pricing and discrimination) affect both their profits and the welfare costs to society. The paper’s central question appears to focus on how ransomware attacks evolve economically, highlighting the ransom-setting strategies and their broader societal implications. This aligns with my own understanding that ransomware not only affects individual targets but also generates wider economic and welfare implications (e.g., financial loss, decreased trust in digital platforms).
+In the first paper, the authors examine the economic impact of ransomware and investigate how different strategies used by cybercriminals (such as pricing and discrimination) affect both their profits and the welfare costs to society. The paper’s central question appears to focus on how ransomware attacks evolve economically, highlighting the ransom-setting strategies and their broader societal implications. 
 
 **Paper 2 (Krivokapic et al., 2023):**  
-In the second paper, the authors aim to clarify the financial, accounting, and taxation implications of ransomware attacks. They dive into how organisations can recognise these costs, either as deductions or as expenses, and what legal constraints (e.g., taxation and accounting rules) apply to such payments. This is in tune with my experience that an essential part of malware research is not only technical but also regulatory and financial. Indeed, exploring the complexities around ransom payments in accounting and tax contexts adds to the collective knowledge by bridging cybersecurity with corporate finance and legal considerations.
+In the second paper, the authors aim to clarify the financial, accounting, and taxation implications of ransomware attacks. They dive into how organisations can recognise these costs, either as deductions or as expenses, and what legal constraints (e.g., taxation and accounting rules) apply to such payments. 
 
 Both papers strongly reinforce the notion that ransomware incurs multi-faceted impacts: technical, legal, and economic, and contribute valuable insight to the current literature on malware research and cybercrime economics.
 <br><br>
