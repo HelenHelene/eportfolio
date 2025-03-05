@@ -12,23 +12,23 @@ Ricardo works as a computer records clerk in a local government’s records depa
 <br><br>
 
 ### Ethical Issues in Deciding Which Option to Pursue
-Applying GDPR principles, personal information should be processed lawfully and fairly (GDPR Article 5(1)(a)). Additionally, GDPR emphasises the principle of “purpose limitation” (GDPR Article 5(1)(b)), meaning data collected for one specific purpose should not be used or disclosed for another purpose unless there is a lawful basis for doing so (EU, 2016).
+Applying GDPR principles, personal information should be processed lawfully and fairly (Art. 5 GDPR, 1a). Additionally, GDPR emphasises the principle of “purpose limitation” (Art. 5 GDPR, 1b), meaning data collected for one specific purpose should not be used or disclosed for another purpose unless there is a lawful basis for doing so (EU, 2016).
 
 **1. Privacy and Confidentiality**
 Individuals have a right to keep their personal details private. Granting Beth access to identifying information without appropriate authorisation could breach confidentiality.
 
 **2. Data Minimisation**
-Under GDPR, only data strictly necessary should be processed (Article 5(1)(c))(EU, 2016). If Beth only needs direct contact details in exceptional cases (e.g., with the individuals’ consent), providing full access to all personal data could be excessive and in breach of data minimisation requirements.
+Under GDPR, only data strictly necessary should be processed (Art. 5 GDPR, 1c)(EU, 2016). If Beth only needs direct contact details in exceptional cases (e.g., with the individuals’ consent), providing full access to all personal data could be excessive and in breach of data minimisation requirements.
 
 **3. Lawful Grounds for Processing**
-GDPR dictates that personal data can only be processed if there is a valid lawful basis (Article 6)(EU, 2016). Beth’s purpose may be legitimate from a scientific standpoint, but does not automatically override privacy rights.
+GDPR dictates that personal data can only be processed if there is a valid lawful basis (Art. 6 GDPR)(EU, 2016). Beth’s purpose may be legitimate from a scientific standpoint, but does not automatically override privacy rights.
 <br><br>
 
 ### Discussion
 **1. If Ricardo is not responsible for determining allowable access, should he release the names and addresses?**
-If Ricardo merely acts as a records clerk, he should follow the official protocols of the records department. He should not release personal data on his own accord. Instead, he must defer to the department’s data controller or data protection officer, who is responsible for determining whether Beth has a legal basis or explicit permission to receive that data (GDPR Recital 74 emphasises the need for clear allocation of responsibility).
+If Ricardo merely acts as a records clerk, he should follow the official protocols of the records department. He should not release personal data on his own accord. Instead, he must defer to the department’s data controller or data protection officer, who is responsible for determining whether Beth has a legal basis or explicit permission to receive that data.
 
-Obedience to official procedure vs. personal persuasion. If an employee is not mandated to decide on data sharing, disclosing personal data is not only a potential GDPR violation but also an unethical override of established policy.
+If an employee is not mandated to decide on data sharing, disclosing personal data is not only a potential GDPR violation but also an unethical override of established policy.
 <br><br>
 
 **2. Suppose Ricardo were responsible for determining allowable access to the files. What ethical issues would be involved in his deciding whether to grant access to Beth?**
@@ -36,10 +36,10 @@ If Ricardo is in a position to grant or deny access, below the ethical considera
 
  - **Evaluation of Lawful Basis**
    - He must determine if there is a lawful basis, such as consent or a legitimate interest, that justifies releasing the names.
-   - Must ensure the purpose for collecting those names (i.e., further scientific study) is consistent with the original purpose or else a new legal basis (e.g., explicit consent) is required (GDPR Article 5(1)(b)).
+   - Must ensure the purpose for collecting those names (i.e., further scientific study) is consistent with the original purpose or else a new legal basis (e.g., explicit consent) is required (Art. 5 GDPR, 1b)(EU, 2016).
  
  - **Respect for Individual Rights**
-   - Individuals have data protection rights, including the right to be informed about how their data is used (GDPR Article 13). Therefore, sharing personal details without their knowledge or consent could violate their rights.
+   - Individuals have data protection rights, including the right to be informed about how their data is used (Art. 13 GDPR)(EU, 2016). Therefore, sharing personal details without their knowledge or consent could violate their rights.
  
  - **Duty of Care**
    - Ricardo must consider the potential harm in releasing individuals’ personal data. Unauthorised disclosure could lead to misuse or unwanted contact.
@@ -54,9 +54,9 @@ If Ricardo is in a position to grant or deny access, below the ethical considera
    - The records department should assess whether releasing personal data aligns with GDPR requirements. If there is no clear lawful basis, the department might require Beth to use an intermediary method of contact or to obtain consent before personal details are disclosed.
 
 From the records department’s viewpoint, they must consider:
- - The legitimacy of Beth’s request (Article 6).
- - Whether individuals have given prior consent or expect future contact (Article 13).
- - Proportionality: Is sharing personal data the only way for the study to proceed?
+ - The legitimacy of Beth’s request.
+ - Whether individuals have given prior consent or expect future contact (Art. 7 GDPR)(EU, 2016)
+ - Is sharing personal data the only way for the study to proceed?
 <br><br>
 
 **4. Suppose Beth contacts the individuals to ask their permission, and one-third of them respond giving permission, one-third respond denying permission, and one-third do not respond. Beth claims that at least one-half of the individuals are needed to make a valid study. What options are available to Beth?**
@@ -92,11 +92,11 @@ European Union (EU) (2016) _Regulation (EU) 2016/679 of the European Parliament 
 
 
 ## Reflections
-This case study deepened my understanding of the delicate balance between supporting legitimate research purposes and safeguarding individuals’ personal data. By examining various roles—whether as a records clerk with limited authority or as a data controller with responsibility to determine access—I gained insight into how critical it is to establish clear procedures for granting or denying the release of identifiable information.
+This case study deepened my understanding of the delicate balance between supporting legitimate research purposes and safeguarding individuals’ personal data. By examining various roles, whether as a records clerk with limited authority or as a data controller with responsibility to determine access, I gained insight into how critical it is to establish clear procedures for granting or denying the release of identifiable information.
 
 I also learned about the significance of data minimisation, transparency, and aligning with an appropriate lawful basis for processing information, which are essential considerations under the GDPR framework. Although GDPR does not directly apply in Hong Kong, similar principles of privacy protection exist under the Personal Data (Privacy) Ordinance (PDPO) (PCPD, 2022). The emphasis on informed consent and restricted data sharing ensures that personal data is handled ethically and legally, which is invaluable practice for anyone aspiring to become a Data Protection Officer.
 
-From a career perspective, this exercise reinforces the importance of vigilance, legislative awareness, and ethical sensitivity when dealing with personal data—skills that form the backbone of a competent Data Protection Officer in Hong Kong. By integrating these lessons into daily operations, one can uphold privacy rights and maintain public trust, even in fast-changing technological and regulatory environments.
+From a career perspective, this case study reinforces the importance of vigilance, legislative awareness, and ethical sensitivity when dealing with personal data, skills that form the backbone of a competent Data Protection Officer in Hong Kong. By integrating these lessons into daily operations, one can uphold privacy rights and maintain public trust, even in fast-changing technological and regulatory environments.
 
 ### References
 Office of the Privacy Commissioner for Personal Data (PCPD) (2022) The Ordinance: Personal Data (Privacy) Ordinance (Cap. 486). Government of the Hong Kong Special Administrative Region. Available from: https://www.pcpd.org.hk/english/data_privacy_law/ordinance_at_a_Glance/ordinance.html [Accessed 2 March 2025].
