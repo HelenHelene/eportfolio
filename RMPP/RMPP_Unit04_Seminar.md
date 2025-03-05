@@ -72,7 +72,7 @@ Beth requires at least half the participants for her study to remain valid. She 
  - **Seek Approval for a Broader Consent Mechanism**
    - If ethical and data protection authorities approve, Beth could employ a more structured campaign to obtain explicit consent from non-responders. However, there must be a balance between the study’s needs and individuals’ rights to privacy.
  
- - **Use Anonymised **
+ - **Use Anonymised**
    - If possible, Beth might rely more heavily on anonymised or aggregated data, reducing reliance on personal information. This approach would align better with data minimisation principles.
 <br><br>
 
@@ -80,7 +80,6 @@ Beth requires at least half the participants for her study to remain valid. She 
 This case highlights the complexities of handling personal data under GDPR and illustrates the ethical dilemmas faced by public employees and researchers in protecting individuals' privacy rights. Key principles include lawfulness, fairness, transparency, purpose limitation, and data minimisation. Even when research aims are meritorious, granting access without proper justification or consent raises significant ethical and legal concerns.
 
 Ultimately, if Ricardo does not have the authority to release personal data, he should not do so; if he does have such authority, he must thoroughly evaluate whether Beth’s request meets GDPR requirements. As for Beth, she should respect the autonomy of the individuals, seek valid consent, and consider alternative research methods that minimise any privacy intrusion.
-
 <br><br>
 
 ### References
