@@ -18,10 +18,10 @@ Applying GDPR principles, personal information should be processed lawfully and 
 Individuals have a right to keep their personal details private. Granting Beth access to identifying information without appropriate authorisation could breach confidentiality.
 
 **2. Data Minimisation**
-Under GDPR, only data strictly necessary should be processed (Article 5(1)(c)). If Beth only needs direct contact details in exceptional cases (e.g., with the individuals’ consent), providing full access to all personal data could be excessive and in breach of data minimisation requirements.
+Under GDPR, only data strictly necessary should be processed (Article 5(1)(c))(EU, 2016). If Beth only needs direct contact details in exceptional cases (e.g., with the individuals’ consent), providing full access to all personal data could be excessive and in breach of data minimisation requirements.
 
 **3. Lawful Grounds for Processing**
-GDPR dictates that personal data can only be processed if there is a valid lawful basis (Article 6). Beth’s purpose may be legitimate from a scientific standpoint, but does not automatically override privacy rights.
+GDPR dictates that personal data can only be processed if there is a valid lawful basis (Article 6)(EU, 2016). Beth’s purpose may be legitimate from a scientific standpoint, but does not automatically override privacy rights.
 <br><br>
 
 ### Discussion
