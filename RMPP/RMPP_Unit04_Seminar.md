@@ -12,7 +12,7 @@ Ricardo works as a computer records clerk in a local government’s records depa
 <br><br>
 
 ### Ethical Issues in Deciding Which Option to Pursue
-Applying GDPR principles, personal information should be processed lawfully and fairly (GDPR Article 5(1)(a)). Additionally, GDPR emphasises the principle of “purpose limitation” (GDPR Article 5(1)(b)), meaning data collected for one specific purpose should not be used or disclosed for another purpose unless there is a lawful basis for doing so.
+Applying GDPR principles, personal information should be processed lawfully and fairly (GDPR Article 5(1)(a)). Additionally, GDPR emphasises the principle of “purpose limitation” (GDPR Article 5(1)(b)), meaning data collected for one specific purpose should not be used or disclosed for another purpose unless there is a lawful basis for doing so (EU, 2016).
 
 **1. Privacy and Confidentiality**
 Individuals have a right to keep their personal details private. Granting Beth access to identifying information without appropriate authorisation could breach confidentiality.
