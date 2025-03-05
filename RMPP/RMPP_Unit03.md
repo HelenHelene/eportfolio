@@ -34,11 +34,16 @@ As part of my e-portfolio, I have completed the following activities and activel
 [Seminar: Peer Review Activity](RMPP_Unit03_Seminar.md)
 
 ### Reflections
-xxx
+Through the unit and artefacts, I deepened my understanding of the different research methods and their applicability. I now recognise the value of exploratory research in generating new ideas and descriptive research in verifying specific insights. Moreover, I learned the significance of combining qualitative and quantitative methods to provide a more comprehensive analysis, especially for complex topics like cybersecurity.
 
-### Action Plan
-xxx
+The artefacts, particularly the Collaborative Discussion on codes of ethics, reinforced the importance of ethical considerations in research. I gained insights into how professional conduct and ethical frameworks, such as the ACM and BCS codes, play a critical role in safeguarding workplace integrity and research credibility.
 
+The Research Proposal Review activity was particularly helpful in clarifying how to apply research methods to my chosen topic. It enabled me to see the potential of using secondary research to analyse existing data, while also incorporating surveys and questionnaires for primary research. This dual approach will enrich my findings and provide both depth and reliability.
+
+Lastly, the Peer Review Activity strengthened my ability to evaluate research papers critically, focusing on the alignment between research objectives, methodologies, and conclusions. This skill will be invaluable for my upcoming literature review.
+
+
+Moving forward, I will focus on improving my statistical and data analysis skills, as these are crucial for handling quantitative data. Additionally, I will practise designing effective surveys and identifying relevant secondary sources.  These skills will not only strengthen my ability to conduct my literature review but will also benefit my future academic and professional projects.
 <br><br>
 
 --- 
