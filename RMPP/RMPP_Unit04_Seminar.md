@@ -83,7 +83,7 @@ Ultimately, if Ricardo does not have the authority to release personal data, he 
 
 <br><br>
 
-### Bibliography
+### References
 European Union (EU) (2016) _Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 (General Data Protection Regulation). Official Journal of the European Union_, L119, 4 May, pp. 1–88.
 
 
