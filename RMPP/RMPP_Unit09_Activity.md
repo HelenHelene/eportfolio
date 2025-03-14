@@ -18,9 +18,9 @@ Evaluate critically existing literature, research design and methodology for
 
 
 ### Exercises - Workbooks
-[Exe 9.1D.xlsx](RMPP_Unit09_Exe9.1D)<br>
-[Exe 9.2E.xlsx](RMPP_Unit09_Exe9.2D)<br>
-[Exe 9.3B.xlsx](RMPP_Unit09_Exe9.3B)<br>
+[Exe 9.1D.xlsx](RMPP_Unit09_Exe9.1D.xlsx)<br>
+[Exe 9.2E.xlsx](RMPP_Unit09_Exe9.2D.xlsx)<br>
+[Exe 9.3B.xlsx](RMPP_Unit09_Exe9.3B.xlsx)<br>
 
 ### References
 xxx
