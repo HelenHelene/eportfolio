@@ -30,7 +30,7 @@ Data, whether qualitative or quantitative, will be a key part of any investigati
 ### Artefacts 
 As part of my e-portfolio, I have completed the following activities and actively engaged in collaborative discussions, which are documented in the provided link:
 
-Collaborative Discussion 2 - Case Study on Accuracy of Information-Respond to peers: [Respond 1](RMPP_Unit08_Respond1.pdf) & [Respond 2](RMPP_Unit08_Respond2.pdf)
+Collaborative Discussion 2 - Case Study on Accuracy of Information-Respond to peers: [Respond 1](RMPP_Unit08_Respond1.pdf) , [Respond 2](RMPP_Unit08_Respond2.pdf) & [Respond 3](RMPP_Unit08_Respond3.pdf)
 
 [Inference Worksheet](RMPP_Unit08_Worksheet.pdf)
 
