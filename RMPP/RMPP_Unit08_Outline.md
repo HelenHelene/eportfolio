@@ -1,4 +1,4 @@
-# Research Proposal Outline
+# [Research Proposal Outline](RMPP_Unit08_Outline.pdf)
 _(Word count: 509)_
 
 ## Project Title
@@ -43,6 +43,7 @@ HKMA. (2020) HKMA launches Cybersecurity Fortification Initiative 2.0. Available
 IBM. (2024) Cost of a Data Breach Report. Available from: https://www.ibm.com/reports/data-breach [Accessed 17 February 2025].  
 
 ISO. (2019) ISO/IEC 27701:2019 Security techniques — Extension to ISO/IEC 27001 and ISO/IEC 27002 for privacy information management — Requirements and guidelines. Available from: https://www.iso.org/standard/71670.html [Accessed 20 March 2025] 
+
 ISO. (2022) ISO/IEC 27001:2022 Information security, cybersecurity and privacy protection — Information security management systems — Requirements.  Available from: https://www.iso.org/standard/27001 [Accessed 20 March 2025]
 
 Lau, C. (2025) Hong Kong alert to data protection challenges as technology evolves: a 2025 update on privacy laws. Available from: https://www.rs-lawyers.com.hk/post/hong-kong-privacy-laws-update [Accessed 13 March 2025].
