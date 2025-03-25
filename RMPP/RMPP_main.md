@@ -8,8 +8,8 @@ The second assignment is xxx.
 
 Lastly, we are expected to submit an e-Portfolio, collecting evidence of our work and submitting a reflective piece on personal development. This culminates in a final reflection that summarizes individual learning achievements and experiences.
 
-#### Assignment 1 _(Work in progress)_
-[Literature Review](RMPP_A1_Requirment.pdf) <br>
+#### Assignment 1 _(🎓Pass with Distinction)_
+[Literature Review](RMPP_A1.md) <br>
 	
 #### Assignment 2 _(Work in progress)_
 [Research Proposal Presentation](RMPP_A2_Requirment.pdf)
