@@ -28,8 +28,6 @@ As part of my e-portfolio, I have completed the following activities and activel
 
 [Charts Worksheet and Analysis](RMPP_Unit09_Activity.md)
 
-[Data Annexe and Datasets](RMPP_Unit08_Compulsory.md)
-
 [Practicing Business Visualisation with PowerBI](RMPP_Unit09_PowerBI.md)
 
 ### Reflections
