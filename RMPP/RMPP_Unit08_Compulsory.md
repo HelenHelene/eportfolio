@@ -9,20 +9,6 @@
 [Superplus.xlsx](RMPP_Unit08_Superplus.xlsx)<br>
 
 
-### References
-xxx
-
-### Bibliography
-xxx
-
-<br><br>
-
----
-
-
-## Reflections
-xxx
-
 <br><br>
 
 ---
