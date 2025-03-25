@@ -17,8 +17,8 @@
 | [7](RMPP_Unit07.md) | Seminar | <br> [Inferential Statistics Workshop and Statistics Worksheet](RMPP_Unit07_Activity.md) <br><br> |
 | [8](RMPP_Unit08.md) | e-Portfolio Activity | <br> [Research Proposal Outline](RMPP_Unit08_Outline.md) <br><br> |
 | [8](RMPP_Unit08.md) | Formative | <br> [Inference Exercises](RMPP_Unit08_Activity.md) <br><br> |
-| [8](RMPP_Unit08.md) - [9](RMPP_Unit09.md)	 | e-Portfolio Activity (Compulsory) | <br> [Statistical Worksheet Submissions](RMPP_Unit08_Compulsory.md) <br><br> |
 | [9](RMPP_Unit09.md) | e-Portfolio Activity | <br> [Charts Example Worksheet](RMPP_Unit09_Activity.md) <br><br> |
+| [8](RMPP_Unit08.md) - [9](RMPP_Unit09.md)	 | e-Portfolio Activity (Compulsory) | <br> [Statistical Worksheet Submissions](RMPP_Unit08_Compulsory.md) <br><br> |
 | [9](RMPP_Unit09.md) | Formative | <br> [Practicing Business Visualisation with PowerBI](RMPP_Unit09_PowerBI.md) <br><br> |
 | [10](RMPP_Unit10.md) | Formative  | <br> [Statistical Worksheet Submissions](RMPP_Unit10_Activity.md) <br><br> |
 | [11](RMPP_Unit11.md) | Seminar | <br> [e-Portfolio Preparation](RMPP_Unit11_Activity.md) <br><br> |
