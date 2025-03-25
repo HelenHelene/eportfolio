@@ -1,11 +1,8 @@
 # Inference Worksheet and Exercises
 
-## [Inference Worksheet](RMPP_Unit08_Worksheet.pdf)
+### [Inference Worksheet](RMPP_Unit08_Worksheet.pdf)
 
-
-
-[Exa 7.6B.xlsx](RMPP_Unit07_Exa7.6B.xlsx) / [Exa 7.6B.pdf](RMPP_Unit07_Exa7.6B.pdf)<br>
-
+### Exercises - Workbooks
 [Exe 8.1B.xlsx](RMPP_Unit08_Exe8.1B.xlsx) / [Exe 8.1B.pdf](RMPP_Unit08_Exe8.1B.pdf)<br>
 
 [Exe 8.2B.xlsx](RMPP_Unit08_Exe8.2B.xlsx) / [Exe 8.2B.pdf](RMPP_Unit08_Exe8.2B.pdf)<br>
