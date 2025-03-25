@@ -13,13 +13,6 @@
 
 [Exe 8.6C.xlsx](RMPP_Unit08_Exe8.6C.xlsx) / [Exe 8.6C.pdf](RMPP_Unit08_Exe8.6C.pdf)<br>
 
-<br><br>
-
----
-
-
-## Reflections
-xxx
 
 <br><br>
 
