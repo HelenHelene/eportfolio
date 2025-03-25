@@ -17,13 +17,6 @@
 
 [Exe 9.3B.xlsx](RMPP_Unit09_Exe9.3B.xlsx) / [Exe 9.3B.pdf](RMPP_Unit09_Exe9.3B.pdf)<br>
 
-<br><br>
-
----
-
-
-## Reflections
-xxx
 
 <br><br>
 
