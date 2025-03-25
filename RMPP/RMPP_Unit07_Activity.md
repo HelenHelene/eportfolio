@@ -25,12 +25,4 @@
 
 ---
 
-
-## Reflections
-xxx
-
-<br><br>
-
----
-
 [Return to Module 7 Unit 7](RMPP_Unit07.md)
