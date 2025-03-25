@@ -16,7 +16,7 @@
 | [7](RMPP_Unit07.md) - [9](RMPP_Unit09.md)	| Collaborative discussion 2 | <br> Case Study on Accuracy of Information: [Initial post](RMPP_Unit07_Initial.pdf), [Peer Response 1](RMPP_Unit08_Respond1.pdf), [Peer Response 2](RMPP_Unit08_Respond2.pdf), [Peer Response 3](RMPP_Unit08_Respond3.pdf), [Summary post](RMPP_Unit09_Summary.pdf) <br><br> |
 | [7](RMPP_Unit07.md) | Seminar | <br> [Inferential Statistics Workshop and Statistics Worksheet](RMPP_Unit07_Activity.md) <br><br> |
 | [8](RMPP_Unit08.md) | e-Portfolio Activity | <br> [Research Proposal Outline](RMPP_Unit08_Outline.md) <br><br> |
-| [8](RMPP_Unit08.md) | Formative | <br> [Exercises - Workbooks](RMPP_Unit08_Activity.md) <br><br> |
+| [8](RMPP_Unit08.md) | Formative | <br> [Inference Exercises](RMPP_Unit08_Activity.md) <br><br> |
 | [8](RMPP_Unit08.md) - [9](RMPP_Unit09.md)	 | e-Portfolio Activity (Compulsory) | <br> [Statistical Worksheet Submissions](RMPP_Unit08_Compulsory.md) <br><br> |
 | [9](RMPP_Unit09.md) | e-Portfolio Activity | <br> [Charts Example Worksheet](RMPP_Unit09_Activity.md) <br><br> |
 | [9](RMPP_Unit09.md) | Formative | <br> [Practicing Business Visualisation with PowerBI](RMPP_Unit09_PowerBI.md) <br><br> |
