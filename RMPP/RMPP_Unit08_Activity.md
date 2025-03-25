@@ -1,4 +1,4 @@
-# Inference Exercises
+# Inference Worksheet and Exercises
 
 ## [Inference Worksheet](RMPP_Unit08_Worksheet.pdf)
 
