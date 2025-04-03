@@ -8,9 +8,8 @@
 <img src="RMPP_A2_Presentation_01.jpg" alt="Slide 1" width="700"/>
 <br>
 
-Good morning, everyone. Thank you for attending this presentation on the Synputer Project.  I am the project manager of this project.
-
-Synputer project is crucial for both Synful Computing and our valued partner, EDC. As we progress, we have encountered challenges and identified necessary amendments to ensure the Synputer meets both the original specifications and the evolving demands of our stakeholders, including EDC and our marketing team. Our goal is to achieve this while staying with a reasonable budget and schedule.
+Hello everyone, My name is Helen, Siu Oi Lam
+Today, I will be presenting my research proposal titled “A Framework for Mitigating Data Breach Risk – A Case Study and Solution for SMEs in Hong Kong.”
 
 ---
 
@@ -18,25 +17,24 @@ Synputer project is crucial for both Synful Computing and our valued partner, ED
 <img src="RMPP_A2_Presentation_02.jpg" alt="Slide 2" width="700"/>
 <br>
 
-Let me outline today's agenda for our presentation:
-1.	Reviewing the milestones we have achieved, and the progress made so far.
-2.	Discussing feedback from EDC and the identified challenges.
-3.	Proposing system changes to address these concerns and market demands.
-4.	Presenting the finalised plan, budget, and timeline for implementing these changes.
-5.	Outlining our updated marketing strategy to align with the new plan.
-6.	Last but not least, discussing the next steps for the project.
+This presentation will outline the significance of my research, the research questions, aims and objectives, key literature, methodology and ethical considerations, as well as a description of the artefact I plan to develop, the project timeline, and expected outcomes.
 
 ---
 
-### Slide 3: Milestones and Current Status
+### Slide 3: Significance and Research Problem
 <img src="RMPP_A2_Presentation_03.jpg" alt="Slide 3" width="700"/>
 <br>
 
-Let's start by reviewing the major milestones achieved in the Synputer project:
-1.	EDC contracted Synful Computing to develop a computer for both personal and business use. The Synputer Project officially began in Q4 1982.
-2.	The initial design was completed in Q1 1983, featuring a 68008 CPU, 128KB of RAM, custom cartridge storage, basic sound, a custom video port, and a desktop case with an internal keyboard. All components were soldered directly onto the board, with no socketed parts. The first prototype was developed based on this design.
-3.	In Q4 1983, initial production commenced based on the original specification. Our marketing team promoted the system at a price point of £399.99, and we received 3,000 pre-orders.
-4.	An evaluation unit was sent to EDC for feedback in Q1 1984. EDC raised several concerns regarding the system's specifications, which we will discuss next. Currently, the first 1,000 units are already in production.
+In recent years, there has been a concerning rise in cyber risks and data breaches affecting organisations of all sizes in Hong Kong (HKCERT, 2025; PCPD, 2025).
+
+Surveys indicate that small and medium-sized enterprises, commonly referred to as SMEs, are increasingly adopting technology but remain largely unaware of the associated cyber risks (Yeung, 2020). This lack of awareness leaves them particularly vulnerable.
+
+Many SMEs, however, struggle to meet these requirements due to limited resources and technical expertise (QBE, 2025).
+
+Additionally, compliance requirements under the Personal Data (Privacy) Ordinance, hereafter referred to as PDPO, have been recently reviewed by the Office of the Privacy Commissioner for Personal Data Hong Kong, also known as PCPD, to address these evolving risks (DLA Piper, 2025; Lau, 2025; Legislative Council, 2024).
+
+This research aims to bridge this gap by developing a practical and resource-efficient framework that SMEs can adopt to better protect themselves against data breaches.
+
 
 ---
 
