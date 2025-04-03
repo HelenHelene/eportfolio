@@ -62,7 +62,14 @@ Verizon Business. (2024) Data Breach Investigations Report.  Available from: htt
 
 
 ## Reflections
-xxx
+This outline has not been easy to complete, because we need to fix a topic that approaches the subject from a different angle than both the Literature Review and the Capstone project, while still ensuring relevance. As the tutor mentioned in the seminar, it is like “toe-dipping, testing the water” on a subject I am interested in. However, due to limited time, I cannot explore too many different topics. Therefore, I have finally settled on one of the three priority titles I originally considered for the Capstone project.
+
+Luckily, by creating this outline and conducting an initial thematic literature search, I discovered that a substantial body of work already exists on this topic. This means I can still approach the forthcoming research proposal from a different angle and build on the findings from my Literature Review and other academic sources. However, for a deeper investigation, I do not believe there is sufficient scope here, so I can remove this topic from my list of potential Capstone project ideas and focus on my other interests.
+
+In completing this outline, I have gained a better understanding of how to build a research proposal. I also received helpful advice from our tutor on how to refine my strategy for the upcoming assignment. I will remain focused and remember to use a list of references rather than a bibliography, meaning I have to cite all sources I use, even in oral presentations—something that feels quite unusual to me.
+
+Looking ahead, my next step will be to delve deeper into relevant literature in order to support my views in the presentation. I will also create a PowerPoint recording, which should not be too challenging, given my experience with recording audio and adding subtitles in MP4 from the SEPM module.
+
 
 <br><br>
 
