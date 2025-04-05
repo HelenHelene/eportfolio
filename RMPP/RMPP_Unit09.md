@@ -1,20 +1,19 @@
 # Unit 9: Validity and Generalisability in Research
 
-Welcome to Week 9 where you will be looking at validity, generalisability and reliability. These are three important dimensions within research as they affect any conclusions you can make after your data collection and analysis. All these need to be considered before you collect any data.
+This week focused on the critical concepts of validity, generalisability, and reliability, which are fundamental to ensuring the quality of research. These dimensions directly influence the conclusions drawn from research and must be considered during the design of any investigation, even before data collection begins.
 
-You will then look at the differences in qualitative data and quantitative data and what you can do with it: how to analyse your data and how to present your results should be considered before you collect any data. Note that quantitative data leads us into descriptive and inferential statistics. Before this, however, there are processes of data cleansing and validation that need to be considered.
+Key concepts included:
+1. Validity, Generalisability, and Reliability:
+   - Reliability refers to the consistency of the measurement process.
+   - Validity determines whether the measurement accurately captures what it was intended to measure. It is a broader and more complex concept, and reliability is a prerequisite for validity.
+   - Generalisability involves determining whether the research findings can be applied to a broader population or context beyond the study sample.
 
-While related, reliability and validity are two distinct concepts. Reliability refers to the consistency of the measurement process. Validity, on the other hand, focuses on whether the measurement has the correct target, and it is a far broader, and complex, concept. Of course, a measurement process needs to be reliable before its validity can be even assessed.
+2. Qualitative vs. Quantitative Data:
+   - The unit revisited the inherent differences between qualitative and quantitative data, emphasising how each type should be analysed and presented.
+   - Quantitative data requires processes such as data cleansing and validation before applying descriptive or inferential statistics.
+   - Qualitative data often demands coding and thematic analysis, with an awareness of potential researcher bias.
 
-The lecturecast of this unit will discuss these important points.
-
-In this unit we shall:
- - Introduce the concepts of validity, generalisability and reliability and how they impact on your research design.
- - Consider the differences between qualitative and quantitative data and how to analyse and present your results.
- - 
-On completion of this unit Lecturecast, you will be able to:
- - Understand how the concepts of validity, generalisability and reliability affect your investigation and the design of your research method
- - Consider how to analyse and present the results you obtain from your investigation and how they will enable you to answer your research question
+This unit also introduced practical methods to analyse and present results effectively, ensuring alignment with research questions and objectives.
 
 ### Learning Outcomes
 On completion of this unit you will be able to:
@@ -31,7 +30,17 @@ As part of my e-portfolio, I have completed the following activities and activel
 [Practicing Business Visualisation with PowerBI](RMPP_Unit09_PowerBI.pdf)
 
 ### Reflections
-xxx
+The ongoing Whizzz cereal case study provided an opportunity to further explore the balance between ethical obligations and commercial pressures. My initial post addressed Abi’s challenge in presenting findings that may reveal health risks while managing the manufacturer’s expectations. Feedback from peers emphasised the importance of transparency, integrity, and accountability.
+
+The discussion highlighted key strategies such as independent auditing, consulting domain experts, and adhering to professional guidelines like the BCS Code of Conduct. This reinforced my understanding of the importance of collaboration between researchers and authorities to uphold ethical standards while maintaining stakeholder trust.
+
+The collaborative discussion further emphasised the necessity of ethical decision-making, particularly when handling sensitive or conflicting data findings.
+
+In the Charts Worksheet and Analysis exercise, as an accountant, creating and analysing charts is part of my daily responsibilities, so this task was straightforward for me. Nevertheless, I found it interesting to revisit the fundamentals and explore creative ways to present data. Charts remain an essential tool for effectively communicating information, and this exercise reminded me of their significance in both academic and professional contexts.
+
+For the Practising Business Visualisation with Power BI, I was unfortunately unable to access the lab for the Power BI trial. However, as someone who frequently uses Power BI in my professional role, I was still able to complete the “Check Your Knowledge” quiz without any issues. This confirmed my existing skills in creating dashboards and analysing data using Power BI, which I find invaluable for presenting insights in a business context.
+
+The chart worksheet and Power BI exercises allowed me to reflect on how visualisation tools can be effectively leveraged to present data clearly and meaningfully to diverse audiences.
 
 <br><br>
 
