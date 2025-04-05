@@ -17,7 +17,7 @@
 | [8](RMPP_Unit08.md) | e-Portfolio Activity | <br> [Research Proposal Outline](RMPP_Unit08_Outline.md) <br><br> |
 | [8](RMPP_Unit08.md) | Formative | <br> [Inference Exercises](RMPP_Unit08_Activity.md) <br><br> |
 | [9](RMPP_Unit09.md) | e-Portfolio Activity | <br> [Charts Example Worksheet](RMPP_Unit09_Activity.md) <br><br> |
-| [9](RMPP_Unit09.md) | Formative | <br> [Practicing Business Visualisation with PowerBI](RMPP_Unit09_PowerBI.md) <br><br> |
+| [9](RMPP_Unit09.md) | Formative | <br> [Practicing Business Visualisation with PowerBI](RMPP_Unit09_PowerBI.pdf) <br><br> |
 | [10](RMPP_Unit10.md) | e-Portfolio Activity (Compulsory) | <br> [Statistical Worksheet Submissions](RMPP_Unit10_Activity.md) <br><br> |
 | [11](RMPP_Unit11.md) | Seminar | <br> [e-Portfolio Preparation](RMPP_Unit11_Activity.md) <br><br> |
 | [12](RMPP_Unit12.md) | Formative | <br> [Self Test Quiz](RMPP_Unit12_Quiz.pdf) <br><br> |
