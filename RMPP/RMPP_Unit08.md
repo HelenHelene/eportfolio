@@ -4,15 +4,15 @@ Unit 8 focused on data analysis and visualisation, shifting attention from the r
 
 Key concepts included:
 1. Qualitative vs. Quantitative Data Analysis:
-   - Qualitative data, consisting of observations, images, and words, is often subjective and requires coding to categorise responses for analysis.
-   - Quantitative data involves distinct stages of preparation and analysis, with descriptive and inferential statistics providing clear structure.
+    - Qualitative data, consisting of observations, images, and words, is often subjective and requires coding to categorise responses for analysis.
+    - Quantitative data involves distinct stages of preparation and analysis, with descriptive and inferential statistics providing clear structure.
 
 2. Coding and Software for Qualitative Data:
-   - Coding is essential for organising unstructured qualitative responses. Software is often used to streamline the process and ensure efficient analysis.
+    - Coding is essential for organising unstructured qualitative responses. Software is often used to streamline the process and ensure efficient analysis.
 
 3. Data Visualisation and Dashboards:
-  - In an era of Business Intelligence, dashboards are widely used to present actionable insights by connecting data to key performance indicators (KPIs).
-  - Visualisation tools such as charts and graphs allow researchers to communicate findings effectively, making complex data accessible to a wider audience.
+    - In an era of Business Intelligence, dashboards are widely used to present actionable insights by connecting data to key performance indicators (KPIs).
+    - Visualisation tools such as charts and graphs allow researchers to communicate findings effectively, making complex data accessible to a wider audience.
 
 ### Learning Outcomes
 On completion of the unit, students gained the ability to:
