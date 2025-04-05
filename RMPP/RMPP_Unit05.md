@@ -1,41 +1,22 @@
 # Unit 5: Interviews, Survey Methods, and Questionnaire Design
 
-Welcome to Week 5 where you will be introduced to the use of interviews, survey methods and questionnaire design.
+This unit focused on interviews, survey methods, and questionnaire design as essential tools for collecting data in research. The unit highlighted their applications in both qualitative and quantitative research, emphasising the importance of understanding these methods to design effective investigations.
 
-Conducting in-depth interviews is one of the most common qualitative research methods. It is a conversational piece, involving only respondent at a time. It provides opportunities for the researcher to get in depth details from the respondent.
+Key concepts were discussed in this unit, including:
 
-A survey is one of the most important quantitative methods of collecting data. There are various types of surveys or polls, and they are used to explore opinions, trends, etc. Online surveys are more generally used, with easier accessibility for the target respondents.
+1. **Interviews:** A common qualitative research method conducted one-on-one, which allows for in-depth exploration of individual perspectives, behaviours, and experiences.
+2. **Surveys:** A widely used quantitative method for collecting data, often via online platforms for easier accessibility, usually used to explore trends, opinions, and behaviours within a specific population.
+3. **Questionnaires:** A set of structured questions used within a survey to gather specific data, offering flexibility and able to be conducted online, over the phone, or face-to-face.  Questionnaires can include both open-ended and closed-ended questions, depending on the research needs.
+4. **Pre- and Post-Testing:** Methods used to measure changes before and after implementing a new process or system, offering a "before-and-after" perspective.
 
-We also need to point out an important difference, the one between a questionnaire and a survey. A survey is a comprehensive method used for the gathering and analysis of data and will involve a questionnaire. A questionnaire on the other hand, just refers to the set of questions with answer choices which is used to conduct a survey.
-
-Image description: The figure below show how the surveying process is cyclic in nature. It starts with a survey questionnaire that leads to survey logic. In turn, this leads to survey distribution, and subsequently survey data collection and analytics.
-
-So, a questionnaire is a valuable research instrument as it offers a researcher flexibility in gaining information from respondents, like a written interview. It can be carried out online, over the phone or face-to-face.
-
-The type of questions you use (open or closed, or both) will depend on whether you are carrying out quantitative or qualitative research, or mixed method). Some questionnaires are better than others and mistakes are easy to make, especially when you are working in a technical area.
-
-All those methods are often used in research, but not always well. Often, they are used together to gain further insight into specific area of the investigation.
-
-We will also introduce pre-testing and post-testing methods which can be used with any of the research methods you have seen. They present a viable “before-and-after” picture of the implementation of a new process or system.
-
-In this unit we shall:
- - Introduce you to interview methods and survey methods.
- - Consider the definitions of population and sample.
- - Introduce the concept of pre- and post-testing.
- - Introduce the different methods of obtaining responses and discuss how to improve the responses you obtain.
- - Consider how you would analyse the responses from each type of question.
-
-
-On completion of this unit Lecturecast you will be able to:
- - Understand the difference between a good questionnaire and a poor one
- - Understand how to obtain the responses you will need for your investigation
- - Understand how the data obtained could be analysed
+The unit also introduced the cyclic nature of the survey process, from questionnaire design to survey distribution, data collection, and analysis. It stressed the importance of designing good questionnaires to ensure relevant and high-quality responses.
 
 ### Learning Outcomes
-On completion of this unit you will be able to:
- - Understand how interviews and surveys fit into research and whether either or both of these might be useful for your investigation.
+On completion of this unit, we will be able to:
+ - Understand the difference between a good questionnaire and a poor one, and how to obtain the responses we will need for our investigation.
+ - Understand how interviews and surveys fit into research and whether either or both of these might be useful for our investigation.
  - Understand how pre- and post-testing can be used in research.
- - Design a questionnaire to obtain the responses you will need for your investigation.
+ - Design a questionnaire to obtain the responses we will need for our investigation.
  - Understand how the data obtained can be analysed.
 
 ### Artefacts 
@@ -47,7 +28,13 @@ As part of my e-portfolio, I have completed the following activities, which are 
 
 
 ### Reflections
-xxx
+From this unit, I gained a deeper understanding of how interviews, surveys, and questionnaires can be used effectively in research. I learned the distinction between surveys and questionnaires, as well as the importance of designing clear, relevant, and ethically sound questions to ensure reliable data collection.
+
+The Cambridge Analytica case study served as a powerful reminder of the ethical challenges associated with data collection. It emphasised the importance of transparency, informed consent, and compliance with data protection regulations like GDPR. This case highlighted how the misuse of surveys and questionnaires can have far-reaching consequences, both ethically and socially.
+
+After this unit, I now understand how to design effective questionnaires and choose appropriate methods for my research objectives. This unit also enhanced my ethical awareness and deepened my understanding of the importance of informed consent, data protection, and transparency in research. The knowledge gained will be directly applicable when designing surveys for my dissertation and future projects.
+
+For the surveys or questionnaires I will design for my capstone project, I will ensure that they comply with ethical standards and data protection regulations.
 
 <br><br>
 
