@@ -12,7 +12,7 @@ Lastly, we are expected to submit an e-Portfolio, collecting evidence of our wor
 [Literature Review](RMPP_A1.md) <br>
 	
 #### Assignment 2 _(Work in progress)_
-[Research Proposal Presentation](RMPP_A2_Requirment.pdf)
+[Research Proposal Presentation](RMPP_A2.md)
 
 #### Assignment 3: Individual ePortfolio _(Work in progress)_
 [Reflective Piece](RMPP_A3_Requirment.pdf)
