@@ -28,7 +28,7 @@ Incorporating tutor feedback and undertaking work-driven tasks enhanced my under
 I also noticed that my newly acquired theoretical insights informed my [role as a Data Protection Officer](https://helenhelene.github.io/eportfolio/Aboutme.html), particularly when forming persuasive arguments and drafting detailed policy documentation. The Action Plan reminded me of my developmental objectives, such as engaging more extensively with qualitative methodologies. I believe that exploring these methods further would enable me to examine real-world data breaches with even greater rigour. These observations support the view, espoused by Rolfe, Freshwater and Jasper (2001), that critical reflection can be a vital means of professional growth.
 
  <img src="RMPP_A3_Matrix.jpg" alt="Matrix" width="700"/> <br>
-_Figure 1: My Skill Matrix_
+_Figure 1: My Skill Matrix_ <br>
 For additional details, please refer to the [Matrix](RMPP_Unit11_Matrix.pdf) in the e-Portfolio.
 
 ### Conclusion 
