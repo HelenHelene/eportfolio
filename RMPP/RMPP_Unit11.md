@@ -16,7 +16,7 @@ By the end of this unit, I was able to reflect on my learning journey, complete 
 ### Artefacts 
 As part of my e-portfolio, I have completed the following activities, which are documented in the provided link:
 
-[Seminar: e-Portfolio Preparation](RMPP_Unit11_Activity.md)
+[Seminar: e-Portfolio Preparation (The Matrix, Action Plan, SWOT)](RMPP_Unit11_Activity.md)
 
 
 ### Reflections
