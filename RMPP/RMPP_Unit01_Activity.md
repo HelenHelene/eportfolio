@@ -58,8 +58,6 @@ Fjeld, J., Achten, N., Hilligoss, H., Nagy, A.C. & Srikumar, M. (2020) Principle
 ---
 
 ### Reflections
-The reflective activity on ethics in computing, particularly focusing on generative AI, was a thought-provoking experience that deepened my understanding of the ethical dilemmas posed by emerging technologies. Through this activity, I explored multiple perspectives on AI governance, data privacy, and fairness.
-
 Generative AI, such as large language models, has transformed industries by enabling new forms of creativity and problem-solving. While these advancements are exciting, they also come with significant ethical concerns. For example, generative AI can inadvertently perpetuate biases in datasets, produce misleading information, or violate individual privacy. I learned that frameworks like the EU’s General Data Protection Regulation (GDPR) and Hong Kong’s Personal Data (Privacy) Ordinance (PDPO) aim to address these challenges, but they often struggle to keep pace with the speed of AI development.
 
 Reflecting on this, I realised the critical role of computer scientists in designing systems that prioritise fairness, accountability, and transparency. This activity also highlighted the growing need for interdisciplinary collaboration between computer science, law, and social sciences to address the societal impacts of AI technologies.
