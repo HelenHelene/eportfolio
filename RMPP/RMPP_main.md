@@ -1,12 +1,8 @@
 # Module 7 Research Methods and Professional Practice
 
-This module acts as the starting point for our Capstone Project, ensuring that we are well-prepared before beginning the Project Module. As the tutor mentioned in the seminar, this module is like “toe-dipping, testing the water” on a subject we are interested in. Personally, I often struggle with understanding the specific requirements for the artefact in the Capstone Project. I am particularly interested in creating a framework for risk mitigation rather than developing software. I hope this module will help me find clarity on whether this approach would be acceptable for an MSc project.
+This module serves as the starting point for our Capstone Project, ensuring we are well-prepared before beginning the Project Module. As the tutor mentioned in the seminar, this module is akin to “toe-dipping, testing the water” on a subject we are interested in. Personally, I often struggle with understanding the specific requirements for the artefact in the Capstone Project. I am particularly interested in creating a framework for risk mitigation rather than developing software. I hope this module will help me gain clarity on whether this approach would be acceptable for an MSc project.
 
-There are three assignments in this module. For the first assignment, we need to select a topic from a provided list and perform a literature review. This assignment serves as the foundation for developing the research topic in the next task.
-
-The second assignment requires us to create a research proposal, building upon the literature review but approaching it from a different angle. We will need to outline a research question, methodology, artefact description, and project timeline. Developing a research proposal is an essential skill for starting a research project.
-
-Finally, we are expected to submit an e-Portfolio, compiling evidence of our work and submitting a reflective piece on our personal development throughout the module. This will allow us to track our progress and demonstrate the skills we have gained.
+There are three assignments in this module, as listed below:
 
 #### Assignment 1 _(🎓Pass with Distinction)_
 [Literature Review](RMPP_A1.md) <br>
