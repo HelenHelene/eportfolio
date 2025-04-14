@@ -6,9 +6,9 @@
  - Conducting and critiquing literature relevant to our chosen topics.
 
 ### Artefacts 
-Collaborative Discussion 1 - Codes of Ethics and Professional Conduct-Respond to peers: [Respond 1](RMPP_Unit02_Respond1.pdf), [Respond 2](RMPP_Unit02_Respond2.pdf) & [Respond 3](RMPP_Unit02_Respond3.pdf)
+ - Collaborative Discussion 1 - Codes of Ethics and Professional Conduct-Respond to peers: [Respond 1](RMPP_Unit02_Respond1.pdf), [Respond 2](RMPP_Unit02_Respond2.pdf) & [Respond 3](RMPP_Unit02_Respond3.pdf)
 
-[Literature Review and Research Proposal Outlines](RMPP_Unit02_Activity.md)
+ - [Literature Review and Research Proposal Outlines](RMPP_Unit02_Activity.md)
 
 ### Reflections
 Initially, I felt overwhelmed by defining a research question and conducting a literature review, as these tasks seemed abstract. However, the structured lectures and guiding questions made the process manageable.
