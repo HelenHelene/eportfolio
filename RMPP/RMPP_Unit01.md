@@ -1,7 +1,7 @@
 # Unit 1: Introduction to Research Methods. The Scientific Investigation and Ethics in Computing
 
 ### Learning Outcomes
- - Differentiate between inductive (starting with specific observations and developing a broader theory) and deductive (starting with a general theory and moving to specific observations) reasoning.
+ - Differentiate between inductive and deductive reasoning.
  - Understand the significance of ethics in research and professional practice.
 
 
@@ -14,7 +14,7 @@
 
 
 ### Reflections
-The reflective activity on ethics in computing, particularly focusing on generative AI, was a thought-provoking experience that deepened my understanding of the ethical dilemmas posed by emerging technologies. Through this activity, I explored multiple perspectives on AI governance, data privacy, and fairness.
+The reflective activity on ethics in generative AI was a thought-provoking experience that deepened my understanding of the ethical dilemmas posed by emerging technologies. Through this activity, I explored multiple perspectives on AI governance, data privacy, and fairness.
 
 Moving forward, I will actively contribute feedback to peers in the collaborative discussion on ethics and professional conduct, using insights gained from this unit to provide constructive and evidence-based responses.
 
