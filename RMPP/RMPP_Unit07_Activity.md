@@ -29,6 +29,8 @@ However, the worksheet presented some initial confusion, as errors in the materi
 
 This workshop enhanced my understanding of inferential statistics and hypothesis testing, both of which are invaluable for making data-driven decisions in research and professional contexts.
 
+<br><br>
+
 ---
 
 [Return to Module 7 Unit 7](RMPP_Unit07.md)
