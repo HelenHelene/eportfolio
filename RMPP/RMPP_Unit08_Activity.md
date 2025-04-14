@@ -16,6 +16,11 @@
 
 <br><br>
 
+## Reflections
+After resolving the worksheet issues in Unit 7 and following the provided examples, the inference exercises in this unit were much more straightforward. The practice enhanced my analysis and interpretation skills in inferential statistics and their application to real-world data.
+
+<br><br>
+
 ---
 
 [Return to Module 7 Unit 8](RMPP_Unit08.md)
