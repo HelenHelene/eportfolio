@@ -14,7 +14,7 @@
 
 
 ### Reflections 
-_(Word count: 68)_
+_(Word count: 68)_ <br>
 The reflective activity on ethics in generative AI was a thought-provoking experience that deepened my understanding of the ethical dilemmas posed by emerging technologies. Through this activity, I explored multiple perspectives on AI governance, data privacy, and fairness.
 
 Moving forward, I will actively contribute feedback to peers in the collaborative discussion on ethics and professional conduct, using insights gained from this unit to provide constructive and evidence-based responses.
