@@ -11,6 +11,7 @@
  - [Literature Review and Research Proposal Outlines](RMPP_Unit02_Activity.md)
 
 ### Reflections
+_(Word count: 100)_ <br>
 Initially, I felt overwhelmed by defining a research question and conducting a literature review, as these tasks seemed abstract. However, the structured lectures and guiding questions made the process manageable.
 
 Exploring ransomware’s financial impact in Hong Kong was engaging, given its socio-economic relevance and Hong Kong’s role as a financial hub. Collaborative discussions were insightful, encouraging critical analysis of ethical dilemmas and workplace issues. Responding to peers’ posts helped me refine my perspective and strengthen arguments with evidence.
