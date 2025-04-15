@@ -11,6 +11,7 @@
 
 
 ### Reflections
+_(Word count: 99)_ <br>
 The collaborative discussion on balancing ethical obligations and commercial interests highlighted the challenges professionals face when presenting statistical findings.  As a part-time student with work experience, I understand the difficulty of maintaining ethical standards in business, a challenge that is even greater for fresh graduates. This emphasised the need for management to foster an ethical environment to guide future professionals.
 
 The challenge mentioned in the Statistics Worksheet artefact improved my problem-solving skills and understanding of statistical concepts.
