@@ -11,9 +11,9 @@
 
 
 ### Reflections
+_(Word count: 84)_ <br>
 The Cambridge Analytica case study highlighted the ethical challenges of data collection, emphasising transparency, informed consent, and compliance with regulations like GDPR. It showed how the misuse of surveys can lead to serious ethical and social consequences.
-This unit improved my understanding of designing effective questionnaires and selecting suitable research methods. 
-For my capstone project, I will ensure that any surveys or questionnaires I design adhere to ethical standards and data protection regulations, applying the knowledge gained to both my dissertation and future projects.
+This unit improved my understanding of designing effective questionnaires and selecting suitable research methods.  For my capstone project, I will ensure that any surveys or questionnaires I design adhere to ethical standards and data protection regulations, applying the knowledge gained to both my dissertation and future projects.
 
 <br><br>
 
