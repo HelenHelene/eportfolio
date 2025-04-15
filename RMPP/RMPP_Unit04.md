@@ -10,6 +10,7 @@
  - [Literature Review Outline Submission](RMPP_Unit04_Activity.md) 
 
 ### Reflections
+_(Word count: 99)_ <br>
 The case study on privacy enhanced my understanding of ethical dilemmas in research, highlighting the importance of principles like GDPR and Hong Kong’s PDPO in ensuring privacy and consent. This knowledge will guide me in applying ethical standards to my academic and professional work.
 
 For my literature review, I chose the topic "Financial Impact of Ransomware and Malware in Hong Kong." Following my tutor's feedback, I will simplify the structure into three sections: Introduction, Main Discussion, and Conclusion.
