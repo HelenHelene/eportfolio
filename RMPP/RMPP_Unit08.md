@@ -13,15 +13,12 @@
 
 
 ### Reflections
-This unit required the continuation of the Whizzz cereal case study in the collaborative discussion, which allowed us to further explore the balance between ethical concerns and business interests. I was encouraged to see that many peers shared a strong commitment to maintaining ethical professionalism. The discussions highlighted the importance of finding ways to protect our professions and uphold integrity, even when faced with commercial pressures. This reinforced my belief that fostering ethical standards in the workplace is essential for long-term success and trust.
+_(Word count: 110)_ <br>
+This unit involved continuing the Whizzz cereal case study in a collaborative discussion, exploring the balance between ethical concerns and business interests. It was encouraging to see many peers committed to ethical professionalism. The discussions underscored the importance of protecting integrity and fostering ethical standards for long-term success and trust.
 
+Completing the research proposal outline was challenging but rewarding. I had to choose a topic distinct from my Capstone project and Literature Review while ensuring it aligned with my research interests. This process helped refine my ideas and conduct a preliminary literature search.
 
-Completing the research proposal outline was a challenging but rewarding task. It required me to decide on a topic distinct from my Capstone project and Literature Review while ensuring relevance to my research interests. Although it was difficult to finalise the topic, the process of creating this outline helped me refine my ideas and conduct a preliminary thematic literature search.
-
-Fortunately, I discovered a substantial body of existing work on my chosen topic, which allowed me to explore it from a unique perspective. However, I realised that the topic lacked sufficient depth for a full Capstone project, so I eliminated it from my list of potential ideas. This decision enabled me to narrow my focus and prioritise more suitable topics for future research.
-
-The tutor’s feedback provided valuable guidance on structuring a research proposal and helped me improve my academic writing and citation practices. I now feel more confident about developing and presenting my research ideas effectively.
-
+The tutor’s feedback improved my academic writing, citation skills, and confidence in developing and presenting research ideas.
 
 <br><br>
 
