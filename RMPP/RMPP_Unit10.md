@@ -5,7 +5,7 @@
  - The ability to prepare myself for the demands of research writing, both academically and professionally.
 
 ### Artefacts 
-[Statistical Worksheet Submissions](RMPP_Unit10_Activity.md)
+ - [Statistical Worksheet Submissions](RMPP_Unit10_Activity.md)
 
 
 ### Reflections
