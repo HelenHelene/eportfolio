@@ -2,7 +2,7 @@
 
 ### Learning Outcomes
  - Select suitable charts and graphs to present findings clearly and effectively.
- - Identify the key components and functions of dashboards to extract meaningful insights.
+ - Understand the different types of analysis and how they may be useful for the data we have collected.
 
 ### Artefacts 
  - Collaborative Discussion 2 - Case Study on Accuracy of Information-Respond to peers: [Respond 1](RMPP_Unit08_Respond1.pdf) , [Respond 2](RMPP_Unit08_Respond2.pdf) & [Respond 3](RMPP_Unit08_Respond3.pdf)
