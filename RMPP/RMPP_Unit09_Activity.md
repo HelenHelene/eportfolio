@@ -20,6 +20,11 @@
 
 <br><br>
 
+### Reflections
+In the Charts Worksheet and Analysis exercise, as an accountant, creating and analysing charts is part of my daily responsibilities, so this task was straightforward for me. Nevertheless, I found it interesting to revisit the fundamentals and explore creative ways to present data. Charts remain an essential tool for effectively communicating information, and this exercise reminded me of their significance in both academic and professional contexts.
+
+<br><br>
+
 ---
 
 [Return to Module 7 Unit 9](RMPP_Unit09.md)
