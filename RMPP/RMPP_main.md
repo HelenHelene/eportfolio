@@ -7,7 +7,7 @@ There are three assignments in this module, as listed below:
 #### Assignment 1 _(🎓Pass with Distinction)_
 [Literature Review](RMPP_A1.md) <br>
 	
-#### Assignment 2 _(Work in progress)_
+#### Assignment 2 _(🎓Pass with Distinction)_
 [Research Proposal Presentation](RMPP_A2.md)
 
 #### Assignment 3: Individual ePortfolio _(Work in progress)_
