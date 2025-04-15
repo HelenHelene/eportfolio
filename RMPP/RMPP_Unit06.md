@@ -8,6 +8,7 @@
 There is no formative task in this unit.
 
 ### Reflections
+_(Word count: 23)_ <br>
 In this unit, we continue working on the literature review while also developing an understanding of Business Statistics concepts through the required readings.
 <br><br>
 
