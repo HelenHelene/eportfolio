@@ -12,6 +12,7 @@
  - [Seminar: Peer Review Activity](RMPP_Unit03_Seminar.md)
 
 ### Reflections
+_(Word count: 97)_ <br>
 The Collaborative Discussion on codes of ethics highlighted the importance of ethical considerations in research. I learned how frameworks like the ACM and BCS codes ensure professional integrity and research credibility.
 
 The Research Proposal Review clarified how to apply research methods to my topic, combining secondary data analysis with surveys for primary research. This mixed approach will enhance both the depth and reliability of my findings.
