@@ -13,11 +13,9 @@ Below are the ways to ensure my professional development:
 
 
 ## Reflections
-The matrix offers a clear framework for identifying the key competencies expected at Master’s level. For instance, it highlights my growing ability to construct well-structured arguments in both written and oral forms, as demonstrated by my presentations in the Software Engineering Project Management (SEPM) and Secure Software Development (SSD) modules. This insight has prompted me to incorporate additional experiences from my professional life, such as my background in data protection compliance and the drafting of company policies, to illustrate a broader range of skills.
+The matrix provides a clear framework for identifying key competencies at Master’s level. It highlights my growing ability to construct well-structured arguments, supported by positive feedback from my presentations in the SEPM, SSD, and RMPP modules.
 
-The SWOT analysis was particularly revealing in showing that I rely too heavily on bullet points in my assignments, indicating the need to develop deeper and more coherent academic writing. Consequently, I set out clear objectives in my Action Plan regarding qualitative research methods and structured narration. The plan itself underscores the value of incremental progress over attempting everything at once. As a practical step, I have scheduled online research methods workshops and allocated additional time to refine my paragraphs, as described in the Action Plan.
-
-Looking ahead, I plan to keep refining these skills, guided by the milestones in my Action Plan, so that my professional practice remains ethically sound and academically rigorous.
+The SWOT analysis revealed my reliance on bullet points in assignments, showing the need to improve my academic writing. To address this, I set clear objectives in my Action Plan, focusing on qualitative research methods and structured narration. As a practical step, I have allocated extra time to refine my paragraphs, aligning with the goals outlined in my Action Plan for improved academic coherence.
 
 <br><br>
 
