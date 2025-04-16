@@ -35,9 +35,9 @@ Wakefield, J. (November 26, 2015) Facebook quizzes: What happens to your data? _
 ---
 
 ## Reflections
-From the Cambridge Analytica case, I have learned that surveys may appear harmless on the surface, yet they can be exploited to gather sensitive and extensive personal data. This situation highlights the importance of transparency and informed consent: participants should understand exactly what data is being collected, how it will be used, and who may have access to it. By making sure participants are aware of any potential risks involved in sharing their information, I can help maintain public trust and uphold ethical standards.
+From the Cambridge Analytica case, I learned that seemingly harmless surveys can be exploited to gather sensitive personal data. This emphasises the importance of transparency and informed consent: participants should know exactly what data is collected, its purpose, and possible recipients. 
 
-Going forward, especially when creating surveys for my dissertation, I need to pay close attention to data protection guidelines (such as GDPR) and ethical research practices. This includes designing clear privacy notices, ensuring data is collected and stored securely, and limiting collection to data that is genuinely needed for my research questions. Moreover, I must communicate my research intentions clearly to survey respondents, while respecting their right to opt out or withdraw at any time. By following these principles, I can ensure that I conduct my research responsibly and safeguard the well-being of my participants.
+Moving forward, especially when developing surveys for my dissertation, I must comply with data protection guidelines (e.g., GDPR and PDPO) and ethical research protocols. That includes designing clear privacy notices, storing data securely, and limiting collection to what is genuinely required for my research objectives. Doing so helps assure participants and preserves the integrity of my work.
 
 <br><br>
 
