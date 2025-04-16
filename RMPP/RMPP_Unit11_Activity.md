@@ -15,7 +15,7 @@ Below are the ways to ensure my professional development:
 ## Reflections
 The matrix provides a clear framework for identifying key competencies at Master’s level. It highlights my growing ability to construct well-structured arguments, supported by positive feedback from my presentations in the SEPM, SSD, and RMPP modules.
 
-The SWOT analysis revealed my reliance on bullet points in assignments, showing the need to improve my academic writing. To address this, I set clear objectives in my Action Plan, focusing on qualitative research methods and structured narration. As a practical step, I have allocated extra time to refine my paragraphs, aligning with the goals outlined in my Action Plan for improved academic coherence.
+The SWOT analysis revealed my reliance on bullet points in assignments, showing the need to improve my academic writing. Moreover, I set clear objectives in my Action Plan, focusing on qualitative research methods and structured narration. As a practical step, I have allocated extra time to refine my paragraphs, aligning with the goals outlined in my Action Plan for improved academic coherence.
 
 <br><br>
 
