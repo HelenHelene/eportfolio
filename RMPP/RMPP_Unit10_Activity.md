@@ -23,9 +23,9 @@ Moreover, submit both analyses and the associated documentation as part of the f
 ---
 
 ## Reflections
-This submission, spanning Units 7 to 9, required us to progressively build our skills. In Unit 7, we practised following instructions and examples, then applied these skills to the exercises in Unit 8. Finally, we explored visualisation techniques further in Unit 9. All the pieces of work are to be submitted in Unit 10. Although the task is not graded, it is considered a compulsory e-portfolio activity.
+This submission covering Units 7 to 9, required us to progressively develop our skills. In Unit 7, we practised following instructions, applying these in Unit 8 exercises, and further exploring visualisation techniques in Unit 9, with all work to be submitted in Unit 10.
 
-The requirement to submit the work in Unit 10 ensures that we complete it on time, rather than leaving it until the last minute. I believe this is an effective way to train us to stay on schedule, which is a crucial skill in project management. If you develop a habit of postponing tasks—especially those that are formative, initial, or foundational for the next step—you risk delaying the entire project or disrupting the plan. This exercise has reinforced the importance of managing tasks efficiently and completing them promptly, even if they seem less important at the start.
+Beyond statistical skills, this series reinforced the importance of managing tasks efficiently and completing them promptly, even if they seem less important initially. Postponing tasks, especially formative or foundational ones, risks delaying the entire project or disrupting the plan. This process effectively trains us to stay on schedule, a crucial skill in project management.
 
 <br><br>
 
