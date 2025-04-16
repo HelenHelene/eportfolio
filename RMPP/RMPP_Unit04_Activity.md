@@ -71,7 +71,6 @@ HKCERT. (2024) Hong Kong Security Watch Report 2024 Q3. Available from: https://
 ## Reflections
 In completing this outline for the literature review on the financial impact of ransomware and malware in Hong Kong, I have developed a clearer understanding of how to begin a thematic literature search. I have also gained helpful advice from our tutor on how to improve my approach for the upcoming assignment. By conducting an initial search of thematic literature, I encountered the lively debate on whether to pay ransoms, which adds an intriguing angle to the review.
 
-Looking ahead, my next step will be to delve deeper into relevant case studies and empirical data, so that I can either validate or question existing evidence on financial costs, mitigation strategies, and policy implications. Ultimately, ensuring a meticulously structured, evidence-based review will be beneficial not only for scholarly research but also for informing practical, policy-focused decisions.
 <br><br>
 
 ---
