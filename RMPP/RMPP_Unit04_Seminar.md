@@ -92,11 +92,9 @@ European Union (EU) (2016) _Regulation (EU) 2016/679 of the European Parliament 
 
 
 ## Reflections
-This case study deepened my understanding of the delicate balance between supporting legitimate research purposes and safeguarding individuals’ personal data. By examining various roles, whether as a records clerk with limited authority or as a data controller with responsibility to determine access, I gained insight into how critical it is to establish clear procedures for granting or denying the release of identifiable information.
+This case study deepened my understanding of the delicate balance between supporting legitimate research aims and protecting personal data. I also grasped how data minimisation, transparency, and establishing a lawful basis for processing anchor the GDPR. Similar protections operate under Hong Kong’s Personal Data (Privacy) Ordinance (PDPO) (PCPD, 2022). Principles like informed consent and restricted data sharing ensure ethical, lawful handling of personal data, invaluable for any aspiring Data Protection Officer.
 
-I also learned about the significance of data minimisation, transparency, and aligning with an appropriate lawful basis for processing information, which are essential considerations under the GDPR framework. Although GDPR does not directly apply in Hong Kong, similar principles of privacy protection exist under the Personal Data (Privacy) Ordinance (PDPO) (PCPD, 2022). The emphasis on informed consent and restricted data sharing ensures that personal data is handled ethically and legally, which is invaluable practice for anyone aspiring to become a Data Protection Officer.
-
-From a career perspective, this case study reinforces the importance of vigilance, legislative awareness, and ethical sensitivity when dealing with personal data, skills that form the backbone of a competent Data Protection Officer in Hong Kong. By integrating these lessons into daily operations, one can uphold privacy rights and maintain public trust, even in fast-changing technological and regulatory environments.
+From a career perspective, these revelations underscore the need for vigilance, legislative awareness, and ethical sensitivity. Applying these lessons daily fosters privacy, maintains trust, and adapts practice to shifting legal frameworks.
 
 ### References
 Office of the Privacy Commissioner for Personal Data (PCPD) (2022) The Ordinance: Personal Data (Privacy) Ordinance (Cap. 486). Government of the Hong Kong Special Administrative Region. Available from: https://www.pcpd.org.hk/english/data_privacy_law/ordinance_at_a_Glance/ordinance.html [Accessed 2 March 2025].
