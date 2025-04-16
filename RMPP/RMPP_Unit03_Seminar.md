@@ -82,15 +82,9 @@ European Union Agency for Cybersecurity (ENISA). (2021). ENISA Threat Landscape 
 ---
 
 ## Reflections
-Through carrying out this assignment, I have developed a sharper awareness of how different research methods, economic modelling and legal-dogmatic analysis, can both enrich the state of knowledge on ransomware. I also learned how crucial it is to align research objectives with methodological tools: where a quantitative approach suits inquiries into pricing models and elasticities, while a legal-analytical method is ideal for understanding boundaries of law.
+Through carrying out this assignment, I have developed a sharper awareness of how different research methods, economic modelling, and legal-dogmatic analysis intersect. I also learned how crucial it is to align research objectives with the right methodological tools: a quantitative approach suits inquiries into pricing models and elasticities, while a legal-analytical method is ideal for examining the boundaries of law.
 
-I believe these insights will significantly benefit my upcoming literature review on “Financial Impact of Ransomware and Malware in Hong Kong” by informing me how to:
-
- - Assess existing literature for methodological rigour, ensuring I group studies by approach (e.g., legal, technical, economic).
- - Recognise that different perspectives (technical vs. economic vs. legal) complement one another, providing a comprehensive overview of ransomware’s impact.
- - Incorporate policy, accounting standards, and tax legislation into the discussion so that I capture the multifaceted nature of cybersecurity threats in Hong Kong and beyond.
-
-Overall, I am better prepared to critically evaluate how well a particular research strategy addresses a defined problem and to structure my future work with clearer methodological justification. This reflection encourages me to remain adaptive: I can adopt frameworks from both authors—economic modelling to examine cost-effectiveness of security measures, and legal and accounting reviews to see how regulations might shape cybercrime dynamics.
+I believe these insights will significantly benefit my upcoming literature review on “Financial Impact of Ransomware and Malware in Hong Kong,” guiding me to assess existing literature for methodological rigour and recognise that different perspectives can offer unique contributions.
 <br><br>
 
 ---
