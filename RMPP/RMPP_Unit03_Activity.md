@@ -55,7 +55,7 @@ Saunders, M., Lewis, P. & Thornhill, A. (2012) Research Methods for Business Stu
 ---
 
 ## Reflections
-Engaging in this Q&A exercise clarified the reasoning behind selecting appropriate research methods and data collection techniques for the upcoming research proposal. It highlighted how exploratory and descriptive research designs can complement each other, ensuring that the project thoroughly investigates both measurable financial losses and deeper, context-specific insights. In addition, the process underscored which skills—such as data analysis, survey design, and interview techniques—require development. Overall, this exercise provides a structured foundation, guiding decision-making on methodology, scope, and focus. 
+Engaging in this Q&A exercise clarified the reasoning behind selecting appropriate research methods and data collection techniques for the upcoming research proposal. The process underscored which skills, such as data analysis, survey design, and interview techniques are require development. Overall, this exercise provides a structured foundation, guiding decision-making on methodology, scope, and focus. 
 <br><br>
 
 ---
