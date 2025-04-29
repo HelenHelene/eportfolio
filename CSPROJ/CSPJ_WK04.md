@@ -16,7 +16,7 @@ You should show an understanding of the topic and demonstrate your knowledge usi
 
 
 ### Artefacts
- - [Literature Review](CSPJ_Literature.pdf)
+ - [Literature Review](CSPJ_WK04_Literature.pdf)
 
 
 <br><br>
