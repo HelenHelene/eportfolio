@@ -10,7 +10,7 @@ You should show an understanding of the topic and demonstrate your knowledge usi
 
 ### Submission guidance
  - You will not be assessed for this activity, but your supervisor will provide feedback on your submission to aid in your progress.
- - There is no strict word count for this assignment, but you should aim to be around 1-page of A4 where possible.
+ - There is no strict word count for this assignment, but you should aim to be **around 1-page of A4** where possible.
  - Referencing: when you have referred to other authors’ thoughts, ideas and opinions in your work you should reference using UoEO Harvard style.
  - Make sure you **email your supervisor** to make them aware of your submission.
 
