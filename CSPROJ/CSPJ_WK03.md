@@ -21,7 +21,7 @@ You should show an understanding of the topic and demonstrate your knowledge usi
 
 
 ### Artefacts
- - [Research Methods](CSPJ_Methodology.pdf)
+ - [Research Methods](CSPJ_WK03_Methodology.pdf)
 
 
 <br><br>
