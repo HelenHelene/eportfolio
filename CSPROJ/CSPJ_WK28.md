@@ -38,7 +38,7 @@ It is expected that some key aspects of the code would be in the dissertation wh
 Please refer to the Project Handbook (see Module Resources) for further guidance.
 
 
-### [Final Submission](CSPJ_FinalSubmission.pdf)
+### [Final Submission](CSPJ_Dissertation.pdf)
 _Weighting: 80% | Word Count: 13,000 Words_
 
 
