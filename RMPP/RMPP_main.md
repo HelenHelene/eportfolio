@@ -10,7 +10,7 @@ There are three assignments in this module, as listed below:
 #### Assignment 2 _(🎓Pass with Distinction)_
 [Research Proposal Presentation](RMPP_A2.md)
 
-#### Assignment 3: Individual ePortfolio _(Work in progress)_
+#### Assignment 3: Individual ePortfolio _(🎓Pass with Distinction)_
 [Reflective Piece](RMPP_A3.md)
 
 The units presented below serve as a compilation of evidence, showcasing the work accomplished in this module and documenting the learning journey.
