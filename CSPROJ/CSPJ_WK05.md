@@ -16,7 +16,7 @@ You should show an understanding of the topic and demonstrate your knowledge usi
  - Make sure you **email your supervisor** to make them aware of your submission.
 
 ### Artefacts
- - [Ethical Considerations](CSPJ_Ethical.pdf)
+ - [Ethical Considerations](CSPJ_WK05_Ethical.pdf)
 
 
 <br><br>
