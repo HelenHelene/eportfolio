@@ -13,7 +13,7 @@
 * [Module 5 Software Engineering Project Management](/SEPM/SEPM_main.md)
 * [Module 6 Secure Software Development](/SSD/SSD_main.md)
 * [Module 7 Research Methods and Professional Practice](/RMPP/RMPP_main.md)
-* [MSc Computing Project and Dissertation](/CSPROJ/CSPJ_main.md)
+* [MSc Computing Project](/CSPROJ/CSPJ_main.md)
 
 ---
 
