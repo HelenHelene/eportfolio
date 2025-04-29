@@ -10,7 +10,7 @@
 <br>
 
 #### Week 2: Project Planning and Risks
-[Outlining Your Project](CSPJ_WK02.md)
+[Outlining Your Project](CSPJ_WK01.md)
 <br>
 
 #### Week 3: Project Types and Research Methods
