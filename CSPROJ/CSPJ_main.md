@@ -1,7 +1,11 @@
 # MSc Computing Project April 2025
-
-<img src="CSPJ_Roadmap.jpg" alt="Roadmap" width="900"/>
 <br>
+
+<a href="https://helenhelene.github.io/eportfolio/CSPROJ/CSPJ_ProjectRoadmap.pdf">
+    <img src="CSPJ_Roadmap.jpg" width="900" alt="Roadmap">
+</a>
+<br><br>
+
 
 ## List of Formative Activities and Submissions
 
