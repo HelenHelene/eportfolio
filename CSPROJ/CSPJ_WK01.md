@@ -14,7 +14,7 @@ This should be a summary only and limited to **1 side of A4**.
 
 
 ### Artefacts
- - [Project Outline](CSPJ_Outline.pdf)
+ - [Project Outline](CSPJ_WK01_Outline.pdf)
 
 
 <br><br>
