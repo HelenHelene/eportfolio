@@ -42,6 +42,7 @@
 
 #### [Artefact Presentation](CSPJ_WK29.md)
 
+#### [Design your Data Strategy](https://helenhelene.github.io/DataStrategy/)
 <br>
 
 ---
